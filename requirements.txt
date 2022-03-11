@@ -5,7 +5,7 @@ black==22.1.0
 cchardet==2.1.7
 lxml==4.8.0
 more-itertools==8.12.0
-mypy==0.931
+mypy==0.940
 mypy-extensions==0.4.3
 pylint==2.12.2
 urlextract==1.5.0
