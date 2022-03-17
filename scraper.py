@@ -5,7 +5,6 @@ import asyncio
 import json
 import logging
 import re
-import socket
 from datetime import datetime
 
 import aiohttp
@@ -26,25 +25,6 @@ default_headers: dict = {
     "Cache-Control": "no-cache",
     "Accept": "*/*",
 }
-
-
-class KeepAliveClientRequest(aiohttp.client_reqrep.ClientRequest):
-    """Attempt to prevent `Response payload is not completed` error
-
-    https://github.com/aio-libs/aiohttp/issues/3904#issuecomment-759205696
-
-
-    """
-
-    async def send(self, conn):
-        """Send keep-alive TCP probes"""
-        sock = conn.protocol.transport.get_extra_info("socket")
-        sock.setsockopt(socket.SOL_SOCKET, socket.SO_KEEPALIVE, 1)
-        sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_KEEPIDLE, 60)
-        sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_KEEPINTVL, 2)
-        sock.setsockopt(socket.IPPROTO_TCP, socket.TCP_KEEPCNT, 5)
-
-        return await super().send(conn)
 
 
 async def backoff_delay_async(backoff_factor: float, number_of_retries_made: int) -> None:
@@ -106,7 +86,6 @@ async def get_async(
         connector=aiohttp.TCPConnector(limit=0, ttl_dns_cache=300),
         raise_for_status=True,
         timeout=aiohttp.ClientTimeout(total=300),
-        request_class=KeepAliveClientRequest,
     ) as session:
         # Only one instance of any duplicate endpoint will be used
         return await gather_with_concurrency(
@@ -202,7 +181,9 @@ async def extract_scam_urls() -> set[str]:
 
             # Download content of all feed URLs
             feed_contents = await get_async(feed_urls)
-
+            # Check content length of each page
+            for k, v in {k: len(v.decode()) for k, v in feed_contents.items()}.items():
+                logger.info("%s : %s", k, v)
             # Extract scam URLs
             urls = []
             a_data_auto_recognition_strainer = SoupStrainer("a", {"data-auto-recognition": True})
