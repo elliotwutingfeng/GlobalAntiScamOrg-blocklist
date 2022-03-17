@@ -180,10 +180,12 @@ async def extract_scam_urls() -> set[str]:
             feed_urls = [x.get("href", "") for x in get_recursively(script_content, "link")]
 
             # Download content of all feed URLs
-            feed_contents = await get_async(feed_urls)
-            # Check content length of each page
-            for k, v in {k: len(v.decode()) for k, v in feed_contents.items()}.items():
-                logger.info("%s : %s", k, v)
+            for _ in range(5):
+                feed_contents = await get_async(feed_urls)
+                # Check content length of each page
+                for k, v in {k: len(v.decode()) for k, v in feed_contents.items()}.items():
+                    logger.info("%s : %s", k, v)
+
             # Extract scam URLs
             urls = []
             a_data_auto_recognition_strainer = SoupStrainer("a", {"data-auto-recognition": True})
