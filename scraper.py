@@ -205,15 +205,12 @@ async def extract_scam_urls() -> set[str]:
 
             # Extract scam URLs
             urls = []
-            a_data_auto_recognition_strainer = SoupStrainer("a", {"data-auto-recognition": "true"})
+            a_data_auto_recognition_strainer = SoupStrainer("a", {"data-auto-recognition": True})
             for feed_content in feed_contents.values():
                 soup = BeautifulSoup(
                     feed_content, "lxml", parse_only=a_data_auto_recognition_strainer
                 )
-                urls += [
-                    extractor.find_urls(a.get_text(strip=True))
-                    for a in soup.find_all(lambda tag: tag.string is not None)
-                ]
+                urls += [extractor.find_urls(a.get("href", "")) for a in soup.find_all()]
             # Some lines may have multiple URLs or no valid URLs
             return set(clean_url(url) for url in flatten(urls))
         else:
@@ -225,7 +222,7 @@ async def extract_scam_urls() -> set[str]:
 
 
 if __name__ == "__main__":
-    urls: set[str] = asyncio.get_event_loop().run_until_complete(extract_scam_urls())
+    urls: set[str] = asyncio.run(extract_scam_urls())
     if urls:
         timestamp: str = current_datetime_str()
         filename = "global-anti-scam-org-scam-urls.txt"
