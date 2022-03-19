@@ -1,4 +1,4 @@
-"""Extracts scam URLs found at https://www.globalantiscam.org/list-of-scam-websites-and-links
+"""Extracts scam URLs found at https://www.globalantiscam.org/scam-websites
 and writes them to a .txt blocklist
 """
 import asyncio
@@ -166,7 +166,7 @@ async def extract_scam_urls() -> set[str]:
     """
     try:
         # main scam list page
-        endpoint: str = "https://www.globalantiscam.org/list-of-scam-websites-and-links"
+        endpoint: str = "https://www.globalantiscam.org/scam-websites"
         main_page = (await get_async([endpoint]))[endpoint]
 
         # Feed URLs are found in this <script> tag with id="wix-warmup-data"
