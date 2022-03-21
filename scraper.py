@@ -177,8 +177,6 @@ async def extract_scam_urls() -> set[str]:
         for _ in range(5):
             # Maximum 5 attempts
             main_page = (await get_async([endpoint]))[endpoint]
-            if main_page == b"{}":
-                continue
             soup = BeautifulSoup(main_page, "lxml", parse_only=script_wix_warmup_data_strainer)
             if script_tags := soup.find_all(lambda tag: tag.string is not None):
                 break
@@ -189,7 +187,7 @@ async def extract_scam_urls() -> set[str]:
             feed_urls = [x.get("href", "") for x in get_recursively(script_content, "link")]
 
             # Download content of all feed URLs
-            urls = []
+            urls: set[str] = set()
             for _ in range(10):
                 # multiple rounds needed as some pages don't load fully the first time
                 feed_contents = await get_async(feed_urls)
@@ -206,9 +204,11 @@ async def extract_scam_urls() -> set[str]:
                     soup = BeautifulSoup(
                         feed_content, "lxml", parse_only=a_data_auto_recognition_strainer
                     )
-                    urls += [extractor.find_urls(a.get("href", "")) for a in soup.find_all()]
+                    urls.update(
+                        flatten([extractor.find_urls(a.get("href", "")) for a in soup.find_all()])
+                    )
                 # Some lines may have multiple URLs or no valid URLs
-            return set(clean_url(url) for url in flatten(urls)) - set([""])
+            return set(clean_url(url) for url in urls) - set(("",))
         else:
             logger.error("'wix-warmup-data' not found!")
             return set()
