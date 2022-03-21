@@ -167,35 +167,43 @@ async def extract_scam_urls() -> set[str]:
     try:
         # main scam list page
         endpoint: str = "https://www.globalantiscam.org/scam-websites"
-        main_page = (await get_async([endpoint]))[endpoint]
 
         # Feed URLs are found in this <script> tag with id="wix-warmup-data"
         script_wix_warmup_data_strainer = SoupStrainer("script", id="wix-warmup-data")
 
-        soup = BeautifulSoup(main_page, "lxml", parse_only=script_wix_warmup_data_strainer)
+        for _ in range(5):
+            # Maximum 5 attempts
+            main_page = (await get_async([endpoint]))[endpoint]
+            soup = BeautifulSoup(main_page, "lxml", parse_only=script_wix_warmup_data_strainer)
+            if script_tags := soup.find_all(lambda tag: tag.string is not None):
+                break
 
-        if script_tags := soup.find_all(lambda tag: tag.string is not None):
+        if script_tags:
             # Extract all feed URLs
             script_content = json.loads(script_tags[0].get_text())
             feed_urls = [x.get("href", "") for x in get_recursively(script_content, "link")]
 
             # Download content of all feed URLs
-            for _ in range(5):
-                feed_contents = await get_async(feed_urls)
-                # Check content length of each page
-                for k, v in {k: len(v.decode()) for k, v in feed_contents.items()}.items():
-                    logger.info("%s : %s", k, v)
-
-            # Extract scam URLs
             urls = []
-            a_data_auto_recognition_strainer = SoupStrainer("a", {"data-auto-recognition": True})
-            for feed_content in feed_contents.values():
-                soup = BeautifulSoup(
-                    feed_content, "lxml", parse_only=a_data_auto_recognition_strainer
+            for _ in range(5):
+                # multiple rounds needed as some pages don't load fully the first time
+                feed_contents = await get_async(feed_urls)
+
+                # Check content length of each page
+                # for k, v in {k: len(v.decode()) for k, v in feed_contents.items()}.items():
+                #    logger.info("%s : %s", k, v)
+
+                # Extract scam URLs
+                a_data_auto_recognition_strainer = SoupStrainer(
+                    "a", {"data-auto-recognition": True}
                 )
-                urls += [extractor.find_urls(a.get("href", "")) for a in soup.find_all()]
-            # Some lines may have multiple URLs or no valid URLs
-            return set(clean_url(url) for url in flatten(urls))
+                for feed_content in feed_contents.values():
+                    soup = BeautifulSoup(
+                        feed_content, "lxml", parse_only=a_data_auto_recognition_strainer
+                    )
+                    urls += [extractor.find_urls(a.get("href", "")) for a in soup.find_all()]
+                # Some lines may have multiple URLs or no valid URLs
+            return set(clean_url(url) for url in flatten(urls)) - set([""])
         else:
             logger.error("'wix-warmup-data' not found!")
             return set()
