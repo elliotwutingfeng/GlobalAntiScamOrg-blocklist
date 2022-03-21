@@ -6,10 +6,12 @@ import json
 import logging
 import re
 from datetime import datetime
+from typing import Optional
 
 import aiohttp
 import cchardet  # type: ignore
 from bs4 import BeautifulSoup, SoupStrainer
+from bs4.element import ResultSet
 from more_itertools import flatten
 from urlextract import URLExtract
 
@@ -171,9 +173,12 @@ async def extract_scam_urls() -> set[str]:
         # Feed URLs are found in this <script> tag with id="wix-warmup-data"
         script_wix_warmup_data_strainer = SoupStrainer("script", id="wix-warmup-data")
 
+        script_tags: Optional[ResultSet] = None
         for _ in range(5):
             # Maximum 5 attempts
             main_page = (await get_async([endpoint]))[endpoint]
+            if main_page == b"{}":
+                continue
             soup = BeautifulSoup(main_page, "lxml", parse_only=script_wix_warmup_data_strainer)
             if script_tags := soup.find_all(lambda tag: tag.string is not None):
                 break
@@ -185,7 +190,7 @@ async def extract_scam_urls() -> set[str]:
 
             # Download content of all feed URLs
             urls = []
-            for _ in range(5):
+            for _ in range(10):
                 # multiple rounds needed as some pages don't load fully the first time
                 feed_contents = await get_async(feed_urls)
 
