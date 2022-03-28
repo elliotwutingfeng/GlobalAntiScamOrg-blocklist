@@ -1,7 +1,7 @@
 aiohttp==3.8.1
 bandit==1.7.4
 beautifulsoup4==4.10.0
-black==22.1.0
+black==22.3.0
 cchardet==2.1.7
 lxml==4.8.0
 more-itertools==8.12.0
