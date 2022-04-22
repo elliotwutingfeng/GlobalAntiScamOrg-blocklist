@@ -205,10 +205,11 @@ async def extract_scam_urls() -> set[str]:
                         feed_content, "lxml", parse_only=a_data_auto_recognition_strainer
                     )
                     urls.update(
-                        flatten([extractor.find_urls(a.get("href", "")) for a in soup.find_all()])
+                        flatten([extractor.find_urls(clean_url(a.get("href", "")))
+                                for a in soup.find_all()])
                     )
                 # Some lines may have multiple URLs or no valid URLs
-            return set(clean_url(url) for url in urls) - set(("",))
+            return urls - set(("",))
         else:
             logger.error("'wix-warmup-data' not found!")
             return set()
