@@ -227,6 +227,7 @@ app.6685pk.com/hqszA1
 app.88au8.com
 app.acdxcoin.site
 app.achaindn.bar
+app.bbxotc.org
 app.begonia.today
 app.bikbit.xyz
 app.bitforexmarket.com
@@ -256,7 +257,9 @@ app.jinniuios2.com
 app.jinniusuper.com
 app.jrafxo.com
 app.krakenpro.xyz
+app.lfmfund.com
 app.liacexs.com
+app.lightninglgg.com
 app.okex-global.xyz
 app.ripplebank.pro
 app.sa-platform.com
@@ -309,6 +312,7 @@ asia.goldemakt.com
 asia.goldexchangetw.com
 asia.pepperstone-twstone.com
 asosb.sosbexchangesafa.com
+asp.haiyuex.com
 assetcapitallimited.com
 associate-fx.net
 asx.global-trademax.net
@@ -372,6 +376,7 @@ bbc7799.net
 bbexeiy.com
 bbs.boss33.com/showthread.php?t=13615
 bbs.vog.media/index.php
+bbs2001.net
 bbt8.net
 bbtc.gold
 bcatw.cc
@@ -417,6 +422,7 @@ biglimited.net
 bigunclee.com
 biintro.com
 bik888.xyz
+bikachain.top
 bikcoin.xyz
 bikex.cloud
 bilaxy.cloud/wxapp
@@ -459,6 +465,7 @@ bitewangbox.com
 bitewangusr.com
 bitfinger.net
 bitfxtrades.live
+bitget.com.sg
 bitgetf.com
 bitgets.io
 bithumbgjcoltd.com
@@ -858,6 +865,7 @@ cryptobased.net
 cryptobrightsfx.com
 cryptobulls-ap.com
 cryptocars.me
+cryptocurrencybitcore.com
 cryptocurrencybtx.com/h5
 cryptodigitaloptions.com
 cryptofuture.us
@@ -987,6 +995,7 @@ defi-aavev3.info
 defi-ai.info
 defi-ai.pro
 defi-base.com
+defi-coin.cc
 defi-ctcs.com
 defi-eth.co
 defi-ethermine.com
@@ -1080,6 +1089,7 @@ docs.qoinpro.com
 dogwold.com
 dogwoldcoltd.com
 dolo.getexbux.com
+dolo.nsdaqex.com
 donners.cc
 donns.xyz
 dot-ex.vip
@@ -1131,6 +1141,7 @@ dxjmfx.com
 dxycf-fx.net
 dydx-a.com
 dydx-c.com
+dydx-eth.com
 dydx-nft.com
 dydx-s.com
 dynamicmedia.club
@@ -1206,6 +1217,7 @@ et6688betexplc.com
 etaloon.pw
 etcdefi79.xyz
 etftrade.info
+eth-1defi.com
 eth-ant.com
 eth-asic.org
 eth-banko.co
@@ -1238,6 +1250,7 @@ eth-dig.com
 eth-event.co
 eth-eventwil.com
 eth-fa.com
+eth-greenmining.net
 eth-hummingbot.com
 eth-lobsang.net
 eth-main.cc
@@ -1276,6 +1289,7 @@ eth-xt.com
 eth-xtt.com
 eth.iusdt.cc
 eth2-usdt.com
+eth2.0pool.cc
 eth4asia.com
 eth88.io
 eth8888.vip
@@ -1311,11 +1325,13 @@ ethereumdefi.net
 etherpro.top
 ethgo.app
 ethlever.com
+ethma.app
 ethmetamask.com
 ethmg.app
 ethmg.xyz
 ethminer.eu.com
 ethminingpools.com
+ethpood.com
 ethpools.me
 ethrefund.com
 ethsany.org
@@ -1476,6 +1492,7 @@ freedom-fin.com
 front.coinbaseincome.com
 frontrader.btcapital.me/User/Login?ReturnUrl=%2f
 fsdsglobal.ltd
+fsshop1.com
 ftd.uniteinvv.com
 ftt-eth.com
 fttrading.net
@@ -1702,6 +1719,7 @@ h5.hrtrafc.com
 h5.huilitrad.com/#
 h5.leverjsing.today
 h5.libra20.ai/#
+h5.longzhi160.com
 h5.loverhub.info
 h5.maxbe.cc/#/downloadapp
 h5.meetlove66.com
@@ -1765,6 +1783,7 @@ herculescapitaldavxyual.com
 herm9nt2fa-www.cov-aid.com
 hexiesolution.com
 heygotrade.com
+hfxfinac.com
 hgou1.com
 hht-deal.vip
 hi.com
@@ -1841,6 +1860,7 @@ hyhy.pj2nnas.xyz/app.php/MjMy
 hysdgwsuak.com
 hzcf06.com/mhzc
 hzvfo6.mmcoin8.com
+i-creditgo.com
 i-goda.com
 i.inv-finder.biz
 i88-line1.i88game.net/#/Main/Index
@@ -2015,6 +2035,7 @@ klgame.top
 klsecurities.net
 km1.kk00.tk
 kmanalysis.com
+kmaxbit.com
 koce.world
 kohlecapfx.com
 kok-chain.io
@@ -2207,6 +2228,7 @@ m.lamxpros.com/#/login
 m.magic-lamp.io
 m.max-exchange.org
 m.mexclubm.com
+m.missu.website
 m.monex-tws.cn.com
 m.my-binet.com
 m.nasdaq6.com
@@ -2330,6 +2352,7 @@ microstrategyl.com
 midcipro.com
 migelder.com
 mihashtradefx.net
+mikean.com
 mindstoneltd.com
 mindstonevip.com
 minebits.net
@@ -2565,6 +2588,7 @@ pinacle.cc/.
 pionmarkets.com
 pionprime.com
 pipsbullmarket.com
+pjci.xyz/down
 pkex-app.xyz
 plahk-fx.com
 plahk-fx.net
@@ -2799,6 +2823,9 @@ si.letec9.com
 sign.fangzhuangwang.vip/wqu728p7
 simaiart.com
 simex.global
+simexbox.com
+simexcen.com
+simexidn.com
 simpletrades.com
 simpoo.hk
 simriches.com
@@ -3043,6 +3070,7 @@ tronbillionaire.io
 tronewallet.com
 tronfunds.info
 tronkey.live
+truefimining.com
 truexcoin.com
 trustcloudmining.com
 trusttrad.club
@@ -3109,6 +3137,7 @@ uh-und.com
 uhotcoins.com
 uificbank.com
 uificforex.com
+uk5889.sz168168.com
 ukexapp.com
 ulinx.io
 uncleblockings.com
@@ -3155,6 +3184,7 @@ us.bscdhb.top
 us.dkfzdd.top
 us.sgusme.cn
 us.xylnsn.top
+usa.myrnnez.com
 usa.nftsaletw.com
 usa.vacaii.com
 usa.vacaoxt.com
@@ -3240,6 +3270,7 @@ venus-fx.com
 veritexfrost.com
 verse90.com
 vetifx.vetifx.net
+viabtc-svip.com
 viamarketsgo.co.uk
 vip.hanqzl.com
 vip.mercadolibre10.com/register.html
@@ -3251,6 +3282,7 @@ vital-trade.ltd
 vlop.iupkls.vip
 voaex.cc
 volo.finance
+voluum-training.com
 volyas.com
 vr1688.net
 vr61ln.coinbase23.xyz
@@ -3859,16 +3891,20 @@ www.bitpfex-global.com
 www.bitrcoin-pro.com
 www.bitsbear.com
 www.bitsftex.com
+www.bitsmexcin.net
 www.bitsmexclm.com
 www.bitsmexcln.com
 www.bitsosp.vip
 www.bitsovip.com
 www.bitsovp.com
+www.bitstamp-btc.com
 www.bitstampcoinwins.com
+www.bitstampnd.info
 www.bitterwalk.com
 www.bittoptions.com
 www.bittrex168.com
 www.bittrexllv.com
+www.bittrexx.co
 www.bittrxx.vip
 www.bitttrue.com
 www.bitvito-otc.com
@@ -4121,6 +4157,7 @@ www.coinasse3366.com
 www.coinavatra.xyz
 www.coinavatrapro.com
 www.coinbankvip.com
+www.coinbase-farmab.cc
 www.coinbase-otc.buzz
 www.coinbase-otc.club
 www.coinbaseacadex.com
@@ -4256,6 +4293,7 @@ www.ctoh5.com
 www.ctoweb68.com
 www.ctowebes.com
 www.ctreeint.com
+www.ctrlinvestmentwss.com/i
 www.cturkp.vip
 www.cubicwallet.com
 www.cubicwalletex.com
@@ -4295,6 +4333,7 @@ www.dcepglobaltop.com
 www.dcepglobalvip.com
 www.dcoinpro.net
 www.dcointd.com
+www.ddexco.com
 www.ddexs.vip
 www.ddfwwef.com
 www.ddmex.org
@@ -4771,6 +4810,7 @@ www.gou1788.com
 www.gowbp.vip
 www.gpvnznf.cn
 www.gpwtrad.com
+www.gqex6.com
 www.grafiexchange.com
 www.grayscale-mini.buzz
 www.grayscale-vip.buzz
@@ -4894,6 +4934,7 @@ www.hotcoinpro.vip
 www.hotcpro.vip
 www.hotforexax.com
 www.hotforexfor.com
+www.hps9999.com
 www.hqcjq123.com/bdeCX6
 www.hr6qa.fun
 www.hriinta.com
@@ -5057,6 +5098,7 @@ www.jscoptyltd.com
 www.jsfsjx.top
 www.jtl-global.com
 www.jtlglobal.com
+www.jubipod.com
 www.juhengtw.com
 www.jumperfx.xyz
 www.jyrfdwl.org
