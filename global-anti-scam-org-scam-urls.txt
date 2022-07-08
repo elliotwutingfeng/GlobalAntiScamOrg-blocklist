@@ -292,6 +292,7 @@ app.lfmfund.com
 app.lfmmkt.com
 app.lfmswap.com
 app.lfmsys.com
+app.liacexe.com
 app.liacexs.com
 app.lightninglgg.com
 app.okex-global.xyz
@@ -529,6 +530,7 @@ bit.ly/3pfGl9J
 bitazza.com
 bitcapitalfxtrades.com
 bitcoin-franchise.ltd
+bitcoin-trc.com
 bitcoinexpert.ltd
 bitcoinexperts.ltd
 bitcointransaction.net
@@ -548,6 +550,7 @@ bithumbgjcoltd.com
 bitkeep6688.com
 bitkeyep88.cc
 bitkonanage.com
+bitkonanlua.com
 bitkub.top
 bitmain.capital
 bitmartproart.com
@@ -903,6 +906,7 @@ coinnestegg.com
 coinnetglobal.pro
 coinnex-capital.com
 coinnmb.com
+coinpivots.com
 coinpryme.com
 coins-miner.com
 coins.tensbits.com
@@ -1093,6 +1097,7 @@ dappeth.info
 dapps-eth.net
 dapps-walletconnect.com
 dapps-walletconnect.net
+dappswebnode.com
 darv.moma.website
 dask99.com
 dassigroup.com
@@ -1285,6 +1290,7 @@ dux-holding.com
 dw.amazonshop.work
 dw.dazdsp.com
 dx.fareasttw.com
+dx.musstafa886.com
 dx.musstafatw.com
 dx.mustafatw.com
 dx.twmustafa.com
@@ -1526,6 +1532,7 @@ ethmetamask.com
 ethmg.app
 ethmg.com
 ethmg.xyz
+ethmh.app
 ethminer-defi.com
 ethminer.eu.com
 ethmining.cool
@@ -1544,6 +1551,7 @@ ethubw.com
 ethusdt.co
 ethusdt.eht.life
 ethvip.me
+ethworld.cc
 eto.cash
 etoro.zone
 etorotwo.com
@@ -1814,6 +1822,7 @@ geckocoinprofit.com
 geekshop.work
 geekshop.world
 geglinhk.com
+geminiamex.xyz
 geniuswealthaccess.net
 geodex.dzg112.cn
 germany2022.goldenmeta.top
@@ -2189,6 +2198,7 @@ iju888.net
 im.academy
 im.jinyun.io
 imcoinbase.xyz
+imcoinbaserd.com
 imcoinbasere.com
 img.coindater.com//download/download.html
 imipfshero.com
@@ -2315,6 +2325,7 @@ kabtw.net
 kale.com
 kalo-fx.com
 kam-kraem.com
+kam-kraemfx.com
 kangdab2c.com
 karen369.net
 karewold.com
@@ -3236,6 +3247,7 @@ shopwbo.com
 show-chain.net
 showtimepchome.com
 shrt-hk.com
+shuanq.com
 si.letec9.com
 sign.fangzhuangwang.vip/wqu728p7
 simaiart.com
@@ -3330,6 +3342,7 @@ steady3650.com
 stepup70.com
 stepup99.com
 stic2021.com
+stockstandardfx.com
 stonex9.com
 stunwill.com
 stxfilms.co
@@ -3473,6 +3486,7 @@ tokenminer.online
 tokenpockettrx.com/tron
 tolikeweb.com
 tomfxi.com
+ton-otc.com
 tongaminersfx.com
 topbest889.com
 topbitsoption.com
@@ -3608,6 +3622,7 @@ uetvhl.com
 uforce.digital
 uforce.studio
 uforce.website
+uforces-coin.net
 ufsinvestment.com
 uh-und.com
 uhotcoins.com
@@ -3639,6 +3654,7 @@ uniswap.fashion
 uniswap.llc
 uniswapv3-defi.com
 unite2.vip
+unitoken.xyz
 unitytrades.ltd
 universalearners.uk
 universalfxtradingservices.com
@@ -3667,6 +3683,7 @@ us.bscdhb.top
 us.dkfzdd.top
 us.sgusme.cn
 us.xylnsn.top
+us.zyomxn.top
 usa.myrnnez.com
 usa.nftsaletw.com
 usa.vacaii.com
@@ -3872,6 +3889,7 @@ web.anodaaa.com
 web.arranos.com
 web.asproplus.net
 web.avecoins.com
+web.besttoken.vip
 web.bicc66.com
 web.blttet.cc
 web.cctk51.com
@@ -4278,6 +4296,7 @@ www.becexgbl.com
 www.bedbrook.net
 www.beeexweb.com
 www.belebey.com
+www.bella-defipromax.xyz
 www.belovedate.com
 www.bensonweb68.com
 www.bereaninvestment.com
@@ -4513,6 +4532,7 @@ www.boersefrankglb.com
 www.bogbop.com
 www.bogep.vip
 www.boggs.vip
+www.bohua-exchange.com
 www.bolomarket.com
 www.bomwinbit.net
 www.boniryweb.com
@@ -4718,6 +4738,7 @@ www.cnchel.com
 www.cnex.uk
 www.cnexap.vip
 www.cnflexp.com
+www.cnzooms.vip
 www.coagesp.vip
 www.cobase8.xyz
 www.cobo666.com/download-en.aspx
@@ -4743,6 +4764,7 @@ www.coinbaseacadex.com
 www.coinbaseacador.cc/h5
 www.coinbasebw1.com
 www.coinbasec.xyz
+www.coinbasedefi.club
 www.coinbasedefi.com
 www.coinbasedefi.io/eth
 www.coinbasedefi.vip
@@ -4801,6 +4823,7 @@ www.coinminingvip.top/h5
 www.coinms.vip
 www.coinmx.vip
 www.coinnbadefi.com
+www.coinonebit.com
 www.coinonels.com
 www.coinoneus.com
 www.coinonevip.com
@@ -4865,6 +4888,7 @@ www.cryptocurrencycoinminers.com
 www.cryptonbuy.com
 www.cryptooex.co
 www.cryptorocketfxtrade.com
+www.cryptosmartlife.com
 www.cryptosolution.trade
 www.cryptousdtem.com
 www.csbnm.com/barings
@@ -5402,6 +5426,7 @@ www.globalcapitalaps.com
 www.globallaus.com
 www.globallcoin.com
 www.globalltoken.com
+www.globalltokenvip.com
 www.globallw.com
 www.globallxxx.com
 www.globalpaymentsex.com
@@ -5545,6 +5570,7 @@ www.hkaisfx.com
 www.hkbite.com
 www.hkbizzan.com
 www.hkcoex.com
+www.hkdbsuper.com
 www.hkdcoines.com
 www.hkex.fun
 www.hkexful.com
@@ -6229,6 +6255,7 @@ www.pionex.com
 www.piscescoin.net
 www.pishbbaxc.live
 www.pitbears.vip
+www.pizzanft.ai
 www.pkex6.com
 www.pkexce.com
 www.pkexss.vip
@@ -6485,6 +6512,7 @@ www.soniccloud.tech
 www.sosy8.com
 www.spe29.com
 www.special-zone.cc/app
+www.spgweb01.com
 www.sport656.com
 www.spp65.com
 www.springbithour.com
@@ -6538,6 +6566,7 @@ www.svj889.com
 www.svji191.com
 www.svji192.com
 www.svji193.com
+www.svjj101.com
 www.svjj99.com
 www.svjjn168.com
 www.swc2628.com
