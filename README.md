@@ -15,7 +15,11 @@ The URLs in this blocklist are compiled by the **Global Anti Scam Organization**
 **Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with the Global Anti Scam Organization._
 
 ## Blocklist download
-You may download the blocklist [here](global-anti-scam-org-scam-urls.txt?raw=1)
+
+| File | Download |
+|:-:|:-:|
+| global-anti-scam-org-scam-urls.txt | [:floppy_disk:](global-anti-scam-org-scam-urls.txt?raw=true) |
+| global-anti-scam-org-scam-urls-ABP.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-ABP.txt?raw=true) |
 
 ## Requirements
 
