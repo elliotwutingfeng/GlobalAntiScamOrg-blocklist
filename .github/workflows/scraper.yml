@@ -25,6 +25,10 @@ jobs:
             - name: execute py script # run scraper.py to get the latest data
               run: python scraper.py
 
+            - name: create ABP list
+              run: |
+                  sed 's/^/\|\|/;s/$/\$all/' global-anti-scam-org-scam-urls.txt > global-anti-scam-org-scam-urls-ABP.txt
+
             - name: commit files
               run: |
                   git config --local user.email "action@github.com"
