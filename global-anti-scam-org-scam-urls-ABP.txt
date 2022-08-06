@@ -159,6 +159,7 @@
 ||aimoneygo.com$all
 ||aiqhf.co$all
 ||air666.homles.city$all
+||airways-courier.com$all
 ||airwaysdeliverycompany.com$all
 ||aizhiluo.com/noFPX1$all
 ||akbnkinvestor.com$all
@@ -229,6 +230,7 @@
 ||ap-ex.club$all
 ||ap1.asi-tw.com$all
 ||apexbanksonline.com$all
+||apexcryptovtn.com$all
 ||apexxoptions.com$all
 ||apgo88.com$all
 ||api.giceth.xyz$all
@@ -631,6 +633,7 @@
 ||defi-mining.cc$all
 ||defi-plan.net$all
 ||defi-trx.co$all
+||defi-usdc.link/r/14679823$all
 ||defi-usdt-1.net$all
 ||defi-usdt-1.online$all
 ||defi-usdt-1.xyz$all
@@ -712,6 +715,7 @@
 ||directedgecen.com$all
 ||directedgeep.com/h5$all
 ||directedgevte.com$all
+||directedgevtn.com$all
 ||directedgewim.com$all
 ||directrader.com$all
 ||disb.vip$all
@@ -1273,6 +1277,7 @@
 ||fxcm-test.com$all
 ||fxcmexp.top$all
 ||fxcmpro.cc$all
+||fxcmpro26.cc/h5$all
 ||fxcmtw889.com$all
 ||fxcmy.com$all
 ||fxcointrade.uk$all
@@ -2097,6 +2102,7 @@
 ||m.tmgn-fx.com$all
 ||m.tradeplus.com$all
 ||m.tyc166888.com$all
+||m.ukex.me$all
 ||m.unlimtedgold.cc$all
 ||m.unlimtedgold.com$all
 ||m.vcex.io$all
@@ -2286,6 +2292,7 @@
 ||mwhcapitals.com$all
 ||mwhcp.com$all
 ||mwhfx.com$all
+||mwhmkt.com$all
 ||mwhsec.com$all
 ||mwlkd.amcorc.com$all
 ||mxc.encrypt-trc.com$all
@@ -3788,6 +3795,7 @@
 ||www.c67.kjxyabdcva.xyz/app.php/MzMw$all
 ||www.cackna.com$all
 ||www.cang-ltd.com$all
+||www.canggs.com$all
 ||www.capitaltungate.com$all
 ||www.cc8g8.com/rk/room11$all
 ||www.cesmin.net$all
@@ -3933,6 +3941,7 @@
 ||www.downloadcg.com/etber$all
 ||www.downloadcg.com/etf68$all
 ||www.downloadcg.com/hkex$all
+||www.downloadmql5.com/qyonlyhssmt5.html$all
 ||www.dpom-global.com/h5#$all
 ||www.drcfx.com$all
 ||www.dsco.tw$all
@@ -4504,6 +4513,7 @@
 ||www.honompor.com$all
 ||www.honorchange.com$all
 ||www.hopelover.com$all
+||www.hopeshpybay.com$all
 ||www.hopfist.com$all
 ||www.hopfist.info$all
 ||www.hopfista.com$all
@@ -4950,6 +4960,7 @@
 ||www.ml-accenture.com$all
 ||www.mlit.top$all
 ||www.mm-5.com$all
+||www.mnvid.com$all
 ||www.mogafx.com$all
 ||www.mokfxm.com$all
 ||www.mommkn.org$all
@@ -4995,6 +5006,7 @@
 ||www.myrtlestradekio.cc$all
 ||www.myrtlestradepoe.com$all
 ||www.myrtlestradepro.com$all
+||www.mystorywithyou.com$all
 ||www.mywpfex.com$all
 ||www.nadexg.com$all
 ||www.nagap.vip$all
@@ -5640,6 +5652,7 @@
 ||www.tslonlineclass.com$all
 ||www.tsmarket.co$all
 ||www.tsmarkets.co$all
+||www.tsxotc.com/h5$all
 ||www.ttcopp.com$all
 ||www.tuf-markets.com$all
 ||www.tusde.xyz$all
@@ -5765,6 +5778,7 @@
 ||www.vtbit.com$all
 ||www.vux-tw.site$all
 ||www.vvshops.com/h5/index.html#/pages/user$all
+||www.walletcoinss.com$all
 ||www.walletcoinsse.com$all
 ||www.wansenfx.com$all
 ||www.wbgtd.com$all
@@ -5840,6 +5854,7 @@
 ||www.xtbinvest.com$all
 ||www.xtcoiwap.com$all
 ||www.xtrade.tw$all
+||www.xtradingx.com$all
 ||www.xucoin.net$all
 ||www.yafitexchange.com$all
 ||www.ybgap.vip$all
@@ -6034,3 +6049,4 @@
 ||zwiahbgd.site$all
 ||zxgfx.com$all
 ||zy1928.com$all
+||zzz.v3gzi.cc$all
