@@ -147,6 +147,7 @@
 ||aegis-capital.co$all
 ||aetosszonetes.com$all
 ||aexft.com$all
+||aexplus.com$all
 ||aeyujmhx.gjtyzs.cn/index.php/login$all
 ||afashin.com$all
 ||affluent-investments.com$all
@@ -283,6 +284,7 @@
 ||app.liacexe.com$all
 ||app.liacexs.com$all
 ||app.lightninglgg.com$all
+||app.ogcwallet.com$all
 ||app.okex-global.xyz$all
 ||app.ripplebank.pro$all
 ||app.sa-platform.com$all
@@ -300,6 +302,7 @@
 ||app.wishebs.com$all
 ||app.wkvok.org$all
 ||app.wpalaces.com/#/pages/login/login$all
+||app.xencapitall.com$all
 ||app.zuonianli.com$all
 ||appdd.me/index/polite/index_trc.html?agent=10333$all
 ||apple.ntbgy.com/?str=abr0911l6j$all
@@ -447,6 +450,7 @@
 ||boy8899.tw-gra.one$all
 ||bq.nyjqamb.cn$all
 ||brickmex.com$all
+||bs.whuyshop.com$all
 ||bsc-dataseed1.ninicoin.io$all
 ||bscck.com$all
 ||bschh.com$all
@@ -524,6 +528,7 @@
 ||coreteam.oecdf.com$all
 ||cos.eagspyr.cn$all
 ||cpiait.com$all
+||cqjmsmbr.xyz/app$all
 ||credit.ytfff.space$all
 ||crm.asjfx.co$all
 ||crm.asjfx.com$all
@@ -603,6 +608,7 @@
 ||dapp-eth.today$all
 ||dapp-eth.vip$all
 ||dapp.coinbaseigg.cc$all
+||dapp.tokenpools-chz.com$all
 ||dapps-eth.net$all
 ||dapps-walletconnect.com$all
 ||dapps-walletconnect.net$all
@@ -699,6 +705,7 @@
 ||depever.com$all
 ||deplve.com$all
 ||der-bit.com$all
+||deribit-e.net$all
 ||deribit-in.xyz$all
 ||deversifi.shop$all
 ||dex-cex.pro$all
@@ -1251,6 +1258,7 @@
 ||fsdsglobal.ltd$all
 ||fsshop1.com$all
 ||ftd.uniteinvv.com$all
+||fterx.com$all
 ||ftt-eth.com$all
 ||fttrading.net$all
 ||ftxah.com$all
@@ -1343,6 +1351,7 @@
 ||gasilo.pw$all
 ||gateio.bctc.ink$all
 ||gatenline.com$all
+||gates.buzz/app$all
 ||gateswr.net$all
 ||gb.silvercresthk.com$all
 ||gbk234.com$all
@@ -1452,6 +1461,7 @@
 ||gray.asia$all
 ||gray.io$all
 ||greatoffryouneed.org/mmdtdg/?qze=2&hitid=85817171za4tl996&aff_sub5$all
+||greenenergytrade.top$all
 ||greengoinvestment.com$all
 ||gromfxtrade.com$all
 ||groupdao.io$all
@@ -1462,6 +1472,7 @@
 ||gs3x.xyz$all
 ||gs5528.com$all
 ||gslnd2.gs5518.com$all
+||gsmfx.net$all
 ||gsziben.net$all
 ||gtiglobalfxmkt.com$all
 ||gtiglobalpty.com$all
@@ -1824,6 +1835,7 @@
 ||joomo5k9d-www.cureoffer.com$all
 ||jp.exnesss.net/h5$all
 ||jpccar380.com$all
+||jpex-vip.net$all
 ||jslinkglobal.com$all
 ||jsy-fortex.com$all
 ||junelimited.com$all
@@ -2379,6 +2391,7 @@
 ||nasdao.cc$all
 ||nasdqdubai.com$all
 ||nat-s.co$all
+||naxcomexchangeinc.com$all
 ||ncgforex.com$all
 ||nctol.com$all
 ||nekroncoin.xyz$all
@@ -2521,6 +2534,7 @@
 ||pc.uvs123.com$all
 ||pc.xtcrypto.vip$all
 ||pccwell.com$all
+||pchome.salehome.vip$all
 ||pchomegiveback.com$all
 ||pchomegivemeback.com$all
 ||pcicoin.com$all
@@ -3036,6 +3050,7 @@
 ||tgs.monexgroups.com$all
 ||tgs.sbi.tw$all
 ||th.ww168.top$all
+||tha-sc.com$all
 ||thaiprofits.net$all
 ||thcjx.pro$all
 ||thebestgra.com/#/login$all
@@ -3079,6 +3094,7 @@
 ||tolikeweb.com$all
 ||tomfxi.com$all
 ||ton-otc.com$all
+||toncoinpool.io$all
 ||tongaminersfx.com$all
 ||top-vt.com$all
 ||topbest889.com$all
@@ -3114,6 +3130,7 @@
 ||traden.xyz$all
 ||trader-connect-app.net$all
 ||trader.ansfx.net$all
+||trader.answfx.com$all
 ||trader.egmforex.vip$all
 ||trader.eightprime-fx.com$all
 ||trader.eternalwealthfx.com/login$all
@@ -3322,6 +3339,7 @@
 ||usdt-mining.cc$all
 ||usdt-minning-dapp.com$all
 ||usdt-pos.life$all
+||usdt-pos.xyz$all
 ||usdt-xyz.com$all
 ||usdt.coinbaseday.com$all
 ||usdtdapp.com$all
@@ -3479,6 +3497,7 @@
 ||warlockmarket.com$all
 ||waterccfex.net$all
 ||watercfx.net$all
+||wavefxcapital.com$all
 ||waw.6wmd3n.cn$all
 ||wbb.hsuvsa.com$all
 ||wbb.huizitn.com$all
@@ -4060,10 +4079,12 @@
 ||www.dpom-global.com/h5#$all
 ||www.drcfx.com$all
 ||www.dsco.tw$all
+||www.dscoinex.site$all
 ||www.dscorp.co$all
 ||www.dsdgfb.cn$all
 ||www.dtkdbd.com$all
 ||www.dtrich88.com$all
+||www.duxhgfx.com$all
 ||www.duxmarkets.com$all
 ||www.dwystudio.com$all
 ||www.dxdex.net$all
@@ -4550,6 +4571,7 @@
 ||www.gxhkcf.com$all
 ||www.h5.ubcoins.net$all
 ||www.haccoins.com$all
+||www.haiwaiquanqiugou.com.tw$all
 ||www.haldefi.com$all
 ||www.halleydragon.com$all
 ||www.handavip.top$all
@@ -5164,6 +5186,8 @@
 ||www.neptunexchange.com$all
 ||www.net89.pro$all
 ||www.netinteligence.org$all
+||www.nettoshoping.com$all
+||www.nettoshoping.net$all
 ||www.nettoshops.com$all
 ||www.new-area.net$all
 ||www.new-area.site$all
@@ -6157,6 +6181,7 @@
 ||yashengforex.com$all
 ||yeekex.cc$all
 ||yh.zz-y.net$all
+||yibuodnie.shop$all
 ||yilimt5.com$all
 ||yilimt5fx.com$all
 ||yilutongsos.com/api/v1/home/ad/app$all
