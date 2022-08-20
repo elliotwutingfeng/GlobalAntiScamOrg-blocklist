@@ -1100,6 +1100,7 @@
 ||eurb.cmtt8.com$all
 ||eurexs.net$all
 ||eurmax-tw.top$all
+||eusm.io$all
 ||everrichltd.com$all
 ||evfxgroup.com$all
 ||evonex-holdings.com$all
@@ -1795,6 +1796,7 @@
 ||iprimecapital.com$all
 ||iptbank.com$all
 ||ipx.ipxmall.tw$all
+||iqbroker.com$all
 ||iqbrokersfx.com$all
 ||ir-litefinance.com$all
 ||irc.jkace.net$all
@@ -2352,6 +2354,7 @@
 ||mtdfx.com$all
 ||mtradeplus.com$all
 ||mttds.shop$all
+||multichain-invest.com$all
 ||murongfx.com$all
 ||muskeidejskr.org$all
 ||mvp011.ngc999.net$all
@@ -2437,6 +2440,7 @@
 ||nuralxpressdelivery.com$all
 ||nvea.xyz$all
 ||nvpro.club$all
+||nymexfis.com$all
 ||nyse888.com$all
 ||nysells.com$all
 ||nyseplatform.com$all
@@ -3034,6 +3038,7 @@
 ||testflight.tfdc.top/MToken.html$all
 ||testflight.tfdc.top/Unocoin.html$all
 ||testflight.tfdc.top/forex.html$all
+||tether-bot.life$all
 ||tether-defi.net$all
 ||tether-hgl.co$all
 ||tether-usdt.org$all
@@ -3349,6 +3354,7 @@
 ||usdtlonim.com$all
 ||usdtmining.online$all
 ||usdtpools.com$all
+||usdtpos.net$all
 ||usdtpro.vip$all
 ||usdtvip.com$all
 ||usdtysook.com$all
@@ -3397,6 +3403,7 @@
 ||veluxcorporationlimited.com$all
 ||venture-seed.com$all
 ||venus-fx.com$all
+||veracity.ucmot.com$all
 ||veritexfrost.com$all
 ||verse90.com$all
 ||vertforex.com$all
@@ -3409,6 +3416,7 @@
 ||viamarketsgo.co.uk$all
 ||vibeth-vvip.com$all
 ||vicoinpro.com$all
+||victoriadk.com$all
 ||vientianefin.com$all
 ||vig-investments.com$all
 ||vinessltd.com$all
@@ -3616,6 +3624,7 @@
 ||ww25.ob93.com$all
 ||ww25.u-i-group.com$all
 ||ww25.zebpayex.com$all
+||ww38.momoeexx.com$all
 ||ww4.glenber.com$all
 ||ww5.richnessep.com$all
 ||ww7.ivoryoption.com$all
@@ -4594,6 +4603,7 @@
 ||www.hcextd.com$all
 ||www.hcoinline.com$all
 ||www.hcoinweb.com$all
+||www.hecocoin.com$all
 ||www.heduckpsn666.xyz$all
 ||www.heinvest.top$all
 ||www.hekamenltd.com$all
@@ -4983,6 +4993,7 @@
 ||www.lightwavtw.net$all
 ||www.likevip99.com/Public/login$all
 ||www.limittw.com$all
+||www.limittw128.com$all
 ||www.line01.vip$all
 ||www.linkedar.com$all
 ||www.linktradefx.com$all
@@ -5076,6 +5087,7 @@
 ||www.mercadolibrm.com$all
 ||www.merrillfortw.cc$all
 ||www.merycl.com$all
+||www.messson.com$all
 ||www.metabtcup.com$all
 ||www.metachains.co$all
 ||www.metaex.bet$all
@@ -5188,6 +5200,7 @@
 ||www.nettoshoping.com$all
 ||www.nettoshoping.net$all
 ||www.nettoshops.com$all
+||www.nettoshopss.com$all
 ||www.new-area.net$all
 ||www.new-area.site$all
 ||www.newdeap.vip$all
@@ -5636,6 +5649,7 @@
 ||www.starbotsfx.com$all
 ||www.starfishs.vip$all
 ||www.starhonorasia.com$all
+||www.starhonortw.com$all
 ||www.starnetwork.io$all
 ||www.starrtrade.com$all
 ||www.starryluck.online$all
@@ -5950,6 +5964,7 @@
 ||www.voyagerauq.com$all
 ||www.voyagerfy.com/#$all
 ||www.voyawa.com$all
+||www.vozfqjc.top$all
 ||www.vpmarkets.com$all
 ||www.vrtwt.cn//down/NDA=$all
 ||www.vrtwt.cn//down/NTE=$all
@@ -5974,6 +5989,7 @@
 ||www.wecionbase.com$all
 ||www.wecoinsbase.com$all
 ||www.wegetw.com$all
+||www.wellcion.com$all
 ||www.wellfu.org$all
 ||www.weneco.io$all
 ||www.wenmeigroup.com$all
