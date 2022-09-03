@@ -98,8 +98,10 @@
 ||www.aavedefi.org$all
 ||www.aavedefimax.com$all
 ||www.aaveeth.ink$all
+||www.aavemarket-pro.com$all
 ||www.aaveprox.com$all
 ||www.aavespro.com$all
+||www.aax-exchange.org$all
 ||www.aaxpro.net$all
 ||www.aaxvipa.com/#$all
 ||www.abackbt.com/index/login/login.html$all
@@ -232,6 +234,7 @@
 ||www.athena-forex.com$all
 ||www.athenafort.com$all
 ||www.athenaforx.com$all
+||www.athenahk.com$all
 ||www.athenaplacevip.com$all
 ||www.atuoloan.com$all
 ||www.auchelos.vip$all
@@ -281,6 +284,7 @@
 ||www.bitinsbeex.com$all
 ||www.bitlbxpro.com$all
 ||www.bitmic888.com$all
+||www.bjkx2012.xyz$all
 ||www.bjkx3675.com$all
 ||www.bkejgvl.cn$all
 ||www.block3229.com/index/login/login/token/36fc5c1a04$all
@@ -329,6 +333,7 @@
 ||www.coinbaseacador.cc/h5$all
 ||www.coinbasedefi.club$all
 ||www.coinbasedefi.vip$all
+||www.coinbasedefi.work$all
 ||www.coinbases.green$all
 ||www.coincusp.vip$all
 ||www.coinm.cc$all
@@ -774,6 +779,7 @@
 ||www.fxatlantic.net$all
 ||www.fxbitcoinhub.com$all
 ||www.fxbitsrade.com$all
+||www.fxcap88.com$all
 ||www.fxcapitalex.com$all
 ||www.fxcii.com$all
 ||www.fxcm001.top$all
@@ -992,6 +998,7 @@
 ||www.hcextd.com$all
 ||www.hcoinline.com$all
 ||www.hcoinweb.com$all
+||www.hecocoin-hb.com/h5$all
 ||www.hecocoin.com$all
 ||www.heduckpsn666.xyz$all
 ||www.heinvest.top$all
@@ -1020,6 +1027,7 @@
 ||www.hifly92093.top$all
 ||www.highlevel4dc.com$all
 ||www.hioxex.com$all
+||www.hirebitcoinbountyhunters.com$all
 ||www.hitbtc168.com$all
 ||www.hjhdcv.life$all
 ||www.hjuae.com$all
@@ -1177,6 +1185,7 @@
 ||www.infmarkets.com$all
 ||www.infoatfx.com$all
 ||www.infocoinnetwork.com$all
+||www.infocoinsnetwork.com$all
 ||www.inintels.com$all
 ||www.inktech.live$all
 ||www.inpcmarket.com$all
@@ -1303,6 +1312,7 @@
 ||www.kin1668.com$all
 ||www.kinepro.vip$all
 ||www.kineproap.vip$all
+||www.kineproea.vip$all
 ||www.kinepros.vip$all
 ||www.kineptc.vip$all
 ||www.kirainu.com$all
@@ -1342,6 +1352,7 @@
 ||www.kucointw.com$all
 ||www.kuswap.top$all
 ||www.kutoken.io$all
+||www.kyy333.xyz/app$all
 ||www.kyzg.top/home/Index/index$all
 ||www.lakeh5.com$all
 ||www.lakeweb68.com$all
@@ -1367,6 +1378,7 @@
 ||www.lctpglobal.com$all
 ||www.lctpinte.com$all
 ||www.lctpue.com$all
+||www.leadwaytrust.com$all
 ||www.learntotrade.co.uk$all
 ||www.ledgerxpro.com$all
 ||www.leemile.com/index.php?m=Wap$all
@@ -1442,6 +1454,7 @@
 ||www.mailiex.com$all
 ||www.mailiexchange.com/wap$all
 ||www.majestyhash.com$all
+||www.mall-ebay.com$all
 ||www.manapool-eth.me$all
 ||www.manulifess.com$all
 ||www.manulifevip.com$all
@@ -1512,6 +1525,7 @@
 ||www.mexplus.club$all
 ||www.mf002.com$all
 ||www.mfcclub.com$all
+||www.mfei120.com$all
 ||www.mfei235.com$all
 ||www.mfei77.com$all
 ||www.mfei79.com$all
@@ -1825,6 +1839,7 @@
 ||www.prosmarkets.com$all
 ||www.prosperoglobal.net$all
 ||www.prosperomarkets.com$all
+||www.prosperous.vip$all
 ||www.prospers.business$all
 ||www.protrade.cc$all
 ||www.protron.app$all
@@ -1839,6 +1854,7 @@
 ||www.q56826.com/rk/vip8$all
 ||www.qbctex.com$all
 ||www.qclindex.com$all
+||www.qevhdchh.com$all
 ||www.qfii68.com$all
 ||www.qfii77.com$all
 ||www.qfii78.com$all
@@ -1957,6 +1973,7 @@
 ||www.schoolbtctw.net$all
 ||www.schoolbtctw.org$all
 ||www.schoolbtctw.site$all
+||www.schoolethtw.top$all
 ||www.scone998.top$all
 ||www.scopemaket.com$all
 ||www.sd-ag-ex.com$all
@@ -2088,6 +2105,7 @@
 ||www.stepup77.com$all
 ||www.stepup80.com$all
 ||www.stexcap.net$all
+||www.stgamem.com$all
 ||www.stonextw.com$all
 ||www.stplfx.net$all
 ||www.studybt199.com$all
@@ -2103,6 +2121,7 @@
 ||www.super-emas.com$all
 ||www.super210420.com$all
 ||www.supercapitalfx.com$all
+||www.supercos.vip/download$all
 ||www.superpradelimip.com/index.php$all
 ||www.superstep.io$all
 ||www.surveycake.com$all
@@ -2293,6 +2312,7 @@
 ||www.twlines.com/forex$all
 ||www.twlines.com/mtoken$all
 ||www.twlovet.com$all
+||www.twshopee.top$all
 ||www.txcoinn.com$all
 ||www.tysonex.com$all
 ||www.tysonfx.com$all
@@ -2330,6 +2350,7 @@
 ||www.ukftrading.com$all
 ||www.ulei-max.com$all
 ||www.uleiproex.com$all
+||www.ulianpro.net$all
 ||www.umetaswap.com$all
 ||www.uni-base.io$all
 ||www.unijy.com$all
@@ -2363,6 +2384,7 @@
 ||www.usgfx.asia$all
 ||www.usorrir.com$all
 ||www.usvaciu.com/#$all
+||www.uswglobals.com$all
 ||www.uswlimited.com$all
 ||www.utipadm.com$all
 ||www.utiping.com$all
@@ -2461,6 +2483,7 @@
 ||www.wollcion.com$all
 ||www.worcoin.net$all
 ||www.work4bit.top$all
+||www.worldxtrad.com$all
 ||www.wqddl.xyz$all
 ||www.wrxstfx.com$all
 ||www.wutong31.com$all
@@ -2553,6 +2576,7 @@
 ||www.zbap.vip$all
 ||www.zbavabadw.xyz$all
 ||www.zbg.com$all
+||www.zbgaep.vip$all
 ||www.zbgapp.net$all
 ||www.zbgpra.com$all
 ||www.zbgrlm.com$all
