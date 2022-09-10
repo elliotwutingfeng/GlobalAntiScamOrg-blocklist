@@ -96,6 +96,7 @@
 ||www.aavamaxdefi.com$all
 ||www.aavapro-defi.com$all
 ||www.aave-defimax.com$all
+||www.aave-finance.xyz$all
 ||www.aavedefi-pro.com$all
 ||www.aavedefi.live$all
 ||www.aavedefi.org$all
@@ -1432,6 +1433,7 @@
 ||www.lmaxau.com$all
 ||www.lmaxfortw.com$all
 ||www.lmbtrad.com$all
+||www.lme.show$all
 ||www.lnfexoption.com$all
 ||www.loan-tw.org$all
 ||www.logiia.com$all
@@ -1532,6 +1534,7 @@
 ||www.metatwgo.com$all
 ||www.metatwgo.net$all
 ||www.metatwgo.site$all
+||www.metaverse-financepro.com$all
 ||www.metechain.io$all
 ||www.metechains.co$all
 ||www.metro-logistics.com$all
@@ -1660,6 +1663,7 @@
 ||www.ng3999.com$all
 ||www.nico.exchange$all
 ||www.nintendotw.vip$all
+||www.nirvanaencrypt.com$all
 ||www.nixse.com$all
 ||www.nncos.vip/download.aspx$all
 ||www.nodieex.net$all
@@ -2187,6 +2191,7 @@
 ||www.tatoex.com$all
 ||www.tauruss.top$all
 ||www.tbit.space$all
+||www.tbitpp.vip$all
 ||www.tblgame.com$all
 ||www.tcexweb68.com$all
 ||www.tdfxt.com$all
