@@ -119,6 +119,7 @@
 ||www.achains.vip$all
 ||www.achais.top$all
 ||www.aci-vpfx.com$all
+||www.acruxexit.com$all
 ||www.activtrades.com$all
 ||www.activtrades.com/tw/metatrader-5-platform$all
 ||www.activtradestwa.com$all
@@ -517,6 +518,7 @@
 ||www.ebay-uk.top$all
 ||www.ebcbitex.com$all
 ||www.ebcfinanaitw.com$all
+||www.ebcfinanatws.com$all
 ||www.ebcxex.com$all
 ||www.ebhtop.com$all
 ||www.ebpexn.com$all
@@ -1155,6 +1157,7 @@
 ||www.iceuki.com$all
 ||www.icmarkets-tw.com$all
 ||www.icmarketstw.com$all
+||www.iconcapitalmarket.com$all
 ||www.ictf.cc$all
 ||www.idealkind.site$all
 ||www.idealkinder.net$all
@@ -1653,7 +1656,9 @@
 ||www.nasdaq65.com$all
 ||www.nasdaqwincoin.com$all
 ||www.ncbcc.xyz$all
+||www.nctexcoin.com$all
 ||www.nctexgl.com$all
+||www.nctexs.com$all
 ||www.ne88.net/index.aspx$all
 ||www.necex.pro$all
 ||www.neefx.com$all
@@ -1838,7 +1843,7 @@
 ||www.pkxepro.xyz$all
 ||www.plasmaoracleglobal.com$all
 ||www.platinumtradingg.com$all
-||www.plcapitals.co/www.plcapital.co$all
+||www.plcapitals.co/,www.plcapital.co$all
 ||www.plcgcapital.com$all
 ||www.plcgex.com$all
 ||www.plcgexchange.com$all
@@ -2001,6 +2006,8 @@
 ||www.saexz.vip$all
 ||www.safdfhsaw.xyz$all
 ||www.safemoretrx.cc$all
+||www.safepalas.com$all
+||www.safepalrl.com$all
 ||www.safety613.xyz$all
 ||www.safir.com$all
 ||www.samecd.com$all
@@ -2022,7 +2029,7 @@
 ||www.sc-thb.com$all
 ||www.scbstd.com$all
 ||www.sccdinfo.com$all
-||www.scdgs.com/avatrade.live/www.avatraderal.com$all
+||www.scdgs.com/avatrade.live/,www.avatraderal.com$all
 ||www.schoolbtctw.net$all
 ||www.schoolbtctw.org$all
 ||www.schoolbtctw.site$all
@@ -2037,6 +2044,7 @@
 ||www.sdiedge.site$all
 ||www.sdy88861.com$all
 ||www.sdy9994.com$all
+||www.sea1gpcfd.com$all
 ||www.seabreeze.vip$all
 ||www.seagull-crypto.com$all
 ||www.seapurchase.com$all
@@ -2054,6 +2062,7 @@
 ||www.seventrad.com$all
 ||www.sfhhhs.com$all
 ||www.sfnppro.com$all
+||www.sfpalex.com$all
 ||www.sftxxe.com$all
 ||www.sfundasia2022.com$all
 ||www.sgdcep.com$all
@@ -2099,6 +2108,7 @@
 ||www.skyfinancegp.com$all
 ||www.skyfx.tw$all
 ||www.skylinetrades.us$all
+||www.slyde.im$all
 ||www.smalluniverse.live$all
 ||www.smartinu.cloud$all
 ||www.snapexs.vip$all
@@ -2351,6 +2361,7 @@
 ||www.trww1.com$all
 ||www.trx.house$all
 ||www.trxcloud.cc$all
+||www.trxpools.info$all
 ||www.trxusd.xyz$all
 ||www.ts5555.net$all
 ||www.tslonlineclass.com$all
