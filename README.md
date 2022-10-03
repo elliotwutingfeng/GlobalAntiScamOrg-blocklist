@@ -6,7 +6,7 @@
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
 [![scraper](https://img.shields.io/github/workflow/status/elliotwutingfeng/GlobalAntiScamOrg-blocklist/scraper?label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/actions/workflows/scraper.yml)
-<img src="https://img.shields.io/tokei/lines/github/elliotwutingfeng/GlobalAntiScamOrg-blocklist?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
+<img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/GlobalAntiScamOrg-blocklist?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
 
 Machine-readable `.txt` blocklist of scam URLs from the [Global Anti Scam Organization](https://www.globalantiscam.org) website, updated once a day.
 
@@ -23,7 +23,7 @@ The URLs in this blocklist are compiled by the **Global Anti Scam Organization**
 
 ## Requirements
 
--   Python >= 3.9.10
+-   Python >= 3.10.6
 
 ## Setup instructions
 
