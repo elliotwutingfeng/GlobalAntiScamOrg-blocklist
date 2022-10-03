@@ -197,15 +197,22 @@ async def extract_scam_urls() -> set[str]:
                 #    logger.info("%s : %s", k, v)
 
                 # Extract scam URLs
-                a_data_auto_recognition_strainer = SoupStrainer(
-                    "a", {"data-auto-recognition": True}
+                span_level1_strainer = SoupStrainer(
+                    "span", {"class": "color_30"}
                 )
-                for feed_content in feed_contents.values():
+                span_level2_strainer = SoupStrainer(
+                    "span", {"style": "letter-spacing:normal;"}
+                )
+                for url, feed_content in feed_contents.items():
                     soup = BeautifulSoup(
-                        feed_content, "lxml", parse_only=a_data_auto_recognition_strainer
+                    feed_content, "lxml", parse_only=span_level1_strainer
+                    )
+                    soup = BeautifulSoup(
+                    "".join(str(x) for x in soup.find_all()), "lxml", parse_only=span_level2_strainer
                     )
                     urls.update(
-                        flatten([extractor.find_urls(clean_url(a.get("href", "")))
+                        url.strip("./") for url in
+                        flatten([extractor.find_urls(clean_url("".join(str(x) for x in a.contents)))
                                 for a in soup.find_all()])
                     )
                 # Some lines may have multiple URLs or no valid URLs
