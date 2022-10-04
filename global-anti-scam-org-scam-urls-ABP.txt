@@ -24,6 +24,7 @@
 ||154.213.18.187:84$all
 ||155276.com$all
 ||15degerfx.com$all
+||1664876965000.mt5pr.shop$all
 ||1672211.com$all
 ||16888.2kh2k.cn$all
 ||17-play01.com$all
@@ -654,6 +655,7 @@
 ||app.whitewhale.money$all
 ||app.wishebs.com$all
 ||app.wkbok.com$all
+||app.wkiok.com$all
 ||app.wknok.com$all
 ||app.wkvok.com$all
 ||app.wkvok.org$all
@@ -1373,6 +1375,7 @@
 ||defi-plan.net$all
 ||defi-sushi.com$all
 ||defi-trx.co$all
+||defi-u2e.net$all
 ||defi-usdc.link/r/14679823$all
 ||defi-usdt-1.net$all
 ||defi-usdt-1.online$all
@@ -1416,6 +1419,7 @@
 ||defiiis.com$all
 ||defiing.net$all
 ||defikepler.com$all
+||defimaster.finance$all
 ||defimining-eth.vip$all
 ||defimoney.info$all
 ||defined-resources.co$all
@@ -2531,6 +2535,7 @@
 ||flcb.io$all
 ||flchzc.pro$all
 ||flirtmeetday.com$all
+||flixzone.live$all
 ||flokifx.net$all
 ||flossfx.com$all
 ||fls77.xyz/pc_index.html$all
@@ -3825,6 +3830,7 @@
 ||imtoken-usdt.life$all
 ||imtoken-xx.com$all
 ||imtoken.actor$all
+||imtokenbe.com$all
 ||imtokeni.icu$all
 ||imtokentrade.com$all
 ||imtokoe.com$all
@@ -4910,6 +4916,7 @@
 ||mex-group.top$all
 ||mexcdex.com$all
 ||mexcdextw.com$all
+||mexcdl.vip$all
 ||mexcoi.vip$all
 ||mexcoin.top$all
 ||mexcss.vip$all
@@ -5282,6 +5289,7 @@
 ||nordfxss.vip$all
 ||normancapitalgroup.com$all
 ||norwest.thegoodd.com$all
+||novatechfx.com$all
 ||novatradeshub.com$all
 ||nrctoken.com$all
 ||nsttw.birdies.top$all
@@ -5290,6 +5298,7 @@
 ||ntscenter.net$all
 ||ntstradingrobot.com$all
 ||ntucapital.com$all
+||nudre2.com/h6awg$all
 ||numheart.com$all
 ||nuoya.dxzrs.com$all
 ||nuralxpressdelivery.com$all
@@ -5689,6 +5698,7 @@
 ||pp.kasnses.com$all
 ||pp.kasnsnss.com$all
 ||pp.progyy.com$all
+||ppbbmp.vip$all
 ||pr-bit.com$all
 ||praiser.me$all
 ||prcbroker.vip$all
@@ -5721,6 +5731,7 @@
 ||proexchangetw.xyz/h5$all
 ||proexchangeu.xyz$all
 ||profession-vt.com$all
+||profit-365.com$all
 ||profit-forexsignals.com$all
 ||profitabletradingllc.com$all
 ||profitarysolventbank.com$all
@@ -5805,6 +5816,7 @@
 ||qoo10888.com$all
 ||qoopw.xyz:9777$all
 ||qpbapp.com$all
+||qptrx.com$all
 ||qq9.cool$all
 ||qqwxe.org$all
 ||qqwxi.org/3kaK.html$all
@@ -6077,6 +6089,7 @@
 ||schoolbtctw.org$all
 ||schoolbtctw.site$all
 ||schoolethtw.top$all
+||schroders2016.com$all
 ||sciner.vip$all
 ||scmqh.cn/apps/index/e8201be6d4e55e37$all
 ||scoin-ip.com$all
