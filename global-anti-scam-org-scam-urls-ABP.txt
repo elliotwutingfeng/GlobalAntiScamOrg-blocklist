@@ -190,6 +190,7 @@
 ||Imcyp.com$all
 ||Nirvana.finigm.com$all
 ||RHONECOIN.com$all
+||Rawkchain.com$all
 ||StudyBT199.com$all
 ||V1.ratex8.com$all
 ||a-thenafx.com$all
@@ -2064,6 +2065,7 @@
 ||eth-defiusdt.vip$all
 ||eth-dhtt.com$all
 ||eth-dig.com$all
+||eth-doft.cc$all
 ||eth-eoss.com$all
 ||eth-event.co$all
 ||eth-eventwil.com$all
@@ -4286,6 +4288,7 @@
 ||kxsw2018.xyz$all
 ||kxyimiao.top/mobile$all
 ||kxym1669.com/mobile$all
+||kybitap.vip$all
 ||kyy333.xyz/app$all
 ||kyzg.top/home/Index/index$all
 ||l-max-fxoc.com$all
@@ -4462,6 +4465,7 @@
 ||llc-exclusiv.com$all
 ||llc-exclusiv.tw$all
 ||llxjmb.top$all
+||lmax-ex.com$all
 ||lmaxau.com$all
 ||lmaxfortw.com$all
 ||lmb9999.com$all
@@ -4587,6 +4591,8 @@
 ||m.geekshop.cloud$all
 ||m.genting16.com/home$all
 ||m.genting18.com$all
+||m.gexcoin.co$all
+||m.gexcoin.io$all
 ||m.goldplus.plus$all
 ||m.graysale.vip$all
 ||m.grayscalesk.com$all
@@ -4801,6 +4807,7 @@
 ||mbtcpro.com$all
 ||mbtit.com$all
 ||mbtit.site$all
+||mbtit.xyz$all
 ||mc.exchange$all
 ||mcdex.app$all
 ||mcex-global.info$all
@@ -4973,6 +4980,8 @@
 ||mining-doge.com$all
 ||mining-good.com$all
 ||mining-pool.cc$all
+||mining33.com$all
+||mining46.com$all
 ||mining55.pool1sba.info$all
 ||miningblockfarm.com$all
 ||miningeth-usdt.com$all
@@ -6499,6 +6508,7 @@
 ||stepup77.com$all
 ||stepup80.com$all
 ||stepup99.com$all
+||sterlingtrustfinance.com$all
 ||stexcap.net$all
 ||stgamem.com$all
 ||stic2021.com$all
@@ -7102,6 +7112,7 @@
 ||twcoin.xyz$all
 ||twcxtrade.com$all
 ||twdcep.com$all
+||tweToro568.com$all
 ||twensogoshop.shop$all
 ||twitterfollow.net$all
 ||twlines.com/MHEx$all
@@ -7220,6 +7231,7 @@
 ||uni-defis.com$all
 ||uni-defis.life$all
 ||uni-eth.com$all
+||uniclyz.io$all
 ||unicornbtc.com$all
 ||unicredtonline.com$all
 ||unidefi.info$all
@@ -7421,6 +7433,7 @@
 ||v.ncs-tw.vip$all
 ||v.tb5lp8om.com$all
 ||v01v.top:12345/1ef797cb$all
+||v1.aipool.plus$all
 ||v1.dapx9.com$all
 ||v1776.us$all
 ||v345.cc/22981$all
@@ -7462,6 +7475,7 @@
 ||viabtc-defi.com$all
 ||viabtc-svip.com$all
 ||viabtc-vip.com$all
+||viabtc-wbtc.com$all
 ||viamarketsgo.co.uk$all
 ||vibeth-vvip.com$all
 ||vicoinpro.com$all
@@ -7845,6 +7859,7 @@
 ||wwfos.vip$all
 ||wwfss.top$all
 ||wwgx2.wexfc.com$all
+||wwmarket-asia.com$all
 ||www-ig.cjzqls.com$all
 ||www1.initaltrades.com$all
 ||wwwy.sdpyion.com$all
