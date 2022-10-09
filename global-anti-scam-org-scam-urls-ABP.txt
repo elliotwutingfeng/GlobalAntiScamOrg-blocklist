@@ -1332,6 +1332,7 @@
 ||dd.zaoboshi.vip$all
 ||ddaap.me$all
 ||ddbcar.com$all
+||ddcion.org$all
 ||ddcoin.me/dist/#$all
 ||ddexco.com$all
 ||ddexio.com$all
@@ -2199,6 +2200,7 @@
 ||ethdigipools.site$all
 ||ethdt.org$all
 ||ethdt.top$all
+||ethe.top$all
 ||ethe.win$all
 ||ether-defi.vip$all
 ||etherapp.net$all
@@ -2818,6 +2820,7 @@
 ||fxdigital.ltd$all
 ||fxexperttrade.com$all
 ||fxglobe.io$all
+||fxgoldcoin.com$all
 ||fxicmarkets.com$all
 ||fxkovneraa.com$all
 ||fxkovnerab.com$all
@@ -3088,6 +3091,7 @@
 ||gmiedge.com$all
 ||gmiglo.com$all
 ||gmimkt.com$all
+||gmnfutures.com$all
 ||gmo.giceth.xyz$all
 ||gmp06.com$all
 ||gmpad168.com$all
@@ -3645,6 +3649,7 @@
 ||hotforexax.com$all
 ||hotforexfor.com$all
 ||hotline-1.s8998.net/findagent$all
+||hotsignalfx.com$all
 ||hps9999.com$all
 ||hpybay.com$all
 ||hqcjq123.com/bdeCX6$all
@@ -3830,6 +3835,7 @@
 ||im.academy$all
 ||im.jinyun.io$all
 ||imccq.com$all
+||imcoinbase.com$all
 ||imcoinbase.xyz$all
 ||imcoinbaserd.com$all
 ||imcoinbasere.com$all
@@ -3965,6 +3971,7 @@
 ||iqcinfor.com$all
 ||iqoption.com$all
 ||iqoption.tw$all
+||iqoptioninvestfx.com$all
 ||ir-litefinance.com$all
 ||irbreakerl666.xyz$all
 ||irc.jkace.net$all
@@ -4550,6 +4557,7 @@
 ||lunboux.com$all
 ||lunbouxfx.com$all
 ||lundbergs.cs-bit.com$all
+||lunoo.vip$all
 ||lunotrade.buzz$all
 ||luxkey.net$all
 ||luzx.xyz/down$all
@@ -4891,6 +4899,7 @@
 ||mercadolibref8.com$all
 ||mercadolibrm.com$all
 ||mercadonacional888.com$all
+||merchantratecoins.com$all
 ||meritbinary.net$all
 ||merrilledgefinance.com$all
 ||merrillfortw.cc$all
@@ -5537,6 +5546,7 @@
 ||oxisfxpro.com$all
 ||oxt-eth.com$all
 ||oxtcoin.com$all
+||oyster777.top$all
 ||oztw.xyz$all
 ||ozzoco.xyz$all
 ||p-poloniex.com/Redcoin$all
@@ -5735,6 +5745,8 @@
 ||pr-bit.com$all
 ||praiser.me$all
 ||prcbroker.vip$all
+||pregcapitals.com$all
+||premiercoinfxplc.com$all
 ||premiumexchange.net$all
 ||premiumwealthltd.com$all
 ||pricegdt365.net$all
