@@ -619,6 +619,7 @@
 ||coinpotex.com$all
 ||coinrecovery.org$all
 ||coinstart.vip$all
+||cointmb.com$all
 ||cointrxc.xyz$all
 ||coinwines.com$all
 ||cokr.cc$all
@@ -1145,6 +1146,7 @@
 ||dolo.exnsdaq.com$all
 ||dolo.nsdaqex.com$all
 ||dolo.nsexdaq.com$all
+||dolo.xensaqd.com$all
 ||domicoin.cc$all
 ||doncoin7.com$all
 ||dongarfex.com$all
@@ -1388,6 +1390,7 @@
 ||elitefxoption.com$all
 ||elitefxtradingsignals.com$all
 ||elitetradeoptions.com$all
+||elizcryptofx.com$all
 ||ellandroadcapital.com$all
 ||ellisandburlington.com$all
 ||elonbullfx.com$all
@@ -1443,6 +1446,7 @@
 ||erlfx.com$all
 ||ertbtcbank.com$all
 ||esandapp.com$all
+||escoprime.io$all
 ||escrow-chain.com$all
 ||esdxcf.com$all
 ||esegro.com$all
@@ -1696,6 +1700,7 @@
 ||ethereum-m.com$all
 ||ethereum-mining.net$all
 ||ethereum-mining.pro$all
+||ethereum-shping.com$all
 ||ethereum-tkn.com$all
 ||ethereum-usdt.org$all
 ||ethereum-v2.net$all
@@ -1798,6 +1803,7 @@
 ||etsyshow.com$all
 ||ettorotrading.com$all
 ||etwcoin.com$all
+||etxaustc.top$all
 ||etxcapitaltw.com$all
 ||eu.excentral.com$all
 ||euexpro.com$all
@@ -1991,6 +1997,7 @@
 ||fervidbrokers.com$all
 ||fetchmltd.com$all
 ||feulluxtrade.com$all
+||fewatrade.com$all
 ||fexglobal.com.au$all
 ||fexglobarf.com$all
 ||fexgoo.com$all
@@ -3115,6 +3122,7 @@
 ||h5.ubsinc.live$all
 ||h5.ubsnet.life$all
 ||h5.unicefcicr.club$all
+||h5.unicefcicr.today$all
 ||h5.unicefinc.club$all
 ||h5.unicefnew.life$all
 ||h5.unicefnew.me$all
@@ -4234,6 +4242,7 @@
 ||liquidity-miningtop.com$all
 ||liquidityswap.vip$all
 ||liquity-defi.xyz$all
+||liquity-market.xyz$all
 ||liquityp.xyz$all
 ||lisk-coin.com$all
 ||listeredge.com$all
@@ -4307,6 +4316,7 @@
 ||londontradesltd.com$all
 ||loofmeet.com$all
 ||losslessmint.org$all
+||lostbutfoundrefund.com$all
 ||lottomax.vip$all
 ||loughborough.vip$all
 ||loun.io$all
@@ -4387,6 +4397,7 @@
 ||m.foprye.com$all
 ||m.forexlivetw.cn.com$all
 ||m.forexlv.xyz$all
+||m.foundrypro.net$all
 ||m.ftmbitex.com$all
 ||m.fxaxiory.com$all
 ||m.fxcm-cg.com$all
@@ -4444,6 +4455,7 @@
 ||m.oneshop.tw$all
 ||m.ookvip.com$all
 ||m.pangaea-global.com$all
+||m.paxpro.vip$all
 ||m.plasmaoracleglobal.com$all
 ||m.plasmaoracleglobals.com$all
 ||m.pooltether.com$all
@@ -4623,6 +4635,7 @@
 ||mcdex.app$all
 ||mcex-global.info$all
 ||mcexcoin.com$all
+||mcexgbs.vip$all
 ||mcexpro.com$all
 ||mcfgm.com$all
 ||mchtmlh1.com$all
@@ -4684,6 +4697,7 @@
 ||member.lvpro.io$all
 ||member.royaltgs.com$all
 ||member.royaltgs.net$all
+||member.royaltgs.vip$all
 ||memofxinvstment.com$all
 ||memxjt.live$all
 ||mendooza.com$all
@@ -5514,6 +5528,7 @@
 ||oxisfxpro.com$all
 ||oxt-eth.com$all
 ||oxtcoin.com$all
+||oyster666.top$all
 ||oyster777.top$all
 ||ozrks.com$all
 ||oztw.xyz$all
@@ -5918,6 +5933,7 @@
 ||quantifytw.com$all
 ||quantitative.com.tw$all
 ||quantitativea.com$all
+||quantitativebot.com$all
 ||quantitativedata.xyz$all
 ||quantitativetw.net$all
 ||quantumcoinconnect.online$all
@@ -5944,8 +5960,11 @@
 ||radianlcd.com$all
 ||radianoption.com$all
 ||raimexchange.com$all
+||rainbow-hkfx.com$all
 ||rainbowhkfx.com$all
 ||rainbowplatforms.com$all
+||rakutenetopd.com$all
+||rakutenext.com$all
 ||rambletoken.com$all
 ||ramines.biz$all
 ||rapextrade.com$all
@@ -6569,6 +6588,7 @@
 ||trade.ircatital-tw.com$all
 ||trade.kijmoop.com$all
 ||trade.lem-tw.com$all
+||trade.lon-coins.com$all
 ||trade.poiads.com$all
 ||trade.xtrade.net$all
 ||trade108.com$all
@@ -6580,6 +6600,7 @@
 ||trade71461.xyz$all
 ||trade75980.xyz$all
 ||trade8.kadenx.com$all
+||trade8.wayteciysoe.com$all
 ||trade93220.xyz$all
 ||tradeasist.ltd$all
 ||tradeassetsmarket.com$all
@@ -6699,6 +6720,7 @@
 ||trial-coin.net$all
 ||tristergroup.com$all
 ||triumphfx.com$all
+||tron-mine.net$all
 ||tron.bileyi.cc$all
 ||tron.defiguid.com$all
 ||tron.lgbt$all
