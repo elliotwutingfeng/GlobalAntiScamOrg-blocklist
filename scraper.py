@@ -10,6 +10,7 @@ from typing import Optional
 
 import aiohttp
 import cchardet  # type: ignore
+import tldextract
 from bs4 import BeautifulSoup, SoupStrainer
 from bs4.element import ResultSet
 from more_itertools import flatten
@@ -233,5 +234,19 @@ if __name__ == "__main__":
         with open(filename, "w") as f:
             f.writelines("\n".join(sorted(urls)))
             logger.info("%d URLs written to %s at %s", len(urls), filename, timestamp)
+
+        pihole_urls: set[str] = set()
+        for url in urls:
+            res = tldextract.extract(url)
+            if res.fqdn:
+                pihole_urls.add(res.fqdn)
+            else:
+                logger.info("Rejected: %s", url)
+
+        pihole_timestamp: str = current_datetime_str()
+        pihole_filename = "global-anti-scam-org-scam-urls-pihole.txt"
+        with open(pihole_filename, "w") as f:
+            f.writelines("\n".join(sorted(pihole_urls)))
+            logger.info("%d URLs written to %s at %s", len(pihole_urls), pihole_filename, pihole_timestamp)
     else:
         raise ValueError("Failed to scrape URLs")

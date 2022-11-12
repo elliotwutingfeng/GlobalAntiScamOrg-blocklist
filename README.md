@@ -20,10 +20,11 @@ The URLs in this blocklist are compiled by the **Global Anti Scam Organization**
 |:-:|:-:|
 | global-anti-scam-org-scam-urls.txt | [:floppy_disk:](global-anti-scam-org-scam-urls.txt?raw=true) |
 | global-anti-scam-org-scam-urls-ABP.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-ABP.txt?raw=true) |
+| global-anti-scam-org-scam-urls-pihole.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-pihole.txt?raw=true) |
 
 ## Requirements
 
--   Python >= 3.10.6
+-   Python >= 3.11
 
 ## Setup instructions
 
