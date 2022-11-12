@@ -10,6 +10,7 @@ from typing import Optional
 
 import aiohttp
 import cchardet  # type: ignore
+import tldextract
 from bs4 import BeautifulSoup, SoupStrainer
 from bs4.element import ResultSet
 from more_itertools import flatten
@@ -188,7 +189,7 @@ async def extract_scam_urls() -> set[str]:
 
             # Download content of all feed URLs
             urls: set[str] = set()
-            for _ in range(10):
+            for _ in range(1):
                 # multiple rounds needed as some pages don't load fully the first time
                 feed_contents = await get_async(feed_urls)
 
@@ -233,5 +234,19 @@ if __name__ == "__main__":
         with open(filename, "w") as f:
             f.writelines("\n".join(sorted(urls)))
             logger.info("%d URLs written to %s at %s", len(urls), filename, timestamp)
+
+        pihole_urls: set[str] = set()
+        for url in urls:
+            res = tldextract.extract(url)
+            if res.fqdn:
+                pihole_urls.add(res.fqdn)
+            else:
+                logger.info("Rejected: %s", url)
+
+        pihole_timestamp: str = current_datetime_str()
+        pihole_filename = "global-anti-scam-org-scam-urls-pihole.txt"
+        with open(pihole_filename, "w") as f:
+            f.writelines("\n".join(sorted(pihole_urls)))
+            logger.info("%d URLs written to %s at %s", len(pihole_urls), pihole_filename, pihole_timestamp)
     else:
         raise ValueError("Failed to scrape URLs")
