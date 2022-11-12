@@ -189,7 +189,7 @@ async def extract_scam_urls() -> set[str]:
 
             # Download content of all feed URLs
             urls: set[str] = set()
-            for _ in range(1):
+            for _ in range(10):
                 # multiple rounds needed as some pages don't load fully the first time
                 feed_contents = await get_async(feed_urls)
 
