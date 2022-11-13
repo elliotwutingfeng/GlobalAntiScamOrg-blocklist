@@ -9,7 +9,6 @@ from datetime import datetime
 from typing import Optional
 
 import aiohttp
-import cchardet  # type: ignore
 import tldextract
 from bs4 import BeautifulSoup, SoupStrainer
 from bs4.element import ResultSet

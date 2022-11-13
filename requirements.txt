@@ -2,7 +2,6 @@ aiohttp==3.8.3
 bandit==1.7.4
 beautifulsoup4==4.11.1
 black==22.10.0
-cchardet==2.1.7
 lxml==4.9.1
 more-itertools==9.0.0
 mypy==0.990
