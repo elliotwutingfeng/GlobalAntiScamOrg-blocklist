@@ -483,7 +483,9 @@
 ||bitmain.capital$all
 ||bitmerrill.com$all
 ||bitminingcloud.com$all
+||bitoviz.com$all
 ||bitriver-miners.biz$all
+||bitsdsb.com$all
 ||bitstamp-usdt.com$all
 ||bitstmb.com$all
 ||biuuex.com$all
@@ -491,6 +493,7 @@
 ||bke.zeax8.com$all
 ||blacktex.click$all
 ||blockbook-bitcoin.tronwallet.me$all
+||bluecrypto.live$all
 ||bmk666.xyz$all
 ||bnbmining.cc$all
 ||bnbpexpay.com$all
@@ -519,6 +522,7 @@
 ||bscck.com$all
 ||bscexchange.live$all
 ||bschh.com$all
+||bscusdtp.com$all
 ||bsdsyey.com$all
 ||bsep.gmo.com.tw$all
 ||bsfxexp.com$all
@@ -533,6 +537,7 @@
 ||bustfx.com$all
 ||buterin.site$all
 ||buyeuro-ex.com$all
+||buyhostwithcrypto.com$all
 ||buypchome24.com$all
 ||buyusdt.online$all
 ||buyusdtshop.com$all
@@ -553,6 +558,7 @@
 ||capital.ffuture9.com$all
 ||capitaltungate.com$all
 ||caremey.com$all
+||cash-mining.online$all
 ||cash.gsa168.top$all
 ||cash.icet.tech$all
 ||cash3.otcsec.com$all
@@ -591,6 +597,7 @@
 ||cm-bpa.u2ubs.com$all
 ||cmc1999.mscico.com$all
 ||cmetrad.com$all
+||cmsbita.com$all
 ||cn.fxtrading-hk.com$all
 ||cn.fxtrading-hk.comtrader.eternalwealthfx.com$all
 ||cn.iforex.com$all
@@ -2501,6 +2508,7 @@
 ||fxpromx.com$all
 ||fxprop247.com$all
 ||fxprors.live$all
+||fxpros.vip$all
 ||fxprosignaltrade.com$all
 ||fxprosvip.com$all
 ||fxprotd.live$all
@@ -4096,6 +4104,7 @@
 ||kucoineex.com$all
 ||kucoinex.com$all
 ||kucoinhk.com$all
+||kucoinpro.cn$all
 ||kucointw.com$all
 ||kuswap.top$all
 ||kutoken.io$all
@@ -5365,6 +5374,7 @@
 ||oamdi.vip$all
 ||oamdi.xyz$all
 ||oanda.com$all
+||oandagjaadd.com$all
 ||oandg188.com$all
 ||oandgta58.com$all
 ||oandtrade.com$all
@@ -5636,6 +5646,7 @@
 ||peachtoo.com$all
 ||peak-vt.com$all
 ||peakcapitalfx.com$all
+||peakfxoption.com$all
 ||peakmegalfxm.com$all
 ||pearci.com$all
 ||pearcnco.com$all
@@ -6133,6 +6144,7 @@
 ||rokingltd.com$all
 ||rolecoinfx.com$all
 ||rollbit.com$all
+||rollercoin.com$all
 ||rollercoin.ru$all
 ||romanticdatin.com$all
 ||ronbink.com$all
@@ -6976,6 +6988,7 @@
 ||uexos.vip$all
 ||uexvip.com$all
 ||uforce.digital$all
+||uforce.im$all
 ||uforce.studio$all
 ||uforce.website$all
 ||uforces-coin.net$all
@@ -7086,6 +7099,7 @@
 ||unlimitedmining.co.uk$all
 ||unlisted.io$all
 ||unocoinweb.com$all
+||unwrapped.dev$all
 ||uoccda.com$all
 ||uoccqd.com$all
 ||uoetsys.com$all
@@ -7711,6 +7725,7 @@
 ||wkk.enamrs.com$all
 ||wlp.758563.top:8967$all
 ||wnershipoflove.com$all
+||wnfkrntnskamrnf.com$all
 ||wnmex.com$all
 ||wnsramq.com$all
 ||wofxjet.com$all
