@@ -8,6 +8,7 @@
 ||0gfd2.fun$all
 ||103.193.243.225:365$all
 ||103.193.243.93:365$all
+||10xtradeoptions.com$all
 ||11111567.com$all
 ||115295.com$all
 ||11shop.vip$all
@@ -26,6 +27,7 @@
 ||1708-cloudmining.net$all
 ||17381738.com$all
 ||17gamming.com$all
+||17joke.com$all
 ||17oemm.com$all
 ||17play00.com$all
 ||17play135.com$all
@@ -53,6 +55,8 @@
 ||247antminingtrade.com$all
 ||247binaryfxtrading.online$all
 ||247cryptocurrencyminers.com$all
+||247fxcryptextrade.com$all
+||247investment.live$all
 ||247paytrade.com$all
 ||247paywave.com$all
 ||24bitchainmining.com$all
@@ -85,13 +89,16 @@
 ||360apexmining.com$all
 ||360apextrading.com$all
 ||360fastdelivery.com$all
+||360fxtraders.com$all
 ||360liveoption.com$all
+||360tradesoptionpro.com$all
 ||362tradesfx.com$all
 ||365coinoptions.com$all
 ||365s444.com$all
 ||365tradingllc.com$all
 ||38894435.kvbkunlun.vip:8967$all
 ||3btch.com$all
+||3clocktrades.com$all
 ||3mcoin.net$all
 ||3xcrotradex.com$all
 ||4020u1.1279f.xyz$all
@@ -133,6 +140,8 @@
 ||78ex.cc$all
 ||78ex.co$all
 ||78excoin.com$all
+||7bitcasjno.homes$all
+||7bitcasno.homes$all
 ||7ebit.site$all
 ||7ebitex.com$all
 ||7ebitex.site$all
@@ -851,6 +860,7 @@
 ||diamond-tt.com$all
 ||diamondcryptodeal.com$all
 ||diamondglobaltrading.com$all
+||diamondinvestment.live$all
 ||diamonds-tt.com$all
 ||diamondsfx.biz$all
 ||diem.inc$all
@@ -984,6 +994,7 @@
 ||dopaminedaily.com$all
 ||doprimetw.com$all
 ||dorisunex.net$all
+||dormantinvestment.com$all
 ||doshasia.com$all
 ||dossacoin.club$all
 ||dot-ex.vip$all
@@ -1027,6 +1038,7 @@
 ||dptinvest.com$all
 ||dracoforex.com$all
 ||drcfx.com$all
+||dream-miner.us$all
 ||dream2020.tw$all
 ||dreaminvestltd.com$all
 ||dro-fx.com$all
@@ -1037,6 +1049,7 @@
 ||dsco.tw$all
 ||dscoinex.net$all
 ||dscoinex.site$all
+||dscoinpro.xyz$all
 ||dscorp.co$all
 ||dso-fx.com$all
 ||dsx-8.com$all
@@ -1102,6 +1115,7 @@
 ||enyabo.com$all
 ||eqskosjv.com$all
 ||erc20-digital.xyz$all
+||es0089.top$all
 ||esdxcf.com$all
 ||esggdata.mystrikingly.com$all
 ||eth-1defi.com$all
@@ -1358,6 +1372,7 @@
 ||geminitradingoptions.org$all
 ||gemins.geminitai.com$all
 ||gemins.geminitaw.com$all
+||generaetvse.com$all
 ||generalfxsexchange.com$all
 ||generistrade.ltd$all
 ||genesisfxtrades.com$all
@@ -1500,6 +1515,7 @@
 ||globalhfxtrading.com$all
 ||globalindextrade.com$all
 ||globalinstanttrading.com$all
+||globalinvestigations.biz$all
 ||globalinvestmentsystem.com$all
 ||globalivetrading.online$all
 ||globallaus.com$all
@@ -1646,6 +1662,7 @@
 ||goldtradermo.info$all
 ||goldviptrade.com$all
 ||goldworldcrypto.com$all
+||gomarketex.com$all
 ||gomarketstw.store$all
 ||gomecntw.com$all
 ||gonsin.vip$all
@@ -1689,6 +1706,7 @@
 ||great-gaininvestment.com$all
 ||greatela.com$all
 ||greenbull-trading.online$all
+||greenchipinvestments.com$all
 ||greencorpinvestment.com$all
 ||greencryptotrades.com$all
 ||greenenergytrade.ltd$all
@@ -2200,6 +2218,7 @@
 ||ibtc.top$all
 ||ibtcex.org$all
 ||ic-broker.com$all
+||ic-prime.online$all
 ||icanlearnautotrade.com$all
 ||ice-bitt.com$all
 ||ice-vcr.com$all
@@ -2315,6 +2334,7 @@
 ||imperiuminvfxltd.net$all
 ||impor-vtllc.com$all
 ||impressivearea.com$all
+||impsinvestment.com$all
 ||impvcu.com$all
 ||impvcu.net$all
 ||impvcu.tw$all
@@ -2410,9 +2430,13 @@
 ||introcapitaltrade.com$all
 ||inukocoin.com$all
 ||inverchy.hk-exnews.com$all
+||inversion123.com$all
 ||invest-luxurypropertyshares.com$all
 ||investby.com$all
+||investcru.cfd$all
+||investeceultd.com$all
 ||investicriptonline.com$all
+||investify-pro.site$all
 ||investingcryptoclub.com$all
 ||investingnx.com$all
 ||investingviews.net$all
@@ -2422,8 +2446,10 @@
 ||investmentsloansltd.co.uk$all
 ||investncrypto.net$all
 ||investnewpt.com$all
+||investo4life.com$all
 ||investoforex.org$all
 ||investorstoptal.com$all
+||investurion.online$all
 ||investyfix.com$all
 ||invose.com$all
 ||inyovainvests.co$all
@@ -2451,8 +2477,10 @@
 ||ir-litefinance.com$all
 ||irbreakerl666.xyz$all
 ||ircapital.com$all
+||irexinvest.com$all
 ||iron-trade.org$all
 ||irontoken.net$all
+||irusinvest.ink$all
 ||is-ma.co$all
 ||isedpyi.cn:1544$all
 ||ishares.top$all
@@ -2474,6 +2502,7 @@
 ||itk-ex.com$all
 ||itradecoinlimited.com$all
 ||itrading.cc$all
+||itsinvestment-trust.com$all
 ||itskangaroo.com.hk$all
 ||itskangaroo.tech$all
 ||ittehadtrader.online$all
@@ -2485,6 +2514,7 @@
 ||ixxbtc.com$all
 ||j-onetrader.ltd$all
 ||j-pex.com$all
+||j9bc.casino$all
 ||ja.icefun.net$all
 ||ja178.biic7ec.com$all
 ||jack.qsmack.com$all
@@ -2506,10 +2536,12 @@
 ||jdq3.com$all
 ||jejinvestment.com$all
 ||jet-fx.com$all
+||jet-invest.net$all
 ||jet-swap.com$all
 ||jet-vwap.com$all
 ||jetinfor.com$all
 ||jetmaritimelogisticscoltd.com$all
+||jetprofitinvestments.com$all
 ||jetstoken.club$all
 ||jetsw1.com$all
 ||jetswap-fx.com$all
@@ -2840,9 +2872,11 @@
 ||latourtradesintl.com$all
 ||lavaprime.com$all
 ||lavtrade-fx.com$all
+||lawyer2invest.com$all
 ||lazada80.com$all
 ||lazadasg-twshop.com$all
 ||lazadashop.com.tw$all
+||lazadasotw.com$all
 ||lazadastw.com$all
 ||lazaruscrypto.com$all
 ||lb999.xyz$all
@@ -3093,6 +3127,7 @@
 ||ltptradei.net$all
 ||ltptrader.net$all
 ||lucid-ex.com$all
+||lucidinvestments.ltd$all
 ||luck168.recoin8.com$all
 ||luckycoin.shop$all
 ||luckystartradings.live$all
@@ -3259,6 +3294,7 @@
 ||midcipro.com$all
 ||millenniumtradinghub.com$all
 ||minepi.com$all
+||minimalistinvestor.com$all
 ||mining-dig.com$all
 ||mining-hut8.com$all
 ||miningabc.com$all
@@ -3420,6 +3456,7 @@
 ||nextrbtc.com$all
 ||nextshibacoin.com$all
 ||nexttoptrade.com$all
+||nexus-investing.com$all
 ||nexustradeclub.com$all
 ||nexustradesfxinc.online$all
 ||nfa-tw.com$all
@@ -3605,6 +3642,7 @@
 ||officialnomiswap.com$all
 ||officialukbitcoinminers.live$all
 ||offpagepro.com$all
+||oflbfw.we16888.net$all
 ||ofx.cbbw6t.cn$all
 ||ofx.qnqtrs.cn$all
 ||og-chain.com$all
@@ -3677,11 +3715,13 @@
 ||onemain.club$all
 ||onemain.site$all
 ||onesevenplay.com$all
+||onesevenplayy.com$all
 ||onestep-exchange.com$all
 ||onetapinvest.com$all
 ||onetcoin.com$all
 ||onetofiveinvestmentandcredit.com$all
 ||onetoken.io$all
+||onetrustinvestment.com$all
 ||oneuvg.com$all
 ||oneuvg.net$all
 ||onewaydigitalfxtd.com$all
@@ -3700,6 +3740,7 @@
 ||onokaforex.com$all
 ||onsfx1.com$all
 ||onstartrading.com$all
+||ontarioinvest.net$all
 ||ontega.com$all
 ||ontimex.xyz$all
 ||ontovi.com$all
@@ -3714,6 +3755,7 @@
 ||optimalfxtrades.com$all
 ||optimalprimetrades.com$all
 ||optimalrefunds.com$all
+||optimalswiftinvest.com$all
 ||optimaltradersfx.com$all
 ||optimaltrades.vip$all
 ||optimizefunds.cc$all
@@ -3793,12 +3835,14 @@
 ||oxtcoin.com$all
 ||oyster666.top$all
 ||oyster777.top$all
+||oyster999.top$all
 ||ozieswap.org$all
 ||ozomex.com$all
 ||ozrks.com$all
 ||oztw.xyz$all
 ||ozzoco.xyz$all
 ||p-inv.trade$all
+||p2p2.p2aoc.com$all
 ||p8fxs.com$all
 ||pacific-trade.org$all
 ||pagcfx.com$all
@@ -4084,6 +4128,7 @@
 ||primefxcrypt.live$all
 ||primefxexchangees.com$all
 ||primeinfoinvest.com$all
+||primeinvestmentsgroup.org$all
 ||primemerit.ltd$all
 ||primeoakmont.com$all
 ||primeoptionmarkets.com$all
@@ -4094,6 +4139,7 @@
 ||principaltrade-mining.com$all
 ||priviumex.com$all
 ||prizmbit.vip$all
+||pro-invest.ltd$all
 ||pro-investminning.pro$all
 ||pro-tradeoptions.com$all
 ||pro.pimcco.com$all
@@ -4440,6 +4486,7 @@
 ||rockfortexchange.online$all
 ||rockfortmarket.net$all
 ||rockfortmarket.org$all
+||roclarinvest.com$all
 ||rodis-finance.ltd$all
 ||rodkpro.com$all
 ||rodrigocrypto.monster$all
@@ -4448,6 +4495,7 @@
 ||rollbit.com$all
 ||rollercoin.com$all
 ||rollercoin.ru$all
+||rolloverinvest.com$all
 ||romanticdatin.com$all
 ||romosstrade.org$all
 ||ronbink.com$all
@@ -4709,6 +4757,7 @@
 ||twcav.com$all
 ||twdcep.com$all
 ||twkucoin.com$all
+||twlines.com/Dcct$all
 ||u-dapp.com$all
 ||u-newmall.com$all
 ||u-trade-fx.co$all
@@ -5437,6 +5486,7 @@
 ||web6664.xyz$all
 ||weba.kvbdg.vip:8967$all
 ||webdapps-connect.org$all
+||webdft.com$all
 ||webitbvhybb.com$all
 ||webitbvhyf.com$all
 ||webitbvhylk.com$all
@@ -5735,6 +5785,7 @@
 ||youtuex.com$all
 ||youzbit.com$all
 ||yq.xingongzi.com$all
+||yshgat.com$all
 ||ytpexr.com$all
 ||ytyetrfjhdgc.xyz$all
 ||yu1577.le889.net$all
