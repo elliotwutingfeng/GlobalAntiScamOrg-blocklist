@@ -8,9 +8,9 @@
 [![scraper](https://img.shields.io/github/workflow/status/elliotwutingfeng/GlobalAntiScamOrg-blocklist/scraper?label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/actions/workflows/scraper.yml)
 <img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/GlobalAntiScamOrg-blocklist?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
 
-Machine-readable `.txt` blocklist of scam URLs from the [Global Anti Scam Organization](https://www.globalantiscam.org) website, updated once a day.
+Machine-readable `.txt` blocklist of scam URLs and IP Addresses from the [Global Anti Scam Organization](https://www.globalantiscam.org) website, updated once a day.
 
-The URLs in this blocklist are compiled by the **Global Anti Scam Organization**.
+The URLs and IP Addresses in this blocklist are compiled by the **Global Anti Scam Organization**.
 
 **Disclaimer:** _This project is not sponsored, endorsed, or otherwise affiliated with the Global Anti Scam Organization._
 
@@ -20,7 +20,9 @@ The URLs in this blocklist are compiled by the **Global Anti Scam Organization**
 |:-:|:-:|
 | global-anti-scam-org-scam-urls.txt | [:floppy_disk:](global-anti-scam-org-scam-urls.txt?raw=true) |
 | global-anti-scam-org-scam-urls-ABP.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-ABP.txt?raw=true) |
+| global-anti-scam-org-scam-urls-UBO.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-UBO.txt?raw=true) |
 | global-anti-scam-org-scam-urls-pihole.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-pihole.txt?raw=true) |
+| global-anti-scam-org-scam-ips.txt | [:floppy_disk:](global-anti-scam-org-scam-ips.txt?raw=true) |
 
 ## Requirements
 

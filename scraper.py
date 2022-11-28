@@ -2,9 +2,11 @@
 and writes them to a .txt blocklist
 """
 import asyncio
+import ipaddress
 import json
 import logging
 import re
+import socket
 from datetime import datetime
 from typing import Optional
 
@@ -228,24 +230,42 @@ async def extract_scam_urls() -> set[str]:
 if __name__ == "__main__":
     urls: set[str] = asyncio.run(extract_scam_urls())
     if urls:
-        timestamp: str = current_datetime_str()
-        filename = "global-anti-scam-org-scam-urls.txt"
-        with open(filename, "w") as f:
-            f.writelines("\n".join(sorted(urls)))
-            logger.info("%d URLs written to %s at %s", len(urls), filename, timestamp)
-
-        pihole_urls: set[str] = set()
+        ips: set[str] = set()
+        non_ips: set[str] = set()
+        fqdns: set[str] = set()
         for url in urls:
             res = tldextract.extract(url)
-            if res.fqdn:
-                pihole_urls.add(res.fqdn)
-            else:
-                logger.info("Rejected: %s", url)
+            domain, fqdn = res.domain, res.fqdn
+            if domain and not fqdn:
+                # Possible IPv4 Address
+                try:
+                    socket.inet_aton(domain)
+                    ips.add(domain)
+                except socket.error:
+                    if url:
+                        non_ips.add(url)
+            elif url:
+                non_ips.add(url)
+                if fqdn:
+                    fqdns.add(fqdn)
 
-        pihole_timestamp: str = current_datetime_str()
-        pihole_filename = "global-anti-scam-org-scam-urls-pihole.txt"
-        with open(pihole_filename, "w") as f:
-            f.writelines("\n".join(sorted(pihole_urls)))
-            logger.info("%d URLs written to %s at %s", len(pihole_urls), pihole_filename, pihole_timestamp)
+    if not non_ips and not ips:
+        logger.error("No content available for blocklists.")
     else:
-        raise ValueError("Failed to scrape URLs")
+        non_ips_timestamp: str = current_datetime_str()
+        non_ips_filename = "global-anti-scam-org-scam-urls.txt"
+        with open(non_ips_filename, "w") as f:
+            f.writelines("\n".join(sorted(non_ips)))
+            logger.info("%d non-IPs written to %s at %s", len(non_ips), non_ips_filename, non_ips_timestamp)
+
+        ips_timestamp: str = current_datetime_str()
+        ips_filename = "global-anti-scam-org-scam-ips.txt"
+        with open(ips_filename, "w") as f:
+            f.writelines("\n".join(sorted(ips, key=ipaddress.IPv4Address)))
+            logger.info("%d IPs written to %s at %s", len(ips), ips_filename, ips_timestamp)
+
+        fqdns_timestamp: str = current_datetime_str()
+        fqdns_filename = "global-anti-scam-org-scam-urls-pihole.txt"
+        with open(fqdns_filename, "w") as f:
+            f.writelines("\n".join(sorted(fqdns)))
+            logger.info("%d FQDNs written to %s at %s", len(fqdns), fqdns_filename, fqdns_timestamp)

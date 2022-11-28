@@ -5,4 +5,5 @@ renovate.json
 requirements.txt
 scraper.py
 global-anti-scam-org-scam-urls-ABP.txt
+global-anti-scam-org-scam-urls-UBO.txt
 global-anti-scam-org-scam-urls-pihole.txt
