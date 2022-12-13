@@ -834,6 +834,7 @@
 ||gs3x.xyz^$all
 ||gthseer.nadexm.com^$all
 ||gthseer.pneaker.com^$all
+||gudx.net^$all
 ||guycbhxz.xyz^$all
 ||gwwwa.lmmortality.com^$all
 ||gwwwa.qmtaiwan.com^$all
@@ -924,9 +925,11 @@
 ||haisheng188-ex.com^$all
 ||haitong-capitals.com^$all
 ||haiyuex.net^$all
+||halalislamiccoinminers.com^$all
 ||haldefi.com^$all
 ||halexbit.com^$all
 ||halleydragon.com^$all
+||halo-coporationfinance.com^$all
 ||halotoken.site^$all
 ||hamenprime.com^$all
 ||hamentech.com^$all
@@ -937,6 +940,7 @@
 ||haocoins.net^$all
 ||happs.xyz^$all
 ||happydollar.top^$all
+||happytrustinvest.com^$all
 ||harcm.com^$all
 ||haremark.online^$all
 ||harris-forex.com^$all
@@ -947,16 +951,21 @@
 ||hash-wallet.com^$all
 ||hashchain.com^$all
 ||hashchainglobala.com^$all
+||hashcoininvestment.com^$all
 ||hashcryptor.net^$all
 ||hashexs.com^$all
 ||hashfinance-ltd.com^$all
+||hashmining.vip^$all
+||hashminingoptionway.com^$all
 ||hashtrading1.com^$all
 ||hashtrading2.com^$all
 ||hashtrading4.com^$all
 ||hashtradings.com^$all
 ||hatrstonline.com^$all
 ||haulerinvestment.com^$all
+||havasfinance.com^$all
 ||haximiner.com^$all
+||hazratcrypto.com^$all
 ||hbartokens.net^$all
 ||hbetop.com^$all
 ||hbfsbit.cc^$all
@@ -970,10 +979,12 @@
 ||hcon.uk^$all
 ||hdfxs.com^$all
 ||hdgml.com^$all
+||he-dex.net^$all
 ||hebuyong.top^$all
 ||hecocoin.com^$all
 ||hecoinfo.com^$all
 ||hedgefundsbcd.com^$all
+||hedgesbullcommercialfinancelimited.com^$all
 ||hedgespafx.net^$all
 ||hehuanfx.com^$all
 ||heighteninvestment.com^$all
@@ -985,6 +996,7 @@
 ||helius.pro^$all
 ||helpinghandsfx.com^$all
 ||helpyfx.com^$all
+||hemiltonfinance.net^$all
 ||hemnow.com^$all
 ||hempcrypto.net^$all
 ||hendersonwebsite.net^$all
@@ -996,6 +1008,8 @@
 ||hengxingfores.com^$all
 ||hengxingfoxy.com^$all
 ||henleytradeglobal.com^$all
+||hennifinance.net^$all
+||henrybarkerinvestor.com^$all
 ||herculescapitaldavxyual.com^$all
 ||herculescapitaldefi.net^$all
 ||heritagetradefinance.com^$all
@@ -4541,6 +4555,7 @@
 ||viraisex.com^$all
 ||viralblastwow.com^$all
 ||virginvest.com^$all
+||virgo-eth.vip^$all
 ||virgo.vip^$all
 ||virgocx.ca^$all
 ||virtu.com^$all
