@@ -795,6 +795,7 @@
 ||fxharvard.online^$all
 ||fxicm.xyz^$all
 ||fxicmarkets.com^$all
+||fxlegacyprotrade.com^$all
 ||fxoa.net^$all
 ||fxpandorafx.com^$all
 ||fxpu.net^$all
@@ -816,6 +817,7 @@
 ||gdp.kkerans.com^$all
 ||ge-bpb.psuge.com^$all
 ||generationapproval.info^$all
+||giaodichlondonex.com^$all
 ||glklosiw.net^$all
 ||globalfx.live^$all
 ||globalume.com^$all
@@ -1397,6 +1399,7 @@
 ||iggtrad.com^$all
 ||igmarke.com^$all
 ||igmexcoin.com^$all
+||igo-town.com^$all
 ||igtrade.top^$all
 ||ihashtech.com^$all
 ||ihg-member.com^$all
@@ -1799,7 +1802,9 @@
 ||ka.hongzii.com^$all
 ||kabitw.com^$all
 ||kabtw.net^$all
+||kacofin-eth.com^$all
 ||kacofinance.io^$all
+||kailashimpex.xyz^$all
 ||kale.com^$all
 ||kalo-fx.com^$all
 ||kam-kraem.com^$all
@@ -2091,6 +2096,7 @@
 ||lem-coin.com^$all
 ||lemxc.com^$all
 ||lenox-coincx.com^$all
+||lenswo.com^$all
 ||leobor.com^$all
 ||leoborfg.net^$all
 ||leomfx.com^$all
@@ -2623,6 +2629,7 @@
 ||nico.exchange^$all
 ||niktradeltd.com^$all
 ||ninelordcoin.com^$all
+||ninesigma-finance.com^$all
 ||nintendotw.vip^$all
 ||nippytrade.com^$all
 ||nirvanaencrypt.com^$all
@@ -3168,6 +3175,7 @@
 ||phoenixcontact.com^$all
 ||phoenixed.trade^$all
 ||phoenixex.cn^$all
+||phoenixfinanceltd.com^$all
 ||phptt.com^$all
 ||phs-trade.com^$all
 ||phygitalbanc.com^$all
@@ -3325,6 +3333,7 @@
 ||premiumcapital-investment.net^$all
 ||premiumexchange.net^$all
 ||premiumfxinvest.net^$all
+||premiumheritagefinance.com^$all
 ||premiumminers.world^$all
 ||premiummineservice.com^$all
 ||premiumtraders.online^$all
@@ -5070,6 +5079,7 @@
 ||yodagala.com^$all
 ||yodobit.com^$all
 ||yoixex.com^$all
+||yolo-finance.com^$all
 ||yolyd.com^$all
 ||yomani.vip^$all
 ||yomanic2c.xyz^$all
