@@ -42,7 +42,7 @@ async def backoff_delay_async(backoff_factor: float, number_of_retries_made: int
 
 
 async def get_async(
-    endpoints: list[str], max_concurrent_requests: int = 5, headers: dict = None
+    endpoints: list[str], max_concurrent_requests: int = 5, headers: dict | None = None
 ) -> dict[str, bytes]:
     """Given a list of HTTP endpoints, make HTTP GET requests asynchronously
 
@@ -229,10 +229,10 @@ async def extract_scam_urls() -> set[str]:
 
 if __name__ == "__main__":
     urls: set[str] = asyncio.run(extract_scam_urls())
+    ips: set[str] = set()
+    non_ips: set[str] = set()
+    fqdns: set[str] = set()
     if urls:
-        ips: set[str] = set()
-        non_ips: set[str] = set()
-        fqdns: set[str] = set()
         for url in urls:
             res = tldextract.extract(url)
             domain, fqdn = res.domain, res.fqdn
