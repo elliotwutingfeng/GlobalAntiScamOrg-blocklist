@@ -212,6 +212,7 @@
 ||8osavo.xyz^$all
 ||8rdfx.com^$all
 ||90suls.6777k.xyz^$all
+||91shopes.com^$all
 ||91x.tw^$all
 ||936cc375t.com^$all
 ||94xtrafx.live^$all
@@ -534,6 +535,7 @@
 ||crypto-quantitative.xyz^$all
 ||crypto-yhigoyo.info^$all
 ||crypto-ysypoyy.com^$all
+||crypto.kion.world^$all
 ||cryptoassessors.com^$all
 ||cryptoexpertoption.online^$all
 ||cryptofx-investfey.xyz^$all
@@ -658,6 +660,7 @@
 ||dsce.xyz^$all
 ||dtkdbd.com^$all
 ||duihuanc888.net^$all
+||dunicorn.co^$all
 ||dyoyt.vip^$all
 ||e-fxtrade.xyz^$all
 ||e02.wayteciyes.com^$all
@@ -679,6 +682,7 @@
 ||en.ymhkdesign.com^$all
 ||enyabo.com^$all
 ||eqskosjv.com^$all
+||es0081.top^$all
 ||es0089.top^$all
 ||esdxcf.com^$all
 ||eth-1defi.com^$all
@@ -842,6 +846,7 @@
 ||gwwwa.lmmortality.com^$all
 ||gwwwa.qmtaiwan.com^$all
 ||gwwwm.invinciblehk.com^$all
+||gx58t.knxotraderoo.com^$all
 ||gxcm.shop^$all
 ||h1vch8xb.com^$all
 ||h2.kds55.com^$all
@@ -1093,6 +1098,7 @@
 ||hireahacker.com^$all
 ||hirebitcoinbountyhunters.com^$all
 ||hisensecoinzs.live^$all
+||hitbcx.co^$all
 ||hitbtc-erc.com^$all
 ||hitbtc-erc.net^$all
 ||hitbtc-eth.info^$all
@@ -1868,6 +1874,7 @@
 ||jsfsjx.top^$all
 ||jsjs2763jsjs8282as7app.com^$all
 ||jslinkglobal.com^$all
+||jsunholdings.com^$all
 ||jsy-fortex.com^$all
 ||jtl-global.com^$all
 ||jtlglobal.com^$all
@@ -2167,6 +2174,7 @@
 ||lavaprime.com^$all
 ||lavtrade-fx.com^$all
 ||lawyer2invest.com^$all
+||lazada-tw.com^$all
 ||lazada80.com^$all
 ||lazadasg-twshop.com^$all
 ||lazadashop.com.tw^$all
@@ -2438,22 +2446,29 @@
 ||lucidinvestments.ltd^$all
 ||luck168.recoin8.com^$all
 ||luckycoin.shop^$all
+||luckyminerbnb.xyz^$all
 ||luckystartradings.live^$all
 ||luckytoken.fun^$all
 ||lucrominefx.com^$all
 ||lumendex.online^$all
 ||lumentrades.com^$all
+||luminerxtrading.com^$all
 ||luminotrading.com^$all
+||lunarcryptominers.com^$all
+||lunarcryptominers.net^$all
 ||lunartigers.com^$all
 ||lunboux.com^$all
 ||lunbouxfx.com^$all
 ||lunbouxlimited.com^$all
 ||lundbergs.cs-bit.com^$all
+||lunfex.com^$all
+||luno-bit.com^$all
 ||lunofxtraders.com^$all
 ||lunoo.vip^$all
 ||lunotrade.buzz^$all
 ||lutextraders.com^$all
 ||lutonfxtrade.net^$all
+||luwanginvestment.com^$all
 ||luxkey.net^$all
 ||luxurytradeunionpro.com^$all
 ||lvmaa.com^$all
@@ -3159,6 +3174,7 @@
 ||oxt-eth.com^$all
 ||oxtcoin.com^$all
 ||oyster666.com^$all
+||oyster666.net^$all
 ||oyster666.top^$all
 ||oyster777.top^$all
 ||oyster999.top^$all
@@ -3272,6 +3288,7 @@
 ||pecco123.com^$all
 ||pecpec.vip^$all
 ||pelaburan-nordfx.com^$all
+||pelliron.com^$all
 ||pemptrade.online^$all
 ||pen-zo.com^$all
 ||pentycoon.com^$all
@@ -3382,6 +3399,7 @@
 ||ploocoin.com^$all
 ||plumax.com^$all
 ||plus500.com.au^$all
+||pluscapitals.com^$all
 ||plustrade500.com^$all
 ||plutofxtrades.com^$all
 ||pmb.wokaai.com^$all
@@ -3882,6 +3900,7 @@
 ||rjexpro.com^$all
 ||rjfinancialpro.vip^$all
 ||rk-twd.com^$all
+||rlative66.top^$all
 ||rmdtoken.club^$all
 ||rmie.com^$all
 ||roartradingandmarketing.com^$all
@@ -4069,6 +4088,7 @@
 ||t826hsada.xyz^$all
 ||t9jcnas.club^$all
 ||taiwan.upfinget.com^$all
+||tbab905.com^$all
 ||technology-coin.com^$all
 ||technology-coin.org^$all
 ||tesla-trade.site^$all
@@ -4930,6 +4950,7 @@
 ||webulinvestment.com^$all
 ||webull-crypto.com^$all
 ||webullsp.vip^$all
+||webwmk.com^$all
 ||webx-coin.com^$all
 ||wecionbase.com^$all
 ||wecoinsbase.com^$all
