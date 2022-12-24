@@ -328,6 +328,7 @@
 ||app.ui6y.com^$all
 ||app.vivien556.com^$all
 ||app.wa578.com^$all
+||app.wbexgo.com^$all
 ||app.whitewhale.money^$all
 ||app.wishebs.com^$all
 ||app.wkbok.com^$all
@@ -506,6 +507,7 @@
 ||credit.ytfff.space^$all
 ||crm.idealkind.net^$all
 ||crm.idealkind.online^$all
+||crm.illumarkets.net^$all
 ||crm.illuminatimarkets.asia^$all
 ||crm.konanoo.net^$all
 ||crm.lcg-tw.com^$all
@@ -825,6 +827,7 @@
 ||generationapproval.info^$all
 ||giaodichlondonex.com^$all
 ||glklosiw.net^$all
+||global-cbntw.top^$all
 ||globalfx.live^$all
 ||globalume.com^$all
 ||globe-investing.com^$all
@@ -834,6 +837,7 @@
 ||goldentrading.org^$all
 ||goldsti.com^$all
 ||goldviptrade.com^$all
+||goodluck.okxbit8.com^$all
 ||goodxtrade.online^$all
 ||gopcshopping.com^$all
 ||gotopc24.com^$all
@@ -866,6 +870,7 @@
 ||h5.himyle.club^$all
 ||h5.hkux.vip^$all
 ||h5.hpsip.net^$all
+||h5.hpsipstock.com^$all
 ||h5.hrtrafc.com^$all
 ||h5.hxl-exchange.com^$all
 ||h5.icehuv.com^$all
@@ -1516,6 +1521,7 @@
 ||imttoken.ink^$all
 ||imuimui.com^$all
 ||imuzfx.com^$all
+||in.jmtrade.com^$all
 ||in33.net^$all
 ||inceptial.biz^$all
 ||inceptial.com^$all
@@ -1633,6 +1639,7 @@
 ||intra-trading.com^$all
 ||introcapitaltrade.com^$all
 ||inukocoin.com^$all
+||invechcorporation.com^$all
 ||inverchy.hk-exnews.com^$all
 ||inversion123.com^$all
 ||invest-luxurypropertyshares.com^$all
@@ -1977,6 +1984,7 @@
 ||kbz6958.com^$all
 ||kc.hongzhii.com^$all
 ||kcbtex.com^$all
+||kcowebs.com^$all
 ||kcryptex.com^$all
 ||kctraders.pro^$all
 ||kczwup.vip^$all
@@ -2706,6 +2714,7 @@
 ||n-harshmining.com^$all
 ||n.hecocoin.net^$all
 ||n.kassanses.com^$all
+||n.nasdaq12.xyz^$all
 ||n.wayteciese.com^$all
 ||nabycoin.com^$all
 ||nadexg.com^$all
@@ -2859,6 +2868,7 @@
 ||nftleadc.com^$all
 ||nftpendst.com^$all
 ||nftpess.com^$all
+||nftsbv.com^$all
 ||nftsellswap.xyz^$all
 ||nftsif.com^$all
 ||nftstoretww.com^$all
@@ -2945,6 +2955,7 @@
 ||nutorex.com^$all
 ||nvea.xyz^$all
 ||nvexic.vip^$all
+||nvexss.vip^$all
 ||nvpro.club^$all
 ||nvxcw.vip^$all
 ||nvxeps.vip^$all
@@ -3319,6 +3330,7 @@
 ||oyster666.net^$all
 ||oyster666.top^$all
 ||oyster777.top^$all
+||oyster88.top^$all
 ||oyster999.top^$all
 ||ozforex.biz^$all
 ||ozieswap.org^$all
@@ -3388,6 +3400,7 @@
 ||patrickmahlertrading.com^$all
 ||patriot-cap.com^$all
 ||patriotsminers.com^$all
+||patrlg.com^$all
 ||patroinvest.com^$all
 ||patyners.com^$all
 ||paveltrade.com^$all
@@ -3417,6 +3430,7 @@
 ||payeer-trading.com^$all
 ||payerscryptostock.com^$all
 ||payfastcoin.com^$all
+||payironn.com^$all
 ||payriser-fx.pro^$all
 ||payrole.io^$all
 ||paytradepro.net^$all
@@ -3437,6 +3451,7 @@
 ||pddorafx.com^$all
 ||pdforex.co^$all
 ||pdfxltd.co^$all
+||pdoraafx.com^$all
 ||peachtoo.com^$all
 ||peak-vt.com^$all
 ||peakcapitalfx.com^$all
@@ -4028,6 +4043,7 @@
 ||rainbow-hkfx.com^$all
 ||rainbowhkfx.com^$all
 ||rainbowplatforms.com^$all
+||rakuten06.com^$all
 ||rakutenetopd.com^$all
 ||rakutenext.com^$all
 ||raldofx.com^$all
@@ -4081,9 +4097,11 @@
 ||recofund.net^$all
 ||recovery-global.com^$all
 ||recoverycircuit.com^$all
+||recoveryfundinggroup.com^$all
 ||recoverylone.com^$all
 ||redexdelivery.com^$all
 ||redfinance.pro^$all
+||redford.im^$all
 ||redix.finance^$all
 ||redsun-hk.com^$all
 ||redswap.exchange^$all
@@ -4195,6 +4213,7 @@
 ||rjfinancialpro.vip^$all
 ||rk-twd.com^$all
 ||rlative66.top^$all
+||rlative968.top^$all
 ||rmdtoken.club^$all
 ||rmie.com^$all
 ||roarsinvests.com^$all
@@ -4403,6 +4422,7 @@
 ||swissquote.jfdbro.com^$all
 ||sx09.ordesys.com^$all
 ||syncfxt.online^$all
+||t0b.dwzq.xyz^$all
 ||t5w6e7e7a.zhzb558.com^$all
 ||t826hsada.xyz^$all
 ||t9jcnas.club^$all
@@ -4456,9 +4476,11 @@
 ||trader.oreanafx.com^$all
 ||trader.winotetrade.com^$all
 ||trader.x-novox.com^$all
+||tradersbot.online^$all
 ||tradertw.com^$all
 ||tradewithnikhilgangil.com^$all
 ||trading-a.tech^$all
+||tradinghudson.com^$all
 ||translategoogle.com^$all
 ||trapminer.biz^$all
 ||treasurystockfx.com^$all
@@ -4470,6 +4492,7 @@
 ||tronfunds.info^$all
 ||truvacrypto.com^$all
 ||trxbtc.com^$all
+||trxminers.site^$all
 ||ts.an77.net^$all
 ||ts.mvk5658.net^$all
 ||ts.vpp777.net^$all
@@ -4496,6 +4519,7 @@
 ||twamazgo.com^$all
 ||twcav.com^$all
 ||twkucoin.com^$all
+||twubsex.com^$all
 ||u-dapp.com^$all
 ||u-trade-fx.co^$all
 ||u-trade.com^$all
@@ -5010,6 +5034,7 @@
 ||valtrade-fx.com^$all
 ||valuefxcapital.com^$all
 ||valueinvestingcollective.com^$all
+||valuetrademark.com^$all
 ||valutrade.top^$all
 ||valutrade.xyz^$all
 ||valutrade168.com^$all
@@ -5578,11 +5603,15 @@
 ||xntd123.com^$all
 ||xocryptowallet.com^$all
 ||xonedenverspreandtraingcenter.com^$all
+||xonmining.com^$all
 ||xonsu.com^$all
 ||xoxvip.com^$all
 ||xpediantrade.com^$all
+||xperiumtrade.com^$all
 ||xpert-crypto.net^$all
+||xpertcryptominings.com^$all
 ||xpertfxtradings.com^$all
+||xpertoptionstrades.com^$all
 ||xphfx.click^$all
 ||xpoyxxam.xyz^$all
 ||xpress-fund.com^$all
@@ -5590,7 +5619,9 @@
 ||xpromarkets.com^$all
 ||xpromarkets.net^$all
 ||xpromarkets.org^$all
+||xprpeertrading.org^$all
 ||xqb.io^$all
+||xrexwallet.com^$all
 ||xrmeetlove.com^$all
 ||xspeedfx.com^$all
 ||xspeedtrading.com^$all
@@ -5601,6 +5632,7 @@
 ||xtc-token.com^$all
 ||xtcoiwap.com^$all
 ||xtglobalpro.com^$all
+||xtk-forexmt.com^$all
 ||xtrade.tw^$all
 ||xtradebank.com^$all
 ||xtradedworldx.top^$all
@@ -5654,6 +5686,8 @@
 ||yllfx.co^$all
 ||yllglobal.com^$all
 ||ymatou.live^$all
+||ymicoin.cloud^$all
+||ymirex.online^$all
 ||yobitfarm.com^$all
 ||yobits.vip^$all
 ||yodagala.com^$all
@@ -5690,7 +5724,9 @@
 ||yummyxbit.com^$all
 ||yungu.io^$all
 ||yy.js-czhb.com^$all
+||yycoin.store^$all
 ||yycoin.vip^$all
+||yycoin.world^$all
 ||yyexe.com^$all
 ||yypengyou.com^$all
 ||yyshopgou.com^$all
@@ -5704,6 +5740,8 @@
 ||zaaeraexchange.world^$all
 ||zags.tw^$all
 ||zaifcfx.com^$all
+||zairaatinvestmentsbank.com^$all
+||zalorapro.world^$all
 ||zanexfinance.com^$all
 ||zankcapital.com^$all
 ||zankmt4.com^$all
@@ -5711,6 +5749,7 @@
 ||zauctions.co^$all
 ||zaxacoin.com^$all
 ||zaxhiyw.cn^$all
+||zazixbit.com^$all
 ||zbap.vip^$all
 ||zbcc.ac.cn^$all
 ||zbdealer.com^$all
@@ -5758,6 +5797,7 @@
 ||zeexbit.com^$all
 ||zegold-invest.org^$all
 ||zeithcoin.com^$all
+||zeltrustkeynote.com^$all
 ||zendextrades.com^$all
 ||zendobit.com^$all
 ||zenethtrades.net^$all
@@ -5770,6 +5810,7 @@
 ||zenithfx.net^$all
 ||zenithfxzone.com^$all
 ||zenithvisualcointrade.org^$all
+||zenoxtrade.net^$all
 ||zentrade.org^$all
 ||zeonic.cc^$all
 ||zepher-coins.net^$all
@@ -5822,11 +5863,13 @@
 ||zombiethebot88.com^$all
 ||zontrades.com^$all
 ||zoomcryptoinvestment.org^$all
+||zoomusdt.com^$all
 ||zorainvestments.ltd^$all
 ||zoro-fx.com^$all
 ||zorrocoin.tech^$all
 ||zorrotrade.com^$all
 ||zorxbit.com^$all
+||zoteex.com^$all
 ||zoxbit.com^$all
 ||zpbullcoin.com^$all
 ||zrgforex.com^$all
@@ -5843,6 +5886,7 @@
 ||zvcbd.xyz^$all
 ||zxgfx.com^$all
 ||zyewjhagns.xyz^$all
+||zynecoins.net^$all
 ||zystrainvest.net^$all
 ||zzjbol.com^$all
 ||zzz.v3gzi.cc^$all
