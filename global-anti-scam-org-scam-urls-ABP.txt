@@ -1140,6 +1140,7 @@
 ||hotcoinstrade.com^
 ||hotcpro.vip^
 ||hotdextrade.com^
+||hotexcoin.com^
 ||hotexgain-trade.com^
 ||hotforex.com^
 ||hotforexax.com^
@@ -1148,12 +1149,15 @@
 ||hotsignalfx.com^
 ||hotspurforex.org^
 ||hotstockforex.com^
+||hourcrypto.xyz^
 ||hourfx.net^
+||hourlycryptoprofits.com^
 ||house-of-btc.com^
 ||howcrypto.org^
 ||hoyomining.net^
 ||hoyomining.org^
 ||hpoptionstrade.live^
+||hpusdt.com^
 ||hpybay.com^
 ||hricaifx.com^
 ||hriinta.com^
@@ -1175,6 +1179,7 @@
 ||hub-crypto.xyz^
 ||hubcultures.net^
 ||hublogs.com^
+||hubminerltd.com^
 ||hubprotradeoption.com^
 ||hudsonaccurateinvest.com^
 ||hugetradesfx.live^
@@ -1195,6 +1200,7 @@
 ||hungrywhale-investors.com^
 ||hungrywhaleinvestors.com^
 ||hunter.farm^
+||huntercoint.top^
 ||huntinglobal.com^
 ||huobi-6.com^
 ||huobi-ok.com^
@@ -1226,6 +1232,7 @@
 ||hxshop.store^
 ||hybioglobal.com^
 ||hybiomarket.com^
+||hybrid-fxcrypto.com^
 ||hydefieco.com^
 ||hydrocoin.ltd^
 ||hyeusaiwqckodsf.org^
@@ -1262,8 +1269,13 @@
 ||icb-trading.com^
 ||ice-bitt.com^
 ||ice-vcr.com^
+||icebit.ink^
+||icebit.shop^
+||icebit.site^
+||icebit.vip^
 ||icebitt-pro.com^
 ||icebitt.org^
+||icebtcme.space^
 ||icegroupltd.com^
 ||icentinvestmentltd.online^
 ||icerket-coin.com^
@@ -1284,6 +1296,7 @@
 ||iconcapitalmarket.com^
 ||icr-global-trading.com^
 ||icriptomining.com^
+||icryptooptions.online^
 ||icryptos.biz^
 ||ictf.cc^
 ||icyexchange.com^
@@ -1464,6 +1477,7 @@
 ||infinitextrader.org^
 ||infinity-fund.ltd^
 ||infinity-fundfx.com^
+||infinitycoinasset.trade^
 ||infinitycryptoearnings.com^
 ||infinityfxs.online^
 ||infinityglobalfx.com^
@@ -1484,6 +1498,7 @@
 ||inpcmarket.com^
 ||inst-global.com^
 ||instaktrade.com^
+||instamine.biz^
 ||instantcashback.xyz^
 ||instantfxtradeoption.online^
 ||instantminer.site^
@@ -1542,6 +1557,7 @@
 ||inversion123.com^
 ||invest-luxurypropertyshares.com^
 ||invest-shop.net^
+||invest2earncrypto.com^
 ||invest2profit.online^
 ||invest365.website^
 ||invest4life.site^
@@ -1550,6 +1566,7 @@
 ||investby.com^
 ||investcorp.ltd^
 ||investcru.cfd^
+||investcryptoprofit.com^
 ||investearnings.org^
 ||investeceultd.com^
 ||investedtrade.com^
@@ -1587,8 +1604,10 @@
 ||investncrypto.net^
 ||investnewpt.com^
 ||investo4life.com^
+||investocrypto.net^
 ||investoforex.org^
 ||investolymp.com^
+||investoncryptos.com^
 ||investonpedia.website^
 ||investopedia.vip^
 ||investor-etf.com^
@@ -1596,6 +1615,7 @@
 ||investor-search.com^
 ||investormines.com^
 ||investornewshub.com^
+||investorscrypt.com^
 ||investorstoptal.com^
 ||investpro.today^
 ||investupfx.com^
@@ -1605,6 +1625,7 @@
 ||invextimo.com^
 ||invictus-investments.com^
 ||invose.com^
+||invstormining.com^
 ||inyovainvests.co^
 ||ioeaiex.com^
 ||iog.community^
@@ -1616,9 +1637,11 @@
 ||iprofitoptionstrade.online^
 ||iq-fx.com^
 ||iq-option.com^
+||iqbitprime.com^
 ||iqbroker.com^
 ||iqbrokersfx.com^
 ||iqcinfor.com^
+||iqcryptoinvest.com^
 ||iqdexverse.org^
 ||iqfxcryptfinancemarket.online^
 ||iqfxmarkets.com^
@@ -1675,6 +1698,7 @@
 ||iwannadating.com^
 ||ixforex.com^
 ||ixxbtc.com^
+||izicrypt.com^
 ||j-onetrader.ltd^
 ||j-pex.com^
 ||j9bc.casino^
@@ -1956,6 +1980,7 @@
 ||kittycoin.online^
 ||kiwitravel-tw.com^
 ||kkbitpro.com^
+||kkcbtcfx.com^
 ||kkcoinsc.com^
 ||kkrtrad.com^
 ||kkrwell.top^
@@ -1974,6 +1999,7 @@
 ||knight-trade.com^
 ||knk-crypto.com^
 ||knk-crypto.net^
+||knkcoin.com^
 ||koce.world^
 ||kodascoins.ltd^
 ||kogege.xyz^
@@ -2063,6 +2089,7 @@
 ||kucointw.com^
 ||kucoinusa.com^
 ||kudx.com^
+||kuroxcoin.com^
 ||kusbit.com^
 ||kuswap.top^
 ||kutoken.io^
@@ -2178,6 +2205,7 @@
 ||legacyapextrade.com^
 ||legacyfxtraders.com^
 ||legalbittradingpool.com^
+||legalcryptextrade.com^
 ||legalexpressinvestment.com^
 ||legalunitraderx.com^
 ||legareaforex.com^
@@ -2187,6 +2215,7 @@
 ||legitimate-funds.org^
 ||legitimatetrade.online^
 ||legitimatetradefx.com^
+||legitminingforum.com^
 ||legitminingpro.com^
 ||legitsicryptoimining.online^
 ||legitstraders.com^
@@ -2195,6 +2224,7 @@
 ||lelongshop.com^
 ||lem-coin.com^
 ||lemxc.com^
+||lendernetworkandcryptos.com^
 ||lenox-coincx.com^
 ||lenoxnext.com^
 ||lenswo.com^
@@ -2212,6 +2242,7 @@
 ||letmecloud.com^
 ||letraders.com^
 ||letraders.org^
+||levelmining.com^
 ||leveluptrading.ltd^
 ||lever-ex.com^
 ||leveragedtrading.net^
@@ -2271,6 +2302,7 @@
 ||limoxtrades.com^
 ||limtoken.xyz^
 ||linargogroup.com^
+||lincoin.biz^
 ||line01.vip^
 ||linetradeltd.com^
 ||linexfxsignals.com^
@@ -2303,6 +2335,7 @@
 ||litaderex.com^
 ||litbitix.biz^
 ||litbtc.vip^
+||litcoinmarkets.org^
 ||lite.forex^
 ||litecoinexchangeoptions.com^
 ||litecoinmine.live^
@@ -2337,6 +2370,7 @@
 ||litpopfinance.com^
 ||liujiu86.xyz^
 ||live-fairtrade.com^
+||livecointx247.com^
 ||liveexchange.us^
 ||livemarketpro.com^
 ||liveoctaindexs.com^
@@ -2562,6 +2596,7 @@
 ||metacryptoera.com^
 ||metadata.krychs.com^
 ||metamex.exchange^
+||metaquotes.com^
 ||mexccoins.com^
 ||midcipro.com^
 ||millenniumtradinghub.com^
@@ -2620,6 +2655,7 @@
 ||napmine.com^
 ||narbytrade.com^
 ||nardofx.com^
+||naribitmax.com^
 ||narlycoin.com^
 ||nas-app.com^
 ||nas-vip.com^
@@ -2637,6 +2673,7 @@
 ||natsfx.com^
 ||natsle.com^
 ||nattex.top^
+||navcoinholdings.com^
 ||navigatortrades.com^
 ||naxcomexchangeinc.com^
 ||ncbcc.xyz^
@@ -2745,6 +2782,7 @@
 ||nfatw.com^
 ||nfcoin.cc^
 ||nflix.media^
+||nft-cryptomine.com^
 ||nft-uniswap.net^
 ||nftbion.com^
 ||nftbullex.com^
@@ -2793,7 +2831,9 @@
 ||nodsbit.com^
 ||none.com^
 ||nonfungiblecoin.net^
+||noov-crypto.online^
 ||nordbitc.com^
+||nordcloudmining.net^
 ||nordfxex.site^
 ||nordfxss.vip^
 ||normancapitalgroup.com^
@@ -2838,6 +2878,7 @@
 ||numericbitminer.com^
 ||nuoya.dxzrs.com^
 ||nuralxpressdelivery.com^
+||nuri-compliance.com^
 ||nutex-online.com^
 ||nutexonline.com^
 ||nutorex.com^
@@ -2857,11 +2898,13 @@
 ||ny-crypto-trade.com^
 ||ny-trade24.com^
 ||nybexc.com^
+||nybittrade.com^
 ||nycex.org^
 ||nycmorgan.com^
 ||nycoine.com^
 ||nycoinexe.com^
 ||nycsto.com^
+||nydcoin.com^
 ||nyels.com^
 ||nyexeworld.com^
 ||nylivetrade.com^
@@ -2938,6 +2981,7 @@
 ||octacapitalpro.com^
 ||octacoinioexchanges.com^
 ||octacoinstrade.com^
+||octacryptofx.online^
 ||octacryptotradings.com^
 ||octafx-onlinetrading.com^
 ||octafx-signal.co^
@@ -2965,6 +3009,8 @@
 ||odinfunding.com^
 ||odqaktm.top^
 ||odzsgtw.com^
+||oeusdt.xyz^
+||ofcrypt.com^
 ||office.nextforex.live^
 ||officialcashpaidhackerspro.com^
 ||officialnomiswap.com^
@@ -2992,6 +3038,7 @@
 ||okbbb541.info^
 ||okbipro.com^
 ||okbitb.com^
+||okbitco.com^
 ||okbitex.site^
 ||okbitx.com^
 ||okcoinvip.com^
@@ -3045,6 +3092,7 @@
 ||omoex.com^
 ||omxmax.org^
 ||onadatrade.com^
+||onbitline.com^
 ||ondersongroup.com^
 ||ondkuiy.top^
 ||one-invests.com^
@@ -3066,6 +3114,7 @@
 ||onesevenplay.com^
 ||onesevenplayy.com^
 ||onestep-exchange.com^
+||onestopmining.shop^
 ||onetapinvest.com^
 ||onetcoin.com^
 ||onetofiveinvestmentandcredit.com^
@@ -3103,6 +3152,7 @@
 ||op.gdzyzx.xyz^
 ||opaqueinvesting.net^
 ||openbankaccount.org^
+||opencoinvip.net^
 ||opexcoins.us^
 ||opexcryptomining.com^
 ||opofinance.com^
@@ -3120,6 +3170,7 @@
 ||optimaltradersfx.com^
 ||optimaltrades.vip^
 ||optimatrade.org^
+||optimism-coin.com^
 ||optimizefunds.cc^
 ||optimizefunds.co^
 ||optimum-equitytrade.com^
@@ -3259,6 +3310,7 @@
 ||power-vic.com^
 ||pp.kasnses.com^
 ||pp.kasnsnss.com^
+||presalekronobit.tech^
 ||probabafx.net^
 ||profession-vt.com^
 ||promo.libertex.com^
@@ -3266,6 +3318,7 @@
 ||protal.incetial.com^
 ||prww621.com^
 ||pz6xmj.xyz^
+||qatarcoin.vip^
 ||qatargoldeninvest.com^
 ||qbctex.com^
 ||qbgforex.com^
