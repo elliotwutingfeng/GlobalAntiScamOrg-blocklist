@@ -750,6 +750,7 @@
 ||goodluck.okxbit8.com^$all
 ||goodxtrade.online^$all
 ||gou1788.com^$all
+||greenbit.asia^$all
 ||gs3x.xyz^$all
 ||gthseer.nadexm.com^$all
 ||gthseer.pneaker.com^$all
@@ -853,7 +854,9 @@
 ||happs.xyz^$all
 ||happydollar.top^$all
 ||happytrustinvest.com^$all
+||hapticmining.com^$all
 ||harcm.com^$all
+||hardcoin.shop^$all
 ||haremark.online^$all
 ||harords.co^$all
 ||harris-forex.com^$all
@@ -868,6 +871,7 @@
 ||hashcryptor.net^$all
 ||hashexs.com^$all
 ||hashfinance-ltd.com^$all
+||hashminer.live^$all
 ||hashmining.vip^$all
 ||hashminingoptionway.com^$all
 ||hashtrading1.com^$all
@@ -915,6 +919,7 @@
 ||hemnow.com^$all
 ||hempcrypto.net^$all
 ||hendersonwebsite.net^$all
+||hendrixbank.com^$all
 ||hendry-fx.com^$all
 ||hengry-fx.com^$all
 ||hengryfx.net^$all
@@ -944,6 +949,8 @@
 ||hfjr-tw.com^$all
 ||hfjrtw.com^$all
 ||hfm-traders.com^$all
+||hfx-cryptofxtrades.com^$all
+||hfxcryptcaps.com^$all
 ||hfxfinac.com^$all
 ||hfxlegaltradeo.com^$all
 ||hg7569.com^$all
@@ -976,6 +983,7 @@
 ||hightbitcorefx.com^$all
 ||hightekfund.com^$all
 ||hightrade.trade^$all
+||highup-bit.com^$all
 ||highwex.com^$all
 ||higobit.net^$all
 ||higobit.vip^$all
@@ -987,6 +995,7 @@
 ||higoorderr6.com^$all
 ||higoorderr8.com^$all
 ||higoorderr9.com^$all
+||hilfeglobalminerstrader.com^$all
 ||hillsglobal.trade^$all
 ||hillsu.com^$all
 ||hilltop.cool^$all
@@ -1003,6 +1012,7 @@
 ||hireahacker.com^$all
 ||hirebitcoinbountyhunters.com^$all
 ||hisensecoinzs.live^$all
+||hitaltcoins.com^$all
 ||hitbcx.co^$all
 ||hitbtc-erc.com^$all
 ||hitbtc-erc.net^$all
@@ -1023,6 +1033,7 @@
 ||hitsbtc.com^$all
 ||hivechaincloudmining.com^$all
 ||hivecloudblockchain.ltd^$all
+||hivecoinpool.com^$all
 ||hjuae.com^$all
 ||hjz.zeax8.com^$all
 ||hk-oanda.com^$all
@@ -1086,11 +1097,13 @@
 ||hoinex.com^$all
 ||holbekgroup.com^$all
 ||holdcoin.live^$all
+||holiday-mining.vip^$all
 ||holytrade.org^$all
 ||home-go.online^$all
 ||home-trade.ltd^$all
 ||homemalltw.com^$all
 ||homemals.com^$all
+||homeofcrypto.net^$all
 ||hon-ho2.com^$all
 ||honchlimited.com^$all
 ||honesttraders.org^$all
@@ -1100,9 +1113,11 @@
 ||honhu16.com^$all
 ||honhui91.com^$all
 ||honompor.com^$all
+||honor-btc.com^$all
 ||honorchange.com^$all
 ||honorfxmarket.online^$all
 ||hoodde.com^$all
+||hooked-coin.space^$all
 ||hoolyfx.com^$all
 ||hope247investmenttradingprofits.com^$all
 ||hopelover.com^$all
@@ -1115,7 +1130,9 @@
 ||hopfista.com^$all
 ||hopfistcrm.net^$all
 ||hopoo.tw^$all
+||horixbank.com^$all
 ||horizon-crypto.ltd^$all
+||horizonbitfx.com^$all
 ||horizonmining.net^$all
 ||horizontradefx.com^$all
 ||horizontradingcoin.com^$all
@@ -1127,6 +1144,7 @@
 ||hotaex.xyz^$all
 ||hotbitcoin.vip^$all
 ||hotbot.to^$all
+||hotbtcbull.com^$all
 ||hotbullsfxtrader.online^$all
 ||hotcoin.fans^$all
 ||hotcoin.shop^$all
@@ -1254,6 +1272,7 @@
 ||iayebvax.live^$all
 ||ib.cnqjdgt.com^$all
 ||ib.dotasy.com^$all
+||ibankingeva.com^$all
 ||ibelinktrade.com^$all
 ||ibestrading.com^$all
 ||ibextrust.com^$all
@@ -1288,6 +1307,7 @@
 ||icmarkets-tw.com^$all
 ||icmarkets.news^$all
 ||icmarketstw.com^$all
+||icmsfx.com^$all
 ||icobit.biz^$all
 ||icoin-bittrading.online^$all
 ||icoinsbase.com^$all
@@ -1308,6 +1328,7 @@
 ||idealkinder.net^$all
 ||idealkinding.com^$all
 ||idealkinds.com^$all
+||idealwaybank.com^$all
 ||ideatrading365.com^$all
 ||idex.pw^$all
 ||idex.store^$all
@@ -1490,6 +1511,7 @@
 ||infocoinnetwork.com^$all
 ||infocoinsnetwork.com^$all
 ||infofxexpo.com^$all
+||infoworldbank.com^$all
 ||ingfxgroup.com^$all
 ||inintels.com^$all
 ||inktech.live^$all
@@ -1499,6 +1521,7 @@
 ||inst-global.com^$all
 ||instaktrade.com^$all
 ||instamine.biz^$all
+||instantbanktransfercasino.com^$all
 ||instantcashback.xyz^$all
 ||instantfxtradeoption.online^$all
 ||instantminer.site^$all
@@ -1680,6 +1703,7 @@
 ||itfx.in^$all
 ||itinvest.ltd^$all
 ||itk-ex.com^$all
+||itmaadgold.com^$all
 ||itrade.live^$all
 ||itradecoinlimited.com^$all
 ||itradeltd.online^$all
@@ -2458,6 +2482,7 @@
 ||luck168.recoin8.com^$all
 ||luckycoin.shop^$all
 ||luckyminerbnb.xyz^$all
+||luckyrich168.com^$all
 ||luckystartradings.live^$all
 ||luckytoken.fun^$all
 ||lucrominefx.com^$all
@@ -2513,6 +2538,7 @@
 ||m.lbnk123.com^$all
 ||m.lmcf.vip^$all
 ||m.lmcff.net^$all
+||m.luxury51.com^$all
 ||m.mgjt2008.top^$all
 ||m.mykkyy883.com^$all
 ||m.nasdaq6.com^$all
