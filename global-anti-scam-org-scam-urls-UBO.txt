@@ -510,6 +510,7 @@
 ||cryptoassessors.com^$all
 ||cryptoexpertoption.online^$all
 ||cryptofx-investfey.xyz^$all
+||cryptolatamfunds-investment.com^$all
 ||cryptoleobor.com^$all
 ||cryptonexta.net^$all
 ||cryptonomy.click^$all
@@ -615,6 +616,7 @@
 ||download.walletcoines.com^$all
 ||download.xiaomi.co.com^$all
 ||downloadappios.com^$all
+||downloadokexcoinl.xyz^$all
 ||downloadokexcoints.xyz^$all
 ||downloadomg.wheppc.com^$all
 ||dptinvest.com^$all
@@ -660,9 +662,11 @@
 ||ethdifi.com^$all
 ||ethereumsocialcontract.org^$all
 ||ethmg.com^$all
+||ethmining.homes^$all
 ||ethrefund.com^$all
 ||etradersonline.com^$all
 ||eurcwfinze.com^$all
+||exchainbit.com^$all
 ||exchangewallet99.com^$all
 ||excllusiveplaatform.online^$all
 ||exlbnk.com^$all
@@ -2470,6 +2474,7 @@
 ||lpggame.com^$all
 ||lrehk.com^$all
 ||ls-bit.com^$all
+||lsepbe.com^$all
 ||lthcrosstw.com^$all
 ||ltieforex.com^$all
 ||ltmanages.com^$all
@@ -4286,6 +4291,7 @@
 ||usdt-view.top^$all
 ||usdt-view.xyz^$all
 ||usdt-xyz.com^$all
+||usdt.earth^$all
 ||usdt04.com^$all
 ||usdt08.com^$all
 ||usdt12.com^$all
@@ -5397,6 +5403,7 @@
 ||zxgfx.com^$all
 ||zyewjhagns.xyz^$all
 ||zykausdt.com^$all
+||zylotrade.com^$all
 ||zynecoins.net^$all
 ||zystrainvest.net^$all
 ||zzjbol.com^$all
