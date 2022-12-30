@@ -176,6 +176,7 @@
 ||5gtridex.com^
 ||5xtrading.online^
 ||5xxinvests.com^
+||615x.com^
 ||6298tw.com^
 ||64117.online^
 ||66bb.club^
@@ -287,6 +288,7 @@
 ||app.365ball.asia^
 ||app.bydn187.club^
 ||app.droprich.co^
+||app.fnebbeqnca.com^
 ||app.gmo-click.shop^
 ||app.gtuhasjdhhq.com^
 ||app.handa.club^
@@ -444,6 +446,7 @@
 ||cimc-tank.net^
 ||cit.zodiiacs.com^
 ||claim-hex.com^
+||clap-arbitrate.click^
 ||client.han-forex.com^
 ||client.illumarkers.org^
 ||cloudusdtx.com^
@@ -463,6 +466,7 @@
 ||coineth.info^
 ||coinhousekl7.org^
 ||coininner.top^
+||coiniob.com^
 ||coinmarketcap.yasenfinancial.site^
 ||coinrecovery.org^
 ||coinrichness.com^
@@ -510,7 +514,6 @@
 ||cryptoassessors.com^
 ||cryptoexpertoption.online^
 ||cryptofx-investfey.xyz^
-||cryptolatamfunds-investment.com^
 ||cryptoleobor.com^
 ||cryptonexta.net^
 ||cryptonomy.click^
@@ -616,7 +619,6 @@
 ||download.walletcoines.com^
 ||download.xiaomi.co.com^
 ||downloadappios.com^
-||downloadokexcoinl.xyz^
 ||downloadokexcoints.xyz^
 ||downloadomg.wheppc.com^
 ||dptinvest.com^
@@ -662,11 +664,9 @@
 ||ethdifi.com^
 ||ethereumsocialcontract.org^
 ||ethmg.com^
-||ethmining.homes^
 ||ethrefund.com^
 ||etradersonline.com^
 ||eurcwfinze.com^
-||exchainbit.com^
 ||exchangewallet99.com^
 ||excllusiveplaatform.online^
 ||exlbnk.com^
@@ -1835,6 +1835,7 @@
 ||jsjs2763jsjs8282as7app.com^
 ||jslinkglobal.com^
 ||jsunholdings.com^
+||jsunstock.com^
 ||jsy-fortex.com^
 ||jtl-global.com^
 ||jtlglobal.com^
@@ -1865,6 +1866,7 @@
 ||jurassicoins.com^
 ||justmarkets.com^
 ||juvanex.online^
+||juzhiju.com^
 ||jvceaex.com^
 ||jvceaexx.com^
 ||jwcoin.net^
@@ -2474,7 +2476,6 @@
 ||lpggame.com^
 ||lrehk.com^
 ||ls-bit.com^
-||lsepbe.com^
 ||lthcrosstw.com^
 ||ltieforex.com^
 ||ltmanages.com^
@@ -2668,6 +2669,7 @@
 ||n.kassanses.com^
 ||n.nasdaq12.xyz^
 ||n.wayteciese.com^
+||n.ziintek.com^
 ||nabycoin.com^
 ||nadexg.com^
 ||naer-pro.tech^
@@ -2985,6 +2987,7 @@
 ||oasistrading.net^
 ||ob9w5g.flxum.xyz^
 ||obercoin.com^
+||obercoin.vip^
 ||obexforex.com^
 ||obfcorp.com^
 ||obfex.com^
@@ -3306,6 +3309,7 @@
 ||oyster666.top^
 ||oyster777.top^
 ||oyster88.top^
+||oyster99.top^
 ||oyster999.top^
 ||ozforex.biz^
 ||ozieswap.org^
@@ -3498,6 +3502,7 @@
 ||rawcoinvestment.co^
 ||raydiumcoin.com^
 ||raydiumex.com^
+||raytheongloball.com^
 ||rayyexchange.com^
 ||rbearning.com^
 ||rbreaker167.xyz^
@@ -3643,6 +3648,7 @@
 ||rjfinancialpro.vip^
 ||rk-twd.com^
 ||rlative66.top^
+||rlative88.top^
 ||rlative968.top^
 ||rmdtoken.club^
 ||rmie.com^
@@ -4291,7 +4297,6 @@
 ||usdt-view.top^
 ||usdt-view.xyz^
 ||usdt-xyz.com^
-||usdt.earth^
 ||usdt04.com^
 ||usdt08.com^
 ||usdt12.com^
@@ -4464,6 +4469,7 @@
 ||uuex.shop^
 ||uuexfly.com^
 ||uuexna.com^
+||uunicomk.vip^
 ||uvexcoin.com^
 ||uw.allh5.com^
 ||uw.ry888.xyz^
@@ -5061,6 +5067,7 @@
 ||xbtcco.vip^
 ||xbtglobal.trade^
 ||xcessfxmarket.live^
+||xclbank.com^
 ||xcointradingexchange.com^
 ||xcrypto-minings.com^
 ||xcrypto-profit.com^
@@ -5246,6 +5253,7 @@
 ||z-fund.top^
 ||z6fx.com^
 ||z6fxs.com^
+||z8eap.com^
 ||z8hash1.com^
 ||z8int.com^
 ||zaaeraexchange.world^
@@ -5326,6 +5334,7 @@
 ||zentrade.org^
 ||zeonic.cc^
 ||zepher-coins.net^
+||zero2richer.store^
 ||zerolosstrade.com^
 ||zerosbit.com^
 ||zetatradeforex.com^
@@ -5403,7 +5412,6 @@
 ||zxgfx.com^
 ||zyewjhagns.xyz^
 ||zykausdt.com^
-||zylotrade.com^
 ||zynecoins.net^
 ||zystrainvest.net^
 ||zzjbol.com^
