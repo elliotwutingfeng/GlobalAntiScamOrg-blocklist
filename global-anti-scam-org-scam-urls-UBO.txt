@@ -415,6 +415,7 @@
 ||blacktex.click^$all
 ||bnbpro.me^$all
 ||bnbview.com^$all
+||boa-finance.online^$all
 ||bokie.bond^$all
 ||bolonicorp.com^$all
 ||boloniwd.com^$all
@@ -438,6 +439,7 @@
 ||buyx3.club^$all
 ||buyx33.today^$all
 ||by6hwz.hfh9988.com^$all
+||byinvestday.shop^$all
 ||bytetradingex1.com^$all
 ||cabbyd.cc^$all
 ||caitong.co^$all
@@ -673,6 +675,7 @@
 ||eth-hummingbot.com^$all
 ||eth-layer2.net^$all
 ||eth-lidopro.net^$all
+||eth-uni.top^$all
 ||eth-wintermute.cc^$all
 ||eth-wintermute.com^$all
 ||eth4asia.com^$all
@@ -1023,6 +1026,7 @@
 ||hillsu.com^$all
 ||hilltop.cool^$all
 ||hiltonapex.com^$all
+||himado.com^$all
 ||himalaya.exchange^$all
 ||hinbex.com^$all
 ||hintstrademarket.com^$all
@@ -1340,6 +1344,7 @@
 ||icmarketstw.com^$all
 ||icmsfx.com^$all
 ||icobit.biz^$all
+||icodelivery.com^$all
 ||icoin-bittrading.online^$all
 ||icoinsbase.com^$all
 ||icoinsinvest.com^$all
@@ -2074,6 +2079,7 @@
 ||kok-chain.io^$all
 ||kokencoin.com^$all
 ||konanos.com.tw^$all
+||koneoyp.com^$all
 ||kono-coin.com^$all
 ||koorbit.com^$all
 ||koorbitau.com^$all
@@ -2087,6 +2093,7 @@
 ||koyascotrade.com^$all
 ||kpc88.com^$all
 ||kpcbwin.ios03.com^$all
+||kpcoits.lol^$all
 ||kpdwpl785.top^$all
 ||kpjauctions.co^$all
 ||kpnhp.com^$all
@@ -2260,6 +2267,7 @@
 ||ledgerminertrade.com^$all
 ||ledgerxllc.com^$all
 ||ledgerxpro.com^$all
+||ledokvl.com^$all
 ||leedsch.com^$all
 ||legacy-tradesfx.com^$all
 ||legacyapextrade.com^$all
@@ -2446,6 +2454,7 @@
 ||liyeplimal.net^$all
 ||llc-exclusiv.com^$all
 ||llc-exclusiv.tw^$all
+||llinft.com^$all
 ||lmax-ex.com^$all
 ||lmaxau.com^$all
 ||lmaxfortw.com^$all
@@ -2639,6 +2648,7 @@
 ||maccoinbd.com^$all
 ||mall-lazada.com^$all
 ||mana-coin.net^$all
+||market-qtx.info^$all
 ||market-quotex.net^$all
 ||marketsvt.com^$all
 ||marketsvt.tw^$all
@@ -4931,6 +4941,7 @@
 ||wenmeigroup.com^$all
 ||westifxtrade.com^$all
 ||westpackkd.com^$all
+||wetrad.com^$all
 ||wewealthtrading.com^$all
 ||wexcoinbit.com^$all
 ||wexocapltd.com^$all
@@ -4993,6 +5004,7 @@
 ||winvestconseilsa.com^$all
 ||winvestock.net^$all
 ||winwincoin.me^$all
+||wisconsinpresscorporation.us^$all
 ||wisecoinfx.com^$all
 ||wisecoinsblast.com^$all
 ||wisetraderacademy.com^$all
