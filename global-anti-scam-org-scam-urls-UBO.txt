@@ -240,6 +240,7 @@
 ||Nobeliumhackers.com^$all
 ||RHONECOIN.com^$all
 ||Rawkchain.com^$all
+||a.gotiwjqqwe.com^$all
 ||a.hkhuifa.com^$all
 ||a.jdbvv.cn^$all
 ||a.kineprotocol.net^$all
@@ -291,6 +292,7 @@
 ||anding9.com^$all
 ||annexcoin.xyz^$all
 ||antinvestiment.com^$all
+||apexpravo.net^$all
 ||apfoxcoin.com^$all
 ||apgo88.com^$all
 ||api.feiyudeba.com^$all
@@ -624,6 +626,7 @@
 ||docs.qoinpro.com^$all
 ||doen.mitui88.com^$all
 ||dogex.live^$all
+||dolo.ewweex.com^$all
 ||dolo.exnsdaq.com^$all
 ||dolo.nsdaqex.com^$all
 ||dolo.nsexdaq.com^$all
@@ -754,6 +757,7 @@
 ||fxlegacyprotrade.com^$all
 ||fxv587.tw^$all
 ||fxviptf.com^$all
+||galaxy.kion.rocks^$all
 ||gangstacum.com^$all
 ||gateusdt.com^$all
 ||gbk234.com^$all
@@ -1385,6 +1389,7 @@
 ||idspro.xyz^$all
 ||iegc.hyhtml5.com^$all
 ||ieox.xyz^$all
+||ieurnf.xyz^$all
 ||iex-apr.com^$all
 ||iex88.com^$all
 ||iexccell.com^$all
@@ -1728,6 +1733,7 @@
 ||itbit.bond^$all
 ||itbit.pw^$all
 ||itbitory.com^$all
+||itbitsw.com^$all
 ||itbittop.com^$all
 ||itbitua.com^$all
 ||itcfx.net^$all
@@ -1867,6 +1873,7 @@
 ||jsfsjx.top^$all
 ||jsjs2763jsjs8282as7app.com^$all
 ||jslinkglobal.com^$all
+||jsunglobal.com^$all
 ||jsunholdings.com^$all
 ||jsunstock.com^$all
 ||jsy-fortex.com^$all
@@ -2193,6 +2200,7 @@
 ||lamacap.live^$all
 ||lamebit.com^$all
 ||lamigoinvest.com^$all
+||lamigoplus.com^$all
 ||landbridgetoleningrad.com^$all
 ||landunglobal.com^$all
 ||lanrenwenan.com^$all
@@ -2465,6 +2473,7 @@
 ||lmex.top^$all
 ||lmexa.top^$all
 ||lmexc.xyz^$all
+||lmexseut.com^$all
 ||lmgoldlimited.com^$all
 ||lmigp.com^$all
 ||lmphoness.com^$all
@@ -2812,6 +2821,7 @@
 ||newdexb.vip^$all
 ||newebtc.co^$all
 ||newerapad.online^$all
+||newerapad.space^$all
 ||newexglobal.com^$all
 ||newgrowntraders.com^$all
 ||newhoney.com^$all
@@ -2982,7 +2992,9 @@
 ||nydcoin.com^$all
 ||nyels.com^$all
 ||nyexeworld.com^$all
+||nyfocu.com^$all
 ||nylivetrade.com^$all
+||nymexcel.com^$all
 ||nymexep.com^$all
 ||nymexery.com^$all
 ||nymexfis.com^$all
@@ -3176,6 +3188,7 @@
 ||one-store.space^$all
 ||one-store.today^$all
 ||one-store.uno^$all
+||onecin.vip^$all
 ||onecns.vip^$all
 ||onecoincapital.com^$all
 ||onecopi.vip^$all
@@ -3517,6 +3530,7 @@
 ||rainbowhkfx.com^$all
 ||rainbowplatforms.com^$all
 ||rakuten06.com^$all
+||rakuten09.com^$all
 ||rakutenetopd.com^$all
 ||rakutenext.com^$all
 ||raldofx.com^$all
@@ -3809,6 +3823,7 @@
 ||ruiwinaa.com^$all
 ||ruiwinax.com^$all
 ||ruiwinfx.com^$all
+||ruixin520.com^$all
 ||runaswap.com^$all
 ||runovotrendtrade.net^$all
 ||runthemoney.com^$all
@@ -3914,6 +3929,7 @@
 ||together-loan.com^$all
 ||token.im^$all
 ||tokenko.me^$all
+||tokopedia-international.com^$all
 ||top-vt.com^$all
 ||topfxnet.com^$all
 ||trade-valueinvest.com^$all
@@ -4103,6 +4119,7 @@
 ||uni-defis.com^$all
 ||uni-defis.life^$all
 ||uni-eth.com^$all
+||uni-financeplus.com^$all
 ||unibit.finance^$all
 ||unibitero.com^$all
 ||uniclyz.io^$all
@@ -4516,6 +4533,7 @@
 ||uuexfly.com^$all
 ||uuexna.com^$all
 ||uunicomk.vip^$all
+||uunicomll.vip^$all
 ||uvexcoin.com^$all
 ||uw.allh5.com^$all
 ||uw.ry888.xyz^$all
@@ -4737,6 +4755,7 @@
 ||vpsinvestmentgrow.com^$all
 ||vr1688.net^$all
 ||vrbxdv.dtrex88.com^$all
+||vrkaadawbs.com^$all
 ||vrwallet.live^$all
 ||vs-fx.com^$all
 ||vsaaminingltd.com^$all
@@ -4747,6 +4766,7 @@
 ||vsmarket-fx.com^$all
 ||vsoptokok.top^$all
 ||vsquarefx.com^$all
+||vsw.waves.directory^$all
 ||vt-top.com^$all
 ||vt-top.tw^$all
 ||vt-vip.com^$all
@@ -5246,6 +5266,7 @@
 ||yieldfarming-marketplus.com^$all
 ||yieldfarmingmax.com^$all
 ||yilinkcoin.com^$all
+||yingfashionshop.com^$all
 ||yinzfx.org^$all
 ||yljt8.com^$all
 ||yllfx.co^$all
@@ -5323,6 +5344,7 @@
 ||zaxhiyw.cn^$all
 ||zazixbit.com^$all
 ||zbap.vip^$all
+||zbbdy.vip^$all
 ||zbcc.ac.cn^$all
 ||zbdealer.com^$all
 ||zbg.com^$all
