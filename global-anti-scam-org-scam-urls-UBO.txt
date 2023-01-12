@@ -292,6 +292,8 @@
 ||anding9.com^$all
 ||annexcoin.xyz^$all
 ||antinvestiment.com^$all
+||anyinvest.online^$all
+||apexfxcapital.com^$all
 ||apexpravo.net^$all
 ||apfoxcoin.com^$all
 ||apgo88.com^$all
@@ -1056,6 +1058,7 @@
 ||hitbtccoin.com^$all
 ||hitbtci.com^$all
 ||hitbtcjp.com^$all
+||hitbtcn.com^$all
 ||hitbtcpro.com^$all
 ||hitechempire.com^$all
 ||hitechvm.com^$all
@@ -1347,6 +1350,7 @@
 ||icmarkets.news^$all
 ||icmarketstw.com^$all
 ||icmsfx.com^$all
+||icmsfxs.com^$all
 ||icobit.biz^$all
 ||icodelivery.com^$all
 ||icoin-bittrading.online^$all
@@ -2524,6 +2528,7 @@
 ||lpggame.com^$all
 ||lrehk.com^$all
 ||ls-bit.com^$all
+||lsepbe.com^$all
 ||lthcrosstw.com^$all
 ||ltieforex.com^$all
 ||ltmanages.com^$all
@@ -2571,6 +2576,7 @@
 ||lykaswap.com^$all
 ||lyova-ltd.com^$all
 ||lyty615.com^$all
+||lzgos.com^$all
 ||m.365s666.com^$all
 ||m.78ex.info^$all
 ||m.coindater.com^$all
@@ -3917,6 +3923,7 @@
 ||teyycy.tw^$all
 ||the1yearcoin.com^$all
 ||thehyperverse.net^$all
+||thepioneiroo.com^$all
 ||therisefx.com^$all
 ||thewombatexchange.com^$all
 ||thrifty.waytecics.com^$all
@@ -4967,6 +4974,7 @@
 ||wexocapltd.com^$all
 ||wexpaybit.com^$all
 ||wfdcoin.top^$all
+||wgpages.com^$all
 ||wgtradepipspro.online^$all
 ||whaeokx.com^$all
 ||whakoex.com^$all
