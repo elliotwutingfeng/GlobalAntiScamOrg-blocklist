@@ -164,6 +164,7 @@
 ||47trades.com^$all
 ||488988.com^$all
 ||48superfx.com^$all
+||48superfx.net^$all
 ||4bit.online^$all
 ||4cryptop.com^$all
 ||4cryptor.com^$all
@@ -181,6 +182,7 @@
 ||562088.com^$all
 ||58tron.com^$all
 ||59y.com^$all
+||5atopcex.xyz^$all
 ||5billionsales.com^$all
 ||5g.dfgyueyue.xyz^$all
 ||5g.sdfyueyue.xyz^$all
@@ -233,6 +235,7 @@
 ||99063349.npc-ty01.com^$all
 ||99soul.com^$all
 ||9amarantos.com^$all
+||9figure41ktrading.com^$all
 ||9mining.com^$all
 ||9teentrades.com^$all
 ||9y.com^$all
@@ -276,6 +279,7 @@
 ||agent24coinbet.com^$all
 ||aibcu.com^$all
 ||aifeieu.com^$all
+||aiquantumtrade.com^$all
 ||air666.homles.city^$all
 ||aiubs.net^$all
 ||akineprot.vip^$all
@@ -451,6 +455,7 @@
 ||cang-ltd.com^$all
 ||cansft.com^$all
 ||caremey.com^$all
+||carmine.nymextw.com^$all
 ||cash.icet.tech^$all
 ||cash3.otcsec.com^$all
 ||catkou.top^$all
@@ -534,6 +539,7 @@
 ||crypto-quantitative.xyz^$all
 ||crypto-yhigoyo.info^$all
 ||crypto-ysypoyy.com^$all
+||crypto.kion.work^$all
 ||crypto.kion.world^$all
 ||cryptoassessors.com^$all
 ||cryptoexpertoption.online^$all
@@ -693,6 +699,7 @@
 ||ethrefund.com^$all
 ||etradersonline.com^$all
 ||eurcwfinze.com^$all
+||exchange5a.xyz^$all
 ||exchangewallet99.com^$all
 ||excllusiveplaatform.online^$all
 ||exlbnk.com^$all
@@ -735,6 +742,7 @@
 ||forexcun.com^$all
 ||forexzn.com^$all
 ||forppea.penaker.com^$all
+||fp.jnrkigk.top^$all
 ||france.nstwmarket.com^$all
 ||fraudsinvestigations.com^$all
 ||freebtc.info^$all
@@ -760,6 +768,7 @@
 ||fxv587.tw^$all
 ||fxviptf.com^$all
 ||galaxy.kion.rocks^$all
+||galaxy.kion.work^$all
 ||gangstacum.com^$all
 ||gateusdt.com^$all
 ||gbk234.com^$all
@@ -1877,6 +1886,7 @@
 ||jsfsjx.top^$all
 ||jsjs2763jsjs8282as7app.com^$all
 ||jslinkglobal.com^$all
+||jsunexchange.com^$all
 ||jsunglobal.com^$all
 ||jsunholdings.com^$all
 ||jsunstock.com^$all
@@ -2237,6 +2247,7 @@
 ||lbctrade.vip^$all
 ||lbeth.com^$all
 ||lbfxcz.com^$all
+||lbkti.com^$all
 ||lbnkex.com^$all
 ||lccprivateinvestigations.com^$all
 ||lccrexpert.com^$all
@@ -2467,6 +2478,7 @@
 ||llc-exclusiv.com^$all
 ||llc-exclusiv.tw^$all
 ||llinft.com^$all
+||llshopping-tw.com^$all
 ||lmax-ex.com^$all
 ||lmaxau.com^$all
 ||lmaxfortw.com^$all
@@ -2536,6 +2548,7 @@
 ||ltptrade2.net^$all
 ||ltptradei.net^$all
 ||ltptrader.net^$all
+||lu-bpb.u2ubs.com^$all
 ||lucid-ex.com^$all
 ||lucidinvestments.ltd^$all
 ||luck168.recoin8.com^$all
@@ -3712,10 +3725,12 @@
 ||riyalcoin.net^$all
 ||rjexpro.com^$all
 ||rjfinancialpro.vip^$all
+||rjqwjkekqla.com^$all
 ||rk-twd.com^$all
 ||rlative66.top^$all
 ||rlative88.top^$all
 ||rlative968.top^$all
+||rlative99.top^$all
 ||rmdtoken.club^$all
 ||rmie.com^$all
 ||roarsinvests.com^$all
@@ -3795,6 +3810,7 @@
 ||royalmn.com^$all
 ||royalpalmfx.com^$all
 ||royalplatinumbank.com^$all
+||royalpoolminers.com^$all
 ||royalq-bot.com^$all
 ||royalqs.com^$all
 ||royalreserve-bank.com^$all
@@ -4973,6 +4989,7 @@
 ||wexcoinbit.com^$all
 ||wexocapltd.com^$all
 ||wexpaybit.com^$all
+||wexxex.com^$all
 ||wfdcoin.top^$all
 ||wgpages.com^$all
 ||wgtradepipspro.online^$all
