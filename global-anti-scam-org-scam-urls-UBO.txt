@@ -502,6 +502,7 @@
 ||cash.icet.tech^$all
 ||cash3.otcsec.com^$all
 ||catkou.top^$all
+||cbntw.com^$all
 ||center-vt.com^$all
 ||center-vt.tw^$all
 ||centralizedweb3exchange.pro^$all
@@ -553,6 +554,7 @@
 ||cot1970.site^$all
 ||cramercoins.com^$all
 ||credit.ytfff.space^$all
+||cripto-toptrading.site^$all
 ||crm.idealkind.net^$all
 ||crm.idealkind.online^$all
 ||crm.illumarkets.net^$all
@@ -630,6 +632,7 @@
 ||d.xinbiglobalb.xyz^$all
 ||d.xinbiglobalc.buzz^$all
 ||d.yoixex.cc^$all
+||daily4texas.com^$all
 ||dailyspacex.com^$all
 ||dajdew.com^$all
 ||dao.lotteryswap.finance^$all
@@ -915,6 +918,7 @@
 ||h5.uxmexglobal.com^$all
 ||h5.vxrsige.top^$all
 ||h5.wbexnew.com^$all
+||h5.wbexza.com^$all
 ||h5.zbgtrades.com^$all
 ||h5.zbgua.com^$all
 ||h5.zdex.store^$all
@@ -1024,6 +1028,7 @@
 ||herculescapitaldefi.net^$all
 ||heritagetradefinance.com^$all
 ||heroex.org^$all
+||heroo.cc^$all
 ||hertfordcap.com^$all
 ||hertfordfx.com^$all
 ||hervesttrading.com^$all
@@ -1525,6 +1530,7 @@
 ||imfmetafx.com^$all
 ||immaculatetrade.com^$all
 ||immasteryacademycoin.com^$all
+||immense-trade.com^$all
 ||imperialcapitalinvestltd.com^$all
 ||imperialcryptopro.info^$all
 ||imperialfinance.org^$all
@@ -1797,6 +1803,7 @@
 ||isugar.cc^$all
 ||itbit.bond^$all
 ||itbit.pw^$all
+||itbitol.com^$all
 ||itbitory.com^$all
 ||itbitsw.com^$all
 ||itbittop.com^$all
@@ -1888,6 +1895,7 @@
 ||jiashk.com^$all
 ||jiaxinguk.com^$all
 ||jidan8888.com^$all
+||jihsunmkt.com^$all
 ||jingerfx.com^$all
 ||jingsheng88.net^$all
 ||jingxcn.com^$all
@@ -2215,6 +2223,7 @@
 ||ktoll.com^$all
 ||ktwall.com^$all
 ||ku-coinglobal.com^$all
+||kuamsg.vip^$all
 ||kub-coin.com^$all
 ||kubehash.com^$all
 ||kuccoin.vip^$all
@@ -2393,6 +2402,7 @@
 ||leverj.io^$all
 ||levitas-trade.com^$all
 ||lewiswrightadvocates.com^$all
+||lexctru.com^$all
 ||lexingtonplus.com^$all
 ||lexliga-help.live^$all
 ||lexligalaww.live^$all
@@ -2472,10 +2482,12 @@
 ||liquity-market.xyz^$all
 ||liquity-pro.com^$all
 ||liquityp.xyz^$all
+||liquldaub.com^$all
 ||lirunexfx.com^$all
 ||lirunexprimemkt.com^$all
 ||lisk-coin.com^$all
 ||listeredge.com^$all
+||listnova.biz^$all
 ||litaderex.com^$all
 ||litbitix.biz^$all
 ||litbtc.vip^$all
@@ -2543,6 +2555,7 @@
 ||lmexa.top^$all
 ||lmexc.xyz^$all
 ||lmexseut.com^$all
+||lmexwre.com^$all
 ||lmgoldlimited.com^$all
 ||lmigp.com^$all
 ||lmphoness.com^$all
@@ -2643,7 +2656,6 @@
 ||lykaswap.com^$all
 ||lyova-ltd.com^$all
 ||lyty615.com^$all
-||lzgos.com^$all
 ||m.365s666.com^$all
 ||m.78ex.info^$all
 ||m.coindater.com^$all
@@ -2793,6 +2805,7 @@
 ||n.kassanses.com^$all
 ||n.nasdaq12.xyz^$all
 ||n.wayteciese.com^$all
+||n.ziinitieks.com^$all
 ||n.ziintek.com^$all
 ||nabycoin.com^$all
 ||nadexg.com^$all
@@ -3204,6 +3217,7 @@
 ||okbitco.com^$all
 ||okbitex.site^$all
 ||okbitx.com^$all
+||okcnsx.com^$all
 ||okcoinvip.com^$all
 ||okdax.net^$all
 ||okeexxc.com^$all
@@ -3215,6 +3229,7 @@
 ||oksecoin.com^$all
 ||oktodex.com^$all
 ||okusdt.vip^$all
+||okx.asia-okx.com^$all
 ||okxbtc.top^$all
 ||okxfcoin.com^$all
 ||okxfcoin8.com^$all
@@ -3274,6 +3289,7 @@
 ||onefstw.com^$all
 ||oneglobalproinvestment.com^$all
 ||onemain.club^$all
+||onemain.fun^$all
 ||onemain.site^$all
 ||onesevenplay.com^$all
 ||onesevenplayy.com^$all
@@ -3386,6 +3402,11 @@
 ||orexisusdt.com^$all
 ||orextytrading.net^$all
 ||orientaurora.xyz^$all
+||origa-mall.live^$all
+||origa-mall.online^$all
+||origamall.life^$all
+||origamall.live^$all
+||origamall.online^$all
 ||originalforex.net^$all
 ||origintrustcorp.com^$all
 ||orisbit.com^$all
@@ -3605,6 +3626,7 @@
 ||rainbow-hkfx.com^$all
 ||rainbowhkfx.com^$all
 ||rainbowplatforms.com^$all
+||rakuten01.org^$all
 ||rakuten06.com^$all
 ||rakuten09.com^$all
 ||rakutenetopd.com^$all
@@ -3785,6 +3807,7 @@
 ||rjfinancialpro.vip^$all
 ||rjqwjkekqla.com^$all
 ||rk-twd.com^$all
+||rlative206.top^$all
 ||rlative66.top^$all
 ||rlative88.top^$all
 ||rlative968.top^$all
@@ -4004,6 +4027,7 @@
 ||thewombatexchange.com^$all
 ||thrifty.waytecics.com^$all
 ||tigeryearfa.com^$all
+||tiktok-nft.cc^$all
 ||tip-vt.com^$all
 ||tk.k-coin.net^$all
 ||tkcb1.com^$all
@@ -4855,6 +4879,7 @@
 ||vsoptokok.top^$all
 ||vsquarefx.com^$all
 ||vsw.waves.directory^$all
+||vsw.waves.works^$all
 ||vsw.wavess.cc^$all
 ||vt-top.com^$all
 ||vt-top.tw^$all
@@ -4942,6 +4967,7 @@
 ||wbb.hsuvsa.com^$all
 ||wbb.huizitn.com^$all
 ||wbex-coin.com^$all
+||wbexcoins.com^$all
 ||wbexcoinup.com^$all
 ||wbexcoinup.top^$all
 ||wbexsi.vip^$all
@@ -5091,6 +5117,7 @@
 ||win16888.nfxgetw.com^$all
 ||win33.net^$all
 ||win666.net^$all
+||win90.net^$all
 ||winbtcs.win^$all
 ||wincoin-bit.com^$all
 ||wincoin.app^$all
@@ -5205,7 +5232,6 @@
 ||wwgx2.wexfc.com^$all
 ||wwmarket-asia.com^$all
 ||www-ig.cjzqls.com^$all
-||www.daily4texas.com^$all
 ||www1.initaltrades.com^$all
 ||wwwlmtokenusdt.space^$all
 ||wxmkk.xyz^$all
@@ -5385,6 +5411,7 @@
 ||yonidn.com^$all
 ||yorkmarkets42.com^$all
 ||yorkmarkets43.com^$all
+||youcns.vip^$all
 ||youpingouwu.shop^$all
 ||yourfxtrader.com^$all
 ||youtube.wapch.com^$all
