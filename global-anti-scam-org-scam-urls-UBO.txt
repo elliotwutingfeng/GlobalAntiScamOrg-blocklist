@@ -166,6 +166,7 @@
 ||3-0investments.com^$all
 ||3.xmyoupin6.cn^$all
 ||333.hyiiup.com^$all
+||33wm.net^$all
 ||34expertoption.com^$all
 ||3523443.space^$all
 ||356339c.com^$all
@@ -433,6 +434,7 @@
 ||binaxcoins.com^$all
 ||bincancx.com.tw^$all
 ||biqk.we5888.net^$all
+||bit-full.com^$all
 ||bit-nex.com^$all
 ||bit-traderz.org^$all
 ||bit-uphigh.com^$all
@@ -449,7 +451,9 @@
 ||bitcash-ld.cloud^$all
 ||bitcash-lh.cloud^$all
 ||bitcoin-mining-143.xyz^$all
+||bitcompanyup.net^$all
 ||bitcon1.com^$all
+||bitdrops.online^$all
 ||bitex-fx.com^$all
 ||bitexnag.net^$all
 ||bithumbcoin.com^$all
@@ -642,6 +646,7 @@
 ||cryptoassessors.com^$all
 ||cryptoexpertoption.online^$all
 ||cryptofx-investfey.xyz^$all
+||cryptolatamfunds-investment.com^$all
 ||cryptoleobor.com^$all
 ||cryptonexta.net^$all
 ||cryptonomy.click^$all
@@ -752,6 +757,7 @@
 ||download.walletcoines.com^$all
 ||download.xiaomi.co.com^$all
 ||downloadappios.com^$all
+||downloadokexcoinl.xyz^$all
 ||downloadokexcoints.xyz^$all
 ||downloadomg.wheppc.com^$all
 ||dptinvest.com^$all
@@ -800,9 +806,11 @@
 ||ethdifi.com^$all
 ||ethereumsocialcontract.org^$all
 ||ethmg.com^$all
+||ethmining.homes^$all
 ||ethrefund.com^$all
 ||etradersonline.com^$all
 ||eurcwfinze.com^$all
+||exchainbit.com^$all
 ||exchange5a.xyz^$all
 ||exchangewallet99.com^$all
 ||excllusiveplaatform.online^$all
@@ -885,6 +893,7 @@
 ||fxviptf.com^$all
 ||galaxy.kion.rocks^$all
 ||galaxy.kion.work^$all
+||game.oomi.co^$all
 ||gangstacum.com^$all
 ||gateusdt.com^$all
 ||gbk234.com^$all
@@ -898,6 +907,7 @@
 ||globalume.com^$all
 ||globe-investing.com^$all
 ||gm.gmo-click.xyz^$all
+||gnycoin.com^$all
 ||goldbtt.net^$all
 ||golden-crypto.org^$all
 ||goldentrading.org^$all
@@ -1301,6 +1311,7 @@
 ||hopeshpybay.com^$all
 ||hopexacc.com^$all
 ||hopexcfx.com^$all
+||hopexohn.com^$all
 ||hopexwlc.com^$all
 ||hopfist.com^$all
 ||hopfist.info^$all
@@ -3035,6 +3046,7 @@
 ||nfcoin.cc^$all
 ||nflix.media^$all
 ||nft-cryptomine.com^$all
+||nft-sea.top^$all
 ||nft-uniswap.net^$all
 ||nftbion.com^$all
 ||nftbullex.com^$all
@@ -5320,6 +5332,8 @@
 ||wwgx2.wexfc.com^$all
 ||wwmarket-asia.com^$all
 ||www-ig.cjzqls.com^$all
+||www.jbcoin-ex.com^$all
+||www.usdt.earth^$all
 ||www1.initaltrades.com^$all
 ||wwwlmtokenusdt.space^$all
 ||wxmkk.xyz^$all
@@ -5701,6 +5715,7 @@
 ||zxgfx.com^$all
 ||zyewjhagns.xyz^$all
 ||zykausdt.com^$all
+||zylotrade.com^$all
 ||zynecoins.net^$all
 ||zystrainvest.net^$all
 ||zzjbol.com^$all
