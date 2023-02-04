@@ -313,6 +313,7 @@
 ||Nobeliumhackers.com^$all
 ||RHONECOIN.com^$all
 ||Rawkchain.com^$all
+||Ubstex.com^$all
 ||a.gotiwjqqwe.com^$all
 ||a.hkhuifa.com^$all
 ||a.jdbvv.cn^$all
@@ -942,6 +943,7 @@
 ||globe-investing.com^$all
 ||gm.gmo-click.xyz^$all
 ||gnycoin.com^$all
+||gofxcrypto.com^$all
 ||goldbtt.net^$all
 ||golden-crypto.org^$all
 ||goldentrading.org^$all
@@ -1053,6 +1055,7 @@
 ||han-exchange.com^$all
 ||hananfinance.com^$all
 ||handavip.top^$all
+||handbitco.com^$all
 ||hantecmfinance.net^$all
 ||hao2022.club^$all
 ||haocoins.net^$all
@@ -1078,6 +1081,7 @@
 ||hashexs.com^$all
 ||hashfinance-ltd.com^$all
 ||hashing24.com^$all
+||hashmartcloudmining.com^$all
 ||hashminer.live^$all
 ||hashmining.vip^$all
 ||hashminingoptionway.com^$all
@@ -1095,6 +1099,7 @@
 ||hazefinancialbank.com^$all
 ||hazratcrypto.com^$all
 ||hbartokens.net^$all
+||hbcrypttradel.com^$all
 ||hbetop.com^$all
 ||hbfsbit.cc^$all
 ||hbkbrokerage.com^$all
@@ -1105,6 +1110,7 @@
 ||hcoinline.com^$all
 ||hcoinweb.com^$all
 ||hcon.uk^$all
+||hdcryptosk.com^$all
 ||hdfxs.com^$all
 ||hdgml.com^$all
 ||he-dex.net^$all
@@ -1125,6 +1131,7 @@
 ||heliumcmining.com^$all
 ||helius-captial.com^$all
 ||helius.pro^$all
+||helpcrypto.uk^$all
 ||helpinghandsfx.com^$all
 ||helpyfx.com^$all
 ||helveticafxm.com^$all
@@ -1149,6 +1156,7 @@
 ||hermexpess.org^$all
 ||heroesfxm.com^$all
 ||heroex.org^$all
+||herofxmine.com^$all
 ||heroo.cc^$all
 ||hertfordcap.com^$all
 ||hertfordfx.com^$all
@@ -1192,6 +1200,7 @@
 ||hifly88212.xyz^$all
 ||hifly89098.top^$all
 ||high-capitals.com^$all
+||highbtcminingpro.com^$all
 ||highflexexchange.ltd^$all
 ||highfuturetrade.com^$all
 ||highgizmo.com^$all
@@ -1221,6 +1230,7 @@
 ||himalaya.exchange^$all
 ||hinbex.com^$all
 ||hintstrademarket.com^$all
+||hinxcrypto.com^$all
 ||hioxex.com^$all
 ||hipc.world^$all
 ||hipnicedack.top^$all
@@ -1233,6 +1243,7 @@
 ||hitaltcoins.com^$all
 ||hitbcx.co^$all
 ||hitbtc-erc.com^$all
+||hitbtc-erc.info^$all
 ||hitbtc-erc.net^$all
 ||hitbtc-eth.info^$all
 ||hitbtc-jp.com^$all
@@ -1244,12 +1255,16 @@
 ||hitbtci.com^$all
 ||hitbtcjp.com^$all
 ||hitbtcn.com^$all
+||hitbtco.com^$all
 ||hitbtcpro.com^$all
+||hitbtcu.com^$all
+||hitbtcx.com^$all
 ||hitechempire.com^$all
 ||hitechvm.com^$all
 ||hitechvm.site^$all
 ||hithrnext.com^$all
 ||hitsbtc.com^$all
+||hitxbit.com^$all
 ||hivechaincloudmining.com^$all
 ||hivecloudblockchain.ltd^$all
 ||hivecoinpool.com^$all
@@ -1315,14 +1330,17 @@
 ||hockmaincapitals.com^$all
 ||hodlnaut-investment.trade^$all
 ||hodlrcrypto.com^$all
+||hofbit.com^$all
 ||hofifx.com^$all
 ||hoinex.com^$all
+||hokbit.com^$all
 ||holbekgroup.com^$all
 ||holdcoin.live^$all
 ||holiday-mining.vip^$all
 ||holytrade.org^$all
 ||home-go.online^$all
 ||home-trade.ltd^$all
+||homeincreasemine.com^$all
 ||homemalltw.com^$all
 ||homemals.com^$all
 ||homeofcrypto.net^$all
@@ -1355,6 +1373,7 @@
 ||hopoo.tw^$all
 ||horixbank.com^$all
 ||horizon-crypto.ltd^$all
+||horizon-crypto.org^$all
 ||horizonbitfx.com^$all
 ||horizonmining.net^$all
 ||horizontradefx.com^$all
@@ -1428,6 +1447,8 @@
 ||hubcultures.net^$all
 ||hublogs.com^$all
 ||hubminerltd.com^$all
+||hubminersltd.com^$all
+||hubminingfx.com^$all
 ||hubprotradeoption.com^$all
 ||hudsonaccurateinvest.com^$all
 ||hugetradesfx.live^$all
@@ -1460,7 +1481,11 @@
 ||huobibi.org^$all
 ||huobix.net^$all
 ||huoxingfx.com^$all
+||hurbitinvest.live^$all
+||hurbitinvestment.org^$all
 ||hurricane.ga^$all
+||hustore-sg1.shop^$all
+||hustore-sg2.life^$all
 ||hutchminingpool.com^$all
 ||hutgp.com^$all
 ||hutline1.com^$all
@@ -1774,9 +1799,11 @@
 ||injectivecoin.xyz^$all
 ||inktech.live^$all
 ||inmarketsplus.com^$all
+||innovationcryptomarkets.com^$all
 ||inpcforex.com^$all
 ||inpcmarket.com^$all
 ||inst-global.com^$all
+||instacryptinvestment.com^$all
 ||instaktrade.com^$all
 ||instamine.biz^$all
 ||instantbanktransfercasino.com^$all
@@ -1807,6 +1834,7 @@
 ||interenex.com^$all
 ||interestarbitragefx.co^$all
 ||interestcapitals.live^$all
+||interfex-mining.com^$all
 ||intergraweb.com^$all
 ||internal-blockchain.com^$all
 ||international-forex.net^$all
@@ -1859,6 +1887,7 @@
 ||investhorses.net^$all
 ||investiblebitcoins.com^$all
 ||investicriptonline.com^$all
+||investicryptooworld.online^$all
 ||investify-pro.site^$all
 ||investigobank.com^$all
 ||investingcryptoclub.com^$all
@@ -1866,6 +1895,7 @@
 ||investingnx.com^$all
 ||investingviews.net^$all
 ||investingviews.org^$all
+||investircryptofinancier.com^$all
 ||investmarkets.com^$all
 ||investme999.com^$all
 ||investment-faithfula.com^$all
@@ -1882,6 +1912,7 @@
 ||investments-rates.com^$all
 ||investmentsfintech.club^$all
 ||investmentsloansltd.co.uk^$all
+||investmineotrade.com^$all
 ||investnavoi.com^$all
 ||investncrypto.net^$all
 ||investnewpt.com^$all
@@ -1914,6 +1945,7 @@
 ||ios886.com^$all
 ||ip896547m.top^$all
 ||ipofinance.uk^$all
+||ipollomining.com^$all
 ||iprimecapital.com^$all
 ||iprofitfx.com^$all
 ||iprofitoptionstrade.online^$all
@@ -1923,6 +1955,7 @@
 ||iqbroker.com^$all
 ||iqbrokersfx.com^$all
 ||iqcinfor.com^$all
+||iqcrypto-trades.com^$all
 ||iqcryptoinvest.com^$all
 ||iqdexverse.org^$all
 ||iqfxcryptfinancemarket.online^$all
@@ -1946,6 +1979,7 @@
 ||isedpyi.cn^$all
 ||iseksf.com^$all
 ||ishares.top^$all
+||islamiccoin.info^$all
 ||issb.preferred8.com^$all
 ||isugar.cc^$all
 ||itbit.bond^$all
@@ -1953,8 +1987,10 @@
 ||itbitol.com^$all
 ||itbitory.com^$all
 ||itbitsw.com^$all
+||itbitswe.com^$all
 ||itbittop.com^$all
 ||itbitua.com^$all
+||itbitvxc.com^$all
 ||itcfx.net^$all
 ||itechworld.co^$all
 ||iteg.cc^$all
@@ -1965,6 +2001,7 @@
 ||itinvest.ltd^$all
 ||itk-ex.com^$all
 ||itmaadgold.com^$all
+||itpcrypto.com^$all
 ||itrade.live^$all
 ||itradecoinlimited.com^$all
 ||itradeltd.online^$all
@@ -1989,9 +2026,12 @@
 ||j9bc.casino^$all
 ||ja.icefun.net^$all
 ||ja178.biic7ec.com^$all
+||jabsxbit.com^$all
 ||jack.qsmack.com^$all
 ||jackbot.cloud^$all
 ||jackpot-crypto.net^$all
+||jackpotcoinpusher.icu^$all
+||jaco-mining.com^$all
 ||jalexbit.com^$all
 ||jalextrade.com^$all
 ||janvanbruggen.com^$all
@@ -2013,12 +2053,14 @@
 ||jdq3.com^$all
 ||jdrsecrurities.com^$all
 ||jejinvestment.com^$all
+||jencoins.com^$all
 ||jescotradefund.com^$all
 ||jest-coin.com^$all
 ||jet-fx.com^$all
 ||jet-invest.net^$all
 ||jet-swap.com^$all
 ||jet-vwap.com^$all
+||jetcoinvestment.com^$all
 ||jetinfor.com^$all
 ||jetmaritimelogisticscoltd.com^$all
 ||jetprofitinvestments.com^$all
@@ -2084,6 +2126,7 @@
 ||jpex-vip.site^$all
 ||jpex-vip.xyz^$all
 ||jpexcn.com^$all
+||jpexvip.site^$all
 ||jpexweb.com^$all
 ||jpm-base.xyz^$all
 ||jpmcoin.club^$all
@@ -3430,6 +3473,7 @@
 ||okcoinvip.com^$all
 ||okdax.net^$all
 ||okeexxc.com^$all
+||okex.okxbit9.com^$all
 ||okexxe.com^$all
 ||okexxq.com^$all
 ||okhash.vip^$all
@@ -3500,6 +3544,7 @@
 ||oneglobalproinvestment.com^$all
 ||onemain.club^$all
 ||onemain.fun^$all
+||onemain.live^$all
 ||onemain.site^$all
 ||onesevenplay.com^$all
 ||onesevenplayy.com^$all
@@ -3946,6 +3991,7 @@
 ||request-crypto.com^$all
 ||reset-invest.com^$all
 ||residentialtradesfx.net^$all
+||resoblock.com^$all
 ||resource-trades.com^$all
 ||restques.top^$all
 ||ret.jdkubs.com^$all
@@ -4114,6 +4160,7 @@
 ||royaltradeindex.com^$all
 ||royaltradingcoin.org^$all
 ||royaltradingcoin.vip^$all
+||royaltradingwin.com^$all
 ||royueba.com^$all
 ||rr.ls-bit.com^$all
 ||rrr99.fun^$all
@@ -4350,6 +4397,7 @@
 ||ubxor.com^$all
 ||ucak6.com^$all
 ||ucantrusts.com^$all
+||ucc2023.com^$all
 ||ucoinex.net^$all
 ||ucrc.xyz^$all
 ||uctk1.com^$all
