@@ -673,15 +673,20 @@
 ||crypto-ijaduaa.com^
 ||crypto-omykuey.info^
 ||crypto-quantitative.xyz^
+||crypto-token.pro^
 ||crypto-yhigoyo.info^
 ||crypto-ysypoyy.com^
 ||crypto.kion.work^
 ||crypto.kion.world^
 ||cryptoassessors.com^
 ||cryptoexpertoption.online^
+||cryptoforex.fun^
 ||cryptofx-investfey.xyz^
+||cryptohopper-web3.top^
+||cryptohopper.club^
 ||cryptolatamfunds-investment.com^
 ||cryptoleobor.com^
+||cryptomaiin.com^
 ||cryptonexta.net^
 ||cryptonomy.click^
 ||cryptopentest.com^
@@ -849,6 +854,7 @@
 ||exchangewallet99.com^
 ||excllusiveplaatform.online^
 ||exlbnk.com^
+||express-crypto.ru^
 ||ext01.ftecg.com^
 ||ext01.icefjp.com^
 ||ext01.icejp.net^
@@ -902,7 +908,11 @@
 ||fp.jnrkigk.top^
 ||france.nstwmarket.com^
 ||fraudsinvestigations.com^
+||freebitcoinslots.icu^
 ||freebtc.info^
+||freeslotsfreecoins.icu^
+||freeslotswithbonuscoins.icu^
+||freeslotswithfreecoins.icu^
 ||freeswap-trading.com^
 ||fsinft.com^
 ||ftd.uniteinvv.com^
@@ -936,7 +946,9 @@
 ||gbp.localtrd.com^
 ||gdp.kkerans.com^
 ||generationapproval.info^
+||gesabtc.com^
 ||giaodichlondonex.com^
+||gitcoincs.com^
 ||global-cbntw.top^
 ||globalfx.live^
 ||globalume.com^
@@ -2422,6 +2434,7 @@
 ||kryptocarts.com^
 ||kryptoglobal.finance^
 ||kryptonaryfx.online^
+||kryptondesk.com^
 ||kryptoprofitfx.live^
 ||kryptosminer.com^
 ||kryptoxminer.com^
@@ -5565,6 +5578,7 @@
 ||xm-marketsfx.com^
 ||xm-tradesfx.com^
 ||xm.cc^
+||xm2q.1arw8.com^
 ||xmarabia.net^
 ||xmbtc.vip^
 ||xmeafxtrading.com^
