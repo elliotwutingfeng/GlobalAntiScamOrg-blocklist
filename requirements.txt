@@ -6,6 +6,6 @@ lxml==4.9.2
 more-itertools==9.0.0
 mypy==1.0.0
 mypy-extensions==1.0.0
-pylint==2.16.1
+pylint==2.16.2
 tldextract==3.4.0
 urlextract==1.8.0
