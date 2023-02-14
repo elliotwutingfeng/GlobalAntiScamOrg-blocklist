@@ -940,8 +940,13 @@
 ||fxicm.xyz^$all
 ||fxicmarkets.com^$all
 ||fxlegacyprotrade.com^$all
+||fxtm-maxprotrading.com^$all
+||fxtmmaxpro-trading.com^$all
+||fxtmmaxprotrading.com^$all
+||fxtrone.com^$all
 ||fxv587.tw^$all
 ||fxviptf.com^$all
+||fxwt2t9.buzz^$all
 ||galaxy.kion.rocks^$all
 ||galaxy.kion.work^$all
 ||game.oomi.co^$all
@@ -972,6 +977,7 @@
 ||goodxtrade.online^$all
 ||gou1788.com^$all
 ||greenbit.asia^$all
+||greenerfx.com^$all
 ||gs3x.xyz^$all
 ||gthseer.nadexm.com^$all
 ||gthseer.pneaker.com^$all
@@ -1081,6 +1087,7 @@
 ||haocoins.net^$all
 ||happs.xyz^$all
 ||happydollar.top^$all
+||happytradingfx.com^$all
 ||happytrustinvest.com^$all
 ||hapticmining.com^$all
 ||harcm.com^$all
@@ -1102,6 +1109,7 @@
 ||hashfinance-ltd.com^$all
 ||hashing24.com^$all
 ||hashmartcloudmining.com^$all
+||hashmartfxtrade.net^$all
 ||hashminer.live^$all
 ||hashmining.vip^$all
 ||hashminingoptionway.com^$all
@@ -1148,6 +1156,7 @@
 ||heinvest.top^$all
 ||heithinvestmentcorp.com^$all
 ||hekamenltd.com^$all
+||helium100boostfx.com^$all
 ||heliumcmining.com^$all
 ||helius-captial.com^$all
 ||helius.pro^$all
@@ -1172,6 +1181,7 @@
 ||henrybarkerinvestor.com^$all
 ||herculescapitaldavxyual.com^$all
 ||herculescapitaldefi.net^$all
+||herculesfxtrade.com^$all
 ||heritagetradefinance.com^$all
 ||hermexpess.org^$all
 ||heroesfxm.com^$all
@@ -1195,6 +1205,7 @@
 ||hfjrtw.com^$all
 ||hfm-traders.com^$all
 ||hfx-cryptofxtrades.com^$all
+||hfx-swiftcapitas.com^$all
 ||hfxcryptcaps.com^$all
 ||hfxfinac.com^$all
 ||hfxlegaltradeo.com^$all
@@ -1229,6 +1240,7 @@
 ||hightbitcorefx.com^$all
 ||hightekfund.com^$all
 ||hightrade.trade^$all
+||hightradeftfx.net^$all
 ||highup-bit.com^$all
 ||highwex.com^$all
 ||higobit.net^$all
@@ -1510,6 +1522,7 @@
 ||hurricane.ga^$all
 ||hustore-sg1.shop^$all
 ||hustore-sg2.life^$all
+||hustore2install-zxc56.shop^$all
 ||hutchminingpool.com^$all
 ||hutgp.com^$all
 ||hutline1.com^$all
@@ -1808,7 +1821,9 @@
 ||infinitycoinasset.trade^$all
 ||infinitycryptoearnings.com^$all
 ||infinitycryptotrading.com^$all
+||infinityfx.info^$all
 ||infinityfxs.online^$all
+||infinityfxtrade.com^$all
 ||infinityglobalfx.com^$all
 ||infinityglobaltrade.com^$all
 ||infinityglobaltraders.com^$all
@@ -1830,6 +1845,7 @@
 ||inpcforex.com^$all
 ||inpcmarket.com^$all
 ||inst-global.com^$all
+||instacfx.com^$all
 ||instacryptinvestment.com^$all
 ||instaktrade.com^$all
 ||instamine.biz^$all
@@ -1843,6 +1859,7 @@
 ||instaprimefx.com^$all
 ||instaprotrade.com^$all
 ||instartw.com^$all
+||instatradingfx.net^$all
 ||instawalletpayment.com^$all
 ||instinctcrypto.com^$all
 ||institutionbytraders.com^$all
@@ -1858,10 +1875,12 @@
 ||intelinvestment.ltd^$all
 ||inter-investissement.com^$all
 ||interactivefxbrokers.com^$all
+||interactivetradefx.com^$all
 ||interenex.com^$all
 ||interestarbitragefx.co^$all
 ||interestcapitals.live^$all
 ||interfex-mining.com^$all
+||interfx.online^$all
 ||intergraweb.com^$all
 ||internal-blockchain.com^$all
 ||international-forex.net^$all
@@ -1887,6 +1906,7 @@
 ||intlbaltd.com^$all
 ||intlprimetrades.com^$all
 ||intra-trading.com^$all
+||intrexcapitalfx.com^$all
 ||introcapitaltrade.com^$all
 ||inukocoin.com^$all
 ||invechcorporation.com^$all
@@ -1911,6 +1931,7 @@
 ||investexor.net^$all
 ||investfinance-pro.com^$all
 ||investfundsonlin.com^$all
+||investfxchanges.com^$all
 ||investhorses.net^$all
 ||investiblebitcoins.com^$all
 ||investicriptonline.com^$all
@@ -2061,6 +2082,7 @@
 ||jaco-mining.com^$all
 ||jalexbit.com^$all
 ||jalextrade.com^$all
+||janeruckerfx.com^$all
 ||janvanbruggen.com^$all
 ||jaqkcoin.com^$all
 ||jarextrade.com^$all
@@ -2301,6 +2323,7 @@
 ||keplr-bridge.tech^$all
 ||kerdanfx.com^$all
 ||kerrysexchange.com^$all
+||kerxi.net^$all
 ||kescotrades.online^$all
 ||kevinvestment.com^$all
 ||keybasefinances.com^$all
@@ -2325,12 +2348,14 @@
 ||kicurencycoin.com^$all
 ||kiddoexchange.com^$all
 ||kienthucblockchain.net^$all
+||kigglobalfx.com^$all
 ||kikitrademon.com^$all
 ||kikitradenar.com^$all
 ||kikitradepws.com^$all
 ||kikitradeunt.com^$all
 ||kilcormanagementptyltd.com^$all
 ||killarasc.com^$all
+||killzonefx.com^$all
 ||kilmutnfx.com^$all
 ||kin1668.com^$all
 ||kine.io^$all
@@ -2373,6 +2398,7 @@
 ||klgame.top^$all
 ||klincoin.org^$all
 ||klinetrade.com^$all
+||kloudfx.com^$all
 ||klsecurities.net^$all
 ||km1.kk00.tk^$all
 ||kmanalysis.com^$all
@@ -2442,6 +2468,7 @@
 ||krakentrad.com^$all
 ||krakenweb.cc^$all
 ||krakps.vip^$all
+||kranefx.com^$all
 ||krcgoldcoin.com^$all
 ||kripcoin.net^$all
 ||kriptofuture.com^$all
@@ -2607,6 +2634,7 @@
 ||leedsch.com^$all
 ||legacy-tradesfx.com^$all
 ||legacyapextrade.com^$all
+||legacyfxtrade.com^$all
 ||legacyfxtraders.com^$all
 ||legalbittradingpool.com^$all
 ||legalcryptextrade.com^$all
@@ -2618,10 +2646,12 @@
 ||legit-miner.org^$all
 ||legitbitcoinsfx.live^$all
 ||legitbtcpro.com^$all
+||legitcapitalfx.net^$all
 ||legitcoins-forex.com^$all
 ||legitfxminingexperts.com^$all
 ||legitimate-foxbitltd.com^$all
 ||legitimate-funds.org^$all
+||legitimatefxtrades.com^$all
 ||legitimatetrade.online^$all
 ||legitimatetradefx.com^$all
 ||legitminingforum.com^$all
@@ -2658,6 +2688,7 @@
 ||leveluptrading.ltd^$all
 ||lever-ex.com^$all
 ||leveragedtrading.net^$all
+||leveragefxmarket.com^$all
 ||leverj.io^$all
 ||levitas-trade.com^$all
 ||lewiswrightadvocates.com^$all
@@ -2693,6 +2724,7 @@
 ||licitmining9.com^$all
 ||liderfinance.net^$all
 ||lietforex.com^$all
+||life-changetopfx.online^$all
 ||lifebaseinvestment.com^$all
 ||lifecoin-monnaie.com^$all
 ||lifefirstrescuemission.com^$all
@@ -2709,6 +2741,7 @@
 ||lightwavtw.net^$all
 ||likebitex.com^$all
 ||likecz.cc^$all
+||likitfx.com^$all
 ||lilalainvestment.com^$all
 ||lildtoken.com^$all
 ||lillieswardrobestore.com^$all
@@ -2826,6 +2859,7 @@
 ||lmigp.com^$all
 ||lmphoness.com^$all
 ||lmtokenn.store^$all
+||loboexprodefi.com^$all
 ||lobstr.co^$all
 ||localbitcoins.com^$all
 ||localbtcdeal.com^$all
@@ -2893,6 +2927,7 @@
 ||lu-bpb.u2ubs.com^$all
 ||lucid-ex.com^$all
 ||lucidinvestments.ltd^$all
+||lucids-fx.net^$all
 ||luck168.recoin8.com^$all
 ||luckybitc.com^$all
 ||luckycoin.shop^$all
