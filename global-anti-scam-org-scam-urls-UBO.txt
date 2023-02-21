@@ -961,13 +961,26 @@
 ||fxcentral-ltd.com^$all
 ||fxcmy.com^$all
 ||fxcn.vip^$all
+||fxgloboltrade.com^$all
 ||fxharvard.online^$all
 ||fxicm.xyz^$all
 ||fxicmarkets.com^$all
 ||fxlegacyprotrade.com^$all
+||fxlmghk.com^$all
+||fxplan.net^$all
+||fxstep.net^$all
 ||fxtm-maxprotrading.com^$all
+||fxtm-promaxtrading.com^$all
+||fxtm-protrading.com^$all
 ||fxtmmaxpro-trading.com^$all
 ||fxtmmaxprotrading.com^$all
+||fxtmplus-trading.com^$all
+||fxtmplustrading.com^$all
+||fxtmpromax-trading.com^$all
+||fxtmpromaxtrading.com^$all
+||fxtmprotrading.com^$all
+||fxtmtrading-pro.com^$all
+||fxtmtrading-pro.xyz^$all
 ||fxtrone.com^$all
 ||fxv587.tw^$all
 ||fxviptf.com^$all
@@ -1556,6 +1569,7 @@
 ||hustore-sg1.shop^$all
 ||hustore-sg2.life^$all
 ||hustore2install-zxc56.shop^$all
+||hustoreapp-qwer12.shop^$all
 ||hutchminingpool.com^$all
 ||hutgp.com^$all
 ||hutline1.com^$all
@@ -2261,6 +2275,7 @@
 ||junibit.com^$all
 ||junle.info^$all
 ||junlefx.com^$all
+||juno-global.com^$all
 ||juno.investments^$all
 ||junoglobal.cc^$all
 ||jupitermining.net^$all
@@ -3262,6 +3277,7 @@
 ||nekroncoin.xyz^$all
 ||neobitex.com^$all
 ||neominerslive.com^$all
+||neostockoptions.com^$all
 ||neptuneblock.com^$all
 ||neptunexchange.com^$all
 ||neptuntrading.com^$all
@@ -5580,6 +5596,7 @@
 ||vv.bs058.xyz^$all
 ||vv881.com^$all
 ||vvyagerap.com^$all
+||vweb.top^$all
 ||vwhcg0l7i2.com^$all
 ||vyano.net^$all
 ||vyomcoin.com^$all
@@ -5708,6 +5725,7 @@
 ||wealthzonefx.com^$all
 ||web-layer2.net^$all
 ||web-layer2.org^$all
+||web-tradeplus.com^$all
 ||web.hccoins.vip^$all
 ||web.herm95.com^$all
 ||web.hippo828.com^$all
