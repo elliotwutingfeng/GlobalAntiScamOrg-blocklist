@@ -343,6 +343,7 @@
 ||a.hkhuifa.com^$all
 ||a.jdbvv.cn^$all
 ||a.kineprotocol.net^$all
+||a.linesea.me^$all
 ||a.linesea.site^$all
 ||a.opensky.tips^$all
 ||a.opento.cc^$all
@@ -935,6 +936,7 @@
 ||forex1.pgbog.com^$all
 ||forexcin.com^$all
 ||forexcun.com^$all
+||forexglobalxm.com^$all
 ||forexzn.com^$all
 ||forppea.penaker.com^$all
 ||fp.jnrkigk.top^$all
@@ -952,8 +954,10 @@
 ||fundsrecoexperts.com^$all
 ||funwarehouse.info^$all
 ||futurepad.online^$all
+||fx-fokist.top^$all
 ||fx-gemini.art^$all
 ||fx-gemini.bond^$all
+||fx-rogue.com^$all
 ||fx-trillion.com^$all
 ||fx-trillion.tw^$all
 ||fx-wing.com^$all
@@ -1570,6 +1574,7 @@
 ||hustore-sg2.life^$all
 ||hustore2install-zxc56.shop^$all
 ||hustoreapp-qwer12.shop^$all
+||hustoreappinstall-qwer12.shop^$all
 ||hutchminingpool.com^$all
 ||hutgp.com^$all
 ||hutline1.com^$all
@@ -2934,6 +2939,7 @@
 ||lmexoium.com^$all
 ||lmexseut.com^$all
 ||lmexwre.com^$all
+||lmfx.com^$all
 ||lmgoldlimited.com^$all
 ||lmigp.com^$all
 ||lmphoness.com^$all
@@ -3396,6 +3402,7 @@
 ||nftcwc.nftiak.com^$all
 ||nfteshopp.com^$all
 ||nftexvip.com^$all
+||nftgoper.com^$all
 ||nftleadc.com^$all
 ||nftpendst.com^$all
 ||nftpess.com^$all
@@ -5605,6 +5612,7 @@
 ||w89voll.com^$all
 ||wa1.icoinitial.com^$all
 ||waa.aberiu.com^$all
+||waa.visoikc.com^$all
 ||wagento.live^$all
 ||wahed-invest.com^$all
 ||wailex.com^$all
