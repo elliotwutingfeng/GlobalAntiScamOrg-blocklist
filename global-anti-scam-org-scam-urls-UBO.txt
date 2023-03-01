@@ -1452,6 +1452,7 @@
 ||hopexcfx.com^$all
 ||hopexohn.com^$all
 ||hopexwlc.com^$all
+||hopexxds.com^$all
 ||hopfist.com^$all
 ||hopfist.info^$all
 ||hopfista.com^$all
@@ -3445,8 +3446,11 @@
 ||nitroautominer.com^$all
 ||nitrocryptoinvestment.com^$all
 ||nixcoinmining.com^$all
+||nixontrades.com^$all
 ||nixse.com^$all
+||nixtradingltd.com^$all
 ||nl66sv1.cn^$all
+||nntrader.com^$all
 ||no.com^$all
 ||nobitaa.com^$all
 ||nobitabet.net^$all
@@ -3467,6 +3471,7 @@
 ||nodieexvip.com^$all
 ||nodiein.com^$all
 ||nodsbit.com^$all
+||nolimittrades.com^$all
 ||nominex-korea.com^$all
 ||none.com^$all
 ||nonfungiblecoin.net^$all
@@ -3479,6 +3484,7 @@
 ||nordfxtrade.com^$all
 ||normancapitalgroup.com^$all
 ||northcoin.net^$all
+||northcresttradellc.com^$all
 ||northernbitpro.com^$all
 ||northpointforexacademy.com^$all
 ||northquesttrading.org^$all
@@ -3502,6 +3508,7 @@
 ||nrcstock.com^$all
 ||nrctoken.com^$all
 ||nsave.com^$all
+||nsttrades.com^$all
 ||nsttw.birdies.top^$all
 ||nstwexchange.com^$all
 ||nt-stw.cloud^$all
@@ -3515,6 +3522,7 @@
 ||ntucapital.com^$all
 ||nu2utrade.com^$all
 ||nubetrade.com^$all
+||nucleus-trade.com^$all
 ||nucleusbitinvestment.com^$all
 ||nugenexchange.tech^$all
 ||nugenexchange.xyz^$all
@@ -3532,6 +3540,8 @@
 ||nvexic.vip^$all
 ||nvexss.vip^$all
 ||nvpro.club^$all
+||nvsttrading.com^$all
+||nvsttrading.finance^$all
 ||nvxcw.vip^$all
 ||nvxeps.vip^$all
 ||nvxpro.com^$all
@@ -3619,11 +3629,13 @@
 ||obitcoinex.com^$all
 ||obofx.net^$all
 ||oca666.xyz^$all
+||occtanstrading.com^$all
 ||oceancapitaltrader.com^$all
 ||oceancoinmarket.com^$all
 ||oceanic-mining.com^$all
 ||oceanicfinance.org^$all
 ||oceankingfx.com^$all
+||oceanprotrader.com^$all
 ||oceansfx-investment.live^$all
 ||oceantradenow.online^$all
 ||oceantradenowvip.online^$all
@@ -3635,6 +3647,7 @@
 ||octabitcoininvestment.com^$all
 ||octabtcoining.com^$all
 ||octacapitalpro.com^$all
+||octacapitolstrade.com^$all
 ||octacoinioexchanges.com^$all
 ||octacoinstrade.com^$all
 ||octacryptofx.online^$all
@@ -3652,6 +3665,7 @@
 ||octafxventure.com^$all
 ||octahxtrading.ltd^$all
 ||octainvest.net^$all
+||octamarketstrading.com^$all
 ||octametafx.com^$all
 ||octaoptionfx.com^$all
 ||octaplus-trade.com^$all
@@ -3660,6 +3674,7 @@
 ||octasecurebitts.com^$all
 ||octasecureinvest.com^$all
 ||octatoken.us^$all
+||octatrade.net^$all
 ||octavegrowthminer.com^$all
 ||octavertex.com^$all
 ||octexcoin.com^$all
@@ -3677,7 +3692,9 @@
 ||odzsgtw.com^$all
 ||oeusdt.xyz^$all
 ||ofcrypt.com^$all
+||officailtrading.online^$all
 ||office.nextforex.live^$all
+||official.olymptrade-idns.com^$all
 ||officialcashpaidhackerspro.com^$all
 ||officialcoininvestments.com^$all
 ||officialnomiswap.com^$all
@@ -3697,11 +3714,14 @@
 ||ohmeho.com^$all
 ||ohoooho.com^$all
 ||ohoooho88.com^$all
+||oil-trade-fast.online^$all
 ||oilchainminers.trade^$all
 ||oinan-ex.com^$all
+||oitrader.org^$all
 ||oiuz.xyz^$all
 ||ok-max.com^$all
 ||ok-max1.com^$all
+||oka-trade.online^$all
 ||okaleomining.cloud^$all
 ||okbbb541.info^$all
 ||okbipro.com^$all
@@ -3750,9 +3770,11 @@
 ||olsexchange.com^$all
 ||oltacoin.com^$all
 ||olyfxtrading.com^$all
+||olympia-trade.ltd^$all
 ||olympoptiontrades.vip^$all
 ||olymptrade-trs.com^$all
 ||olymptrade.com^$all
+||olymptraderegister-idn.com^$all
 ||olymptradetes.com^$all
 ||olympus4x.com^$all
 ||olympustraderfx.online^$all
@@ -3822,6 +3844,7 @@
 ||onlinemcxtrading.com^$all
 ||onlineminingcloud.com^$all
 ||onlinetrade.asia^$all
+||onlinetradespot.com^$all
 ||only.app.pgxjlg.bar^$all
 ||only.leswl.cn^$all
 ||only.qnhzrq.work^$all
@@ -3846,6 +3869,7 @@
 ||opaqueinvesting.net^$all
 ||openbankaccount.org^$all
 ||opencoinvip.net^$all
+||opennfttrades.com^$all
 ||opentradingsfx.com^$all
 ||opexcoins.us^$all
 ||opexcryptomining.com^$all
@@ -3868,6 +3892,7 @@
 ||optimalswiftinvest.com^$all
 ||optimaltradeentry.com^$all
 ||optimaltradersfx.com^$all
+||optimaltrades.org^$all
 ||optimaltrades.vip^$all
 ||optimatrade.org^$all
 ||optimism-coin.com^$all
@@ -3880,6 +3905,7 @@
 ||optimumassetfx.online^$all
 ||optimumcapitalinvestment.org^$all
 ||optimumglobaltrade.com^$all
+||optimumlivetrade.com^$all
 ||optimumminners.com^$all
 ||optimumprimeinvestment.net^$all
 ||optimumtrade.ltd^$all
@@ -3896,7 +3922,10 @@
 ||optionsminingfx.com^$all
 ||optionspraymining.com^$all
 ||optionstradeinsuccess.com^$all
+||optionswifttrade.com^$all
+||optivertradeoptions.com^$all
 ||optomal-coin.com^$all
+||opttrading.online^$all
 ||opulcyberinvestigations.com^$all
 ||opulenttrades.com^$all
 ||opwq1.xinanfinancial.net^$all
@@ -3977,6 +4006,7 @@
 ||owan.xyz^$all
 ||owbit.pro^$all
 ||owdeo.com^$all
+||owen-propsandtrades.com^$all
 ||owllex.com^$all
 ||ownbit.link^$all
 ||ox.cash^$all
@@ -3984,6 +4014,7 @@
 ||oxbitex.com^$all
 ||oxbowcrypto.com^$all
 ||oxford-trade.com^$all
+||oxford-traders.ltd^$all
 ||oxfordtradesmax.com^$all
 ||oxfunds.ltd^$all
 ||oxicminers.com^$all
@@ -3993,6 +4024,7 @@
 ||oxoneoptiontrade.top^$all
 ||oxt-eth.com^$all
 ||oxtcoin.com^$all
+||oxtradehub.com^$all
 ||oyfx.net^$all
 ||oyster666.com^$all
 ||oyster666.net^$all
@@ -4082,6 +4114,7 @@
 ||qoo10886.com^$all
 ||qoo10888.com^$all
 ||qoopw.xyz^$all
+||qormegatrade.com^$all
 ||qproabilefx.com^$all
 ||qptrx.com^$all
 ||qq9.cool^$all
@@ -4134,6 +4167,7 @@
 ||quantumtrademark.com^$all
 ||quantumtrades.ltd^$all
 ||quantumtradingcoin.com^$all
+||quantumxtrade.com^$all
 ||quartybit.com^$all
 ||quatex.online^$all
 ||qubit.capital^$all
@@ -4174,6 +4208,7 @@
 ||racebitcinvestment.com^$all
 ||racebtcinvests.com^$all
 ||racex.top^$all
+||radiancetradehub.com^$all
 ||radianlcd.com^$all
 ||radianoption.com^$all
 ||radixinvests.com^$all
@@ -4197,6 +4232,7 @@
 ||randmine.com^$all
 ||rapextrade.com^$all
 ||raphapexecoin.com^$all
+||rapid-traders.com^$all
 ||rapidcoinvault360.online^$all
 ||rapidexpressagency.com^$all
 ||rapidforextrade.com^$all
@@ -4219,6 +4255,7 @@
 ||rayanvfx.com^$all
 ||raydiumcoin.com^$all
 ||raydiumex.com^$all
+||raydiustrades.com^$all
 ||raytheongloball.com^$all
 ||rayyexchange.com^$all
 ||rbearning.com^$all
@@ -4236,12 +4273,14 @@
 ||realfuturetrading.com^$all
 ||realfxtradeotf.com^$all
 ||realfxtradings.com^$all
+||realistictrade.com^$all
 ||realmetatrader4.com^$all
 ||realstockfx.com^$all
 ||realtimeforex247.com^$all
 ||realtrade24.com^$all
 ||realtraderfx.online^$all
 ||realtradescapital.com^$all
+||realtradingplatforms.vip^$all
 ||realtrustfin.com^$all
 ||reapfxrewards.com^$all
 ||rebefx.com^$all
@@ -4290,6 +4329,7 @@
 ||reliance-fx.com^$all
 ||reloadbit.vip^$all
 ||rely-asia.com^$all
+||remedytradescript.online^$all
 ||remunerative-trade.com^$all
 ||remzofx.com^$all
 ||renaissance.ultimn.com^$all
@@ -4299,6 +4339,7 @@
 ||reocoin.info^$all
 ||rep-eth.com^$all
 ||repou.org^$all
+||reptotrade.com^$all
 ||reqtrade.net^$all
 ||request-crypto.com^$all
 ||reset-invest.com^$all
@@ -4313,6 +4354,7 @@
 ||retrieve-it.com^$all
 ||retrocointrading.com^$all
 ||retrofxprofits.com^$all
+||reuterstrade.net^$all
 ||reversal-trade.online^$all
 ||revoke.defiplot.com^$all
 ||revolutiontrading.net^$all
@@ -4338,6 +4380,7 @@
 ||ribitexchange.com^$all
 ||rich-industry-investment.com^$all
 ||rich.8888usdt.vip^$all
+||richardtrade.online^$all
 ||richawealth.com^$all
 ||richcoincryptominers.com^$all
 ||richcoinfx.net^$all
@@ -4398,6 +4441,8 @@
 ||robinhoodfinancial.uk^$all
 ||robinhoodhotindex.top^$all
 ||robinloves.com^$all
+||robinprotrade.com^$all
+||robintrade.live^$all
 ||robo-forex.pro^$all
 ||robocex.live^$all
 ||roboforex.com^$all
@@ -4430,6 +4475,7 @@
 ||rollercoin.com^$all
 ||rollercoin.ru^$all
 ||rolloverinvest.com^$all
+||rolytradings.net^$all
 ||romanticdatin.com^$all
 ||romosstrade.org^$all
 ||ronbink.com^$all
@@ -4463,6 +4509,7 @@
 ||royalassetinvestfx.com^$all
 ||royalassets-trade.com^$all
 ||royalassettrade.net^$all
+||royalbesttradeinvest.com^$all
 ||royaleliteminers.com^$all
 ||royalewin8888.com^$all
 ||royalexpressglobalsh.com^$all
@@ -4470,6 +4517,7 @@
 ||royalgold-fx.net^$all
 ||royalhubfx.com^$all
 ||royalinvest.ltd^$all
+||royalistrade.com^$all
 ||royalking.trade^$all
 ||royallioninvestment.com^$all
 ||royalmn.com^$all
@@ -4484,6 +4532,7 @@
 ||royalspringcrypto.com^$all
 ||royaltoken.vip^$all
 ||royaltrade.live^$all
+||royaltradeasia.com^$all
 ||royaltradeindex.com^$all
 ||royaltradingcoin.org^$all
 ||royaltradingcoin.vip^$all
@@ -4515,6 +4564,7 @@
 ||ruiwinfx.com^$all
 ||ruixin520.com^$all
 ||rukafxlisans2.com^$all
+||rumenerative-trade-com.com^$all
 ||runaswap.com^$all
 ||runovotrendtrade.net^$all
 ||runthemoney.com^$all
@@ -4523,10 +4573,12 @@
 ||rutgersinvestment.xyz^$all
 ||ruxc.com^$all
 ||ruxcoin.com^$all
+||rxeasyonlinetrading.com^$all
 ||ry2003.royal8888.net^$all
 ||rycoincrypto.pro^$all
 ||ryderexchange.site^$all
 ||rydervip.net^$all
+||ryeasytrade.com^$all
 ||ryeusgdcfcsefl2.com^$all
 ||ryh.yewjua066.xyz^$all
 ||rynoexpressservice.com^$all
@@ -4550,6 +4602,7 @@
 ||seb129.net^$all
 ||sellercoindescription.info^$all
 ||sentinel-global.net^$all
+||seven4trading.com^$all
 ||shop.qd001.xyz^$all
 ||shopcoinswap.com^$all
 ||shopnkhdkahg.shop^$all
@@ -4621,6 +4674,7 @@
 ||the1yearcoin.com^$all
 ||thehyperverse.net^$all
 ||thepioneiroo.com^$all
+||therealmarkettrades.com^$all
 ||therisefx.com^$all
 ||thewombatexchange.com^$all
 ||thrifty.waytecics.com^$all
@@ -4654,6 +4708,10 @@
 ||trade8.kadenx.com^$all
 ||trade8.wayteciysoe.com^$all
 ||tradecapital.asia^$all
+||tradehfm-1.com^$all
+||tradehfm-2.com^$all
+||tradehfm-3.com^$all
+||tradehfm.com^$all
 ||trader-connect-app.net^$all
 ||trader.answfx.com^$all
 ||trader.maxwinote.com^$all
@@ -4667,6 +4725,8 @@
 ||trading-a.tech^$all
 ||tradinghfx.net^$all
 ||tradinghudson.com^$all
+||tradinglyon.com^$all
+||tradingwitholivervelez.com^$all
 ||trapminer.biz^$all
 ||treasurystockfx.com^$all
 ||trend-culture188.com^$all
@@ -4827,6 +4887,7 @@
 ||ultraminer.online^$all
 ||ultrastockfx.com^$all
 ||ultrastocktrade.net^$all
+||ultratrades.ltd^$all
 ||ultratradingltd.com^$all
 ||ultron.foundation^$all
 ||ulttimatecoinfxtrade.com^$all
@@ -4883,6 +4944,7 @@
 ||uniontrades.ltd^$all
 ||unionventures-crypto.com^$all
 ||uniorbit.org^$all
+||uniplusdefi.com^$all
 ||unipro-defi.com^$all
 ||uniprobitvestment.com^$all
 ||uniprodefi.com^$all
@@ -5670,6 +5732,7 @@
 ||wailex.com^$all
 ||wales-trade.com^$all
 ||wallcion.com^$all
+||wallet-lending.com^$all
 ||walletcoinss.com^$all
 ||walletcoinsse.com^$all
 ||walletdefi-max.com^$all
@@ -6184,6 +6247,7 @@
 ||xpoyxxam.xyz^$all
 ||xpress-fund.com^$all
 ||xpresstradesopt.com^$all
+||xprestrade.com^$all
 ||xpromarkets.com^$all
 ||xpromarkets.net^$all
 ||xpromarkets.org^$all
@@ -6438,6 +6502,7 @@
 ||zfxchina.net^$all
 ||zfxs.site^$all
 ||zgcoin.net^$all
+||zgfzqh.com^$all
 ||zh-holding.com^$all
 ||zhangfei135.online^$all
 ||zhhold.live^$all
@@ -6472,6 +6537,7 @@
 ||zlgcdn.online^$all
 ||zlutfx.com^$all
 ||zm.world^$all
+||znbcapital.com^$all
 ||znncnb.com^$all
 ||znnznb.com^$all
 ||znzkltd.com^$all
