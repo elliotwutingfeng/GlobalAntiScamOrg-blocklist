@@ -4,7 +4,7 @@ beautifulsoup4==4.11.2
 black==23.1.0
 lxml==4.9.2
 more-itertools==9.1.0
-mypy==1.0.1
+mypy==1.1.1
 mypy-extensions==1.0.0
 pylint==2.16.4
 tldextract==3.4.0
