@@ -409,7 +409,9 @@
 ||anding9.com^$all
 ||annexcoin.xyz^$all
 ||antinvestiment.com^$all
+||anybitcoin360.top^$all
 ||anyinvest.online^$all
+||apexcoin-farbric.com^$all
 ||apexfxcapital.com^$all
 ||apexpravo.net^$all
 ||apfoxcoin.com^$all
@@ -473,6 +475,7 @@
 ||asaulfamily.com^$all
 ||asdf.lxdfvon.cn^$all
 ||asdfzxcv.3azdh.com^$all
+||asia-greenltd.com^$all
 ||asia.nordstromtw.com^$all
 ||asn.hubcultures.com^$all
 ||asp.haiyuex.com^$all
@@ -490,6 +493,8 @@
 ||bbb02.komitdi.com^$all
 ||bbxotc.co^$all
 ||bclqaz.com^$all
+||bcryptoglobal.com^$all
+||bct6686.app^$all
 ||bctw-invest.com^$all
 ||bcwmarketcoin.com^$all
 ||beastexch.com^$all
@@ -497,6 +502,7 @@
 ||belcherinvestment.com^$all
 ||belovedate.com^$all
 ||berks.ikamiia.com^$all
+||bestusdtbank.buzz^$all
 ||betcoinx.net^$all
 ||bf168.enn666.com^$all
 ||bi-bpb.vcitt.com^$all
@@ -528,6 +534,7 @@
 ||bitcash-lh.cloud^$all
 ||bitcoin-mining-143.xyz^$all
 ||bitcoinarwins.store^$all
+||bitcoinlimited.online^$all
 ||bitcompanyup.net^$all
 ||bitcon1.com^$all
 ||bitdrops.online^$all
@@ -539,7 +546,9 @@
 ||bitlbxpro.com^$all
 ||bitlions.info^$all
 ||bitlme.com^$all
+||bitmex-jiaoyi.com^$all
 ||bitnex24.net^$all
+||bitokxokx.com^$all
 ||bitsiob.com^$all
 ||bitslot727.com^$all
 ||bitso.lol^$all
@@ -643,6 +652,7 @@
 ||cbn-tw.fyi^$all
 ||cbn-tw.top^$all
 ||cbntw.com^$all
+||ccnfa48.top^$all
 ||center-vt.com^$all
 ||center-vt.tw^$all
 ||centralizedweb3exchange.pro^$all
@@ -845,6 +855,7 @@
 ||dotindex.dev^$all
 ||douzhuar.comWVC4.app^$all
 ||down.ghjdfba.com^$all
+||down.vip-jppm.com^$all
 ||down.yyqqv.com^$all
 ||download.hotel-reserve.net^$all
 ||download.liqtrad.com^$all
@@ -1139,6 +1150,7 @@
 ||haccoinx.com^$all
 ||hacointrading.com^$all
 ||haidilaohuodon26.cn^$all
+||haimaibuying.com^$all
 ||hainaexpress.com^$all
 ||haipexfxcrypto.online^$all
 ||haisheng188-ex.com^$all
@@ -4401,6 +4413,7 @@
 ||rdfx-innovationmarkets.online^$all
 ||rdnysedc.com^$all
 ||re-markets.com^$all
+||readymadesignals.com^$all
 ||real-miners.net^$all
 ||real-timeinvestment.com^$all
 ||realbtcex.com^$all
@@ -6115,6 +6128,7 @@
 ||wideviewfx.com^$all
 ||wiexex.com^$all
 ||wikcloseyou.com^$all
+||wiki.bitnomics.info^$all
 ||will-forex.com^$all
 ||willfxvip.net^$all
 ||williamharperexchange.online^$all
