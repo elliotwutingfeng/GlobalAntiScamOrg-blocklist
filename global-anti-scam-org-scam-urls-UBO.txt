@@ -891,10 +891,12 @@
 ||ethdifi.com^$all
 ||ethereumsocialcontract.org^$all
 ||ethmg.com^$all
+||ethminer.info^$all
 ||ethmining.homes^$all
 ||ethrefund.com^$all
 ||etradersonline.com^$all
 ||eurcwfinze.com^$all
+||eusdt.site^$all
 ||exchainbit.com^$all
 ||exchange5a.xyz^$all
 ||exchangewallet99.com^$all
@@ -954,7 +956,9 @@
 ||fubaba.online^$all
 ||fundsrecoexperts.com^$all
 ||funwarehouse.info^$all
+||fusdt.xyz^$all
 ||futurepad.online^$all
+||futurescoin.org^$all
 ||fx-fokist.top^$all
 ||fx-gemini.art^$all
 ||fx-gemini.bond^$all
@@ -966,6 +970,7 @@
 ||fxcentral-ltd.com^$all
 ||fxcmy.com^$all
 ||fxcn.vip^$all
+||fxcoin.top^$all
 ||fxgloboltrade.com^$all
 ||fxharvard.online^$all
 ||fxlegacyprotrade.com^$all
@@ -2505,6 +2510,7 @@
 ||liyeplimal.net^$all
 ||llc-exclusiv.com^$all
 ||llc-exclusiv.tw^$all
+||llgjscshop-tw.com^$all
 ||llinft.com^$all
 ||llshopping-tw.com^$all
 ||lltnwshop-tw.com^$all
@@ -2949,6 +2955,7 @@
 ||newtontradefx.com^$all
 ||newtradetw.cyou^$all
 ||newugou.com^$all
+||newuk.top^$all
 ||newyorkstockexchange022.com^$all
 ||nexaexchange.com^$all
 ||nexaswap.com^$all
@@ -3447,6 +3454,7 @@
 ||ookexx.vip^$all
 ||oolexchange.com^$all
 ||ooun.xyz^$all
+||ooypacz.top^$all
 ||op-trader.com^$all
 ||op.gdzyzx.xyz^$all
 ||opaqueinvesting.net^$all
@@ -3804,6 +3812,7 @@
 ||rakuten09.com^$all
 ||rakutenetopd.com^$all
 ||rakutenext.com^$all
+||rakuteno.com^$all
 ||ramacotrading.net^$all
 ||rambletoken.com^$all
 ||ramines.biz^$all
@@ -3829,6 +3838,7 @@
 ||ravenafinance.com^$all
 ||ravencoin.cloud^$all
 ||ravencoineth.com^$all
+||ravenhallsafebank.com^$all
 ||raves.network^$all
 ||rawbtcpro.com^$all
 ||rawcoinvestment.co^$all
@@ -4003,6 +4013,7 @@
 ||rjfinancialpro.vip^$all
 ||rjqwjkekqla.com^$all
 ||rk-twd.com^$all
+||rkhadui.top^$all
 ||rlative206.top^$all
 ||rlative66.top^$all
 ||rlative88.top^$all
@@ -5797,7 +5808,6 @@
 ||xntd123.com^$all
 ||xocryptowallet.com^$all
 ||xonedenverspreandtraingcenter.com^$all
-||xonmining.com^$all
 ||xonoxtrade.com^$all
 ||xonsu.com^$all
 ||xorbitpro.com^$all
