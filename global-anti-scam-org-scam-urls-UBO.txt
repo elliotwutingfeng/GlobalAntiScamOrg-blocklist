@@ -273,6 +273,7 @@
 ||3pusdt.com^$all
 ||3usdt3.vip^$all
 ||3xcrotradex.com^$all
+||401867.click^$all
 ||4020u1.1279f.xyz^$all
 ||408r8bs.idgcapital99.com^$all
 ||44optionsfx.com^$all
@@ -1120,6 +1121,7 @@
 ||gofxcrypto.com^$all
 ||goldbtt.net^$all
 ||golden-crypto.org^$all
+||golden.oxeoxe.net^$all
 ||goldentrading.org^$all
 ||goldsti.com^$all
 ||goldviptrade.com^$all
@@ -1368,6 +1370,7 @@
 ||hextragainers.com^$all
 ||hexxwallet.com^$all
 ||hf-marketstw.com^$all
+||hf-marketws.com^$all
 ||hf-traders.com^$all
 ||hfhqsourceltd.com^$all
 ||hfjr-tw.com^$all
@@ -1601,6 +1604,7 @@
 ||hotbot.to^$all
 ||hotbtcbull.com^$all
 ||hotbullsfxtrader.online^$all
+||hotcoin.com^$all
 ||hotcoin.fans^$all
 ||hotcoin.shop^$all
 ||hotcoinglobal.club^$all
@@ -1708,7 +1712,10 @@
 ||hurricane.ga^$all
 ||hustore-appdownload12.shop^$all
 ||hustore-applabelqwe12.shop^$all
+||hustore-asddl34.shop^$all
+||hustore-qweapp12.shop^$all
 ||hustore-sg1.shop^$all
+||hustore-sg1app12.shop^$all
 ||hustore-sg2.life^$all
 ||hustore2install-zxc56.shop^$all
 ||hustoreapp-download12.app^$all
@@ -2014,6 +2021,7 @@
 ||indoexthe.com^$all
 ||indoexwlc.com^$all
 ||indoodex.live^$all
+||indoxjud3.top^$all
 ||indusglobalfx.com^$all
 ||indusgold.com^$all
 ||indusgold.ltd^$all
@@ -2024,6 +2032,7 @@
 ||infinitecoincap.com^$all
 ||infinitecoininvestment.com^$all
 ||infiniteexpresstrades.live^$all
+||infinitegrowth.ltd^$all
 ||infinitextrader.org^$all
 ||infinity-fund.ltd^$all
 ||infinity-fundfx.com^$all
@@ -2267,6 +2276,7 @@
 ||itbitswe.com^$all
 ||itbittop.com^$all
 ||itbitua.com^$all
+||itbitusid.com^$all
 ||itbitvxc.com^$all
 ||itcfx.com^$all
 ||itcfx.net^$all
@@ -2430,6 +2440,7 @@
 ||jscoptyltd.com^$all
 ||jsfsjx.top^$all
 ||jsgj6788.com^$all
+||jsholdings.com.tw^$all
 ||jsjs2763jsjs8282as7app.com^$all
 ||jslinkglobal.com^$all
 ||jsunexchange.com^$all
@@ -2450,6 +2461,7 @@
 ||juhengtw.com^$all
 ||juliusbaer-trade.net^$all
 ||juliusbaer-trade.top^$all
+||juliusbaer-tradext.top^$all
 ||julysil-bit.com^$all
 ||julysil-coin.com^$all
 ||julysil-pro.com^$all
@@ -2631,6 +2643,7 @@
 ||kingcoin-online.com^$all
 ||kingscoinmarket.com^$all
 ||kingstraders.net^$all
+||kingswealthtrust.com^$all
 ||kingtradesinvestments.com^$all
 ||kingxcoin.com^$all
 ||kingz-crypto.org^$all
@@ -3326,6 +3339,7 @@
 ||lyty615.com^$all
 ||m.365s666.com^$all
 ||m.78ex.info^$all
+||m.amtop.bio^$all
 ||m.coindater.com^$all
 ||m.coinpluguscoltd.com^$all
 ||m.genting18.com^$all
@@ -3465,6 +3479,7 @@
 ||morganbelllawfirm.com^$all
 ||moro.yasenfinancial.live^$all
 ||motion-bit.com^$all
+||moxccaer.com^$all
 ||mpbnn.fun^$all
 ||msvip9.cn^$all
 ||mtcapitaltd.com^$all
@@ -3632,6 +3647,7 @@
 ||newtontradefx.com^$all
 ||newtradetw.cyou^$all
 ||newtradetw.top^$all
+||newtradetw.xyz^$all
 ||newugou.com^$all
 ||newuk.top^$all
 ||newyorkstockexchange022.com^$all
@@ -3806,8 +3822,10 @@
 ||nuri-compliance.com^$all
 ||nutex-online.com^$all
 ||nutex.cc^$all
+||nutex.club^$all
 ||nutex.vip^$all
 ||nutexc.cc^$all
+||nutexcoin.top^$all
 ||nutexonline.com^$all
 ||nutexs.cc^$all
 ||nutorex.com^$all
@@ -4250,6 +4268,7 @@
 ||origamall.live^$all
 ||origamall.online^$all
 ||origamall.xyz^$all
+||origamallapp-install.shop^$all
 ||originalforex.net^$all
 ||origintrustcorp.com^$all
 ||orisbit.com^$all
@@ -4306,6 +4325,7 @@
 ||oxidetrade.com^$all
 ||oxisfxpro.com^$all
 ||oxoneoptiontrade.top^$all
+||oxprodefi.com^$all
 ||oxt-eth.com^$all
 ||oxtcoin.com^$all
 ||oxtradehub.com^$all
@@ -4671,6 +4691,7 @@
 ||rhinomarketsfx.com^$all
 ||ribitexchange.com^$all
 ||rich-industry-investment.com^$all
+||rich-netfund.com^$all
 ||rich.8888usdt.vip^$all
 ||richardtrade.online^$all
 ||richawealth.com^$all
@@ -4699,6 +4720,7 @@
 ||riotminings.com^$all
 ||riotradesltd.com^$all
 ||riotx.cc^$all
+||rippleclusterpro.com^$all
 ||rippleinvest.net^$all
 ||risemoon.io^$all
 ||rissinggold.com^$all
@@ -4979,6 +5001,7 @@
 ||thewombatexchange.com^$all
 ||thrifty.waytecics.com^$all
 ||tigeryearfa.com^$all
+||tikk-shop.org^$all
 ||tiktok-nft.cc^$all
 ||tip-vt.com^$all
 ||tk.k-coin.net^$all
@@ -5088,6 +5111,7 @@
 ||uberinfoverification.online^$all
 ||ubextw.com^$all
 ||ublochain.com^$all
+||ubs-ex.top^$all
 ||ubs19vip38.xyz^$all
 ||ubs19vip68.xyz^$all
 ||ubsexf.com^$all
@@ -5936,6 +5960,7 @@
 ||vivefrance.com^$all
 ||vizotrade.com^$all
 ||vjfsg.shop^$all
+||vkrfhehahwe.com^$all
 ||vlades.com^$all
 ||vlafx24.com^$all
 ||vlihoajasih.com^$all
@@ -6149,6 +6174,7 @@
 ||wealthfacefunds.online^$all
 ||wealthfcmt.com^$all
 ||wealthfrontexchange.com^$all
+||wealthfrontintl.com^$all
 ||wealthfrontts.com^$all
 ||wealthfx.ltd^$all
 ||wealthgrowthtrade.net^$all
@@ -6260,6 +6286,7 @@
 ||wexocapltd.com^$all
 ||wexpaybit.com^$all
 ||wexxex.com^$all
+||wezcu.com^$all
 ||wfdcoin.top^$all
 ||wfgtradinggroup.com^$all
 ||wfhtr.com^$all
@@ -6430,6 +6457,7 @@
 ||wright.ios04.com^$all
 ||wrxstfx.com^$all
 ||wsd.otivv.com^$all
+||wsd.visoikc.com^$all
 ||wsdguh.webnode.tw^$all
 ||wsfl-fx.com^$all
 ||wss3.xyz^$all
@@ -6849,6 +6877,7 @@
 ||zillytraders.com^$all
 ||zilobitfx.com^$all
 ||zimbacrypto.com^$all
+||zimg.imgstw.com^$all
 ||zins.cloud^$all
 ||zintech-invest.us^$all
 ||zion-global-limited.com^$all
