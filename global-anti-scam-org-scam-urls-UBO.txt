@@ -380,6 +380,7 @@
 ||HUNFX.COM^$all
 ||Imcyp.com^$all
 ||Nobeliumhackers.com^$all
+||Novasfx.com^$all
 ||RHONECOIN.com^$all
 ||Rawkchain.com^$all
 ||Ubstex.com^$all
@@ -736,10 +737,16 @@
 ||coininner.top^$all
 ||coiniob.com^$all
 ||coinmarketcap.yasenfinancial.site^$all
+||coinpay.buzz^$all
+||coinperrich.com^$all
 ||coinpushercasinos.icu^$all
 ||coinpusherjackpot.icu^$all
 ||coinrecovery.org^$all
+||coinrichie.com^$all
 ||coinrichness.com^$all
+||coinrickie.com^$all
+||coinricy.com^$all
+||coins-ok.com^$all
 ||coinwebapp.org^$all
 ||coller-capital.co^$all
 ||com.occoin.club^$all
@@ -776,6 +783,7 @@
 ||crm6.vipotorfx.com.tw^$all
 ||crm8.fx-vipotor.com^$all
 ||crown-fx.com^$all
+||cryptmempoolrecovery.com^$all
 ||crypto-ijaduaa.com^$all
 ||crypto-omykuey.info^$all
 ||crypto-quantitative.xyz^$all
@@ -787,6 +795,7 @@
 ||crypto.lion.expert^$all
 ||crypto.lion.training^$all
 ||cryptoassessors.com^$all
+||cryptobtc.vip^$all
 ||cryptoeasy.app^$all
 ||cryptoexpertoption.online^$all
 ||cryptoforex.fun^$all
@@ -1796,6 +1805,7 @@
 ||icapitalmining.net^$all
 ||icb-trading.com^$all
 ||ice-bitt.com^$all
+||ice-snowmall.com^$all
 ||ice-vcr.com^$all
 ||icebit.ink^$all
 ||icebit.shop^$all
@@ -1902,6 +1912,7 @@
 ||ig-markets.kcchat.net^$all
 ||ig.haedhb.top^$all
 ||ig.ppyyiq.cn^$all
+||ig500.com^$all
 ||igbitcfdtrading.com^$all
 ||igenius-fx.com^$all
 ||igeniusfxglobal.com^$all
@@ -2590,6 +2601,7 @@
 ||kerxi.net^$all
 ||kescotrades.online^$all
 ||kevinvestment.com^$all
+||keybasefinance.net^$all
 ||keybasefinances.com^$all
 ||keyfxmarket.com^$all
 ||keymanex.com^$all
@@ -2794,6 +2806,7 @@
 ||kucoin.bar^$all
 ||kucoin.foundation^$all
 ||kucoin.rest^$all
+||kucoin.ssvjhzv.com^$all
 ||kucoin666.xyz^$all
 ||kucoinaul.com^$all
 ||kucoineee.com^$all
@@ -4424,6 +4437,7 @@
 ||qormegatrade.com^$all
 ||qproabilefx.com^$all
 ||qptrx.com^$all
+||qq88a.shop^$all
 ||qq9.cool^$all
 ||qqmining.org^$all
 ||qsk6290.com^$all
@@ -5884,6 +5898,7 @@
 ||victoriadk.com^$all
 ||victoriantrades.com^$all
 ||victory-fx.site^$all
+||victory36.com^$all
 ||victtok.com^$all
 ||victvip.com^$all
 ||vidalfx.com^$all
@@ -6482,6 +6497,9 @@
 ||wwmarket-asia.com^$all
 ||www-ig.cjzqls.com^$all
 ||www-lfex.com^$all
+||www.jidanhua.com^$all
+||www.okbcoin.co^$all
+||www.rcoinbi.com^$all
 ||www1.initaltrades.com^$all
 ||wwwlmtokenusdt.space^$all
 ||wxjtax.com^$all

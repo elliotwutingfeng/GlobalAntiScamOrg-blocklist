@@ -380,6 +380,7 @@
 ||HUNFX.COM^
 ||Imcyp.com^
 ||Nobeliumhackers.com^
+||Novasfx.com^
 ||RHONECOIN.com^
 ||Rawkchain.com^
 ||Ubstex.com^
@@ -736,10 +737,16 @@
 ||coininner.top^
 ||coiniob.com^
 ||coinmarketcap.yasenfinancial.site^
+||coinpay.buzz^
+||coinperrich.com^
 ||coinpushercasinos.icu^
 ||coinpusherjackpot.icu^
 ||coinrecovery.org^
+||coinrichie.com^
 ||coinrichness.com^
+||coinrickie.com^
+||coinricy.com^
+||coins-ok.com^
 ||coinwebapp.org^
 ||coller-capital.co^
 ||com.occoin.club^
@@ -776,6 +783,7 @@
 ||crm6.vipotorfx.com.tw^
 ||crm8.fx-vipotor.com^
 ||crown-fx.com^
+||cryptmempoolrecovery.com^
 ||crypto-ijaduaa.com^
 ||crypto-omykuey.info^
 ||crypto-quantitative.xyz^
@@ -787,6 +795,7 @@
 ||crypto.lion.expert^
 ||crypto.lion.training^
 ||cryptoassessors.com^
+||cryptobtc.vip^
 ||cryptoeasy.app^
 ||cryptoexpertoption.online^
 ||cryptoforex.fun^
@@ -1796,6 +1805,7 @@
 ||icapitalmining.net^
 ||icb-trading.com^
 ||ice-bitt.com^
+||ice-snowmall.com^
 ||ice-vcr.com^
 ||icebit.ink^
 ||icebit.shop^
@@ -1902,6 +1912,7 @@
 ||ig-markets.kcchat.net^
 ||ig.haedhb.top^
 ||ig.ppyyiq.cn^
+||ig500.com^
 ||igbitcfdtrading.com^
 ||igenius-fx.com^
 ||igeniusfxglobal.com^
@@ -2590,6 +2601,7 @@
 ||kerxi.net^
 ||kescotrades.online^
 ||kevinvestment.com^
+||keybasefinance.net^
 ||keybasefinances.com^
 ||keyfxmarket.com^
 ||keymanex.com^
@@ -2794,6 +2806,7 @@
 ||kucoin.bar^
 ||kucoin.foundation^
 ||kucoin.rest^
+||kucoin.ssvjhzv.com^
 ||kucoin666.xyz^
 ||kucoinaul.com^
 ||kucoineee.com^
@@ -4424,6 +4437,7 @@
 ||qormegatrade.com^
 ||qproabilefx.com^
 ||qptrx.com^
+||qq88a.shop^
 ||qq9.cool^
 ||qqmining.org^
 ||qsk6290.com^
@@ -5884,6 +5898,7 @@
 ||victoriadk.com^
 ||victoriantrades.com^
 ||victory-fx.site^
+||victory36.com^
 ||victtok.com^
 ||victvip.com^
 ||vidalfx.com^
@@ -6482,6 +6497,9 @@
 ||wwmarket-asia.com^
 ||www-ig.cjzqls.com^
 ||www-lfex.com^
+||www.jidanhua.com^
+||www.okbcoin.co^
+||www.rcoinbi.com^
 ||www1.initaltrades.com^
 ||wwwlmtokenusdt.space^
 ||wxjtax.com^
