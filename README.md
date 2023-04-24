@@ -1,7 +1,6 @@
 # Global Anti Scam Organization blocklist
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![AIOHTTP](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=aiohttp&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
@@ -26,7 +25,7 @@ The URLs and IP Addresses in this blocklist are compiled by the **Global Anti Sc
 
 ## Requirements
 
--   Python >= 3.11
+- Python >= 3.11
 
 ## Setup instructions
 
@@ -44,9 +43,8 @@ python3 scraper.py
 
 ## Libraries/Frameworks used
 
--   [URLExtract](https://github.com/lipoja/URLExtract)
--   [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io)
--   [AIOHTTP](https://docs.aiohttp.org/en/stable)
+- [Selenium](https://selenium.dev)
+- [tldextract](https://github.com/john-kurkowski/tldextract)
 
 &nbsp;
 
