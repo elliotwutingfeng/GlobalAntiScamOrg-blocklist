@@ -1,6 +1,7 @@
 .github/
 LICENSE
 README.md
+CODE_OF_CONDUCT.md
 renovate.json
 requirements.txt
 scraper.py
