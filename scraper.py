@@ -89,12 +89,10 @@ def get_page(svSession: str, offset: int = 0) -> requests.Response:
         "dataQuery": {
             "sort": [{"fieldName": "url", "order": "ASC"}],
             "paging": {"offset": offset, "limit": 1000},
-        }
+        },
     }
     cookies = {"svSession": svSession}
-    return requests.post(
-        endpoint, json.dumps(data), cookies=cookies, timeout=30
-    )
+    return requests.post(endpoint, json.dumps(data), cookies=cookies, timeout=30)
 
 
 def retrieve_dataset(
