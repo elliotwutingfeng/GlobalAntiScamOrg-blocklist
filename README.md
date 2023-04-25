@@ -5,7 +5,7 @@
 
 [![GitHub license](https://img.shields.io/badge/LICENSE-BSD--3--CLAUSE-GREEN?style=for-the-badge)](LICENSE)
 [![scraper](https://img.shields.io/github/actions/workflow/status/elliotwutingfeng/GlobalAntiScamOrg-blocklist/scraper.yml?branch=main&label=SCRAPER&style=for-the-badge)](https://github.com/elliotwutingfeng/GlobalAntiScamOrg-blocklist/actions/workflows/scraper.yml)
-<img src="https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/GlobalAntiScamOrg-blocklist?label=Total%20Blocklist%20URLS&style=for-the-badge" alt="Total Blocklist URLs"/>
+![Total Blocklist URLs](https://tokei-rs.onrender.com/b1/github/elliotwutingfeng/GlobalAntiScamOrg-blocklist?label=Total%20Blocklist%20URLS&style=for-the-badge)
 
 Machine-readable `.txt` blocklist of scam URLs and IP Addresses from the [Global Anti Scam Organization](https://www.globalantiscam.org) website, updated once a day.
 

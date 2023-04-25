@@ -1,5 +1,5 @@
-"""Extracts scam URLs found at https://www.globalantiscam.org/scam-websites
-and writes them to a .txt blocklist
+"""Extract scam URLs found at https://www.globalantiscam.org/scam-websites
+and write them to a .txt blocklist
 """
 import ipaddress
 import itertools
@@ -20,7 +20,7 @@ logging.basicConfig(level=logging.INFO, format="%(message)s")
 
 
 def current_datetime_str() -> str:
-    """Current time's datetime string in UTC.
+    """Current time's datetime string in UTC
 
     Returns:
         str: Timestamp in strftime format "%d_%b_%Y_%H_%M_%S-UTC".
@@ -33,7 +33,7 @@ def clean_url(url: str) -> str:
     and URL prefixes from a URL
 
     Args:
-        url (str): URL
+        url (str): URL.
 
     Returns:
         str: URL without zero width spaces, leading/trailing whitespaces, trailing slashes,
@@ -49,7 +49,7 @@ def clean_url(url: str) -> str:
 
 
 def get_sv_session() -> str | None:
-    """Retrieves `svSession` session token from globalantiscam.org
+    """Retrieve `svSession` session token from globalantiscam.org
 
     Returns:
         str | None: `svSession` session token if it exists, otherwise None.
@@ -71,7 +71,7 @@ def get_sv_session() -> str | None:
 
 def get_page(svSession: str, offset: int = 0) -> requests.Response:
     """Retrieve data from globalantiscam.org Scam URL API
-    from a given datapoint index `offset`.
+    from a given datapoint index `offset`
 
     Args:
         svSession (str): To authenticate the API call.
@@ -89,13 +89,11 @@ def get_page(svSession: str, offset: int = 0) -> requests.Response:
         "dataQuery": {
             "sort": [{"fieldName": "url", "order": "ASC"}],
             "paging": {"offset": offset, "limit": 1000},
-        },
-        "appId": "dbe96ca7-a43a-408c-8894-a998aa45a0ec",
+        }
     }
-    headers = {"Accept": "*/*"}
     cookies = {"svSession": svSession}
     return requests.post(
-        endpoint, json.dumps(data), headers=headers, cookies=cookies, timeout=30
+        endpoint, json.dumps(data), cookies=cookies, timeout=30
     )
 
 
@@ -106,7 +104,7 @@ def retrieve_dataset(
 
     Args:
         svSession (str): To authenticate the API call.
-        first_page_response (requests.Response): API data response from first page
+        first_page_response (requests.Response): API data response from first page.
 
     Returns:
         list[dict]: List of all API responses as JSON.
@@ -155,13 +153,13 @@ def extract_scam_urls() -> set[str]:
         )
         raw_urls = [x["url"].strip(" \t\v\n\r\f.") for x in all_items if "url" in x]
         lines = (re.sub("\\s+", " ", line) for line in raw_urls)
-        lines = list(
+        urls = set(
             y
             for x in itertools.chain.from_iterable(line.split(" ") for line in lines)
             if (y := clean_url(x.strip(" \t\v\n\r\f."))) and y != "www"
         )
 
-        return set(lines)
+        return urls
     except Exception as error:
         logger.error(error)
         return set()
