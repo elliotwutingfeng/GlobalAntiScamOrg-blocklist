@@ -1174,6 +1174,7 @@
 ||aegeansean.com^$all
 ||aegis-capital.co^$all
 ||aegloballink.com^$all
+||aeonbbb.top^$all
 ||aeonminingltd.com^$all
 ||aepex.co.uk^$all
 ||aerocronplex.com^$all
@@ -1659,6 +1660,7 @@
 ||amazonceto.com^$all
 ||amazoncryptominers.com^$all
 ||amazondw.bihui188.com^$all
+||amazongroupg.xyz^$all
 ||amazonhi.vip^$all
 ||amazonus.vip^$all
 ||amazonwallet.app^$all
@@ -3382,6 +3384,7 @@
 ||bestbc.net^$all
 ||bestbit-invest.com^$all
 ||bestbitcointransaction.com^$all
+||bestbuyzz.top^$all
 ||bestcfxtrading.com^$all
 ||bestchoiceinvestments.net^$all
 ||bestcoingains.com^$all
@@ -4410,6 +4413,7 @@
 ||bitcoinio.pro^$all
 ||bitcoinira.trade^$all
 ||bitcoiniracontrat.top^$all
+||bitcoiniva.com^$all
 ||bitcoinlegalminingllc.com^$all
 ||bitcoinlimited.online^$all
 ||bitcoinloophole-official.com^$all
@@ -4442,10 +4446,13 @@
 ||bitcoinquickmines.com^$all
 ||bitcoinraffle.store^$all
 ||bitcoins66.com^$all
+||bitcoinsafeinvestments.com^$all
 ||bitcoinsalgorithm.com^$all
 ||bitcoinscode.pro^$all
 ||bitcoinscrest.net^$all
+||bitcoinshop.club^$all
 ||bitcoinskyinvest.com^$all
+||bitcoinsliveapp.com^$all
 ||bitcoinsmix.pro^$all
 ||bitcoinsoptions.com^$all
 ||bitcoinsprintapp.com^$all
@@ -4460,6 +4467,7 @@
 ||bitcointrade.vip^$all
 ||bitcointrade247.com^$all
 ||bitcointradepoint.net^$all
+||bitcointradeproinvestment.com^$all
 ||bitcointraderbots.com^$all
 ||bitcointradesinvestments.com^$all
 ||bitcointradex.com^$all
@@ -4482,6 +4490,7 @@
 ||bitcoinxox.com^$all
 ||bitcoinxox.org^$all
 ||bitcoinyx.com^$all
+||bitcoivo.com^$all
 ||bitcoke.com^$all
 ||bitcoke.work^$all
 ||bitcokeb.top^$all
@@ -4500,8 +4509,10 @@
 ||bitcomini.top^$all
 ||bitcomline.vip^$all
 ||bitcompanyup.net^$all
+||bitcon-nect.com^$all
 ||bitcon.site^$all
 ||bitcon1.com^$all
+||bitcon226.com^$all
 ||bitconarix.com^$all
 ||bitconrium.com^$all
 ||bitconveno.com^$all
@@ -4520,6 +4531,7 @@
 ||bitcoretrades.com^$all
 ||bitcorit.com^$all
 ||bitcorp-investment.com^$all
+||bitcorsoftwaremining.com^$all
 ||bitcotrans.com^$all
 ||bitcoud.com^$all
 ||bitcoxchangeltd.com^$all
@@ -4539,13 +4551,16 @@
 ||bitcrise.com^$all
 ||bitcroner.com^$all
 ||bitcroptrade.com^$all
+||bitcrossoptions.ltd^$all
 ||bitcrotrade.net^$all
 ||bitcrown.online^$all
 ||bitcrownltd.com^$all
+||bitcrowntrading.pro^$all
 ||bitcryex.com^$all
 ||bitcryptex.com^$all
 ||bitcryptinvest.com^$all
 ||bitcrypto.vip^$all
+||bitcrypto58.com^$all
 ||bitcryptobulls.online^$all
 ||bitcryptocap.com^$all
 ||bitcryptofan.com^$all
@@ -4558,6 +4573,7 @@
 ||bitcryptrades.com^$all
 ||bitcryptys.com^$all
 ||bitcrytocoin.com^$all
+||bitcschange.com^$all
 ||bitcsh.website^$all
 ||bitctitan.com^$all
 ||bitcudor.cc^$all
@@ -4581,16 +4597,22 @@
 ||bitdd.co^$all
 ||bitdeal.vip^$all
 ||bitdeposit.name^$all
+||bitdex.top^$all
+||bitdexc.com^$all
 ||bitdexion.com^$all
 ||bitdexmo.com^$all
 ||bitdi.vip^$all
+||bitdiamondxtra.com^$all
 ||bitdiamondxtra.net^$all
 ||bitdigitatrading.com^$all
 ||bitdog.com^$all
+||bitdoll.pro^$all
 ||bitdote.com^$all
 ||bitdoubles.net^$all
 ||bitdrex.com^$all
+||bitdroper.com^$all
 ||bitdrops.online^$all
+||bitdup24.com^$all
 ||bitduse.vip^$all
 ||bitdws.com^$all
 ||bitdws.net^$all
@@ -4604,6 +4626,7 @@
 ||bitebcali.com^$all
 ||bitebcank.com^$all
 ||bitebcaub.com^$all
+||bitebcbre.com^$all
 ||bitebcex.com^$all
 ||bitebcohn.com^$all
 ||bitebcthe.com^$all
@@ -4625,6 +4648,8 @@
 ||biteluw.com^$all
 ||bitemaxtrades.com^$all
 ||bitemaxtrades.net^$all
+||bitenergy.tech^$all
+||bitenitex.com^$all
 ||bitenom.com^$all
 ||bitenp.fun^$all
 ||bitenp.info^$all
@@ -4641,7 +4666,9 @@
 ||biter-coin.com^$all
 ||bitercoin.com^$all
 ||biterios.com^$all
+||biterscoin.com^$all
 ||bitescrow.app^$all
+||bitesyn.com^$all
 ||biteternally.com^$all
 ||bitethmine.com^$all
 ||bitethmining.com^$all
@@ -4662,13 +4689,16 @@
 ||bitexcapitals.com^$all
 ||bitexcelent.com^$all
 ||bitexchage.com^$all
+||bitexchanege.com^$all
 ||bitexchange-mining.com^$all
 ||bitexcoin.org^$all
 ||bitexcoinup.com^$all
+||bitexdash.net^$all
 ||bitexen.ltd^$all
 ||bitexen.pro^$all
 ||bitexenus.com^$all
 ||bitexfomo.com^$all
+||bitexgoldoptions.com^$all
 ||bitexhot.com^$all
 ||bitexltd.org^$all
 ||bitexmania.com^$all
@@ -4678,12 +4708,14 @@
 ||bitexola.com^$all
 ||bitexos.com^$all
 ||bitexos.vip^$all
+||bitexpertpro.com^$all
 ||bitexpertxchange.com^$all
 ||bitexpressfirm.com^$all
 ||bitextool.com^$all
 ||bitexu.online^$all
 ||bitexvest.com^$all
 ||bitexwave.com^$all
+||bitexwinner.com^$all
 ||bitezaa.shop^$all
 ||bitf885.com^$all
 ||bitfal.xyz^$all
@@ -4692,6 +4724,7 @@
 ||bitfarex.com^$all
 ||bitfarex.net^$all
 ||bitfarex.org^$all
+||bitfarm-miners.ltd^$all
 ||bitfarme.com^$all
 ||bitfarme.top^$all
 ||bitfarmes.com^$all
@@ -4715,7 +4748,9 @@
 ||bitfieldfx.com^$all
 ||bitfievips.top^$all
 ||bitfievips.xyz^$all
+||bitfiexappios.top^$all
 ||bitfiexyza.top^$all
+||bitfiinex.org^$all
 ||bitfiinite.net^$all
 ||bitfillin.com^$all
 ||bitfin-capital.top^$all
@@ -4728,6 +4763,7 @@
 ||bitfinanceoption.com^$all
 ||bitfinancex.com^$all
 ||bitfinancifx.com^$all
+||bitfinanzen.com^$all
 ||bitfinax.pro^$all
 ||bitfinax.xyz^$all
 ||bitfincorp.trade^$all
@@ -4735,6 +4771,7 @@
 ||bitfindx.xyz^$all
 ||bitfine.net^$all
 ||bitfine.xyz^$all
+||bitfinecapitaltrade.com^$all
 ||bitfineex.xyz^$all
 ||bitfinen.com^$all
 ||bitfinest.net^$all
@@ -4751,6 +4788,7 @@
 ||bitfinex11.top^$all
 ||bitfinex13.top^$all
 ||bitfinex21.top^$all
+||bitfinex23234.com^$all
 ||bitfinex24.top^$all
 ||bitfinex29.top^$all
 ||bitfinex888.com^$all
@@ -4775,12 +4813,14 @@
 ||bitfinexs.xyz^$all
 ||bitfinextether.com^$all
 ||bitfinextraders.com^$all
+||bitfinexv.com^$all
 ||bitfinger.net^$all
 ||bitfintradingltd.com^$all
 ||bitfirium.com^$all
 ||bitfirmament.com^$all
 ||bitfirmtrade.com^$all
 ||bitfirmtrade.ltd^$all
+||bitfiryx.com^$all
 ||bitfit.pro^$all
 ||bitfitnex.com^$all
 ||bitfiure.net^$all
@@ -4793,21 +4833,28 @@
 ||bitfixtrades.net^$all
 ||bitfixtradingplatform.com^$all
 ||bitfizex.com^$all
+||bitflaers.com^$all
 ||bitflashsystem.com^$all
+||bitflaws.com^$all
+||bitflexfinance.com^$all
 ||bitflgobal.com^$all
 ||bitflipex.com^$all
 ||bitflor.com^$all
 ||bitflownex.com^$all
+||bitflowx.com^$all
 ||bitfluens.com^$all
 ||bitfluiix.org^$all
 ||bitfluxapp.com^$all
+||bitfly-swap.com^$all
 ||bitfly.site^$all
 ||bitfly.trade^$all
 ||bitflyer.online^$all
 ||bitflyer.pro^$all
 ||bitflyerinvitationcode.xyz^$all
 ||bitflyingdex.com^$all
+||bitflypay.com^$all
 ||bitflytt.com^$all
+||bitfnex-ex.com^$all
 ||bitfonix.online^$all
 ||bitfonixcapital.space^$all
 ||bitfonixgroup.online^$all
@@ -4815,6 +4862,7 @@
 ||bitfonzy.com^$all
 ||bitfor-ex.com^$all
 ||bitforapp.com^$all
+||bitforbex.net^$all
 ||bitford-capital.com^$all
 ||bitforex.fund^$all
 ||bitforex24trading.com^$all
@@ -4836,10 +4884,13 @@
 ||bitfrix.com^$all
 ||bitfront.digital^$all
 ||bitfuex.com^$all
+||bitfumoney.xyz^$all
 ||bitfunds-investment.com^$all
 ||bitfunds-ltd.net^$all
 ||bitfury88.com^$all
 ||bitfusion.online^$all
+||bitfusion.top^$all
+||bitfusionx.com^$all
 ||bitfuto-coin.com^$all
 ||bitfuto.com^$all
 ||bitfuturelife.com^$all
@@ -4856,6 +4907,7 @@
 ||bitfxfreedom.com^$all
 ||bitfxhd.com^$all
 ||bitfxmarket.online^$all
+||bitfxminners.org^$all
 ||bitfxonlinetrade.com^$all
 ||bitfxpro.online^$all
 ||bitfxrockets.com^$all
@@ -6033,6 +6085,7 @@
 ||bitsurgeltd.com^$all
 ||bitsurgetradings.com^$all
 ||bitsuuq.live^$all
+||bitsvip.cc^$all
 ||bitsvip.site^$all
 ||bitsvip.top^$all
 ||bitsw.net^$all
@@ -6636,6 +6689,7 @@
 ||bnan.casave100.com^$all
 ||bnan.casave200.com^$all
 ||bnan.casave300.com^$all
+||bnat.io^$all
 ||bnb-design.com^$all
 ||bnb-dt.pro^$all
 ||bnb-global.net^$all
@@ -10211,6 +10265,7 @@
 ||coinupit.site^$all
 ||coinuptrade.com^$all
 ||coinupty.co^$all
+||coinupty.com^$all
 ||coinupusa.com^$all
 ||coinupw.com^$all
 ||coinupys.com^$all
@@ -11861,6 +11916,7 @@
 ||cryptospothub.com^$all
 ||cryptosranking.com^$all
 ||cryptoss-space.ltd^$all
+||cryptossp.com^$all
 ||cryptosspoters.com^$all
 ||cryptossupport.com^$all
 ||cryptostackers.site^$all
@@ -12699,6 +12755,7 @@
 ||deers56.com^$all
 ||deewanfinance.com^$all
 ||deezcoin.com^$all
+||defcoins.net^$all
 ||defeng123.com^$all
 ||defeng88.vip^$all
 ||defi-aavev3.info^$all
@@ -17913,6 +17970,7 @@
 ||genesisextrememining.com^$all
 ||genesisfxtrades.com^$all
 ||genesismining.space^$all
+||genesiss-nft.com^$all
 ||genesysbtcmining.com^$all
 ||genexix.net^$all
 ||genexixdeliveryservice.com^$all
@@ -19295,6 +19353,7 @@
 ||h5.unicefunc.xyz^$all
 ||h5.usallystock.com^$all
 ||h5.uxmexglobal.com^$all
+||h5.vatee8888.com^$all
 ||h5.vivgoo.com^$all
 ||h5.vxrsige.top^$all
 ||h5.wbexnew.com^$all
@@ -19904,6 +19963,7 @@
 ||hotcoins.ink^$all
 ||hotcoins.org^$all
 ||hotcoins.shop^$all
+||hotcoins.us^$all
 ||hotcoinstrade.com^$all
 ||hotcpro.vip^$all
 ||hotdextrade.com^$all
@@ -21953,6 +22013,7 @@
 ||leverjdefi-concept.com^$all
 ||leverjdefi-top.com^$all
 ||leverjorg.com^$all
+||leverjprecise.com^$all
 ||leverjsvip.com^$all
 ||leverjwebsite.world^$all
 ||levevrc.com^$all
@@ -22462,6 +22523,7 @@
 ||m.bale567.com^$all
 ||m.bdsfx.net^$all
 ||m.bearingyear.top^$all
+||m.bgetgo123.com^$all
 ||m.bigonecem.com^$all
 ||m.bigonex.co^$all
 ||m.bigonexc.co^$all
@@ -23838,6 +23900,7 @@
 ||miningtrc.com^$all
 ||miningtron.online^$all
 ||miningtrx.vip^$all
+||miningttc.com^$all
 ||miningupbitcoin.com^$all
 ||miningusd.pro^$all
 ||miningvip222.com^$all
@@ -24461,6 +24524,7 @@
 ||natsfx.com^$all
 ||natsle.com^$all
 ||nattex.top^$all
+||naughtword.com^$all
 ||navcoinholdings.com^$all
 ||navigatortrades.com^$all
 ||naxcomexchangeinc.com^$all
@@ -27672,6 +27736,7 @@
 ||shop-aa.vip^$all
 ||shop.ebay-uk.vip^$all
 ||shop.ee-cn1536.top^$all
+||shop.ee-en1156.top^$all
 ||shop.ee-th3834.top^$all
 ||shop.klgw.shop^$all
 ||shop.ottoshop.xyz^$all
@@ -28006,6 +28071,7 @@
 ||smart-chaincrypto.com^$all
 ||smart-forex.asia^$all
 ||smart-minings.com^$all
+||smart-moneydeal-now.com^$all
 ||smart-optionsinvestment.com^$all
 ||smartaccessfx.online^$all
 ||smartarbitrager.com^$all
@@ -32998,6 +33064,15 @@
 ||www-lfex.com^$all
 ||www-poloniex.com^$all
 ||www-ysb.com^$all
+||www.antexchange.vip^$all
+||www.bikinkb.cc^$all
+||www.bitfine-fx.com^$all
+||www.cuanthebcr.com^$all
+||www.fitcoin.info^$all
+||www.gmimax.com^$all
+||www.kkcnex.cc^$all
+||www.m-daq.cc^$all
+||www.okxbiz.com^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all
@@ -33267,6 +33342,7 @@
 ||xwebminer.com^$all
 ||xworldinvestmentcompany.ltd^$all
 ||xwrxa46.cn^$all
+||xx.heibawk.vip^$all
 ||xx.yongfengdk.xyz^$all
 ||xx0fasdwqf.com^$all
 ||xxcravaes.com^$all
@@ -33394,6 +33470,7 @@
 ||yizikaijzen.xyz^$all
 ||yk02.zhybcw.com^$all
 ||ykoed.com^$all
+||yl.kwkk.vip^$all
 ||ylam.ylig.live^$all
 ||ylchfff.com^$all
 ||ylfx.uk^$all
