@@ -112,6 +112,7 @@
 ||1wazdx.top^$all
 ||1wbfxq.top^$all
 ||1wbifx.top^$all
+||1wbtcj.top^$all
 ||1wbtcs.top^$all
 ||1wcexg.top^$all
 ||1wcexi.top^$all
@@ -183,6 +184,7 @@
 ||1wumex.top^$all
 ||1wuoex.top^$all
 ||1wuuff.top^$all
+||1wvbtc.top^$all
 ||1wvexa.top^$all
 ||1wvfxa.top^$all
 ||1wvmex.top^$all
@@ -203,15 +205,19 @@
 ||208.winn6668.com^$all
 ||208btc.com^$all
 ||21384145-cy.amg-8.com^$all
+||216cryptopool.com^$all
 ||216liveoption.com^$all
 ||216miningoptions.com^$all
 ||22balansfx.com^$all
 ||247-fx-mining.online^$all
 ||247-profx.com^$all
+||247-worldcryptotrading.online^$all
 ||247antminingtrade.com^$all
 ||247autocryptotrade.org^$all
 ||247binaryfxtrading.online^$all
 ||247coinifytradingbolt.com^$all
+||247coint.com^$all
+||247cointrading.com^$all
 ||247crypto.exchange^$all
 ||247cryptobuzz.com^$all
 ||247cryptocurrencyminers.com^$all
@@ -219,6 +225,7 @@
 ||247cryptomagic.com^$all
 ||247cryptomarket.online^$all
 ||247cryptostockfx.com^$all
+||247cryptotech.com^$all
 ||247cryptotrade.net^$all
 ||247cryptotradeinvestments.net^$all
 ||247expressforextrader.com^$all
@@ -335,6 +342,7 @@
 ||360apextrading.com^$all
 ||360biki.com^$all
 ||360classictrading.com^$all
+||360cryptominig.com^$all
 ||360cryptospot.com^$all
 ||360cryptotraders.com^$all
 ||360elitefxpro.com^$all
@@ -349,6 +357,7 @@
 ||365-fxlotrading.online^$all
 ||365-fxtradingstation.online^$all
 ||365avfx-markets.com^$all
+||365btcpro.com^$all
 ||365coincyber.com^$all
 ||365coindata.com^$all
 ||365coindynamic.com^$all
@@ -380,6 +389,7 @@
 ||365tradecentercoin.com^$all
 ||365trading.ltd^$all
 ||365tradingllc.com^$all
+||365xcoin.com^$all
 ||365xpertcheetahtraders.com^$all
 ||369shoptw.com^$all
 ||38894435.kvbkunlun.vip^$all
@@ -461,10 +471,12 @@
 ||5atopcex.xyz^$all
 ||5billionsales.com^$all
 ||5bithumd.com^$all
+||5cryptolab.com^$all
 ||5fuclub.com^$all
 ||5g.dfgyueyue.xyz^$all
 ||5g.sdfyueyue.xyz^$all
 ||5g.weryueyue.xyz^$all
+||5gcryptotrading.org^$all
 ||5gflare.com^$all
 ||5gtridex.com^$all
 ||5usdt5.vip^$all
@@ -598,6 +610,8 @@
 ||8ad.bbitt.top^$all
 ||8bito.com^$all
 ||8cky.xyz^$all
+||8coinex.com^$all
+||8coinpre.com^$all
 ||8legend.com^$all
 ||8liga.net^$all
 ||8osavo.xyz^$all
@@ -759,6 +773,7 @@
 ||a1scaleprofx.online^$all
 ||a2bcoins.com^$all
 ||a2bfxsl.com^$all
+||a2zcoin-global.com^$all
 ||a3gamesbar.net^$all
 ||a6balance.xyz^$all
 ||a755733.com^$all
@@ -831,6 +846,9 @@
 ||aave-ethereum.club^$all
 ||aave-ethereum.info^$all
 ||aave-finance.xyz^$all
+||aave-loan.life^$all
+||aave-loan.net^$all
+||aave.plus^$all
 ||aave3.live^$all
 ||aavecryptogift.online^$all
 ||aavedefi-pro.com^$all
@@ -855,6 +873,7 @@
 ||aaveprofinance.com^$all
 ||aaveprotrade.xyz^$all
 ||aaveprox.com^$all
+||aavesafepal.com^$all
 ||aavespro.com^$all
 ||aavev3-acex.com^$all
 ||aavev3-dai.com^$all
@@ -901,6 +920,7 @@
 ||abc.neijinjsasd.com^$all
 ||abc98-nft.cyou^$all
 ||abcc-exchange.com^$all
+||abccbit.top^$all
 ||abcciqv.xyz^$all
 ||abcdx.site^$all
 ||abclubs.com^$all
@@ -918,12 +938,14 @@
 ||abitcoinoffice.weebly.com^$all
 ||abitrageprofit.com^$all
 ||abittexfx.com^$all
+||abitwallet.net^$all
 ||able-condrotroller.com^$all
 ||able-controller.com^$all
 ||ablewayinvestmentsltd.com^$all
 ||abolsos.com^$all
 ||about.bitpitex.com^$all
 ||aboutsp.com^$all
+||abrabtctrading.com^$all
 ||abracapitals.com^$all
 ||abratradershubs.com^$all
 ||abratradingltd.com^$all
@@ -945,6 +967,8 @@
 ||acceltradingpoint.com^$all
 ||acceptbitcoinglobally.com^$all
 ||acceptrade.com^$all
+||accesbit.com^$all
+||access-coin.ltd^$all
 ||access-cryptotrader.com^$all
 ||access-financiering.com^$all
 ||access-traders.world^$all
@@ -958,6 +982,7 @@
 ||accessfundingservicesinc.live^$all
 ||accessfx-247tradepro.com^$all
 ||accessfxcapitals.com^$all
+||accessfxcoins.com^$all
 ||accessglobex.com^$all
 ||accessgold.ltd^$all
 ||accessinvestmentltd.com^$all
@@ -992,6 +1017,7 @@
 ||ace.fcnworld.com^$all
 ||acebitearners.com^$all
 ||acebitfarm.com^$all
+||acecoins.org^$all
 ||acecointradex.com^$all
 ||acecryptofinance.com^$all
 ||acedeals.live^$all
@@ -1017,6 +1043,7 @@
 ||acetradegenesismining.com^$all
 ||acetradehub.com^$all
 ||acetradingltd.com^$all
+||aceusdt.com^$all
 ||acexen.com^$all
 ||acfnygp.top^$all
 ||achains.vip^$all
@@ -1108,6 +1135,8 @@
 ||ad.gemin-otc.icu^$all
 ||ad5599.cn^$all
 ||ada-defi.one^$all
+||ada-defi.pics^$all
+||ada-defi.xyz^$all
 ||adacardano.us^$all
 ||adacryptoearn.com^$all
 ||adax-pro.online^$all
@@ -1160,6 +1189,7 @@
 ||advancecryptos.org^$all
 ||advanced-fx.com^$all
 ||advanced-trading.world^$all
+||advancedbitmine.com^$all
 ||advancedbittech.live^$all
 ||advancedcryptoworld.com^$all
 ||advancedforexapex.com^$all
@@ -1252,6 +1282,7 @@
 ||agencegout.com^$all
 ||agent.ottofxtrading.com^$all
 ||agent24coinbet.com^$all
+||agexbitonlinesouth.com^$all
 ||agfxtrade.com^$all
 ||aggtoshop.com^$all
 ||agiaiex.com^$all
@@ -1270,7 +1301,9 @@
 ||agoodcoin.com^$all
 ||agribranchine.com^$all
 ||agrinvestmentadviser.com^$all
+||agrominechain.com^$all
 ||agrominechain.xyz^$all
+||agrotrade-crypto.biz^$all
 ||agrotrade-crypto.ltd^$all
 ||agrotradeque.ltd^$all
 ||agscoin.net^$all
@@ -1327,6 +1360,7 @@
 ||aimbitexchange.live^$all
 ||aimc.co^$all
 ||aimfx.com^$all
+||aiminer.club^$all
 ||aimneztmegatrade.com^$all
 ||aimodeminers.com^$all
 ||aimoneygo.com^$all
@@ -1408,6 +1442,8 @@
 ||alazuu.top^$all
 ||albb11681168.com^$all
 ||albb16881688.com^$all
+||albit-earn.gold^$all
+||albitr.com^$all
 ||alc53.com^$all
 ||alca-central.com^$all
 ||alccoin.live^$all
@@ -1419,6 +1455,7 @@
 ||alcoin-otc.com^$all
 ||alcoinexchange.org^$all
 ||alcorcrypto.com^$all
+||alcrobit.com^$all
 ||alctgi.com^$all
 ||alcvip.com^$all
 ||aldomcapital.com^$all
@@ -1463,6 +1500,7 @@
 ||aliasan.com^$all
 ||alibabasg.com^$all
 ||alichainex.com^$all
+||alicryptotrades.com^$all
 ||alienexchange.org^$all
 ||aliexpress-shop.vip^$all
 ||alksg.com^$all
@@ -1508,6 +1546,7 @@
 ||allphatradestock.net^$all
 ||allrkonestocktrading.com^$all
 ||allscoin.com^$all
+||allstarsmining-capital.com^$all
 ||allstatefundinginc.online^$all
 ||allstocktrade.com^$all
 ||alltradeinnovative.ltd^$all
@@ -1564,6 +1603,7 @@
 ||alphaminvestment.com^$all
 ||alphapaytrading.com^$all
 ||alphaprofits-mining.com^$all
+||alphascrypto.com^$all
 ||alphasignex.com^$all
 ||alphastationfx.net^$all
 ||alphasteadytrade.net^$all
@@ -1580,6 +1620,7 @@
 ||alphatradingmarket.net^$all
 ||alphatradings.online^$all
 ||alphatrust-crypto.com^$all
+||alphaxbit.com^$all
 ||alpher-trader.com^$all
 ||alphinefinances.com^$all
 ||alpinacrypt.com^$all
@@ -1634,6 +1675,7 @@
 ||altsminingllc.net^$all
 ||alttoken.space^$all
 ||alttrade24.com^$all
+||altus-mining.org^$all
 ||altuscapitalminer.com^$all
 ||aluxtrade.net^$all
 ||alvatrade.org^$all
@@ -1687,6 +1729,7 @@
 ||ambitfiance.com^$all
 ||ambitfinanceltd.com^$all
 ||ambition-ads.com^$all
+||ambition-korea.com^$all
 ||ambjdi.com^$all
 ||ambrose.syins8.com^$all
 ||ambrysun.com^$all
@@ -1711,6 +1754,7 @@
 ||americamerrilllynch1914.com^$all
 ||americantrade-ltd.com^$all
 ||americryptotrade.com^$all
+||amerifcoinzone.com^$all
 ||ameritradetw.tdamr.com^$all
 ||ameriultratrade.com^$all
 ||amerltradetw.tmeri.net^$all
@@ -1731,6 +1775,8 @@
 ||amindavefx.com^$all
 ||amjs2015.com^$all
 ||amkongshop.xyz^$all
+||amlbotcrypto.pro^$all
+||amlcrypto.net^$all
 ||amm.uplan.exchangenew.xyz^$all
 ||ammatradersinc.com^$all
 ||ammdefi.org^$all
@@ -1946,6 +1992,7 @@
 ||apeswep.finance^$all
 ||apewartoken.com^$all
 ||apex-capitals.com^$all
+||apex-coin.info^$all
 ||apex-defi.online^$all
 ||apex-dex.info^$all
 ||apex-marketinv.com^$all
@@ -1982,6 +2029,7 @@
 ||apexconsign.com^$all
 ||apexconstructionholdings.com^$all
 ||apexcontinentalcourier.com^$all
+||apexcryptoedge.com^$all
 ||apexcryptoes.us^$all
 ||apexcryptohubs.com^$all
 ||apexcryptovtn.com^$all
@@ -2281,6 +2329,7 @@
 ||appbitfinex888.top^$all
 ||appbitfinex999.top^$all
 ||appbitfinexapp.top^$all
+||appbitmaxvip.xyz^$all
 ||appcoinspot-au.info^$all
 ||appcoinstash.info^$all
 ||appdown.acexusdt.com^$all
@@ -2329,6 +2378,7 @@
 ||aramco-logistics.info^$all
 ||aramcotradex.ltd^$all
 ||arasine.com^$all
+||arbcryptrade.com^$all
 ||arbinvestproject.com^$all
 ||arbit.online^$all
 ||arbitcm.com^$all
@@ -2341,12 +2391,17 @@
 ||arbitrage-exchange.com^$all
 ||arbitrage-profits.com^$all
 ||arbitrage-st.club^$all
+||arbitrage-strategy.com^$all
 ||arbitrage25.com^$all
 ||arbitrageacademy.net^$all
 ||arbitragebk.com^$all
 ||arbitragecontract.com^$all
 ||arbitragedeals.co.uk^$all
 ||arbitrageglobalbot.com^$all
+||arbitrageglobaltrading.com^$all
+||arbitragehub.site^$all
+||arbitrageopportunity.tech^$all
+||arbitrageplusdefi.com^$all
 ||arbitrager.vip^$all
 ||arbitragetutorial.xyz^$all
 ||arbitragex.io^$all
@@ -2356,6 +2411,9 @@
 ||arbitrumcoin68.com^$all
 ||arbitrumtop.net^$all
 ||arbitrumtrade68.com^$all
+||arbittroom.pro^$all
+||arbminer.org^$all
+||arbminer.site^$all
 ||arbshop.com^$all
 ||arcex.org^$all
 ||arche-digital.store^$all
@@ -2376,11 +2434,13 @@
 ||arcoinsee.com^$all
 ||arcointan.com^$all
 ||arcornixpay.com^$all
+||ardancoin-option.com^$all
 ||ardennestrade.net^$all
 ||arding-fx.com^$all
 ||ardnitinvestment.ltd^$all
 ||ardormines.com^$all
 ||areatrading.pro^$all
+||areocrypt.com^$all
 ||aresebuy.com^$all
 ||arexious.com^$all
 ||arexr99.arexr.com^$all
@@ -2390,6 +2450,7 @@
 ||argo-capitaltrade.com^$all
 ||argoaiitrade.com^$all
 ||argoblocktrade.com^$all
+||argocoins.vip^$all
 ||argomining.org^$all
 ||argusinvestmentltd.com^$all
 ||ariacryptofund.com^$all
@@ -2397,6 +2458,7 @@
 ||arintrade.net^$all
 ||arise-forex.com^$all
 ||arisecryptotrade.info^$all
+||arisecryptotrades.info^$all
 ||arivaex.com^$all
 ||ark-cryptovest.com^$all
 ||arkacoin.com^$all
@@ -2532,6 +2594,7 @@
 ||asiccoinvn.org^$all
 ||asicfxtrade.net^$all
 ||asicmine.net^$all
+||asicmine.org^$all
 ||asicminerbulk.com^$all
 ||asicminerdelivery.com^$all
 ||asictrades.org^$all
@@ -2597,6 +2660,7 @@
 ||astarcoinmining.com^$all
 ||aster918.com^$all
 ||astercoinglobe.com^$all
+||astinmine.com^$all
 ||astonglobalassets.com^$all
 ||astonmines.com^$all
 ||astoriafinance.online^$all
@@ -2612,6 +2676,7 @@
 ||astridinvestment.com^$all
 ||astro-trades.com^$all
 ||astro24hourstrading.com^$all
+||astrobitfinance.com^$all
 ||astrobitoptiontrade.com^$all
 ||astrocryptomining.com^$all
 ||astroexpertrader.com^$all
@@ -16281,6 +16346,7 @@
 ||ffusdt.com^$all
 ||ffxc.net^$all
 ||fg.euronext-tranport.top^$all
+||fg.icmarkets.top^$all
 ||fgcp886.vip^$all
 ||fglobalfx.com^$all
 ||fgltrade.com^$all
@@ -18472,6 +18538,7 @@
 ||global-bitrade.com^$all
 ||global-bitup.com^$all
 ||global-bitwin.com^$all
+||global-blackcoin.com^$all
 ||global-cbntw.top^$all
 ||global-ccfox.com^$all
 ||global-coinpay.com^$all
@@ -18487,6 +18554,7 @@
 ||global-fxtrade.com^$all
 ||global-fxtrading.online^$all
 ||global-investmentbank.com^$all
+||global-liquidationcompany.com^$all
 ||global-markets.com^$all
 ||global-miner.org^$all
 ||global-minersfx.com^$all
@@ -18508,6 +18576,8 @@
 ||globaladvantagefunds.com^$all
 ||globalagencytrade.com^$all
 ||globalangelsinvestment.com^$all
+||globalantiminer.com^$all
+||globalantminermachine.online^$all
 ||globalapexinvestment.com^$all
 ||globalassetminers.com^$all
 ||globalassetraders.com^$all
@@ -18517,11 +18587,14 @@
 ||globalbalkaninvestment.com^$all
 ||globalbankintl.com^$all
 ||globalbit.ltd^$all
+||globalbitautotrade.com^$all
+||globalbitcapital.ltd^$all
 ||globalbitcoinlimited.com^$all
 ||globalbitdex.com^$all
 ||globalbitfxtrade.com^$all
 ||globalbitinvest.com^$all
 ||globalbitmarket-test.com^$all
+||globalbitpool.com^$all
 ||globalbittech.org^$all
 ||globalblockfx.org^$all
 ||globalbloomfx.com^$all
@@ -18554,6 +18627,7 @@
 ||globalcryptodex.com^$all
 ||globalcryptofx.net^$all
 ||globalcryptoinvestmentltd.com^$all
+||globalcryptomining.world^$all
 ||globalcryptooption.com^$all
 ||globalcryptoplatform.com^$all
 ||globalcryptoservice.com^$all
@@ -18606,6 +18680,7 @@
 ||globalfxinvestors.com^$all
 ||globalfxmarketing.com^$all
 ||globalfxmarkettrade.online^$all
+||globalfxminer.com^$all
 ||globalfxmines.com^$all
 ||globalfxmk.com^$all
 ||globalfxn.com^$all
@@ -18631,6 +18706,7 @@
 ||globalkryptofx.com^$all
 ||globallaus.com^$all
 ||globallcoin.com^$all
+||globallegaltrade24bit.com^$all
 ||globallifetimeinvestment.com^$all
 ||globallinkexpress.com^$all
 ||globallosgisticsexpress.com^$all
@@ -18651,7 +18727,9 @@
 ||globalmetacoin.ltd^$all
 ||globalmetamine.com^$all
 ||globalminer.co^$all
+||globalminerinvestmentlimited.com^$all
 ||globalminers-secured.org^$all
+||globalminersnetwork.com^$all
 ||globalminerxchanges.com^$all
 ||globalminetrading.com^$all
 ||globalmininginvests.org^$all
@@ -18672,6 +18750,7 @@
 ||globalprimefxt.com^$all
 ||globalprimetrade24.com^$all
 ||globalprimetraders.com^$all
+||globalqualitymining.online^$all
 ||globalrapidtrade.com^$all
 ||globalrefundgroup.com^$all
 ||globals-trade.com^$all
@@ -18770,6 +18849,7 @@
 ||globitex.com^$all
 ||globitexchange.com^$all
 ||globitexchange.net^$all
+||globitexchangee.com^$all
 ||globitx.com^$all
 ||globtexmines.com^$all
 ||globtradehub.com^$all
@@ -18779,6 +18859,7 @@
 ||glocoinmine.com^$all
 ||glofex.co.uk^$all
 ||glomacexpressdelivery.com^$all
+||glorycoinz.com^$all
 ||glorywealthfunds.com^$all
 ||glotitex.com^$all
 ||glotraopts.com^$all
@@ -18851,14 +18932,17 @@
 ||go.forexpro.shop^$all
 ||go.gmejso.com^$all
 ||go.shoponeto.com^$all
+||go7bitcasino.com^$all
 ||goamazstw.com^$all
 ||goamaztw.com^$all
 ||goamaztws.com^$all
 ||goarbit-finance.ltd^$all
 ||goarbitfundacion.com^$all
+||goarbitlimited.com^$all
 ||goarbitran.com^$all
 ||gobal-mininguk.com^$all
 ||gobeetrade.com^$all
+||gobitinvest.com^$all
 ||goblin-town.art^$all
 ||gobuy.click^$all
 ||gobybit.com^$all
@@ -18882,9 +18966,12 @@
 ||gog-coin.com^$all
 ||gogames.cc^$all
 ||gogo266.com^$all
+||gogobit.com^$all
+||gogobitex.com^$all
 ||gogoldex.xyz^$all
 ||gohex.com^$all
 ||gohexs.com^$all
+||gokcoin.com^$all
 ||golbalauctions.com^$all
 ||golbtcai.com^$all
 ||gold-investment.net^$all
@@ -18911,6 +18998,7 @@
 ||goldcion4.net^$all
 ||goldcion5.net^$all
 ||goldcoin-exchange.com^$all
+||goldcoin-finance.ltd^$all
 ||goldcoin-investment.com^$all
 ||goldcoinex.vip^$all
 ||goldcoinfx.com^$all
@@ -18921,6 +19009,7 @@
 ||golddesertcoin.info^$all
 ||golddragonforex.com^$all
 ||goldedgemktg.com^$all
+||golden-coin.pro^$all
 ||golden-crypto.org^$all
 ||golden-eth.com^$all
 ||golden-invest-trade.com^$all
@@ -18928,6 +19017,7 @@
 ||golden.oxeoxe.net^$all
 ||goldenagetrade.com^$all
 ||goldenalpha-trade.com^$all
+||goldenbitco.com^$all
 ||goldenbridg.com^$all
 ||goldenbridge.trade^$all
 ||goldenbullfx.com^$all
@@ -18993,6 +19083,7 @@
 ||goldminerinvestments.com^$all
 ||goldmines.agency^$all
 ||goldminesinvest.com^$all
+||goldminesinvest.net^$all
 ||goldminesinvestment.com^$all
 ||goldminetraders.com^$all
 ||goldprimefx.uk^$all
@@ -19012,6 +19103,7 @@
 ||goldworldcrypto.com^$all
 ||goldx.finance^$all
 ||goldxbit.com^$all
+||goldybasecoin.com^$all
 ||gomarketex.com^$all
 ||gomarketfxol.com^$all
 ||gomarketshk.com^$all
@@ -19066,10 +19158,13 @@
 ||gpfx.space^$all
 ||gpsprojector.com^$all
 ||gpt-crypto.com^$all
+||gpt-mining.com^$all
 ||gpt4.bz^$all
 ||gptcoin.net^$all
 ||gptminer.com^$all
+||gptminers.com^$all
 ||gpumine.org^$all
+||gpumining.site^$all
 ||gpvnznf.cn^$all
 ||gpwtrad.com^$all
 ||gqex6.com^$all
@@ -19127,15 +19222,18 @@
 ||greatachieverstrade.online^$all
 ||greatcitizenifinance.com^$all
 ||greatcoingold.online^$all
+||greatcoingood8.com^$all
 ||greatcryptomining.com^$all
 ||greatela.com^$all
 ||greatminers.biz^$all
 ||greatnessfx.com^$all
 ||green-x-mining.com^$all
 ||greenbit.asia^$all
+||greenbtcmine.com^$all
 ||greenbull-trading.online^$all
 ||greenchipinvestments.com^$all
 ||greencitytrading.online^$all
+||greencloud-mining.com^$all
 ||greencointone.site^$all
 ||greencorpinvestment.com^$all
 ||greencryptotrades.com^$all
@@ -19156,7 +19254,9 @@
 ||greenpay-investmentpty.ltd^$all
 ||greenpeak-invest.org^$all
 ||greenplanetfx.online^$all
+||greenquidcryptoverse.greenquid.net^$all
 ||greenrenaissance.com.tw^$all
+||greenseacryptofund.com^$all
 ||greenstans.com.tw^$all
 ||greentimeinvestment.com^$all
 ||greentimmy668.com^$all
@@ -19168,6 +19268,7 @@
 ||greenwoodfunds.online^$all
 ||gremelfx.com^$all
 ||greyspringtrades.com^$all
+||grhcryptob.com^$all
 ||grhcryptos.com^$all
 ||grhhqiwjskqe.com^$all
 ||grid-mining.online^$all
@@ -19194,9 +19295,12 @@
 ||grouphbapp.com^$all
 ||groupontrade.live^$all
 ||groupproltd.com^$all
+||grow-bit.net^$all
+||grow-coins.net^$all
 ||grow-usdt.com^$all
 ||growbit247.com^$all
 ||growcoinex.com^$all
+||growcrypton.com^$all
 ||growertradeinc.com^$all
 ||growex.ltd^$all
 ||growexbit.com^$all
@@ -19204,6 +19308,8 @@
 ||growmorefx.info^$all
 ||growndech.com^$all
 ||growrich.fnvezr.com^$all
+||growrichcoin.com^$all
+||growth-mining.ltd^$all
 ||growthcrypt.com^$all
 ||growthfinanceltd.com^$all
 ||growthminingrecovery.org^$all
@@ -19253,6 +19359,7 @@
 ||gtcts.xyz^$all
 ||gtechminingrig.com^$all
 ||gtextrade.com^$all
+||gthcryptob.com^$all
 ||gthcryptos.com^$all
 ||gthseer.nadexm.com^$all
 ||gthseer.pneaker.com^$all
@@ -19279,10 +19386,12 @@
 ||guaranteedfundament.com^$all
 ||guaranteeinvestmentcu.com^$all
 ||guaranteetradeinvestment.com^$all
+||guarantymega-miners.net^$all
 ||guarantytrust.online^$all
 ||guarantytrustfunds.com^$all
 ||guarda.com^$all
 ||guardianacetrade.org^$all
+||guardianminers.site^$all
 ||guardianminers.top^$all
 ||gucci888.tmgm9.net^$all
 ||gucoinx.com^$all
@@ -31412,6 +31521,7 @@
 ||uexos.vip^$all
 ||uexvip.com^$all
 ||uezmarktss.com^$all
+||ufa007.bet^$all
 ||ufa1bit.com^$all
 ||ufa888pro.live^$all
 ||ufo-coin.com^$all
@@ -33510,6 +33620,10 @@
 ||www-lfex.com^$all
 ||www-poloniex.com^$all
 ||www-ysb.com^$all
+||www.agencycoinvid.com^$all
+||www.ai-cryptotraders.com^$all
+||www.albuquercoins.com^$all
+||www.apexcryptomarket.com^$all
 ||www.aplicativominespro.com^$all
 ||www.aplicativominespro.online^$all
 ||www.aplicativominespro.store^$all
@@ -33519,6 +33633,7 @@
 ||www.bctest3.xyz^$all
 ||www.bctest5.xyz^$all
 ||www.bestfeel4.top^$all
+||www.bingtwen.com^$all
 ||www.bit-bcc.com^$all
 ||www.bit-duo.com^$all
 ||www.bitabz.com^$all
@@ -33527,6 +33642,11 @@
 ||www.fweqsnu.top^$all
 ||www.gaussiancoin.com^$all
 ||www.genesbo.com^$all
+||www.globalcryptrades.com^$all
+||www.glodcoin.com^$all
+||www.gomontecryptos8.com^$all
+||www.gpt-coin.pro^$all
+||www.jmpyg.com^$all
 ||www.metaweb.finance^$all
 ||www.moumxoem.vip^$all
 ||www.quotexebs.com^$all
