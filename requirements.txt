@@ -5,4 +5,4 @@ mypy-extensions==1.0.0
 pylint==2.17.4
 requests==2.30.0
 selenium==4.9.1
-tldextract==3.4.2
+tldextract==3.4.3
