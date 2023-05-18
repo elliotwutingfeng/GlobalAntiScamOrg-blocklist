@@ -63,6 +63,7 @@
 ||1672211.com^$all
 ||168.net^$all
 ||1680540220000.mtpro5.xyz^$all
+||1684333311000.dgxhqlyw1.wiki^$all
 ||16868.wang^$all
 ||16888.2kh2k.cn^$all
 ||16c25.com^$all
@@ -9923,6 +9924,7 @@
 ||coinjabb.com^$all
 ||coinjabip.com^$all
 ||coinjabs.com^$all
+||coinjabs.me^$all
 ||coinjety.com^$all
 ||coinjmdifi.top^$all
 ||coinjungle.org^$all
@@ -10967,6 +10969,7 @@
 ||crex24m.com^$all
 ||crex24mi.com^$all
 ||crex24pro.net^$all
+||crex24u.com^$all
 ||crexcryptoltd.com^$all
 ||crezominers.net^$all
 ||crg-investec.com^$all
@@ -13636,6 +13639,7 @@
 ||dmv4tading.com^$all
 ||dmvyon.com^$all
 ||dmxcrypto.com^$all
+||dmzdbsx.com^$all
 ||dn-trade.org^$all
 ||dn8vj1.dada13.xyz^$all
 ||dnexpress-bd.com^$all
@@ -15122,6 +15126,7 @@
 ||eth-xtt.com^$all
 ||eth.iusdt.cc^$all
 ||eth0mining.com^$all
+||eth10defi.live^$all
 ||eth11.io^$all
 ||eth1mining.com^$all
 ||eth2-usdt.com^$all
@@ -15771,6 +15776,7 @@
 ||exhbot.com^$all
 ||exherobit.com^$all
 ||exht.net^$all
+||exikck.vip^$all
 ||exiq.net^$all
 ||exitustradeshub.com^$all
 ||exkcnt.vip^$all
@@ -21113,6 +21119,7 @@
 ||invest789.com^$all
 ||invest99.live^$all
 ||investar.live^$all
+||investaryplatform.com^$all
 ||investbes.com^$all
 ||investbitcoins.org^$all
 ||investby.com^$all
@@ -22376,6 +22383,7 @@
 ||leitianf.letiantw.xyz^$all
 ||leitianf.twletian.xyz^$all
 ||lejerx.com^$all
+||lejupoint100.com^$all
 ||lekd54.com^$all
 ||lel-shopping.com^$all
 ||lelong-shopping.com^$all
@@ -26868,6 +26876,7 @@
 ||profitcoincapital.com^$all
 ||profitcoinx.ltd^$all
 ||profitcryptoworld.com^$all
+||profitdexsolution.com^$all
 ||profitequityfx.com^$all
 ||profitforex.com^$all
 ||profitfountinvest.com^$all
@@ -29688,6 +29697,7 @@
 ||tcsomen.tdcxy.com^$all
 ||tcsomen.tdcxyers.com^$all
 ||tctradingfx.com^$all
+||td.stdeck.com^$all
 ||td55.net^$all
 ||td7006.gs373.com^$all
 ||td8889.net^$all
@@ -33633,12 +33643,17 @@
 ||www.bctest3.xyz^$all
 ||www.bctest5.xyz^$all
 ||www.bestfeel4.top^$all
+||www.bigoneworld.com^$all
 ||www.bingtwen.com^$all
 ||www.bit-bcc.com^$all
 ||www.bit-duo.com^$all
 ||www.bitabz.com^$all
 ||www.bitarz.org^$all
 ||www.cimatzn.com^$all
+||www.costcosnsk.com^$all
+||www.debankdup.com^$all
+||www.ethmkl.com^$all
+||www.exchange-1766.com^$all
 ||www.fweqsnu.top^$all
 ||www.gaussiancoin.com^$all
 ||www.genesbo.com^$all
@@ -33646,11 +33661,18 @@
 ||www.glodcoin.com^$all
 ||www.gomontecryptos8.com^$all
 ||www.gpt-coin.pro^$all
+||www.intcrypt.com^$all
 ||www.jmpyg.com^$all
+||www.kianashop.com^$all
 ||www.metaweb.finance^$all
 ||www.moumxoem.vip^$all
+||www.otc-mexc.com^$all
+||www.qiluzhiyaocn.com^$all
 ||www.quotexebs.com^$all
+||www.sands-nu.com^$all
+||www.zalora-shop.com.tw^$all
 ||www.zert.co^$all
+||www.ziyfcg.top^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all
