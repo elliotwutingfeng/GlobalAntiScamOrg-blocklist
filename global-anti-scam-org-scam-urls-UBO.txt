@@ -1515,6 +1515,7 @@
 ||allasiatrade.net^$all
 ||allassetstrade.com^$all
 ||allbrightfinancialfx.com^$all
+||allbycoin.com^$all
 ||allcoins.club^$all
 ||allcoinshop.com^$all
 ||allcoinstore.com^$all
@@ -2158,6 +2159,7 @@
 ||app.achaindn.bar^$all
 ||app.ahxgehiwgha.com^$all
 ||app.aksmcnqjwn.com^$all
+||app.arcan.cc^$all
 ||app.arqzcdc.com^$all
 ||app.asshop.shop^$all
 ||app.atbitforex.com^$all
@@ -2584,6 +2586,7 @@
 ||asia.huijuxca.com^$all
 ||asia.nordstromtw.com^$all
 ||asia.pepperstone-twstone.com^$all
+||asia.qoo1otwn.com^$all
 ||asia.uezmarktss.com^$all
 ||asia5fx.com^$all
 ||asiabtc.net^$all
@@ -6790,6 +6793,7 @@
 ||bldhk-fx.com^$all
 ||blencofinance.com^$all
 ||blescoins.com^$all
+||blescoins.org^$all
 ||blessingaustinminingfx.com^$all
 ||bleumintcoin.com^$all
 ||blexem.com^$all
@@ -7842,6 +7846,7 @@
 ||bulloptioncapital.com^$all
 ||bullox-financials.com^$all
 ||bullpro.info^$all
+||bullring-shop.com^$all
 ||bullscoin.finance^$all
 ||bullsonwallstreetlivetrade.com^$all
 ||bullstatstrading.com^$all
@@ -8607,6 +8612,7 @@
 ||cgdg.xyz^$all
 ||cgpaypro.vip^$all
 ||cgrexx.com^$all
+||cgwebs1.com^$all
 ||cgwlcoin.top^$all
 ||cgwlcoin.world^$all
 ||ch6666.cc^$all
@@ -10884,6 +10890,7 @@
 ||cosmocrypt.space^$all
 ||cosmoscoinflip.com^$all
 ||costcoclock.com^$all
+||costcopssjjb.com^$all
 ||costcoshopimg.com^$all
 ||costcoshopp.com^$all
 ||costcosnsk.com^$all
@@ -11367,6 +11374,7 @@
 ||crypto-yhigoyo.info^$all
 ||crypto-ysypoyy.com^$all
 ||crypto.cc^$all
+||crypto.co^$all
 ||crypto.dericoin.org^$all
 ||crypto.kion.work^$all
 ||crypto.kion.world^$all
@@ -12547,6 +12555,7 @@
 ||ctowebes.com^$all
 ||ctoxingzhou.cc^$all
 ||ctrade360.com^$all
+||ctraders.co^$all
 ||ctreeint.com^$all
 ||ctrlex.com^$all
 ||ctrlinvestmentwa.com^$all
@@ -13814,6 +13823,7 @@
 ||dow.fenfa.me^$all
 ||dowjones-vip.com^$all
 ||down-bitpiie.xyz^$all
+||down-jpm.com^$all
 ||down.959435.comqAE8.app^$all
 ||down.a51fan.com^$all
 ||down.allpxmm.com^$all
@@ -13925,6 +13935,7 @@
 ||drawfon.com^$all
 ||drcfx.com^$all
 ||dream-miner.us^$all
+||dream-miners.com^$all
 ||dream2020.tw^$all
 ||dreambxn.com^$all
 ||dreamfx.biz^$all
@@ -13938,6 +13949,11 @@
 ||dreamtmining.com^$all
 ||dreamzerfinance.com^$all
 ||dremines.com^$all
+||dreour-bit.com^$all
+||dreour-bit.net^$all
+||dreour-coin.com^$all
+||dreourbit.com^$all
+||dreourcoin.com^$all
 ||drepex.com^$all
 ||driftfxtm.com^$all
 ||drill.mcgraw-best.com^$all
@@ -13959,6 +13975,8 @@
 ||dscoinex.site^$all
 ||dscoinpro.xyz^$all
 ||dscorp.co^$all
+||dscryptoworld.com^$all
+||dsdcoin.vip^$all
 ||dsdgfb.cn^$all
 ||dsdnsbfemqsad.com^$all
 ||dsenglobal.com^$all
@@ -14016,6 +14034,7 @@
 ||dw.amazonshop.work^$all
 ||dw.chilize.me^$all
 ||dw.dazdsp.com^$all
+||dwaycryptominer.com^$all
 ||dwbit.vip^$all
 ||dwfxgroup.com^$all
 ||dwgj108.com^$all
@@ -14069,6 +14088,7 @@
 ||dydxexchenge.site^$all
 ||dydxv4.exchange^$all
 ||dydxvip.com^$all
+||dyingcoins.com^$all
 ||dylanctrade.com^$all
 ||dynamic-cryptoinvest.com^$all
 ||dynamic-exchanges.com^$all
@@ -14145,11 +14165,14 @@
 ||earnbigfx.us^$all
 ||earnbtc.store^$all
 ||earnbtcfree.com^$all
+||earnbybtc.com^$all
 ||earncoinmax.com^$all
+||earncrypt.xyz^$all
 ||earncrypt0xpert.online^$all
 ||earncrypto.cloud^$all
 ||earncryptoinvestment.com^$all
 ||earncryptolarge.com^$all
+||earnendlesscrypto.com^$all
 ||earner.fannasia.com^$all
 ||earners-choice.com^$all
 ||earners-miners.net^$all
@@ -14162,6 +14185,7 @@
 ||earnincryptospace.live^$all
 ||earning-club.com^$all
 ||earningextratrading.com^$all
+||earningmineint.com^$all
 ||earnmaxminers.com^$all
 ||earnmegacoin.com^$all
 ||earnmybit.com^$all
@@ -14175,6 +14199,7 @@
 ||eartbitcoin.com^$all
 ||earth-shoreinvest.com^$all
 ||earthexchangecoin.com^$all
+||easecryptoprimier.com^$all
 ||easmines.com^$all
 ||east-century.com^$all
 ||east-century.info^$all
@@ -14186,6 +14211,7 @@
 ||easy-miners.com^$all
 ||easyaffinityfinance.com^$all
 ||easybit24.ltd^$all
+||easybitsprofits.com^$all
 ||easyclick.live^$all
 ||easycoinbank.club^$all
 ||easycoinfundings.com^$all
@@ -14214,6 +14240,12 @@
 ||easycryptopros.com^$all
 ||easycryptorecovery.net^$all
 ||easycryptorecovery.org^$all
+||easycryptousf.com^$all
+||easycryptousr.com^$all
+||easycryptouss.com^$all
+||easycryptoust.com^$all
+||easycryptousy.com^$all
+||easycryptousz.com^$all
 ||easydig-eth.net^$all
 ||easydig.net^$all
 ||easydig.one^$all
@@ -14283,9 +14315,11 @@
 ||ebinarycoin.com^$all
 ||ebit-19crypto.com^$all
 ||ebitell.com^$all
+||ebittechnologyx.com^$all
 ||ebituition.com^$all
 ||ebpexn.com^$all
 ||ebratradeinvestment.org^$all
+||ebrbmining.com^$all
 ||ebuy8899.com^$all
 ||ecashmining.com^$all
 ||eccentral-int.com^$all
@@ -14318,6 +14352,12 @@
 ||ecos-traders.com^$all
 ||ecosam-trade.com^$all
 ||ecosbit.com^$all
+||ecosmine.com^$all
+||ecosminers.com^$all
+||ecosmining.app^$all
+||ecosmining.ltd^$all
+||ecosmining.pro^$all
+||ecosmining.vip^$all
 ||ecostock-trade.com^$all
 ||ecostradex.ltd^$all
 ||ecotrades.online^$all
@@ -14330,6 +14370,7 @@
 ||ecubs.net^$all
 ||ecwdx.xyz^$all
 ||ecwex.xyz^$all
+||ecxxcoin.com^$all
 ||ecytdlk.vip^$all
 ||ecytdlkap.vip^$all
 ||ed.bbva1999.co^$all
@@ -14342,11 +14383,15 @@
 ||edgecrypto-v.com^$all
 ||edgecryptoxt.com^$all
 ||edgefxmarketpro.online^$all
+||edgeminingtech.net^$all
 ||edgetrade.ltd^$all
+||edithcoins.com^$all
 ||edoufinances.com^$all
 ||eds8.cn^$all
 ||edt3000.com^$all
 ||edutradex.com^$all
+||edwardcoins.com^$all
+||edwincoins.com^$all
 ||edx.exchange^$all
 ||edycoin.com^$all
 ||ee.7892109.com^$all
@@ -14429,6 +14474,7 @@
 ||ekhfqxi.top^$all
 ||eklfx201.com^$all
 ||el.central-bank-uk.com^$all
+||elanocrypto.com^$all
 ||elb.ac.cn^$all
 ||eldertoncap.com^$all
 ||eldertoncapfx.com^$all
@@ -14454,6 +14500,7 @@
 ||elightinvestmentreserve.com^$all
 ||elitafx.net^$all
 ||elite-coinltd.com^$all
+||elite-cryptotraders.net^$all
 ||elite-finance.xyz^$all
 ||elite-fund.ltd^$all
 ||elite-fxtrades.com^$all
@@ -14466,10 +14513,12 @@
 ||eliteboostingtrade.com^$all
 ||elitebullishtrades.com^$all
 ||elitecapitalinvest.info^$all
+||elitecapitalminingfx.net^$all
 ||elitecapitalsinvest.online^$all
 ||elitecapitaltradingfx.net^$all
 ||elitecoinassets.com^$all
 ||elitecoinifymarket.com^$all
+||elitecoinmining.com^$all
 ||elitecoinonline.com^$all
 ||elitecoinvestpro.com^$all
 ||elitecosv.com^$all
@@ -14482,6 +14531,7 @@
 ||elitecryptominersltd.com^$all
 ||elitecryptomining24.com^$all
 ||elitecryptooption247.com^$all
+||elitecryptotech.com^$all
 ||elitedeliveryexpressltd.com^$all
 ||eliteexchanger.com^$all
 ||eliteexpertrade.com^$all
@@ -14498,6 +14548,7 @@
 ||elitegoldexpress.com^$all
 ||elitemedaviainvest.com^$all
 ||eliteminers.ltd^$all
+||eliteminerstrade.com^$all
 ||elitemines.online^$all
 ||eliteminingmarket.live^$all
 ||elitephtradingacademy.com^$all
@@ -14552,6 +14603,7 @@
 ||ellite-coinbolt.com^$all
 ||ellitefunds.com^$all
 ||elmagodeltrading.com^$all
+||elmascoin.com^$all
 ||elntradinghubs.com^$all
 ||elon-finance.net^$all
 ||elon-investx2.org^$all
@@ -14597,6 +14649,7 @@
 ||emhh.xyz^$all
 ||emiauxtrade.com^$all
 ||emincoinsfx.com^$all
+||eminemiddaa.com^$all
 ||eminencetipsfx.com^$all
 ||eminent-benefit.com^$all
 ||eminent-profit.org^$all
@@ -14626,6 +14679,7 @@
 ||empirefxplus.live^$all
 ||empiregain-trade.com^$all
 ||empiregoal.com^$all
+||empirestockminingbase.com^$all
 ||empiretrad.com^$all
 ||empiretradeinvestment.net^$all
 ||empiretradeoption.com^$all
@@ -14686,6 +14740,7 @@
 ||encryptb.com^$all
 ||encryptednumber.com^$all
 ||encryptedx.net^$all
+||encryptfx.com^$all
 ||encrypticbase.com^$all
 ||encrypticverse.com^$all
 ||encryptinvest.com^$all
@@ -14710,10 +14765,12 @@
 ||enhancebytetradex.com^$all
 ||enhancedcryptmines.com^$all
 ||enhancedcryptmining.com^$all
+||enibit.ltd^$all
 ||enkryptfinance.com^$all
 ||enlaceassets.com^$all
 ||enocrypt.com^$all
 ||enrichtrust.com^$all
+||enseycoinsurance.com^$all
 ||ensolbit.com^$all
 ||enstock-trades.net^$all
 ||ensurecryptotradesfx.com^$all
@@ -14743,6 +14800,8 @@
 ||epicinvest.ltd^$all
 ||epictrade.live^$all
 ||epicxcoin.com^$all
+||epiqcoin.com^$all
+||epitomemining.com^$all
 ||epochtard.com^$all
 ||epresminer.com^$all
 ||eprofitiofx.com^$all
@@ -20388,6 +20447,7 @@
 ||hkex888.vip^$all
 ||hkexful.com^$all
 ||hkexgo.com^$all
+||hkexit.com^$all
 ||hkexpro.xyz^$all
 ||hkextd.top^$all
 ||hkexto.com^$all
@@ -25500,6 +25560,8 @@
 ||nippytrade.com^$all
 ||nirvanaencrypt.com^$all
 ||nisatw.com^$all
+||nito-exchange.com^$all
+||nito-exchange.org^$all
 ||nitroautominer.com^$all
 ||nitrocryptoinvestment.com^$all
 ||nivzmyk.cn^$all
@@ -26941,6 +27003,7 @@
 ||price2trade.net^$all
 ||priceactionfx.net^$all
 ||priceactionfx.org^$all
+||priceactionfxltd.com^$all
 ||pricegdt365.net^$all
 ||priceline-online.com^$all
 ||pricsiwl.xyz^$all
@@ -28391,6 +28454,7 @@
 ||sftimoappxx.com^$all
 ||sftimobuy.com^$all
 ||sftimoinv.com^$all
+||sftimot.com^$all
 ||sftxxe.com^$all
 ||sfundasia.com^$all
 ||sfundasia2022.com^$all
@@ -30704,6 +30768,7 @@
 ||trade71461.xyz^$all
 ||trade75980.xyz^$all
 ||trade8.kadenx.com^$all
+||trade8.seagenxes.com^$all
 ||trade8.thefinsras.com^$all
 ||trade8.wayteciysoe.com^$all
 ||trade8cap.com^$all
@@ -32600,6 +32665,7 @@
 ||uuexfly.com^$all
 ||uuexna.com^$all
 ||uuexpro.com^$all
+||uuexpro.io^$all
 ||uukcbw.qian.kudj.tw^$all
 ||uunicomk.vip^$all
 ||uunicomll.vip^$all
@@ -33107,6 +33173,7 @@
 ||wales-trade.com^$all
 ||wallcion.com^$all
 ||wallet-lending.com^$all
+||wallet-markettux.xyz^$all
 ||wallet.com^$all
 ||wallet.portis.io^$all
 ||wallet.private-wallet.net^$all
@@ -33405,6 +33472,7 @@
 ||web.klesex.com^$all
 ||web.lisk-lsk.com^$all
 ||web.marriott66.com^$all
+||web.maxmagicexchange.top^$all
 ||web.mmmkkk8.com^$all
 ||web.moneyinminutes.ng^$all
 ||web.moxcoins.com^$all
