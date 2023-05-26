@@ -1,6 +1,7 @@
 """Extract scam URLs found at https://www.globalantiscam.org/scam-websites
 and write them to a .txt blocklist
 """
+from __future__ import annotations
 import ipaddress
 import itertools
 import json
@@ -168,10 +169,15 @@ if __name__ == "__main__":
     ips: set[str] = set()
     non_ips: set[str] = set()
     fqdns: set[str] = set()
+    registered_domains: set[str] = set()
     if urls:
         for url in urls:
             res = tldextract.extract(url)
-            domain, fqdn = res.domain, res.fqdn
+            registered_domain, domain, fqdn = (
+                res.registered_domain,
+                res.domain,
+                res.fqdn,
+            )
             if domain and not fqdn:
                 # Possible IPv4 Address
                 try:
@@ -183,6 +189,7 @@ if __name__ == "__main__":
             elif fqdn:
                 non_ips.add(url)
                 fqdns.add(fqdn)
+                registered_domains.add(registered_domain)
 
     if not non_ips and not ips:
         logger.error("No content available for blocklists.")
@@ -215,4 +222,15 @@ if __name__ == "__main__":
                 len(fqdns),
                 fqdns_filename,
                 fqdns_timestamp,
+            )
+
+        registered_domains_timestamp: str = current_datetime_str()
+        registered_domains_filename = "global-anti-scam-org-scam-urls-UBL.txt"
+        with open(registered_domains_filename, "w") as f:
+            f.writelines("\n".join(f"*://*.{r}/*" for r in sorted(registered_domains)))
+            logger.info(
+                "%d Registered Domains written to %s at %s",
+                len(registered_domains),
+                registered_domains_filename,
+                registered_domains_timestamp,
             )

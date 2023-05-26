@@ -20,6 +20,7 @@ The URLs and IP Addresses in this blocklist are compiled by the **Global Anti Sc
 | global-anti-scam-org-scam-urls.txt | [:floppy_disk:](global-anti-scam-org-scam-urls.txt?raw=true) |
 | global-anti-scam-org-scam-urls-ABP.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-ABP.txt?raw=true) |
 | global-anti-scam-org-scam-urls-UBO.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-UBO.txt?raw=true) |
+| global-anti-scam-org-scam-urls-UBL.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-UBL.txt?raw=true) |
 | global-anti-scam-org-scam-urls-pihole.txt | [:floppy_disk:](global-anti-scam-org-scam-urls-pihole.txt?raw=true) |
 | global-anti-scam-org-scam-ips.txt | [:floppy_disk:](global-anti-scam-org-scam-ips.txt?raw=true) |
 
