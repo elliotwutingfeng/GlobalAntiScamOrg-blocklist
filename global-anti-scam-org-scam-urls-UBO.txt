@@ -801,6 +801,7 @@
 ||aaa.bycmqy.com^$all
 ||aaa.dkfew.net^$all
 ||aaa.jerfa88.com^$all
+||aaa.okex004.top^$all
 ||aaa1788.com^$all
 ||aaaa.cot66yo.tw^$all
 ||aaaa.ppp6666.tw^$all
@@ -1153,6 +1154,7 @@
 ||adcoinbase.info^$all
 ||adcoinbase.xyz^$all
 ||adcryptoltd.com^$all
+||add.gtsaddlon.com^$all
 ||add778.com^$all
 ||addepar-coin.net^$all
 ||addepar-ex.com^$all
@@ -1273,6 +1275,7 @@
 ||afriqarbitrageecosystem.com^$all
 ||afriquejmarbitrage.com^$all
 ||afrnnc.com^$all
+||afterco.xyz^$all
 ||aftersap.com^$all
 ||aftx-coin.com^$all
 ||afxcapitalexcel.com^$all
@@ -1318,6 +1321,7 @@
 ||agtfrxtraders.com^$all
 ||agtkantors.com^$all
 ||agustrading.com^$all
+||agweb01.com^$all
 ||agyayu.com^$all
 ||ah.qjzalid.cn^$all
 ||ahh344.com^$all
@@ -2122,6 +2126,7 @@
 ||aphatrade.com^$all
 ||aphcnt.com^$all
 ||aphfxtrading.com^$all
+||api.ahfndbga.com^$all
 ||api.blessedchain.com^$all
 ||api.btcgold.ltd^$all
 ||api.bxmex.cc^$all
@@ -2188,10 +2193,12 @@
 ||app.bitdogexltd.com^$all
 ||app.bitforexmarket.com^$all
 ||app.bitglobl-ex.com^$all
+||app.blogkkewije.com^$all
 ||app.blzj.tw^$all
 ||app.bmatex.com^$all
 ||app.bmfkwekrjww.com^$all
 ||app.bnsdnbknqwe.com^$all
+||app.brjqjejaj.com^$all
 ||app.btccapp.com^$all
 ||app.btcwapp.com^$all
 ||app.btjoqshjxah.com^$all
@@ -2335,11 +2342,13 @@
 ||app.wkvok.org^$all
 ||app.wpalaces.com^$all
 ||app.xencapitall.com^$all
+||app.xhcquehkjza.com^$all
 ||app.xihciwouqgd.com^$all
 ||app.xingzhanint.info^$all
 ||app.xingzhanint.xyz^$all
 ||app.xjcuakwjeq.com^$all
 ||app.xnajznbdjm.com^$all
+||app.xvjruhqweqg.com^$all
 ||app.xxhxlq.tw^$all
 ||app.xzbxfvzsn.xyz^$all
 ||app.yabfhjsa.com^$all
@@ -2479,6 +2488,7 @@
 ||arexr99.aresxios.com^$all
 ||arexr99.arexr.com^$all
 ||arexr99.arexrs.com^$all
+||arexr99.jobscoiin.com^$all
 ||arftxbot.com^$all
 ||argamishtradingclub.org^$all
 ||argo-capitaltrade.com^$all
@@ -3050,6 +3060,7 @@
 ||awfxbank.com^$all
 ||awisecryptnord.online^$all
 ||awk92.com^$all
+||awp.zwndvd.com^$all
 ||aws999.vip^$all
 ||awshopify.com^$all
 ||awsrefund.online^$all
@@ -3112,6 +3123,7 @@
 ||axtvinu.com^$all
 ||axumaycryptos.com^$all
 ||ay421.com^$all
+||ay633.com^$all
 ||ayaninternationaltrade.com^$all
 ||ayh159.com^$all
 ||ayoxtrade10.com^$all
@@ -3311,6 +3323,7 @@
 ||bassontrading.online^$all
 ||bastionglobalfinance.com^$all
 ||bat-eth.com^$all
+||batetu.com^$all
 ||batgold.uk^$all
 ||battistradingcompany.com^$all
 ||batwosecion.xyz^$all
@@ -3734,6 +3747,7 @@
 ||bgglobapg.com^$all
 ||bgglobnf.com^$all
 ||bginvestment.net^$all
+||bgkuewierhjx.com^$all
 ||bgnbit.com^$all
 ||bgocoin.net^$all
 ||bgos.top^$all
@@ -4559,6 +4573,7 @@
 ||bitchin.ltd^$all
 ||bitchin.site^$all
 ||bitchin.top^$all
+||bitchret.com^$all
 ||bitchub.com^$all
 ||bitcifr.com^$all
 ||bitcinfo.com^$all
@@ -5162,6 +5177,7 @@
 ||bitflypay.com^$all
 ||bitflytt.com^$all
 ||bitfnex-ex.com^$all
+||bitfnex-exe.com^$all
 ||bitfonix.online^$all
 ||bitfonixcapital.space^$all
 ||bitfonixgroup.online^$all
@@ -6237,6 +6253,7 @@
 ||bitsghz.com^$all
 ||bitsh.xyz^$all
 ||bitshan.com^$all
+||bitsheng.top^$all
 ||bitshex.com^$all
 ||bitshexminning.com^$all
 ||bitsholding.net^$all
@@ -6271,6 +6288,7 @@
 ||bitsminerforex.com^$all
 ||bitsnex.com^$all
 ||bitsnova.com^$all
+||bitsnseh.com^$all
 ||bitso.lol^$all
 ||bitso.trade^$all
 ||bitsocoinsbr.com^$all
@@ -7809,6 +7827,7 @@
 ||btrade24.com^$all
 ||btradeoption.com^$all
 ||btrot.com^$all
+||bts.liquidrtwe.com^$all
 ||bts.naboxfax.com^$all
 ||bts.naboxtw.com^$all
 ||btse-financemaxpro.xyz^$all
@@ -8101,6 +8120,7 @@
 ||caixin112288yule.com^$all
 ||caixin117788yule.com^$all
 ||caixin11885yule.com^$all
+||caixin11888yule.com^$all
 ||cakecrypto.net^$all
 ||cakeex.global^$all
 ||calcagni.teraiov.com^$all
@@ -8428,6 +8448,7 @@
 ||cbdefi.net^$all
 ||cbdefi.vip^$all
 ||cbdmarkets.net^$all
+||cbdnasdaq.com^$all
 ||cbeth.io^$all
 ||cbeth.org^$all
 ||cbex.work^$all
@@ -8514,6 +8535,7 @@
 ||cdps.vip^$all
 ||cdpvusb.com^$all
 ||cdpvwi.com^$all
+||cdpwbc.com^$all
 ||cecbdc.com^$all
 ||cechkk.com^$all
 ||cecrypto.net^$all
@@ -8871,6 +8893,7 @@
 ||cj680.buzz^$all
 ||cjarlnls.cc^$all
 ||cjexc.com^$all
+||cjieyey.xyz^$all
 ||cjjrtw.com^$all
 ||cjkuio.top^$all
 ||cjmqvyq.com^$all
@@ -8968,6 +8991,7 @@
 ||cloinmarkecap.com^$all
 ||clorixbit.com^$all
 ||cloud-bit.me^$all
+||cloud-bitcoin.com^$all
 ||cloud-bitcoin.vip^$all
 ||cloud-crypto.online^$all
 ||cloud-cryptoltd.com^$all
@@ -9031,6 +9055,7 @@
 ||clzssm.com^$all
 ||cm-bpa.u2ubs.com^$all
 ||cm.enmgjt.top^$all
+||cm100.cc^$all
 ||cmarket-topcap.com^$all
 ||cmarket-vipcap.com^$all
 ||cmarketvip.com^$all
@@ -9783,6 +9808,7 @@
 ||coinex.land^$all
 ||coinex.social^$all
 ||coinex.today^$all
+||coinex.tv^$all
 ||coinex2023.com^$all
 ||coinexamm.com^$all
 ||coinexasia.vip^$all
@@ -9964,6 +9990,7 @@
 ||coinhui.net^$all
 ||coinhut.online^$all
 ||coinhyt.top^$all
+||coinidcm.vip^$all
 ||coinifyoptionstrade.com^$all
 ||coinifytrade.online^$all
 ||coinifytrdingbolt.com^$all
@@ -11874,6 +11901,7 @@
 ||cryptoguru.money^$all
 ||cryptoguru24.com^$all
 ||cryptohash.store^$all
+||cryptohashautomining.com^$all
 ||cryptoheaveninvestment.com^$all
 ||cryptohewn.com^$all
 ||cryptohexetrade.com^$all
@@ -12137,11 +12165,15 @@
 ||cryptonex.network^$all
 ||cryptonex.online^$all
 ||cryptonex.tech^$all
+||cryptonexbit.com^$all
 ||cryptonexi.com^$all
 ||cryptonexiu.com^$all
+||cryptonexoada.com^$all
 ||cryptonexos.com^$all
+||cryptonexoyn.com^$all
 ||cryptonexta.net^$all
 ||cryptonexu.com^$all
+||cryptonexusx.pro^$all
 ||cryptoneyx.net^$all
 ||cryptonianscoin.com^$all
 ||cryptonianx.xyz^$all
@@ -12149,6 +12181,7 @@
 ||cryptonite-exchange.com^$all
 ||cryptoniteacademy.com^$all
 ||cryptonixery.com^$all
+||cryptonizex.com^$all
 ||cryptonmining.com^$all
 ||cryptonomicmining.com^$all
 ||cryptonomize.net^$all
@@ -12158,11 +12191,13 @@
 ||cryptonow.site^$all
 ||cryptonvest.com^$all
 ||cryptonwolf.com^$all
+||cryptonxtrade247.com^$all
 ||cryptonywolf.com^$all
 ||cryptoo8.com^$all
 ||cryptoocity.net^$all
 ||cryptooex.co^$all
 ||cryptoofficialminingplatform.com^$all
+||cryptooinvest.net^$all
 ||cryptooinvestment.com^$all
 ||cryptoonlineinvestment.com^$all
 ||cryptooptioninvestments.com^$all
@@ -12170,18 +12205,21 @@
 ||cryptooptionstradex.com^$all
 ||cryptooptiontrading.pro^$all
 ||cryptooriginalminingfx.com^$all
+||cryptooth0.com^$all
 ||cryptoover.net^$all
 ||cryptop1.com^$all
 ||cryptopad.finance^$all
 ||cryptopada.net^$all
 ||cryptopairstrade.com^$all
 ||cryptopalace.online^$all
+||cryptopalx.net^$all
 ||cryptopanda94.com^$all
 ||cryptoparadizes.com^$all
 ||cryptopastures.com^$all
 ||cryptopax.net^$all
 ||cryptopaybackltd.com^$all
 ||cryptopaybet.com^$all
+||cryptopaybits.online^$all
 ||cryptopayclub.com^$all
 ||cryptopayfx.live^$all
 ||cryptopaysignal.com^$all
@@ -12666,6 +12704,7 @@
 ||cs.mpgdyt.top^$all
 ||cs.tahark.top^$all
 ||cs.tsieej.cn^$all
+||cs.tzdtkm.top^$all
 ||cs.we3qx0.cn^$all
 ||cs01.ias-trade.com^$all
 ||csbkvip.cn^$all
@@ -12682,6 +12721,7 @@
 ||cskwins.com^$all
 ||csl369.top^$all
 ||csnclubs.com^$all
+||cssostcoos.com^$all
 ||csszsw.com^$all
 ||ct300.ostrades.com^$all
 ||ctbex-ap.com^$all
@@ -12887,17 +12927,21 @@
 ||d.honrex.info^$all
 ||d.honrex.net^$all
 ||d.icetrad.xyz^$all
+||d.jdotyp.top^$all
 ||d.king-ex.net^$all
 ||d.kingweb44.com^$all
+||d.kleyf.top^$all
 ||d.koorbitinra.com^$all
 ||d.kpdwj908.top^$all
 ||d.krakencla.com^$all
 ||d.krakentrad.xyz^$all
 ||d.lamresearchly.buzz^$all
 ||d.leiting.shop^$all
+||d.lonve.top^$all
 ||d.lunotrad.buzz^$all
 ||d.madridjgxe.buzz^$all
 ||d.metaexs.com^$all
+||d.mfcrp.top^$all
 ||d.micex.buzz^$all
 ||d.nyseuronex.buzz^$all
 ||d.ohjoi.top^$all
@@ -12922,6 +12966,7 @@
 ||d.xinbiglobalc.buzz^$all
 ||d.yoixex.cc^$all
 ||d.zctf55.com^$all
+||d.zrmub.top^$all
 ||d10miners.com^$all
 ||d2-trade.com^$all
 ||d2.seatop.life^$all
@@ -13044,6 +13089,7 @@
 ||dapp.cybers.coinbasis.us^$all
 ||dapp.foundry.dog^$all
 ||dapp.tokenpools-chz.com^$all
+||dappai.store^$all
 ||dappaqr.com^$all
 ||dappaqr.net^$all
 ||dappeth.info^$all
@@ -13560,6 +13606,8 @@
 ||dex-vip.com^$all
 ||dex.bible^$all
 ||dex.dew168.top^$all
+||dex222.top^$all
+||dex5168.top^$all
 ||dexal.online^$all
 ||dexbitby.com^$all
 ||dexcoiner.com^$all
@@ -13868,6 +13916,7 @@
 ||dl.elfwo.top^$all
 ||dl.hlvfg.top^$all
 ||dl.lclo.top^$all
+||dl.nzs127jn.com^$all
 ||dl.sjeifk.tw^$all
 ||dl.sswbg.top^$all
 ||dl.tnsiu3c.com^$all
@@ -14090,6 +14139,7 @@
 ||download-bitpie.wiki^$all
 ||download-bitpie.work^$all
 ||download-bitpie.xyz^$all
+||download.00888.tw^$all
 ||download.anyingouji.com^$all
 ||download.baoshigj.com^$all
 ||download.begoniapro.net^$all
@@ -14143,6 +14193,7 @@
 ||dream-miners.com^$all
 ||dream2020.tw^$all
 ||dreambxn.com^$all
+||dreamctc.com^$all
 ||dreamfx.biz^$all
 ||dreamfx.trade^$all
 ||dreamfxtrade.com^$all
@@ -14153,6 +14204,7 @@
 ||dreamshs.com^$all
 ||dreamtmining.com^$all
 ||dreamzerfinance.com^$all
+||dremata.com^$all
 ||dremines.com^$all
 ||dreour-bit.com^$all
 ||dreour-bit.net^$all
@@ -14350,6 +14402,8 @@
 ||e10000.eth-grt.com^$all
 ||e10006.eth-fun.com^$all
 ||e3eatw.bond^$all
+||e7301.htongtw.com^$all
+||e9425.smyqpf.com^$all
 ||e9btc.com^$all
 ||ea.tmnkeof.com^$all
 ||eaconomy.io^$all
@@ -14512,6 +14566,7 @@
 ||ebay-uk.top^$all
 ||ebay-wholes.com^$all
 ||ebay-whsle.com^$all
+||ebay-whsles.com^$all
 ||ebay333.cc^$all
 ||ebay898.com^$all
 ||ebayus.top^$all
@@ -14687,6 +14742,7 @@
 ||el.central-bank-uk.com^$all
 ||elanocrypto.com^$all
 ||elb.ac.cn^$all
+||elb.genesbo.com^$all
 ||eldertoncap.com^$all
 ||eldertoncapfx.com^$all
 ||eldertonfx.com^$all
@@ -14700,6 +14756,7 @@
 ||elemforex.com^$all
 ||elephexchange.com^$all
 ||elephexos.com^$all
+||elephinto.com^$all
 ||eletrikexchange.com^$all
 ||elevatedcryptex.com^$all
 ||elexon-trade.com^$all
@@ -16009,6 +16066,7 @@
 ||evertradeoptions.com^$all
 ||evertrader.com^$all
 ||everythingblockchain.io^$all
+||everythingmallx.vip^$all
 ||evest.life^$all
 ||evfmo.xyz^$all
 ||evfxgroup.com^$all
@@ -16119,6 +16177,7 @@
 ||exchecoin.com^$all
 ||exchx.com^$all
 ||excitedigitalexchange.com^$all
+||exclents.com^$all
 ||excllusivegrooup.online^$all
 ||excllusiveplaatform.online^$all
 ||exclusive-miners.org^$all
@@ -16643,6 +16702,7 @@
 ||fc0628.com^$all
 ||fc0712.com^$all
 ||fc168.futurpayas.com^$all
+||fc168.lmstaeoues.com^$all
 ||fc168.lmsteames.com^$all
 ||fc99.hyhtml5.com^$all
 ||fca.ckcbtec.com^$all
@@ -16658,6 +16718,7 @@
 ||fchange187.xyz^$all
 ||fcigroups.net^$all
 ||fcinvestmentsgroup.com^$all
+||fckzoie.vip^$all
 ||fclcoin.com^$all
 ||fclubexchange.com^$all
 ||fcn.etftradex.com^$all
@@ -16719,6 +16780,7 @@
 ||fenghuaglobal.com^$all
 ||fenghuasec.com.tw^$all
 ||fenghuastock.com^$all
+||fenglong606.xyz^$all
 ||fennextradingservices.com^$all
 ||fepcoin.com^$all
 ||ferbitrex.com^$all
@@ -16766,6 +16828,7 @@
 ||ffxc.net^$all
 ||fg.euronext-tranport.top^$all
 ||fg.icmarkets.top^$all
+||fg.tncn.club^$all
 ||fgcp886.vip^$all
 ||fglobalfx.com^$all
 ||fgltrade.com^$all
@@ -17245,6 +17308,7 @@
 ||forbetrade.com^$all
 ||forbitc.com^$all
 ||forcasttradeslimited.com^$all
+||force.firstrande88.com^$all
 ||forcebit.net^$all
 ||forcexbit.com^$all
 ||forcoex.com^$all
@@ -17584,6 +17648,7 @@
 ||fssend9800bv.com^$all
 ||fsshop1.com^$all
 ||fsshop3.com^$all
+||fsx-otc.com^$all
 ||ft-ex.pro^$all
 ||ft-fx-as.com^$all
 ||ft-fx-as.info^$all
@@ -17598,6 +17663,7 @@
 ||ftdexz1s.com^$all
 ||fterx.com^$all
 ||ftktrade.com^$all
+||ftlmine.org^$all
 ||ftm-invest.com^$all
 ||ftmcryptoearn.com^$all
 ||ftmo.com^$all
@@ -18597,6 +18663,7 @@
 ||gatbu.com^$all
 ||gate-trade.xyz^$all
 ||gate.io^$all
+||gate.rest^$all
 ||gate168.com^$all
 ||gate2013.top^$all
 ||gatecn.co^$all
@@ -18705,6 +18772,7 @@
 ||gd-dex.com^$all
 ||gd.skcbtec.com^$all
 ||gd1.lupp88.com^$all
+||gdac50.com^$all
 ||gdacvip.com^$all
 ||gdaxs.vip^$all
 ||gdaxss.vip^$all
@@ -18884,6 +18952,7 @@
 ||ghiueyiueyhriue.live^$all
 ||ghjr-tw.com^$all
 ||ghjrtw.com^$all
+||ghjzs.club^$all
 ||ghkm.app^$all
 ||ghkm.bet^$all
 ||ghkm88.net^$all
@@ -19193,6 +19262,7 @@
 ||globallw.com^$all
 ||globallxxx.com^$all
 ||globalm866.top^$all
+||globalm8868.top^$all
 ||globalmarketfxtrading.com^$all
 ||globalmarttrade.com^$all
 ||globalmatrex.online^$all
@@ -19616,6 +19686,7 @@
 ||goosogo.com^$all
 ||gopaxexchange.com^$all
 ||gopcshopping.com^$all
+||gopugroup.com^$all
 ||gordanes.com^$all
 ||goreexpert.com^$all
 ||gorwrich.finvizw.com^$all
@@ -19944,6 +20015,7 @@
 ||h5.agoodcoin.net^$all
 ||h5.aifeiglobal.com^$all
 ||h5.allbycoin.com^$all
+||h5.allbycoin.top^$all
 ||h5.amgm88.net^$all
 ||h5.amgmei.net^$all
 ||h5.appsever.vip^$all
@@ -20240,6 +20312,7 @@
 ||h5.vatee8888.com^$all
 ||h5.vivgoo.com^$all
 ||h5.vxrsige.top^$all
+||h5.wargui.top^$all
 ||h5.wbexnew.com^$all
 ||h5.wbexza.com^$all
 ||h5.weshop666.com^$all
@@ -20266,6 +20339,7 @@
 ||haccoins.com^$all
 ||haccoinx.com^$all
 ||hacointrading.com^$all
+||hagjtw-tww.com^$all
 ||hai-gou.top^$all
 ||haidatian.com^$all
 ||haidilaohuodon26.cn^$all
@@ -20936,6 +21010,7 @@
 ||ht-fortune.com^$all
 ||ht.kjcoinwu08.top^$all
 ||ht.tfdexcoin2.com^$all
+||ht.tfdexcoin8.cc^$all
 ||ht007.awstw.net^$all
 ||ht560.com^$all
 ||htbnbcrm.com^$all
@@ -20949,6 +21024,7 @@
 ||htmlco1.com^$all
 ||htmlco2.com^$all
 ||htmlco3.com^$all
+||htps.sfsoeks.com^$all
 ||htps.sfsoudes.com^$all
 ||htps.solutfound.com^$all
 ||htps.solutfoundy.com^$all
@@ -21322,6 +21398,7 @@
 ||ignitersafemining.com^$all
 ||igo-town.com^$all
 ||igomarket.net^$all
+||igomarkets.net^$all
 ||igroupbits.com^$all
 ||igtrade.top^$all
 ||igtradingonline.com^$all
@@ -21561,6 +21638,7 @@
 ||international-fx.net^$all
 ||international-fx.vip^$all
 ||international.bulltrades.online^$all
+||internationala.finances.tw^$all
 ||internationalforex.com^$all
 ||internationalfx.vip^$all
 ||internationalfxtrade.com^$all
@@ -21595,6 +21673,7 @@
 ||introquotex.site^$all
 ||inukocoin.com^$all
 ||inv.top-fulfill.com^$all
+||inveceltdteam.com^$all
 ||invechcorporation.com^$all
 ||inverchy.elparii.com^$all
 ||inverchy.hk-exnews.com^$all
@@ -22095,6 +22174,7 @@
 ||jscoin8.com^$all
 ||jscoptyltd.com^$all
 ||jse589.co^$all
+||jsforex89.com^$all
 ||jsfsjx.top^$all
 ||jsgj168.top^$all
 ||jsgj6788.com^$all
@@ -22243,7 +22323,9 @@
 ||kanabitsfx.site^$all
 ||kangaroobtc.com^$all
 ||kangbcoin.com^$all
+||kangbcoin.top^$all
 ||kangbo-ex.cc^$all
+||kangbo-ex.com^$all
 ||kangbohg.com^$all
 ||kangda-fx.com^$all
 ||kangdab2c.com^$all
@@ -22353,6 +22435,7 @@
 ||kglefman.com^$all
 ||kgnjdnsdnaw.com^$all
 ||kgyuwc.bar^$all
+||kh-shares.com^$all
 ||kh-tradeonline.com^$all
 ||khaliforex.com^$all
 ||khcxzinrtmshizf.com^$all
@@ -22605,6 +22688,7 @@
 ||ktinvest.co^$all
 ||ktoll.com^$all
 ||ktpoptuigonx.com^$all
+||ktpoptuionxx.com^$all
 ||ktwall.com^$all
 ||ktzp8vt.xyz^$all
 ||ku-bitcoin.com^$all
@@ -22794,6 +22878,7 @@
 ||lbkti.com^$all
 ||lbnkex.com^$all
 ||lbvuid.com^$all
+||lc.lcwebs.top^$all
 ||lc.xos999.xyz^$all
 ||lccprivateinvestigations.com^$all
 ||lccrexpert.com^$all
@@ -22837,6 +22922,7 @@
 ||leah-supermall.com^$all
 ||leanaxtrade.com^$all
 ||leanorstore.com^$all
+||leanote.xyz^$all
 ||leaptrades.online^$all
 ||learning-trade.com^$all
 ||learnschoolpro.com^$all
@@ -23055,6 +23141,7 @@
 ||likebitex.com^$all
 ||likecz.cc^$all
 ||likeeshare.com^$all
+||likeshoping.online^$all
 ||likitfx.com^$all
 ||lilalainvestment.com^$all
 ||lildtoken.com^$all
@@ -23644,6 +23731,7 @@
 ||m.imtokenl.net^$all
 ||m.indoex.io^$all
 ||m.ise589.co^$all
+||m.iwoffq.top^$all
 ||m.jindaguoji.net^$all
 ||m.jinkraltd.com^$all
 ||m.jiutongjr.vip^$all
@@ -23723,6 +23811,7 @@
 ||m.potex9.com^$all
 ||m.proex.io^$all
 ||m.qemat.top^$all
+||m.qffgu.top^$all
 ||m.qh68.top^$all
 ||m.qiyuantw.cn.com^$all
 ||m.qiyuantw.com^$all
@@ -23757,6 +23846,7 @@
 ||m.spaceex.me^$all
 ||m.spaceex.top^$all
 ||m.stex.top^$all
+||m.svern.top^$all
 ||m.taiwyc.com^$all
 ||m.tam585.com^$all
 ||m.tdh833.com^$all
@@ -23796,6 +23886,7 @@
 ||m.wns201088.com^$all
 ||m.wns4168.com^$all
 ||m.wns5158.cc^$all
+||m.wns5178.xyz^$all
 ||m.wns66.top^$all
 ||m.wns9876.top^$all
 ||m.wnsing.com^$all
@@ -23832,6 +23923,7 @@
 ||m.xedgf388.com^$all
 ||m.xinpj22.com^$all
 ||m.xinpujing01.top^$all
+||m.xmfxs-markets.com^$all
 ||m.xmtrader-x.com^$all
 ||m.xmz-fx.com^$all
 ||m.xmzfxs.com^$all
@@ -23943,6 +24035,7 @@
 ||mall-ebay.com^$all
 ||mall-lazada.com^$all
 ||mall.klgw.shop^$all
+||mall.mansa-tw.shop^$all
 ||mall.tw-tesco.shop^$all
 ||mallhelper.org^$all
 ||mallshop.tw^$all
@@ -23973,6 +24066,7 @@
 ||marathondigitaltradllc.com^$all
 ||marathoninvestmentplatform.com^$all
 ||marathoninvestments.ltd^$all
+||marathonpro.xyz^$all
 ||marcofx.net^$all
 ||mardiforex.com^$all
 ||margin-crypto.xyz^$all
@@ -24083,6 +24177,7 @@
 ||mavtopfxtrade.com^$all
 ||max-bit.com^$all
 ||max-coins.net^$all
+||max-profitinvestment.co^$all
 ||max-tetherusdt.com^$all
 ||max-trade.vip^$all
 ||max.ftxus100.com^$all
@@ -24154,6 +24249,7 @@
 ||mayatrade.click^$all
 ||maybach168.com^$all
 ||mayercrypto.com^$all
+||mayfirstone.com^$all
 ||mayotrade-official.com^$all
 ||mayotrade.com^$all
 ||mayotrade.site^$all
@@ -25420,6 +25516,7 @@
 ||mygfim.com^$all
 ||mygfim.net^$all
 ||myholidays.tw^$all
+||myiiistocks.com^$all
 ||myinvestments.live^$all
 ||myjf388.com^$all
 ||myjt07.com^$all
@@ -25529,6 +25626,7 @@
 ||nasdaqbtcoin.xyz^$all
 ||nasdaqes.com^$all
 ||nasdaqmine.com^$all
+||nasdaqserver.com^$all
 ||nasdaqtw.com^$all
 ||nasdaqwincoin.com^$all
 ||nasdqdubai.com^$all
@@ -25697,6 +25795,7 @@
 ||newhotcoin.com^$all
 ||newidea.solutions^$all
 ||newinvestmarkets.online^$all
+||newmall.space^$all
 ||newmcputin.com^$all
 ||newmining28.com^$all
 ||newmining365.com^$all
@@ -25775,6 +25874,7 @@
 ||nftcoin.live^$all
 ||nftcwc.nftiak.com^$all
 ||nfteshopp.com^$all
+||nftesla.online^$all
 ||nftexvip.com^$all
 ||nftgoper.com^$all
 ||nftleadc.com^$all
@@ -26628,6 +26728,7 @@
 ||oztw.xyz^$all
 ||ozzoco.xyz^$all
 ||p-inv.trade^$all
+||p.7usd.fun^$all
 ||p.tx131.net^$all
 ||p2p2.p2aoc.com^$all
 ||p5.vtetftradex.net^$all
@@ -26799,6 +26900,7 @@
 ||pc.xtcrypto.vip^$all
 ||pc24buyer.com^$all
 ||pc24sack.com^$all
+||pc24sacks.com^$all
 ||pc24storesp.com^$all
 ||pc24vip.com^$all
 ||pcatrading.com^$all
@@ -26845,6 +26947,7 @@
 ||peeba2.com^$all
 ||peeba5.com^$all
 ||peer-coins.com^$all
+||peichengroup.com^$all
 ||peichengsec.com^$all
 ||peichengstock.com^$all
 ||pelaburan-nordfx.com^$all
@@ -27266,6 +27369,7 @@
 ||price-coin.com^$all
 ||price2trade.cyou^$all
 ||price2trade.net^$all
+||price2trade.site^$all
 ||priceactionfx.net^$all
 ||priceactionfx.org^$all
 ||priceactionfxltd.com^$all
@@ -27273,6 +27377,7 @@
 ||priceline-online.com^$all
 ||pricsiwl.xyz^$all
 ||priderock.com.tw^$all
+||priderockasia.com^$all
 ||priderockmkt.com^$all
 ||primalexpressbroker.com^$all
 ||primax-investment.com^$all
@@ -27648,6 +27753,7 @@
 ||qevhdchh.com^$all
 ||qewold.com^$all
 ||qewoldcoltd.com^$all
+||qfgnasdas.top^$all
 ||qfii68.com^$all
 ||qfii77.com^$all
 ||qfii78.com^$all
@@ -27826,6 +27932,7 @@
 ||qxbroker.com^$all
 ||qxbrokerfx.live^$all
 ||qy.hwzn.cc^$all
+||qypuhuvo.cyou^$all
 ||qz48.zhyotc.com^$all
 ||qzblm.com^$all
 ||qzgufx.live^$all
@@ -28234,10 +28341,12 @@
 ||roomeel.com^$all
 ||rooroex.com^$all
 ||rootpintraders.live^$all
+||rootrexs.cc^$all
 ||rosafx.com^$all
 ||rosehlove.com^$all
 ||rottcoinstaking.com^$all
 ||rou1203.3a168.net^$all
+||rounatoea.com^$all
 ||rountingfx.com^$all
 ||routenex.com^$all
 ||roxbycoin.com^$all
@@ -28719,6 +28828,7 @@
 ||sfex156.com^$all
 ||sfh5.shanxuhui.top^$all
 ||sfhhhs.com^$all
+||sfhjnvcx.com^$all
 ||sfjnfasodsmf.com^$all
 ||sfnebabsda.com^$all
 ||sfnpdefi.com^$all
@@ -28729,6 +28839,7 @@
 ||sftimoa.com^$all
 ||sftimoappxx.com^$all
 ||sftimobuy.com^$all
+||sftimoeth.com^$all
 ||sftimoinv.com^$all
 ||sftimop.com^$all
 ||sftimot.com^$all
@@ -28839,6 +28950,7 @@
 ||shopcoinswap.com^$all
 ||shopee-shop.club^$all
 ||shopee-shop.shop^$all
+||shopee-vip15.xyz^$all
 ||shopee.shumeilaw.com^$all
 ||shopeech.com^$all
 ||shopeecq.com^$all
@@ -28857,6 +28969,7 @@
 ||shopeevip4.com^$all
 ||shopeevip8.com^$all
 ||shopeevs.com^$all
+||shopeex.sbuyvip.com^$all
 ||shopeex.top^$all
 ||shopeexs.com^$all
 ||shopeexs.top^$all
@@ -28864,6 +28977,7 @@
 ||shopesv.com^$all
 ||shopfaa.com^$all
 ||shopgool.com^$all
+||shophys.com^$all
 ||shopify-commercialer.com^$all
 ||shopifyauctions.com^$all
 ||shopifybid.com^$all
@@ -28883,6 +28997,7 @@
 ||shoppevip5.com^$all
 ||shopping-jf.com^$all
 ||shopping-ypd.com^$all
+||shoppingcnn.com^$all
 ||shoppinggmore.com^$all
 ||shoppingmall77.xyz^$all
 ||shoppingmall99.xyz^$all
@@ -29418,6 +29533,7 @@
 ||speadmining.trade^$all
 ||spebitcoin.com^$all
 ||spebitcoinus1.com^$all
+||special-light.com^$all
 ||specialfxtmforex.com^$all
 ||specialtradingfx.com^$all
 ||spectaindex.com^$all
@@ -30374,6 +30490,7 @@
 ||tesseract222.top^$all
 ||tesseract321.top^$all
 ||tesseract333.top^$all
+||tesseract555.top^$all
 ||tesseract666.top^$all
 ||test-big.com^$all
 ||test.ethmd.org^$all
@@ -30763,6 +30880,7 @@
 ||tmall.com^$all
 ||tmall.hk^$all
 ||tmaxji.com^$all
+||tmaxky.com^$all
 ||tmbanktrade.org^$all
 ||tmbnu.shop^$all
 ||tmctrading.org^$all
@@ -30887,6 +31005,8 @@
 ||topbit888.com^$all
 ||topbitminers.com^$all
 ||topbitpro.com^$all
+||topbitpyat.com^$all
+||topbitrt.com^$all
 ||topbitsoption.com^$all
 ||topcapitaluk.com^$all
 ||topcoininvestment.net^$all
@@ -31058,6 +31178,7 @@
 ||trade75980.xyz^$all
 ||trade8.kadenx.com^$all
 ||trade8.seagenxes.com^$all
+||trade8.seagenxios.com^$all
 ||trade8.thefinsras.com^$all
 ||trade8.wayteciysoe.com^$all
 ||trade8cap.com^$all
@@ -31664,6 +31785,7 @@
 ||tronewallet.com^$all
 ||tronex.cloud^$all
 ||tronfarm.me^$all
+||tronfhu.com^$all
 ||tronfinite.com^$all
 ||tronfunds.info^$all
 ||trongry.com^$all
@@ -32019,6 +32141,7 @@
 ||twtw.bitspqs.com^$all
 ||twtzhul.com^$all
 ||twubsex.com^$all
+||twvstock.com^$all
 ||twwelcome.com^$all
 ||twyundingit.com^$all
 ||twzhenhan.com^$all
@@ -32119,6 +32242,7 @@
 ||ucantrusts.com^$all
 ||ucbnkonline.com^$all
 ||ucc2023.com^$all
+||ucex-online.cc^$all
 ||ucex.cc^$all
 ||ucexcoin.cc^$all
 ||ucexcoin.com^$all
@@ -32892,6 +33016,7 @@
 ||user.maskcoin.in^$all
 ||user.maskcoin.online^$all
 ||user.maskcurrency.online^$all
+||user.maskcurrency.store^$all
 ||user.masknetwork.network^$all
 ||user.medisou.club^$all
 ||user.medisou.vip^$all
@@ -33050,6 +33175,7 @@
 ||vaultswapchain.com^$all
 ||vaxminers.ltd^$all
 ||vazebit.com^$all
+||vb.uyrds.club^$all
 ||vbhdbah1mansdba.com^$all
 ||vbiix.com^$all
 ||vbitdp.vip^$all
@@ -34218,6 +34344,7 @@
 ||wsudhgtc.site^$all
 ||wswealthsystem.com^$all
 ||wt.ascc-markets.com^$all
+||wt.gopugroup.com^$all
 ||wtf.hi1788.net^$all
 ||wtiltd-hk.com^$all
 ||wtkinvest.com^$all
@@ -34225,6 +34352,7 @@
 ||wttvip.com^$all
 ||wuan.bitvovo.asia^$all
 ||wunidksarjdls.org^$all
+||wuniswap.top^$all
 ||wuqhaunfs.com^$all
 ||wusdt.net^$all
 ||wusdtglobal.com^$all
@@ -34371,7 +34499,9 @@
 ||xdtintelligence.com^$all
 ||xdzjforextw.com^$all
 ||xedli.com^$all
+||xedlp.com^$all
 ||xedoex.com^$all
+||xelatoken.com^$all
 ||xemifxmarkets.com^$all
 ||xen-crypto.com^$all
 ||xenon-trading.com^$all
@@ -34504,6 +34634,7 @@
 ||xprpeertrading.org^$all
 ||xqb.io^$all
 ||xqhfjzhsv.com^$all
+||xr-trading.co^$all
 ||xrexwallet.com^$all
 ||xrmeetlove.com^$all
 ||xrpcryptoearn.com^$all
@@ -34687,6 +34818,7 @@
 ||ylgj88.allh5.com^$all
 ||ylgj88.dotasy.com^$all
 ||ylhg7018.com^$all
+||ylhg7999.vip^$all
 ||ylicez.fhefnpa.cn^$all
 ||yljt8.com^$all
 ||yljtbc.com^$all
@@ -34801,6 +34933,7 @@
 ||yuwsiawojxakqxnsj.net^$all
 ||yuying-app.com^$all
 ||yuying-tw.com^$all
+||yuyuan-tw.com^$all
 ||yv9yf.top^$all
 ||yvlavm.vip^$all
 ||yw.gomncyo.cn^$all
@@ -34993,6 +35126,7 @@
 ||zheweuermawdsq.com^$all
 ||zhfxti.com^$all
 ||zhhold.live^$all
+||zhihe.cangqiong.fun^$all
 ||zhinter.com^$all
 ||zhixin.at^$all
 ||zhjysweb.com^$all
