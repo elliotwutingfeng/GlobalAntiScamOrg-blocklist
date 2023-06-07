@@ -109,7 +109,9 @@
 ||1ghsminingfarm.com^$all
 ||1hc.npk3.cn^$all
 ||1isdnqnebajw.com^$all
+||1stmall-app.top^$all
 ||1straderfx.com^$all
+||1stsubgerba7-antaczom9.top^$all
 ||1waqdx.top^$all
 ||1wazdx.top^$all
 ||1wbfxq.top^$all
@@ -1562,6 +1564,7 @@
 ||alliedexpressdl.com^$all
 ||alliedfinan.com^$all
 ||alliedtrade.ltd^$all
+||alliedtrade.online^$all
 ||allinternationaltrade.online^$all
 ||alloldcoins.com^$all
 ||allone-bit.com^$all
@@ -3745,6 +3748,7 @@
 ||bgcoin.store^$all
 ||bgcoin.vip^$all
 ||bgcpartnersfx.net^$all
+||bgddy.online^$all
 ||bggaten.vip^$all
 ||bggatepx.vip^$all
 ||bggcoins.com^$all
@@ -3752,6 +3756,7 @@
 ||bgglobnf.com^$all
 ||bginvestment.net^$all
 ||bgkuewierhjx.com^$all
+||bgmiu.online^$all
 ||bgnbit.com^$all
 ||bgocoin.net^$all
 ||bgos.top^$all
@@ -6321,6 +6326,7 @@
 ||bitsotrading.net^$all
 ||bitsovip.com^$all
 ||bitsovp.com^$all
+||bitsoxc.com^$all
 ||bitspace.world^$all
 ||bitspace7.com^$all
 ||bitspacenode.org^$all
@@ -7006,6 +7012,7 @@
 ||bluwolfcrypto.education^$all
 ||bm-in.net^$all
 ||bm-in.site^$all
+||bm-in.xyz^$all
 ||bma-nf.com^$all
 ||bma366.com^$all
 ||bmacoin.com^$all
@@ -9241,6 +9248,7 @@
 ||coin-case.com^$all
 ||coin-chain.ltd^$all
 ||coin-change.online^$all
+||coin-crypto.net^$all
 ||coin-crypto.pro^$all
 ||coin-crypto.top^$all
 ||coin-d314.site^$all
@@ -9368,6 +9376,7 @@
 ||coinads.co^$all
 ||coinafix.com^$all
 ||coinage.ltd^$all
+||coinage.vip^$all
 ||coinagebit.com^$all
 ||coinagefinancials.org^$all
 ||coinagegainhub.com^$all
@@ -10209,6 +10218,7 @@
 ||coinnodesmigration.live^$all
 ||coinnodetrades.com^$all
 ||coinnovator.net^$all
+||coinntap.vip^$all
 ||coinoby.com^$all
 ||coinoceans.org^$all
 ||coinoexali.com^$all
@@ -10655,6 +10665,7 @@
 ||coinuphk.com^$all
 ||coinupit.com^$all
 ||coinupit.site^$all
+||coinuppool.com^$all
 ||coinuptrade.com^$all
 ||coinupty.co^$all
 ||coinupty.com^$all
@@ -13493,6 +13504,7 @@
 ||defiusdtpool.com^$all
 ||defivxy.com^$all
 ||defiwall.tech^$all
+||defiyield-eth.net^$all
 ||defiyieldinvests.com^$all
 ||defiyieldmining.com^$all
 ||degbtcap.com^$all
@@ -14673,6 +14685,7 @@
 ||edwardcoins.com^$all
 ||edwincoins.com^$all
 ||edx.exchange^$all
+||edxm.cc^$all
 ||edycoin.com^$all
 ||ee.7892109.com^$all
 ||ee9pool.com^$all
@@ -16268,6 +16281,7 @@
 ||exness-ma.com^$all
 ||exness-pro.com^$all
 ||exness-pro.org^$all
+||exness-pro.site^$all
 ||exness-world.site^$all
 ||exness.love^$all
 ||exness168.com^$all
@@ -16911,6 +16925,7 @@
 ||filefortrademark.com^$all
 ||fileswap.org^$all
 ||filipfnancetrade.com^$all
+||filmsights.com^$all
 ||finacoins.online^$all
 ||finalplus.net^$all
 ||finalplusax.com^$all
@@ -20537,6 +20552,7 @@
 ||hendrixbank.com^$all
 ||hendry-fx.com^$all
 ||hengda.wiki^$all
+||hengruitjs1.com^$all
 ||hengry-fx.com^$all
 ||hengryfx.net^$all
 ||hengryltd.com^$all
@@ -22754,6 +22770,7 @@
 ||kucoinwork.life^$all
 ||kucoinwork.work^$all
 ||kucokp.cc^$all
+||kuconvt.vip^$all
 ||kudx.com^$all
 ||kufxm.com^$all
 ||kunst2.top^$all
@@ -23839,6 +23856,7 @@
 ||m.qsd88.cn^$all
 ||m.qsfingold.com^$all
 ||m.raydiumcoin.org^$all
+||m.rebitio.com^$all
 ||m.renrense.cn^$all
 ||m.rifagala.com^$all
 ||m.roden-fx.com^$all
@@ -26363,6 +26381,7 @@
 ||okexxe.com^$all
 ||okexxq.com^$all
 ||okexxs.com^$all
+||okgold-aa.com^$all
 ||okhash.vip^$all
 ||okiex168.com^$all
 ||okkvips.com^$all
@@ -29150,6 +29169,8 @@
 ||simexclub.com^$all
 ||simexidn.com^$all
 ||simexkyc.com^$all
+||simonshop.app^$all
+||simonshop.org^$all
 ||simplecapitalfx.com^$all
 ||simplefxoption.com^$all
 ||simpletrades.com^$all
@@ -29625,6 +29646,7 @@
 ||sprintkextrading.com^$all
 ||sprintlitefx.com^$all
 ||sprintminersfxs.com^$all
+||spsucmtx.vip^$all
 ||spttoken.net^$all
 ||spur51.com^$all
 ||spurcryptooptions.com^$all
@@ -29632,6 +29654,7 @@
 ||spusdt.net^$all
 ||spwin58.com^$all
 ||spx-trader.com^$all
+||spxcoins.com^$all
 ||spybitcasino.com^$all
 ||spydocoin.com^$all
 ||spytradez.com^$all
@@ -32308,6 +32331,7 @@
 ||uforce.studio^$all
 ||uforce.website^$all
 ||uforces-coin.net^$all
+||ufozon.vip^$all
 ||ufsinvestment.com^$all
 ||uftrade.org^$all
 ||ufxtradesoption.com^$all
@@ -32329,6 +32353,7 @@
 ||uiz888.fslaitech.com^$all
 ||uj.virnvkrf.com^$all
 ||ujrk50.sxsplx.top^$all
+||uk-innovaccer.com^$all
 ||uk-sourcingcorp.com^$all
 ||uk-yabo.com^$all
 ||uk2jj.xyz^$all
@@ -33336,6 +33361,7 @@
 ||vinstco.com^$all
 ||vinstco121.top^$all
 ||vinstco207.top^$all
+||vinstco463.top^$all
 ||vintage-tradeoption.com^$all
 ||vintageplustrade.online^$all
 ||vintagetrust.net^$all
@@ -33643,6 +33669,7 @@
 ||wallvn.com^$all
 ||walmartfx.com^$all
 ||walmartglobalcms.com^$all
+||walmartweb.net^$all
 ||walnart.net^$all
 ||walnart.xyz^$all
 ||walrus-token.com^$all
@@ -34425,13 +34452,6 @@
 ||www-lfex.com^$all
 ||www-poloniex.com^$all
 ||www-ysb.com^$all
-||www.coin-crypto.net^$all
-||www.coinntap.vip^$all
-||www.edxm.cc^$all
-||www.filmsights.com^$all
-||www.hengruitjs1.com^$all
-||www.spsucmtx.vip^$all
-||www.uk-innovaccer.com^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all

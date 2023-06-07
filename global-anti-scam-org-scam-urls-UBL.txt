@@ -119,7 +119,9 @@
 *://*.1ghsminingfarm.com/*
 *://*.1isdnqnebajw.com/*
 *://*.1n1cib.com/*
+*://*.1stmall-app.top/*
 *://*.1straderfx.com/*
+*://*.1stsubgerba7-antaczom9.top/*
 *://*.1waqdx.top/*
 *://*.1wazdx.top/*
 *://*.1wbfxq.top/*
@@ -1556,6 +1558,7 @@
 *://*.alliedexpressdl.com/*
 *://*.alliedfinan.com/*
 *://*.alliedtrade.ltd/*
+*://*.alliedtrade.online/*
 *://*.allinternationaltrade.online/*
 *://*.alloldcoins.com/*
 *://*.allone-bit.com/*
@@ -3594,6 +3597,7 @@
 *://*.bgcoin.store/*
 *://*.bgcoin.vip/*
 *://*.bgcpartnersfx.net/*
+*://*.bgddy.online/*
 *://*.bgetgo123.com/*
 *://*.bgfrm.top/*
 *://*.bggaten.vip/*
@@ -3605,6 +3609,7 @@
 *://*.bgkgueujrws.com/*
 *://*.bgkuewierhjx.com/*
 *://*.bgmine.vip/*
+*://*.bgmiu.online/*
 *://*.bgnbit.com/*
 *://*.bgocoin.net/*
 *://*.bgos.top/*
@@ -6225,6 +6230,7 @@
 *://*.bitsotrading.net/*
 *://*.bitsovip.com/*
 *://*.bitsovp.com/*
+*://*.bitsoxc.com/*
 *://*.bitspace.world/*
 *://*.bitspace7.com/*
 *://*.bitspacenode.org/*
@@ -6942,6 +6948,7 @@
 *://*.blzj.tw/*
 *://*.bm-in.net/*
 *://*.bm-in.site/*
+*://*.bm-in.xyz/*
 *://*.bma-nf.com/*
 *://*.bma366.com/*
 *://*.bmacoin.com/*
@@ -9392,6 +9399,7 @@
 *://*.coinads.co/*
 *://*.coinafix.com/*
 *://*.coinage.ltd/*
+*://*.coinage.vip/*
 *://*.coinagebit.com/*
 *://*.coinagefinancials.org/*
 *://*.coinagegainhub.com/*
@@ -10738,6 +10746,7 @@
 *://*.coinuphk.com/*
 *://*.coinupit.com/*
 *://*.coinupit.site/*
+*://*.coinuppool.com/*
 *://*.coinuptrade.com/*
 *://*.coinupty.co/*
 *://*.coinupty.com/*
@@ -13455,6 +13464,7 @@
 *://*.defiusdtpool.com/*
 *://*.defivxy.com/*
 *://*.defiwall.tech/*
+*://*.defiyield-eth.net/*
 *://*.defiyieldinvests.com/*
 *://*.defiyieldmining.com/*
 *://*.degbtcap.com/*
@@ -16227,6 +16237,7 @@
 *://*.exness-ma.com/*
 *://*.exness-pro.com/*
 *://*.exness-pro.org/*
+*://*.exness-pro.site/*
 *://*.exness-world.site/*
 *://*.exness.love/*
 *://*.exness168.com/*
@@ -22768,6 +22779,7 @@
 *://*.kucoinwork.life/*
 *://*.kucoinwork.work/*
 *://*.kucokp.cc/*
+*://*.kuconvt.vip/*
 *://*.kudj.tw/*
 *://*.kudx.com/*
 *://*.kufxm.com/*
@@ -26082,6 +26094,7 @@
 *://*.okexxe.com/*
 *://*.okexxq.com/*
 *://*.okexxs.com/*
+*://*.okgold-aa.com/*
 *://*.okhash.vip/*
 *://*.okiex168.com/*
 *://*.okkviip.com/*
@@ -27849,6 +27862,7 @@
 *://*.reapfxrewards.com/*
 *://*.reaxtetst-ex.com/*
 *://*.rebefx.com/*
+*://*.rebitio.com/*
 *://*.reckoningfasttrading.com/*
 *://*.reckoningmining.com/*
 *://*.recofund.net/*
@@ -28981,6 +28995,8 @@
 *://*.simexidn.com/*
 *://*.simexkyc.com/*
 *://*.simkk.cn/*
+*://*.simonshop.app/*
+*://*.simonshop.org/*
 *://*.simplecapitalfx.com/*
 *://*.simplefxoption.com/*
 *://*.simplesite.com/*
@@ -29477,6 +29493,7 @@
 *://*.spusdt.net/*
 *://*.spwin58.com/*
 *://*.spx-trader.com/*
+*://*.spxcoins.com/*
 *://*.spybitcasino.com/*
 *://*.spydocoin.com/*
 *://*.spytradez.com/*
@@ -32150,6 +32167,7 @@
 *://*.uforce.studio/*
 *://*.uforce.website/*
 *://*.uforces-coin.net/*
+*://*.ufozon.vip/*
 *://*.ufsinvestment.com/*
 *://*.uftrade.org/*
 *://*.ufxtradesoption.com/*
@@ -33121,6 +33139,7 @@
 *://*.vinstco.com/*
 *://*.vinstco121.top/*
 *://*.vinstco207.top/*
+*://*.vinstco463.top/*
 *://*.vintage-tradeoption.com/*
 *://*.vintageplustrade.online/*
 *://*.vintagetrust.net/*
@@ -33414,6 +33433,7 @@
 *://*.wallvn.com/*
 *://*.walmartfx.com/*
 *://*.walmartglobalcms.com/*
+*://*.walmartweb.net/*
 *://*.walnart.net/*
 *://*.walnart.xyz/*
 *://*.walrus-token.com/*
