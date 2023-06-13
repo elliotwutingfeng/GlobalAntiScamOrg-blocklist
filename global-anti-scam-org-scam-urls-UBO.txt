@@ -2855,6 +2855,7 @@
 ||atraexchange56.com^$all
 ||atranding.club^$all
 ||atriedestrades.com^$all
+||atsomelab.com^$all
 ||attobits.com^$all
 ||attunetrade.ltd^$all
 ||atuoloan.com^$all
@@ -8111,6 +8112,7 @@
 ||c-f-trade.com^$all
 ||c-rypto-fx-investment.net^$all
 ||c-techdigitalcryptocurrency.com^$all
+||c-worldinvestments.com^$all
 ||c.123370.cn^$all
 ||c.201775.cn^$all
 ||c.aecmu.xyz^$all
@@ -8843,6 +8845,7 @@
 ||chrimafx.com^$all
 ||chrombits.com^$all
 ||chssgy.net^$all
+||cht.shidod.com^$all
 ||chu.alph9.com^$all
 ||chu.coen8.com^$all
 ||chu.fsuwin.com^$all
@@ -16067,6 +16070,7 @@
 ||euheq.top^$all
 ||euhha.top^$all
 ||euhjg.top^$all
+||euhsb.top^$all
 ||euhzn.top^$all
 ||euibt.com^$all
 ||eulertrades.com^$all
@@ -16663,6 +16667,7 @@
 ||fartrust.top^$all
 ||fartrust.xyz^$all
 ||fasdoc.com^$all
+||fasonla.com^$all
 ||fasonlacm.cc^$all
 ||fasonlacrm.cc^$all
 ||fasonlacrm.com^$all
@@ -22281,6 +22286,7 @@
 ||jsjrforextw.com^$all
 ||jsjs2763jsjs8282as7app.com^$all
 ||jslinkglobal.com^$all
+||jstee.xyz^$all
 ||jsunexchange.com^$all
 ||jsunglobal.com^$all
 ||jsunholdings.com^$all
@@ -23105,6 +23111,7 @@
 ||lenzasyee.xyz^$all
 ||leobor.com^$all
 ||leoborfg.net^$all
+||leoex.me^$all
 ||leoicns.com^$all
 ||leomfx.com^$all
 ||leoncoins.com^$all
@@ -23157,6 +23164,7 @@
 ||leverj.io^$all
 ||leverjdefi-concept.com^$all
 ||leverjdefi-top.com^$all
+||leverjobtain.com^$all
 ||leverjorg.com^$all
 ||leverjprecise.com^$all
 ||leverjproceed.com^$all
@@ -24408,6 +24416,7 @@
 ||mchtmlh1.com^$all
 ||mckez.com^$all
 ||mclonline.com^$all
+||mcoctnol.com^$all
 ||mcoin.vip^$all
 ||mcoinl.com^$all
 ||mcoinvip.com^$all
@@ -29084,6 +29093,7 @@
 ||shopee-shop.shop^$all
 ||shopee-vip15.xyz^$all
 ||shopee.shumeilaw.com^$all
+||shopee.sn-mall.com^$all
 ||shopeech.com^$all
 ||shopeecq.com^$all
 ||shopeekx.com^$all
@@ -33769,6 +33779,7 @@
 ||wallvn.com^$all
 ||walmartfx.com^$all
 ||walmartglobalcms.com^$all
+||walmartshopgo.com^$all
 ||walmartweb.net^$all
 ||walmert.xyz^$all
 ||walnart.net^$all
@@ -34560,6 +34571,12 @@
 ||www-lfex.com^$all
 ||www-poloniex.com^$all
 ||www-ysb.com^$all
+||www.apptweak.shop^$all
+||www.bestbest-shop.com^$all
+||www.sands-gk.com^$all
+||www.solanaz.top^$all
+||www.svipershop.com^$all
+||www.uswcxose.vip^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all

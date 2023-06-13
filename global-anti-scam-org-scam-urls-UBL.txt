@@ -2236,6 +2236,7 @@
 *://*.appshops.xyz/*
 *://*.appsmarcoin.com/*
 *://*.appstimizer.com/*
+*://*.apptweak.shop/*
 *://*.appukex.com/*
 *://*.appxz2.xyz/*
 *://*.appzgate-rands.com/*
@@ -2674,6 +2675,7 @@
 *://*.atraexchange56.com/*
 *://*.atranding.club/*
 *://*.atriedestrades.com/*
+*://*.atsomelab.com/*
 *://*.attobits.com/*
 *://*.attunetrade.ltd/*
 *://*.atuoloan.com/*
@@ -3441,6 +3443,7 @@
 *://*.bestaxisfx-trading.online/*
 *://*.bestaxisfx.online/*
 *://*.bestbc.net/*
+*://*.bestbest-shop.com/*
 *://*.bestbit-invest.com/*
 *://*.bestbitcointransaction.com/*
 *://*.bestbuyzz.top/*
@@ -8097,6 +8100,7 @@
 *://*.c-f-trade.com/*
 *://*.c-rypto-fx-investment.net/*
 *://*.c-techdigitalcryptocurrency.com/*
+*://*.c-worldinvestments.com/*
 *://*.c1-mining.org/*
 *://*.c1kex.ru/*
 *://*.c365defi.com/*
@@ -15998,6 +16002,7 @@
 *://*.euheq.top/*
 *://*.euhha.top/*
 *://*.euhjg.top/*
+*://*.euhsb.top/*
 *://*.euhzn.top/*
 *://*.euibt.com/*
 *://*.euignrg.top/*
@@ -16620,6 +16625,7 @@
 *://*.fartrust.xyz/*
 *://*.fasc.cc/*
 *://*.fasdoc.com/*
+*://*.fasonla.com/*
 *://*.fasonlacm.cc/*
 *://*.fasonlacrm.cc/*
 *://*.fasonlacrm.com/*
@@ -22218,6 +22224,7 @@
 *://*.jsli711.com/*
 *://*.jslink.vip/*
 *://*.jslinkglobal.com/*
+*://*.jstee.xyz/*
 *://*.jsunexchange.com/*
 *://*.jsunglobal.com/*
 *://*.jsunholdings.com/*
@@ -23115,6 +23122,7 @@
 *://*.lenzasyee.xyz/*
 *://*.leobor.com/*
 *://*.leoborfg.net/*
+*://*.leoex.me/*
 *://*.leoicns.com/*
 *://*.leomfx.com/*
 *://*.leoncoins.com/*
@@ -23174,6 +23182,7 @@
 *://*.leverjdefi-concept.com/*
 *://*.leverjdefi-top.com/*
 *://*.leverjens.live/*
+*://*.leverjobtain.com/*
 *://*.leverjorg.com/*
 *://*.leverjprecise.com/*
 *://*.leverjproceed.com/*
@@ -24047,6 +24056,7 @@
 *://*.mchtmlh1.com/*
 *://*.mckez.com/*
 *://*.mclonline.com/*
+*://*.mcoctnol.com/*
 *://*.mcoin.vip/*
 *://*.mcoinl.com/*
 *://*.mcoinvip.com/*
@@ -28453,6 +28463,7 @@
 *://*.samtradefx.com/*
 *://*.sandboxbit.com/*
 *://*.sandforex.com/*
+*://*.sands-gk.com/*
 *://*.sands-hk.net/*
 *://*.sands-nu.com/*
 *://*.sandscasino.top/*
@@ -28843,6 +28854,7 @@
 *://*.shibminer.fun/*
 *://*.shibo292.com/*
 *://*.shibo297.com/*
+*://*.shidod.com/*
 *://*.shield-mining.com/*
 *://*.shieldcloudmining.org/*
 *://*.shieldpayltd.co/*
@@ -29345,6 +29357,7 @@
 *://*.smt-shop-tw.com/*
 *://*.smtc8.com/*
 *://*.smyqpf.com/*
+*://*.sn-mall.com/*
 *://*.snailcc.site/*
 *://*.snailex.vip/*
 *://*.snapexforex.com/*
@@ -29422,6 +29435,7 @@
 *://*.solanal.cn/*
 *://*.solanas.info/*
 *://*.solanaso.cn/*
+*://*.solanaz.top/*
 *://*.solcloudmining.com/*
 *://*.soldeazy.co/*
 *://*.soldinainvest.com/*
@@ -30047,6 +30061,7 @@
 *://*.svfxs.com/*
 *://*.svglobals.com/*
 *://*.svhkg.top/*
+*://*.svipershop.com/*
 *://*.svj-568.com/*
 *://*.svj889.com/*
 *://*.svji188.com/*
@@ -32974,6 +32989,7 @@
 *://*.uspcoins.com/*
 *://*.ustec8.com/*
 *://*.usvaciu.com/*
+*://*.uswcxose.vip/*
 *://*.uswglobals.com/*
 *://*.uswinbit.com/*
 *://*.uswlimited.com/*
@@ -33526,6 +33542,7 @@
 *://*.wallvn.com/*
 *://*.walmartfx.com/*
 *://*.walmartglobalcms.com/*
+*://*.walmartshopgo.com/*
 *://*.walmartweb.net/*
 *://*.walmert.xyz/*
 *://*.walnart.net/*
