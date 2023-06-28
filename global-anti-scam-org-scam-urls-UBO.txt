@@ -1402,6 +1402,7 @@
 ||aiqtisad.com^$all
 ||aiquantumtrade.com^$all
 ||air666.homles.city^$all
+||aircarbon.exchange^$all
 ||aircargoexpinc.online^$all
 ||aircorex.org^$all
 ||airdropminepi.com^$all
@@ -2896,6 +2897,7 @@
 ||au-capitalfunds.com^$all
 ||au8tw.com^$all
 ||aucapitalfunds.com^$all
+||auchanshopping.com^$all
 ||auchelos.vip^$all
 ||aucoinfx.com^$all
 ||auctionsbidding.com^$all
@@ -5164,7 +5166,6 @@
 ||bitfine.xyz^$all
 ||bitfinecapitaltrade.com^$all
 ||bitfineex.xyz^$all
-||bitfinen.com^$all
 ||bitfinest.net^$all
 ||bitfinex-app.com^$all
 ||bitfinex-defi.com^$all
@@ -5890,6 +5891,7 @@
 ||bitoil-energy.com^$all
 ||bitok-cryptos.com^$all
 ||bitok.asia^$all
+||bitoke.cc^$all
 ||bitokhot.com^$all
 ||bitokmax.com^$all
 ||bitokxokx.com^$all
@@ -8602,6 +8604,7 @@
 ||cccoinnew.com^$all
 ||cccssscocto.online^$all
 ||cccssscocto.store^$all
+||ccfmarkets.com^$all
 ||ccfoxes.com^$all
 ||ccfoxs.vip^$all
 ||cchkam.com^$all
@@ -9970,6 +9973,7 @@
 ||coinexpro.vip^$all
 ||coinexprodefi.com^$all
 ||coinexprogn.com^$all
+||coinexs.xyz^$all
 ||coinexsa.com^$all
 ||coinexsimplexinvestment.com^$all
 ||coinexss.com^$all
@@ -10131,6 +10135,7 @@
 ||coiningbase.com^$all
 ||coininner.top^$all
 ||coinintbit.com^$all
+||coininthi.com^$all
 ||coininvestarena.com^$all
 ||coininvesthub.com^$all
 ||coininvestmentplan.com^$all
@@ -14581,6 +14586,7 @@
 ||e-tradefinancial.org^$all
 ||e-tradegrowthfx.com^$all
 ||e-tradeltd.com^$all
+||e-vastintel.com^$all
 ||e.ebcfinancetw.com^$all
 ||e.sg-ex.org^$all
 ||e02.wayteciyes.com^$all
@@ -18965,6 +18971,7 @@
 ||gbtc.vip^$all
 ||gbtc24.com^$all
 ||gbtcm0001.world^$all
+||gbts-ex.com^$all
 ||gbux365.com^$all
 ||gbxorg.com^$all
 ||gcap-forex.net^$all
@@ -19892,6 +19899,7 @@
 ||gominerx.com^$all
 ||gomining.biz^$all
 ||gomontecryptos8.com^$all
+||gonaket.com^$all
 ||gonsin.vip^$all
 ||goo.sgphomess.com^$all
 ||goodenergytrade.ltd^$all
@@ -20258,6 +20266,7 @@
 ||h5.bankcex.club^$all
 ||h5.bankcex.com.tw^$all
 ||h5.bankcex.me^$all
+||h5.baohengp2.com^$all
 ||h5.bcointd.com^$all
 ||h5.bi-fans.com^$all
 ||h5.bingiu.com^$all
@@ -21170,6 +21179,7 @@
 ||hotcoinproit.com^$all
 ||hotcoins.bio^$all
 ||hotcoins.biz^$all
+||hotcoins.dev^$all
 ||hotcoins.ink^$all
 ||hotcoins.org^$all
 ||hotcoins.shop^$all
@@ -23341,6 +23351,7 @@
 ||leverj.io^$all
 ||leverjdefi-concept.com^$all
 ||leverjdefi-top.com^$all
+||leverjens.shop^$all
 ||leverjobtain.com^$all
 ||leverjorg.com^$all
 ||leverjprecise.com^$all
@@ -24066,7 +24077,6 @@
 ||m.m168178.com^$all
 ||m.magic-lamp.io^$all
 ||m.max-exchange.org^$all
-||m.maxh.space^$all
 ||m.maxtpex.co^$all
 ||m.mca198.com^$all
 ||m.metaverseex.info^$all
@@ -30039,6 +30049,7 @@
 ||ssgsun.com^$all
 ||ssolutionteam.com^$all
 ||sspappfx.com^$all
+||sss.bitsguss.com^$all
 ||sss.bitsrose.com^$all
 ||sss.btartr.com^$all
 ||sss.naboxku.com^$all
@@ -30161,6 +30172,7 @@
 ||startradershub.com^$all
 ||startrading3.net^$all
 ||starwellex.com^$all
+||starwellex.xyz^$all
 ||starworld1.live^$all
 ||static.olymptrade.com^$all
 ||statictrading.net^$all
@@ -30732,6 +30744,7 @@
 ||taobao818888.com^$all
 ||taobao9231.vip^$all
 ||taoshopeei.com^$all
+||tapbit.com^$all
 ||tapbitex.com^$all
 ||tapbitkorea.net^$all
 ||tapcoin.info^$all
@@ -31566,6 +31579,7 @@
 ||trade.kijmoop.com^$all
 ||trade.lem-tw.com^$all
 ||trade.lon-coins.com^$all
+||trade.mkads.top^$all
 ||trade.poiads.com^$all
 ||trade.safecapinvest.pro^$all
 ||trade.slf-invest.com^$all
@@ -32147,6 +32161,7 @@
 ||trendcoin.co^$all
 ||trendcurency.com^$all
 ||trendforinternational.com^$all
+||trendgsd.com^$all
 ||trendmaxmining.com^$all
 ||trendmaxtraders.com^$all
 ||trendset-coin-option.com^$all
