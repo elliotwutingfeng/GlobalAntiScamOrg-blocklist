@@ -1395,6 +1395,7 @@
 *://*.aiqhf.co/*
 *://*.aiqtisad.com/*
 *://*.aiquantumtrade.com/*
+*://*.aircarbon.exchange/*
 *://*.aircargoexpinc.online/*
 *://*.aircorex.org/*
 *://*.airdropminepi.com/*
@@ -2711,6 +2712,7 @@
 *://*.au-capitalfunds.com/*
 *://*.au8tw.com/*
 *://*.aucapitalfunds.com/*
+*://*.auchanshopping.com/*
 *://*.auchelos.vip/*
 *://*.aucoinfx.com/*
 *://*.auctionsbidding.com/*
@@ -3161,6 +3163,7 @@
 *://*.bao88.net/*
 *://*.baocheng.live/*
 *://*.baodanxia.com/*
+*://*.baohengp2.com/*
 *://*.baohui9.com/*
 *://*.baojingbiz.com/*
 *://*.baolaizhengjuan.tw/*
@@ -5033,7 +5036,6 @@
 *://*.bitfine.xyz/*
 *://*.bitfinecapitaltrade.com/*
 *://*.bitfineex.xyz/*
-*://*.bitfinen.com/*
 *://*.bitfinest.net/*
 *://*.bitfinex-app.com/*
 *://*.bitfinex-defi.com/*
@@ -5775,6 +5777,7 @@
 *://*.bitoil-energy.com/*
 *://*.bitok-cryptos.com/*
 *://*.bitok.asia/*
+*://*.bitoke.cc/*
 *://*.bitokhot.com/*
 *://*.bitokmax.com/*
 *://*.bitokxokx.com/*
@@ -6216,6 +6219,7 @@
 *://*.bitsgap.vip/*
 *://*.bitsgat.com/*
 *://*.bitsghz.com/*
+*://*.bitsguss.com/*
 *://*.bitsh.xyz/*
 *://*.bitshan.com/*
 *://*.bitsheng.top/*
@@ -8612,6 +8616,7 @@
 *://*.cccoinnew.com/*
 *://*.cccssscocto.online/*
 *://*.cccssscocto.store/*
+*://*.ccfmarkets.com/*
 *://*.ccfoxes.com/*
 *://*.ccfoxs.vip/*
 *://*.cchkam.com/*
@@ -10015,6 +10020,7 @@
 *://*.coinexpro.vip/*
 *://*.coinexprodefi.com/*
 *://*.coinexprogn.com/*
+*://*.coinexs.xyz/*
 *://*.coinexsa.com/*
 *://*.coinexsimplexinvestment.com/*
 *://*.coinexss.com/*
@@ -10187,6 +10193,7 @@
 *://*.coiningbase.com/*
 *://*.coininner.top/*
 *://*.coinintbit.com/*
+*://*.coininthi.com/*
 *://*.coininvestarena.com/*
 *://*.coininvesthub.com/*
 *://*.coininvestmentplan.com/*
@@ -14469,6 +14476,7 @@
 *://*.e-tradefinancial.org/*
 *://*.e-tradegrowthfx.com/*
 *://*.e-tradeltd.com/*
+*://*.e-vastintel.com/*
 *://*.e0t0r.com/*
 *://*.e3eatw.bond/*
 *://*.e9btc.com/*
@@ -18988,6 +18996,7 @@
 *://*.gbtc.win/*
 *://*.gbtc24.com/*
 *://*.gbtcm0001.world/*
+*://*.gbts-ex.com/*
 *://*.gbux365.com/*
 *://*.gbxorg.com/*
 *://*.gcap-forex.net/*
@@ -19968,6 +19977,7 @@
 *://*.gomining.biz/*
 *://*.gomncyo.cn/*
 *://*.gomontecryptos8.com/*
+*://*.gonaket.com/*
 *://*.gonsin.vip/*
 *://*.goodenergytrade.ltd/*
 *://*.goodentrytraders.com/*
@@ -20984,6 +20994,7 @@
 *://*.hotcoinproit.com/*
 *://*.hotcoins.bio/*
 *://*.hotcoins.biz/*
+*://*.hotcoins.dev/*
 *://*.hotcoins.ink/*
 *://*.hotcoins.org/*
 *://*.hotcoins.shop/*
@@ -23354,6 +23365,7 @@
 *://*.leverjdefi-concept.com/*
 *://*.leverjdefi-top.com/*
 *://*.leverjens.live/*
+*://*.leverjens.shop/*
 *://*.leverjobtain.com/*
 *://*.leverjorg.com/*
 *://*.leverjprecise.com/*
@@ -24147,7 +24159,6 @@
 *://*.maxgainsbluefx.com/*
 *://*.maxgolden888.com/*
 *://*.maxgrowth-fx.com/*
-*://*.maxh.space/*
 *://*.maxibitltd.com/*
 *://*.maxifxcapitals.com/*
 *://*.maximatradingplatforms.net/*
@@ -25012,6 +25023,7 @@
 *://*.mixuemart.com/*
 *://*.mjfb89.com/*
 *://*.mjszmw.com/*
+*://*.mkads.top/*
 *://*.mkcapp.com/*
 *://*.mkcapps.com/*
 *://*.mkcoin.online/*
@@ -29975,6 +29987,7 @@
 *://*.startradershub.com/*
 *://*.startrading3.net/*
 *://*.starwellex.com/*
+*://*.starwellex.xyz/*
 *://*.starworld1.live/*
 *://*.statictrading.net/*
 *://*.statisticsfxtrade.com/*
@@ -30544,6 +30557,7 @@
 *://*.taobao818888.com/*
 *://*.taobao9231.vip/*
 *://*.taoshopeei.com/*
+*://*.tapbit.com/*
 *://*.tapbitex.com/*
 *://*.tapbitkorea.net/*
 *://*.tapcoin.info/*
@@ -31998,6 +32012,7 @@
 *://*.trendcoin.co/*
 *://*.trendcurency.com/*
 *://*.trendforinternational.com/*
+*://*.trendgsd.com/*
 *://*.trendmaxmining.com/*
 *://*.trendmaxtraders.com/*
 *://*.trends6.com/*
