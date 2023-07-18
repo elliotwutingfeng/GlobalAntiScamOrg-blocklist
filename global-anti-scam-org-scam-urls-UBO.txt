@@ -7173,6 +7173,7 @@
 ||bm-in.net^$all
 ||bm-in.site^$all
 ||bm-in.xyz^$all
+||bm54791.com^$all
 ||bma-nf.com^$all
 ||bma366.com^$all
 ||bmacoin.com^$all
@@ -9625,6 +9626,7 @@
 ||coinassettd.online^$all
 ||coinasx.com^$all
 ||coinatm.com.tw^$all
+||coinatpool.com^$all
 ||coinavatra.xyz^$all
 ||coinavatrapro.com^$all
 ||coinback.biz^$all
@@ -16460,6 +16462,7 @@
 ||euxtoken.com^$all
 ||ev-trade.com^$all
 ||ev2.indoloex.com^$all
+||ev3.ccfxopen.com^$all
 ||evacex.com^$all
 ||evantofx24.com^$all
 ||eve.dwshuoc.com^$all
@@ -24004,6 +24007,7 @@
 ||loboexprodefi.com^$all
 ||loboexpromax-defi.com^$all
 ||loboexpromaxdefi.com^$all
+||loboexz.vip^$all
 ||lobstr.co^$all
 ||localbitcoins.com^$all
 ||localbtcdeal.com^$all
@@ -30519,6 +30523,7 @@
 ||spotusdt.com^$all
 ||spp1688.metxwin.com^$all
 ||spp65.com^$all
+||spreadexfx.com^$all
 ||spreadexs.com^$all
 ||spreadextw.net^$all
 ||spreadpipsbullfx.com^$all
@@ -34507,6 +34512,7 @@
 ||vitbeecoin.com^$all
 ||vitcoin.pro^$all
 ||vitex111.top^$all
+||vitex222.top^$all
 ||vitolresourcesinvestment.org^$all
 ||vitotoken.com^$all
 ||vitovex.com^$all
@@ -35545,6 +35551,17 @@
 ||www-lfex.com^$all
 ||www-poloniex.com^$all
 ||www-ysb.com^$all
+||www.asaimarketltd.com^$all
+||www.carrofoumarts.shop^$all
+||www.coinsdbank.top^$all
+||www.dfi-moneyah.com^$all
+||www.gmarket-go.click^$all
+||www.myaid.top^$all
+||www.okxbiz.pro^$all
+||www.petsoasis.com^$all
+||www.staioiled.com^$all
+||www.szfcda.com^$all
+||www.zousdzx.com^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all
