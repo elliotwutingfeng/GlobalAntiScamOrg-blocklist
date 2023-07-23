@@ -1569,6 +1569,7 @@
 *://*.alienexchange.org/*
 *://*.aliexpress-shop.vip/*
 *://*.aliexpshool.vip/*
+*://*.alignedapp.life/*
 *://*.alixpabn.com/*
 *://*.aliyuncs.com/*
 *://*.alksg.com/*
@@ -1968,6 +1969,7 @@
 *://*.anding9.com/*
 *://*.andirocksinvestmentltd.com/*
 *://*.andreessens.com/*
+*://*.anevip.com/*
 *://*.anewwayoffriday.com/*
 *://*.anexfinance.com/*
 *://*.anexoinvestment.ltd/*
@@ -5528,6 +5530,7 @@
 *://*.bitkonanank.com/*
 *://*.bitkonanant.com/*
 *://*.bitkonanbes.com/*
+*://*.bitkonanbry.com/*
 *://*.bitkonancfx.com/*
 *://*.bitkonanery.com/*
 *://*.bitkonanian.com/*
@@ -9337,6 +9340,7 @@
 *://*.cmcwxgr.com/*
 *://*.cme-coins.com/*
 *://*.cme-forexs.com/*
+*://*.cme-groupex.com/*
 *://*.cme.tw/*
 *://*.cme110.com/*
 *://*.cme668.xyz/*
@@ -9399,6 +9403,7 @@
 *://*.cn-fxtis.com/*
 *://*.cn.com/*
 *://*.cn456999711627280534.app/*
+*://*.cnaacoignn.com/*
 *://*.cnanputfvbq.com/*
 *://*.cnaxi.info/*
 *://*.cnbaxas.vip/*
@@ -15360,6 +15365,7 @@
 *://*.encrypticbase.com/*
 *://*.encrypticverse.com/*
 *://*.encryptinvest.com/*
+*://*.encryption.bet/*
 *://*.encryptionacademy.com/*
 *://*.encryptionlayer.org/*
 *://*.encryptionstar.com/*
@@ -16296,6 +16302,7 @@
 *://*.ethrefund.com/*
 *://*.ethrefund.xyz/*
 *://*.ethreum.vip/*
+*://*.ethrunplus.com/*
 *://*.ethrunpromax.com/*
 *://*.ethsany.org/*
 *://*.ethseg.com/*
@@ -17194,6 +17201,7 @@
 *://*.feex.vip/*
 *://*.feexeexs.cc/*
 *://*.feexinfo.xyz/*
+*://*.feextop.top/*
 *://*.feffee.top/*
 *://*.feftfx.com/*
 *://*.fehqmall.com/*
@@ -18264,6 +18272,7 @@
 *://*.fuhuigold.com/*
 *://*.fuhwold.com/*
 *://*.fujibee777.com/*
+*://*.fujibullion.cc/*
 *://*.fujibullion.top/*
 *://*.fujitetrade.com/*
 *://*.fullerneiuo.com/*
@@ -23754,6 +23763,7 @@
 *://*.leiyupingce.cn/*
 *://*.lejerx.com/*
 *://*.lejupoint100.com/*
+*://*.lejupoint89.com/*
 *://*.lekd54.com/*
 *://*.lel-shopping.com/*
 *://*.lelong-shopping.com/*
@@ -23912,6 +23922,7 @@
 *://*.lido-defi.xyz/*
 *://*.lido-dex.top/*
 *://*.lido-dex.xyz/*
+*://*.lidoanq.com/*
 *://*.lidomax-defiplus.com/*
 *://*.lidomax-defipro.com/*
 *://*.lidoprodefi.xyz/*
@@ -26300,6 +26311,7 @@
 *://*.newerapad.space/*
 *://*.newex.pw/*
 *://*.newex.top/*
+*://*.newexbtc.com/*
 *://*.newexglobal.com/*
 *://*.newexplus.xyz/*
 *://*.newfujing.com/*
@@ -30362,6 +30374,7 @@
 *://*.solymafx-trades.com/*
 *://*.sonancebank.com/*
 *://*.soniccloud.tech/*
+*://*.sonnein.com/*
 *://*.sophiecap.tw/*
 *://*.sophietrading.com/*
 *://*.soprasteriadcweb.com/*
@@ -34604,6 +34617,7 @@
 *://*.wallstreettradingsignals.com/*
 *://*.wallstreetvfx.com/*
 *://*.wallvn.com/*
+*://*.walmant.club/*
 *://*.walmant.org/*
 *://*.walmant.top/*
 *://*.walmartfx.com/*
@@ -35750,6 +35764,7 @@
 *://*.yieldfarm.pro/*
 *://*.yieldfarming-marketplus.com/*
 *://*.yieldfarmingmax.com/*
+*://*.yieldfarmingp.com/*
 *://*.yig8866.com/*
 *://*.yigdjus.top/*
 *://*.yih11.xyz/*
@@ -35939,6 +35954,7 @@
 *://*.yv9yf.top/*
 *://*.yvlavm.vip/*
 *://*.ywib1.com/*
+*://*.yx11.com/*
 *://*.yxbdghsn.com/*
 *://*.yxshop99.com/*
 *://*.yxwcua.shop/*
@@ -36125,6 +36141,7 @@
 *://*.zg40.cn/*
 *://*.zgcoin.net/*
 *://*.zgfzqh.com/*
+*://*.zglxb.com/*
 *://*.zh-holding.com/*
 *://*.zh10.vip/*
 *://*.zh3459.cyou/*

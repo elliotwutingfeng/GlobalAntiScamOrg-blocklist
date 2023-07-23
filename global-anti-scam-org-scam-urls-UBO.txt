@@ -1577,6 +1577,7 @@
 ||alicryptotrades.com^$all
 ||alienexchange.org^$all
 ||aliexpress-shop.vip^$all
+||alignedapp.life^$all
 ||alixpabn.com^$all
 ||alksg.com^$all
 ||allaboutfxbroker.com^$all
@@ -1969,6 +1970,7 @@
 ||aner.platforms.life^$all
 ||aner.platforms.world^$all
 ||anerica.merrilllynch1914.vip^$all
+||anevip.com^$all
 ||anewfujing.newfujing.com^$all
 ||anewwayoffriday.com^$all
 ||anexfinance.com^$all
@@ -5666,6 +5668,7 @@
 ||bitkonanank.com^$all
 ||bitkonanant.com^$all
 ||bitkonanbes.com^$all
+||bitkonanbry.com^$all
 ||bitkonancfx.com^$all
 ||bitkonanery.com^$all
 ||bitkonanian.com^$all
@@ -9337,6 +9340,7 @@
 ||cmcwxgr.com^$all
 ||cme-coins.com^$all
 ||cme-forexs.com^$all
+||cme-groupex.com^$all
 ||cme.tw^$all
 ||cme110.com^$all
 ||cme668.xyz^$all
@@ -15473,6 +15477,7 @@
 ||encrypticbase.com^$all
 ||encrypticverse.com^$all
 ||encryptinvest.com^$all
+||encryption.bet^$all
 ||encryptionacademy.com^$all
 ||encryptionlayer.org^$all
 ||encryptionstar.com^$all
@@ -16388,6 +16393,7 @@
 ||ethrefund.com^$all
 ||ethrefund.xyz^$all
 ||ethreum.vip^$all
+||ethrunplus.com^$all
 ||ethrunpromax.com^$all
 ||ethsany.org^$all
 ||ethseg.com^$all
@@ -17257,6 +17263,7 @@
 ||feex.vip^$all
 ||feexeexs.cc^$all
 ||feexinfo.xyz^$all
+||feextop.top^$all
 ||fehqmall.com^$all
 ||fei-xiang9.com^$all
 ||fei.1613309.com^$all
@@ -18285,6 +18292,7 @@
 ||fuhuimkt.financesnew.online^$all
 ||fuhuimkt.financesnew.site^$all
 ||fuhwold.com^$all
+||fujibullion.cc^$all
 ||fujibullion.top^$all
 ||fullerneiuo.com^$all
 ||fullersds.com^$all
@@ -23727,6 +23735,7 @@
 ||leitianf.twletian.xyz^$all
 ||lejerx.com^$all
 ||lejupoint100.com^$all
+||lejupoint89.com^$all
 ||lekd54.com^$all
 ||lel-shopping.com^$all
 ||lelong-shopping.com^$all
@@ -23863,6 +23872,7 @@
 ||lido-defi.xyz^$all
 ||lido-dex.top^$all
 ||lido-dex.xyz^$all
+||lidoanq.com^$all
 ||lidomax-defiplus.com^$all
 ||lidomax-defipro.com^$all
 ||lidoprodefi.xyz^$all
@@ -30580,6 +30590,7 @@
 ||solymafx-trades.com^$all
 ||sonancebank.com^$all
 ||soniccloud.tech^$all
+||sonnein.com^$all
 ||sophietrading.com^$all
 ||soprasteriadcweb.com^$all
 ||sosy8.com^$all
@@ -31511,6 +31522,7 @@
 ||tbw918.com^$all
 ||tc.acsfx.cc^$all
 ||tc88.net^$all
+||tcaa.cnaacoignn.com^$all
 ||tcaa.coinatoneion.com^$all
 ||tcacce.com^$all
 ||tcadgreats.com^$all
@@ -33297,7 +33309,6 @@
 ||tw2.fidelity-twn.top^$all
 ||tw2.ic-prime.co^$all
 ||tw2.poi72.com^$all
-||tw21.shopckk.com^$all
 ||tw25.shopjjj.com^$all
 ||tw26.shopssk.com^$all
 ||tw279.com^$all
@@ -34910,6 +34921,7 @@
 ||wallstreettradingsignals.com^$all
 ||wallstreetvfx.com^$all
 ||wallvn.com^$all
+||walmant.club^$all
 ||walmant.org^$all
 ||walmant.top^$all
 ||walmartfx.com^$all
@@ -35267,6 +35279,7 @@
 ||web66.twjumper.net^$all
 ||web6664.xyz^$all
 ||weba.kvbdg.vip^$all
+||webapp.zglxb.com^$all
 ||webcoinmate.com^$all
 ||webcoinsolutions.com^$all
 ||webdapps-connect.org^$all
@@ -35768,6 +35781,7 @@
 ||wyysm.com^$all
 ||wz.excrypto.top^$all
 ||wz.iui30.com^$all
+||wz.newexbtc.com^$all
 ||wzaxx3.wekcit.com^$all
 ||wzgz2.wexfc.com^$all
 ||wzmgvvrszyvwcpub.com^$all
@@ -36158,6 +36172,7 @@
 ||yieldfarm.pro^$all
 ||yieldfarming-marketplus.com^$all
 ||yieldfarmingmax.com^$all
+||yieldfarmingp.com^$all
 ||yig8866.com^$all
 ||yigdjus.top^$all
 ||yih11.xyz^$all
@@ -36322,6 +36337,7 @@
 ||yw.rlnsbfl.cn^$all
 ||yw.wyhdkb.cn^$all
 ||ywib1.com^$all
+||yx11.com^$all
 ||yxbdghsn.com^$all
 ||yy.js-czhb.com^$all
 ||yy.sscny089551.vip^$all
