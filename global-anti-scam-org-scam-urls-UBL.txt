@@ -1521,6 +1521,7 @@
 *://*.alctgi.com/*
 *://*.alcvip.com/*
 *://*.aldomcapital.com/*
+*://*.ale1688.com/*
 *://*.alephfx.com/*
 *://*.alexacryptofx.com/*
 *://*.alexincoin.com/*
@@ -9397,6 +9398,7 @@
 *://*.cmsbita.com/*
 *://*.cmtt8.com/*
 *://*.cmuspro.com/*
+*://*.cmuspros.com/*
 *://*.cmvtradecoins.com/*
 *://*.cmw2021.com/*
 *://*.cmxtraders.online/*
@@ -10618,6 +10620,7 @@
 *://*.coinpab.com/*
 *://*.coinpag.pro/*
 *://*.coinpalfx.com/*
+*://*.coinpalm.com/*
 *://*.coinpalsmining.com/*
 *://*.coinpalvalidation.com/*
 *://*.coinpandaexchange.net/*
@@ -17272,6 +17275,7 @@
 *://*.ffusdt.com/*
 *://*.ffuture9.com/*
 *://*.ffxc.net/*
+*://*.fg5000.com/*
 *://*.fgcp886.vip/*
 *://*.fglobalfx.com/*
 *://*.fgltrade.com/*
@@ -20742,6 +20746,7 @@
 *://*.happy-ecommercetw.com/*
 *://*.happybuyer.live/*
 *://*.happydollar.top/*
+*://*.happygo.life/*
 *://*.happyonline-go.com/*
 *://*.happytrade.asia/*
 *://*.happytrading.pro/*
@@ -21773,6 +21778,7 @@
 *://*.icmsfxs.com/*
 *://*.icmsifx.com/*
 *://*.icobit.biz/*
+*://*.icocj.com/*
 *://*.icocoinlisting.com/*
 *://*.icodelivery.com/*
 *://*.icoin-bittrading.online/*
@@ -21812,6 +21818,7 @@
 *://*.idealwaybank.com/*
 *://*.ideatrading365.com/*
 *://*.idencotrade.com/*
+*://*.idex-crypto.com/*
 *://*.idex.pw/*
 *://*.idex.store/*
 *://*.idexsvip.com/*
@@ -25145,6 +25152,7 @@
 *://*.mginvestmentstw.net/*
 *://*.mgjt2008.top/*
 *://*.mgjuaw.com/*
+*://*.mgm000006.com/*
 *://*.mgm1.pro/*
 *://*.mgm188.cc/*
 *://*.mgm2058.com.cn/*
@@ -29556,6 +29564,7 @@
 *://*.securetradedeal.com/*
 *://*.securities2022.club/*
 *://*.securities2022.com/*
+*://*.securityplatf.com/*
 *://*.securityscoin.com/*
 *://*.securiyyag82.com/*
 *://*.seekfwb.com/*
@@ -34454,6 +34463,7 @@
 *://*.vmrkqjnssjdhb.com/*
 *://*.vmsdptrade.com/*
 *://*.vn888top.com/*
+*://*.vnb669.com/*
 *://*.vnbnbsbaoioi.com/*
 *://*.vneti.vip/*
 *://*.vnmax.net/*
@@ -34861,6 +34871,8 @@
 *://*.welcome-tw.com/*
 *://*.welcomeaeon.com/*
 *://*.welcomeinvesting.online/*
+*://*.welfare168.online/*
+*://*.welfarebetter.shop/*
 *://*.welfarefx.online/*
 *://*.wellcion.com/*
 *://*.wellfargo.com/*
@@ -35659,6 +35671,7 @@
 *://*.yamatoonline.com/*
 *://*.yangde9.net/*
 *://*.yangmatou.us/*
+*://*.yanma888.com/*
 *://*.yanseapps.com/*
 *://*.yao988.com/*
 *://*.yapyh.com/*

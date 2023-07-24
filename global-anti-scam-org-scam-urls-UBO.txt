@@ -1531,6 +1531,7 @@
 ||alctgi.com^$all
 ||alcvip.com^$all
 ||aldomcapital.com^$all
+||ale1688.com^$all
 ||alephfx.com^$all
 ||alexacryptofx.com^$all
 ||alexincoin.com^$all
@@ -8866,6 +8867,7 @@
 ||cex-trade.tech^$all
 ||cex.io^$all
 ||cexapp.net^$all
+||cexapp.yanma888.com^$all
 ||cexchangemarket.com^$all
 ||cexcoin.cc^$all
 ||cexcoin.net^$all
@@ -9387,6 +9389,7 @@
 ||cmmcisecurities.com^$all
 ||cmsbita.com^$all
 ||cmuspro.com^$all
+||cmuspros.com^$all
 ||cmvtradecoins.com^$all
 ||cmw2021.com^$all
 ||cmxtraders.online^$all
@@ -10561,6 +10564,7 @@
 ||coinpab.com^$all
 ||coinpag.pro^$all
 ||coinpalfx.com^$all
+||coinpalm.com^$all
 ||coinpalsmining.com^$all
 ||coinpalvalidation.com^$all
 ||coinpandaexchange.net^$all
@@ -17335,6 +17339,7 @@
 ||fg.mkads.top^$all
 ||fg.tncn.club^$all
 ||fg.tncned.info^$all
+||fg5000.com^$all
 ||fgcp886.vip^$all
 ||fglobalfx.com^$all
 ||fgltrade.com^$all
@@ -20990,6 +20995,7 @@
 ||happy-ecommercetw.com^$all
 ||happybuyer.live^$all
 ||happydollar.top^$all
+||happygo.life^$all
 ||happyonline-go.com^$all
 ||happytrade.asia^$all
 ||happytrading.pro^$all
@@ -21926,6 +21932,7 @@
 ||icmsfxs.com^$all
 ||icmsifx.com^$all
 ||icobit.biz^$all
+||icocj.com^$all
 ||icocoinlisting.com^$all
 ||icodelivery.com^$all
 ||icoin-bittrading.online^$all
@@ -21958,6 +21965,7 @@
 ||idealwaybank.com^$all
 ||ideatrading365.com^$all
 ||idencotrade.com^$all
+||idex-crypto.com^$all
 ||idex.pw^$all
 ||idex.store^$all
 ||idexsvip.com^$all
@@ -24659,6 +24667,7 @@
 ||m.seastarex.com^$all
 ||m.seayw.cn^$all
 ||m.sebet.net^$all
+||m.securityplatf.com^$all
 ||m.securityscoin.com^$all
 ||m.sf68.top^$all
 ||m.sfgj668.top^$all
@@ -25558,6 +25567,7 @@
 ||mgm.168s.live^$all
 ||mgm.gzsybj.cn^$all
 ||mgm.hk58.xyz^$all
+||mgm000006.com^$all
 ||mgm1.pro^$all
 ||mgm60660.com^$all
 ||mgmfmac.online^$all
@@ -34731,6 +34741,7 @@
 ||vmsdptrade.com^$all
 ||vn.jho168.com^$all
 ||vn888top.com^$all
+||vnb669.com^$all
 ||vnbnbsbaoioi.com^$all
 ||vneti.vip^$all
 ||vnmax.net^$all
@@ -35344,6 +35355,8 @@
 ||welcome.zebaonline.com^$all
 ||welcomeaeon.com^$all
 ||welcomeinvesting.online^$all
+||welfare168.online^$all
+||welfarebetter.shop^$all
 ||welfarefx.online^$all
 ||wellcion.com^$all
 ||wellfargo.com^$all
