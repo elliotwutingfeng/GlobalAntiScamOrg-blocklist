@@ -10598,6 +10598,7 @@
 *://*.coinone.website/*
 *://*.coinone2one.com/*
 *://*.coinone365.com/*
+*://*.coinone66.com/*
 *://*.coinonebit.com/*
 *://*.coinonee.com/*
 *://*.coinonels.com/*
@@ -16942,6 +16943,7 @@
 *://*.fa3mxiuw.com/*
 *://*.fa88b.com/*
 *://*.fabcons.cn/*
+*://*.fabit-ex.com/*
 *://*.face-forex.com/*
 *://*.facebookbit1.com/*
 *://*.faceokw.cc/*
@@ -19722,6 +19724,7 @@
 *://*.global-minersfx.com/*
 *://*.global-mining.ltd/*
 *://*.global-nftcoin.com/*
+*://*.global-shop-wd.com/*
 *://*.global-shops.net/*
 *://*.global-trademax.net/*
 *://*.global-traders.ltd/*
@@ -21356,6 +21359,7 @@
 *://*.hotcoin.shop/*
 *://*.hotcoinglobal.club/*
 *://*.hotcoinin.com/*
+*://*.hotcoinjk.com/*
 *://*.hotcoinpro.com/*
 *://*.hotcoinpro.net/*
 *://*.hotcoinpro.vip/*
@@ -27172,6 +27176,7 @@
 *://*.optimismmaxrun.com/*
 *://*.optimismrunpro.com/*
 *://*.optimismrunpromax.com/*
+*://*.optimismwin.com/*
 *://*.optimistradex.com/*
 *://*.optimizefunds.cc/*
 *://*.optimizefunds.co/*
@@ -29436,6 +29441,7 @@
 *://*.sccdinfo.com/*
 *://*.scdgs.com/*
 *://*.scefx.com/*
+*://*.scex.pro/*
 *://*.scftrading.com/*
 *://*.schlittinvestment.com/*
 *://*.schoolbtctw.net/*
@@ -29614,6 +29620,7 @@
 *://*.seveninvtradings.com/*
 *://*.sevensignalstraders.com/*
 *://*.seventrad.com/*
+*://*.sevezxxd.com/*
 *://*.sf68.top/*
 *://*.sf889.net/*
 *://*.sfatcf.com/*
@@ -30895,6 +30902,7 @@
 *://*.sunrisebit.com/*
 *://*.sunrisetrade.ltd/*
 *://*.sunshinecoinex.com/*
+*://*.sunshinefarm.vip/*
 *://*.suntimefunds.com/*
 *://*.suntofx.digital/*
 *://*.suntoncapital.com/*
@@ -31387,6 +31395,7 @@
 *://*.telthoncrypt.com/*
 *://*.templepremium-trade.net/*
 *://*.temujp.com/*
+*://*.temupaid.com/*
 *://*.tencentcrypto.com/*
 *://*.tencentwm.com/*
 *://*.tensbits.com/*
@@ -31901,6 +31910,7 @@
 *://*.tnmskosme.one/*
 *://*.tnnnkasndq.com/*
 *://*.tnsiu3c.com/*
+*://*.tnteth.cn/*
 *://*.tnze.asia/*
 *://*.tnze.fun/*
 *://*.tnze888.com/*
@@ -35517,6 +35527,7 @@
 *://*.xmzfxss.com/*
 *://*.xmznzk.com/*
 *://*.xn--8prs50h.xn--fiqs8s/*
+*://*.xn--9kq958cykhn2a.com/*
 *://*.xn--trderjoexyz-86a.app/*
 *://*.xnajznbdjm.com/*
 *://*.xnetcryptospace.com/*
@@ -35687,6 +35698,7 @@
 *://*.yb17878.com/*
 *://*.ybgap.vip/*
 *://*.ybgj8866.com/*
+*://*.ybiaktsxb.com/*
 *://*.ybniuo.com/*
 *://*.ybordx.click/*
 *://*.ybtc888.com/*

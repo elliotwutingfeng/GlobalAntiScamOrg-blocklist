@@ -7604,6 +7604,7 @@
 ||bsep.gmo.com.tw^$all
 ||bsfxexp.com^$all
 ||bsjkdlk.com^$all
+||bsm.sevezxxd.com^$all
 ||bsn19.com^$all
 ||bsn56.com^$all
 ||bstdoup.qian.kbai.tw^$all
@@ -19666,6 +19667,7 @@
 ||global-minersfx.com^$all
 ||global-mining.ltd^$all
 ||global-nftcoin.com^$all
+||global-shop-wd.com^$all
 ||global-shops.net^$all
 ||global-traders.ltd^$all
 ||global-trading.live^$all
@@ -29726,6 +29728,7 @@
 ||scbstd.com^$all
 ||sccdinfo.com^$all
 ||scdgs.com^$all
+||scex.pro^$all
 ||scftrading.com^$all
 ||schlittinvestment.com^$all
 ||schoolbtctw.net^$all
@@ -32093,6 +32096,7 @@
 ||tnemsnhhxytw.com^$all
 ||tnmskosme.one^$all
 ||tnnnkasndq.com^$all
+||tnteth.cn^$all
 ||tnze.fun^$all
 ||tnze10.tnze.asia^$all
 ||tnze49.tnze.asia^$all
@@ -35763,6 +35767,14 @@
 ||www-lfex.com^$all
 ||www-poloniex.com^$all
 ||www-ysb.com^$all
+||www.coinone66.com^$all
+||www.fabit-ex.com^$all
+||www.hotcoinjk.com^$all
+||www.optimismwin.com^$all
+||www.sunshinefarm.vip^$all
+||www.temupaid.com^$all
+||www.xn--9kq958cykhn2a.com^$all
+||www.ybiaktsxb.com^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all
