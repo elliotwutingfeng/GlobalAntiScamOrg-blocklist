@@ -8088,6 +8088,7 @@
 *://*.bullinvests.com/*
 *://*.bullinvestzone.com/*
 *://*.bullinvestzones.com/*
+*://*.bullish-dot.co/*
 *://*.bullishautotrade.com/*
 *://*.bullishbitmarkets.com/*
 *://*.bullishcmarketsnet.com/*
@@ -9398,6 +9399,7 @@
 *://*.cmecoins.top/*
 *://*.cmecoins.website/*
 *://*.cmecryptopm.com/*
+*://*.cmefaca.com/*
 *://*.cmegap.vip/*
 *://*.cmegos.vip/*
 *://*.cmegro.top/*
@@ -10125,6 +10127,7 @@
 *://*.coindex-investment.com/*
 *://*.coindex-pro.com/*
 *://*.coindex.icu/*
+*://*.coindex.ink/*
 *://*.coindex.shop/*
 *://*.coindex.ws/*
 *://*.coindexbit.com/*
@@ -16327,7 +16330,6 @@
 *://*.ethminer-gas.com/*
 *://*.ethminer-gmt.com/*
 *://*.ethminer-ltc.com/*
-*://*.ethminer-magic.com/*
 *://*.ethminer-mining.com/*
 *://*.ethminer-mining.net/*
 *://*.ethminer-sand.com/*
@@ -20386,6 +20388,7 @@
 *://*.goldybasecoin.com/*
 *://*.gomarketex.com/*
 *://*.gomarketfxol.com/*
+*://*.gomarkets.mu/*
 *://*.gomarketshk.com/*
 *://*.gomarketsprofx.net/*
 *://*.gomarketstw.store/*
@@ -20923,6 +20926,7 @@
 *://*.hdasset.co/*
 *://*.hdcryptosk.com/*
 *://*.hdex.social/*
+*://*.hdex.store/*
 *://*.hdex.website/*
 *://*.hdfxs.com/*
 *://*.hdgexvip.com/*
@@ -21480,6 +21484,7 @@
 *://*.hourfx.net/*
 *://*.hourlycryptoprofits.com/*
 *://*.house-of-btc.com/*
+*://*.house889.com/*
 *://*.houseethereum.com/*
 *://*.how2.trade/*
 *://*.howcrypto.org/*
@@ -23335,6 +23340,7 @@
 *://*.kixbit.net/*
 *://*.kj20.top/*
 *://*.kjcoinliu02.top/*
+*://*.kjcoinliu05.top/*
 *://*.kjcoinwu06.top/*
 *://*.kjcoinwu08.top/*
 *://*.kjerkjef.club/*
@@ -23521,6 +23527,7 @@
 *://*.krasnysen.com/*
 *://*.kravew.com/*
 *://*.krcgoldcoin.com/*
+*://*.krcoin.cc/*
 *://*.krerf.top/*
 *://*.krestrade.com/*
 *://*.krimitforex.com/*
@@ -24541,6 +24548,7 @@
 *://*.maersk-onlineshop.com/*
 *://*.magcryptox.online/*
 *://*.magic-lamp.io/*
+*://*.magic.com/*
 *://*.magiccoin.vip/*
 *://*.magneticmetatrade.com/*
 *://*.magnificent-traders.com/*
@@ -25088,6 +25096,8 @@
 *://*.metacoinaxis.com/*
 *://*.metaconnecttrader.com/*
 *://*.metacoremax.club/*
+*://*.metacoremax.com/*
+*://*.metacoremax.us/*
 *://*.metacoretrade.com/*
 *://*.metacryptoera.com/*
 *://*.metacryptoswap.ai/*
@@ -29998,6 +30008,7 @@
 *://*.shoppingvip1.com/*
 *://*.shoppme.skin/*
 *://*.shoppraeneiy.shop/*
+*://*.shopprfh.shop/*
 *://*.shoppro.pro/*
 *://*.shopptw.com/*
 *://*.shoppusuiwusmo.shop/*
@@ -35688,6 +35699,7 @@
 *://*.xm-marketsfx.com/*
 *://*.xm-tradesfx.com/*
 *://*.xm.cc/*
+*://*.xm388.life/*
 *://*.xm388.shop/*
 *://*.xm888.com/*
 *://*.xm90.vip/*
