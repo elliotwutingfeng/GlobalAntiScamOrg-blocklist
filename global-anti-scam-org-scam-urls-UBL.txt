@@ -570,6 +570,7 @@
 *://*.77711.eu/*
 *://*.7773771.com/*
 *://*.7777824.com/*
+*://*.777aoya.com/*
 *://*.777cardgames.net/*
 *://*.777xpj.vip/*
 *://*.77coins.com/*
@@ -2541,6 +2542,7 @@
 *://*.asia-finance.online/*
 *://*.asia-greenltd.com/*
 *://*.asia-greenltdss.com/*
+*://*.asia-net.pro/*
 *://*.asia-okx.com/*
 *://*.asia383.com/*
 *://*.asia5fx.com/*
@@ -2782,6 +2784,7 @@
 *://*.au-capitalfunds.com/*
 *://*.au8tw.com/*
 *://*.aucapitalfunds.com/*
+*://*.auchanauntwds.com/*
 *://*.auchanshopping.com/*
 *://*.auchelos.vip/*
 *://*.aucoinfx.com/*
@@ -3395,6 +3398,7 @@
 *://*.bcminer.org/*
 *://*.bcms.vip/*
 *://*.bcogas.vip/*
+*://*.bcoin999.com/*
 *://*.bcoinjp.com/*
 *://*.bcoinse.top/*
 *://*.bcoinse.xyz/*
@@ -7508,6 +7512,7 @@
 *://*.brocktw.com/*
 *://*.brodoxcoin.com/*
 *://*.broex.company/*
+*://*.brokeagetrade.net/*
 *://*.broker-auto.com.au/*
 *://*.broker-fxtrade.com/*
 *://*.broker-miners.ltd/*
@@ -8092,6 +8097,7 @@
 *://*.bullishautotrade.com/*
 *://*.bullishbitmarkets.com/*
 *://*.bullishcmarketsnet.com/*
+*://*.bullishdot.com/*
 *://*.bullishfxm.com/*
 *://*.bullishswap.finance/*
 *://*.bullishtradepro.com/*
@@ -10116,6 +10122,7 @@
 *://*.coindel-usdt.com/*
 *://*.coindelhkpd.info/*
 *://*.coindeno.com/*
+*://*.coindesk.ws/*
 *://*.coindeskex.com/*
 *://*.coindeskex.org/*
 *://*.coindeskex8.com/*
@@ -19211,6 +19218,7 @@
 *://*.ga7cryptotrades.com/*
 *://*.gaanbc.com/*
 *://*.gaanvc.com/*
+*://*.gacbtc.com/*
 *://*.gacllo.com/*
 *://*.gadrysbgv.com/*
 *://*.gaeex.com/*
@@ -19596,6 +19604,7 @@
 *://*.gfr-traders.com/*
 *://*.gfs-trading.com/*
 *://*.gfsle.com/*
+*://*.gfsle.top/*
 *://*.gft-ma.com/*
 *://*.gftchain.org/*
 *://*.gftma.com/*
@@ -22006,6 +22015,7 @@
 *://*.igmintrade.com/*
 *://*.ignitersafemining.com/*
 *://*.igo-town.com/*
+*://*.igold1888.com/*
 *://*.igomarket.net/*
 *://*.igomarketing.net/*
 *://*.igomarkets.net/*
@@ -22093,6 +22103,7 @@
 *://*.imq3vuml.com/*
 *://*.imteif.com/*
 *://*.imtoekn-tw.com/*
+*://*.imtoekns-tw.com/*
 *://*.imtoken-usdt.life/*
 *://*.imtoken-xx.com/*
 *://*.imtoken.actor/*
@@ -22125,6 +22136,7 @@
 *://*.inceptial.online/*
 *://*.inceptiontrade.com/*
 *://*.incetial.com/*
+*://*.inchoishop.com/*
 *://*.inchoishoping.com/*
 *://*.incm-markets.com/*
 *://*.incom-miners.ltd/*
@@ -22472,6 +22484,7 @@
 *://*.iq-option.com/*
 *://*.iqbitprime.com/*
 *://*.iqbitprimes.com/*
+*://*.iqbitprimes.net/*
 *://*.iqbroker.com/*
 *://*.iqbrokersfx.com/*
 *://*.iqcinfor.com/*
@@ -24110,6 +24123,7 @@
 *://*.linexfxsignals.com/*
 *://*.linforbmining.ltd/*
 *://*.linfoxinvestment.org/*
+*://*.linkaeci.vip/*
 *://*.linkchain-copytrading.com/*
 *://*.linkcryptoearn.com/*
 *://*.linkedar.com/*
@@ -26853,6 +26867,7 @@
 *://*.nysefy.top/*
 *://*.nyseliffevip.com/*
 *://*.nysells.com/*
+*://*.nysena.com/*
 *://*.nysencc.com/*
 *://*.nyseplatform.com/*
 *://*.nyseplu.com/*
@@ -27126,6 +27141,7 @@
 *://*.okxpro.online/*
 *://*.okxrelex.com/*
 *://*.okxusx.com/*
+*://*.okxvds.com/*
 *://*.okxvew.com/*
 *://*.okxxvip.com/*
 *://*.olabahis385.com/*
@@ -29764,6 +29780,7 @@
 *://*.serccapital.cc/*
 *://*.serccapital.com/*
 *://*.serenitylines.com/*
+*://*.serhg.com/*
 *://*.serial-trading.com/*
 *://*.serveatrade.com/*
 *://*.ses-global.club/*
@@ -29880,6 +29897,7 @@
 *://*.shbsfinance.com/*
 *://*.shbslkjjnvlsdjkjsdjdapp.com/*
 *://*.shdhfjakshd.com/*
+*://*.shechipin.tw/*
 *://*.sheeld-8.com/*
 *://*.sheeldmarket1.com/*
 *://*.sheer-pro.com/*
@@ -31570,6 +31588,7 @@
 *://*.temujp.com/*
 *://*.temupaid.com/*
 *://*.tencentcrypto.com/*
+*://*.tencentcs.com/*
 *://*.tencentwm.com/*
 *://*.tensbits.com/*
 *://*.tentronmining.net/*
@@ -31822,6 +31841,7 @@
 *://*.theglobemining.com/*
 *://*.thegoldenminer.com/*
 *://*.thegoodd.com/*
+*://*.thehackerspro.com/*
 *://*.thehouseofbitcoin.net/*
 *://*.thehouseofbitcoins.net/*
 *://*.thehqgi.com/*
@@ -33047,6 +33067,7 @@
 *://*.trust-trade.biz/*
 *://*.trust-usdt.vip/*
 *://*.trust-venture.com/*
+*://*.trust-wallext.xyz/*
 *://*.trust226.com/*
 *://*.trust266.com/*
 *://*.trust2wallet.xyz/*
@@ -34450,6 +34471,7 @@
 *://*.vestatradingpro.com/*
 *://*.vestercoin.com/*
 *://*.vestigecoin.tech/*
+*://*.vestimon.com/*
 *://*.vestleglobal.com/*
 *://*.vestleprbil.com/*
 *://*.vestycoin.com/*
@@ -34728,6 +34750,7 @@
 *://*.vpp777.net/*
 *://*.vpsinvestmentgrow.com/*
 *://*.vr1688.net/*
+*://*.vrcoin.art/*
 *://*.vrijqhrqwne.com/*
 *://*.vrkaadawbs.com/*
 *://*.vrnbsnszcw.com/*
@@ -36299,6 +36322,8 @@
 *://*.zdex.store/*
 *://*.zdsyy.com/*
 *://*.ze28s.com/*
+*://*.zealcapitalfx.com/*
+*://*.zealcapitalfx.vip/*
 *://*.zealglobalcoin.com/*
 *://*.zealmarketfx.com/*
 *://*.zealminers-trade.com/*

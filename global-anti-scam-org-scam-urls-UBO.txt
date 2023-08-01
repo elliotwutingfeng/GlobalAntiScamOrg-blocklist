@@ -554,6 +554,7 @@
 ||76881j.xyz^$all
 ||77207142.only-ind.com^$all
 ||7777824.com^$all
+||777aoya.com^$all
 ||777cardgames.net^$all
 ||777vip.mexa-inv.one^$all
 ||77coins.com^$all
@@ -2338,6 +2339,7 @@
 ||app.futurecex.com^$all
 ||app.fvhurhuquhe.com^$all
 ||app.fvwhkjaijd.com^$all
+||app.gacbtc.com^$all
 ||app.galaxy-quantification.com^$all
 ||app.gbjtnnabhof.com^$all
 ||app.gbtc.win^$all
@@ -2740,6 +2742,7 @@
 ||asia-finance.online^$all
 ||asia-greenltd.com^$all
 ||asia-greenltdss.com^$all
+||asia-net.pro^$all
 ||asia.etfuneoro.com^$all
 ||asia.etliforo.com^$all
 ||asia.exneschanges.com^$all
@@ -2994,6 +2997,7 @@
 ||au-capitalfunds.com^$all
 ||au8tw.com^$all
 ||aucapitalfunds.com^$all
+||auchanauntwds.com^$all
 ||auchanshopping.com^$all
 ||auchelos.vip^$all
 ||aucoinfx.com^$all
@@ -3597,6 +3601,7 @@
 ||bcminer.org^$all
 ||bcms.vip^$all
 ||bcogas.vip^$all
+||bcoin999.com^$all
 ||bcoinjp.com^$all
 ||bcoinse.top^$all
 ||bcoinse.xyz^$all
@@ -7584,6 +7589,7 @@
 ||broann.net^$all
 ||brodoxcoin.com^$all
 ||broex.company^$all
+||brokeagetrade.net^$all
 ||broker-auto.com.au^$all
 ||broker-fxtrade.com^$all
 ||broker-miners.ltd^$all
@@ -8144,6 +8150,7 @@
 ||bullishautotrade.com^$all
 ||bullishbitmarkets.com^$all
 ||bullishcmarketsnet.com^$all
+||bullishdot.com^$all
 ||bullishfxm.com^$all
 ||bullishswap.finance^$all
 ||bullishtradepro.com^$all
@@ -10090,6 +10097,7 @@
 ||coindel-usdt.com^$all
 ||coindelhkpd.info^$all
 ||coindeno.com^$all
+||coindesk.ws^$all
 ||coindeskex.org^$all
 ||coindeskex8.com^$all
 ||coindesktradefx.com^$all
@@ -19570,6 +19578,7 @@
 ||gfr-traders.com^$all
 ||gfs-trading.com^$all
 ||gfsle.com^$all
+||gfsle.top^$all
 ||gft-ma.com^$all
 ||gftchain.org^$all
 ||gftma.com^$all
@@ -22160,6 +22169,7 @@
 ||igmintrade.com^$all
 ||ignitersafemining.com^$all
 ||igo-town.com^$all
+||igold1888.com^$all
 ||igomarket.net^$all
 ||igomarketing.net^$all
 ||igomarkets.net^$all
@@ -22263,6 +22273,7 @@
 ||inceptial.biz^$all
 ||inceptial.com^$all
 ||inceptiontrade.com^$all
+||inchoishop.com^$all
 ||inchoishoping.com^$all
 ||incm-markets.com^$all
 ||incom-miners.ltd^$all
@@ -22601,6 +22612,7 @@
 ||iq-option.com^$all
 ||iqbitprime.com^$all
 ||iqbitprimes.com^$all
+||iqbitprimes.net^$all
 ||iqbroker.com^$all
 ||iqbrokersfx.com^$all
 ||iqcinfor.com^$all
@@ -24065,6 +24077,7 @@
 ||linfoxinvestment.org^$all
 ||link.qddxu.top^$all
 ||link.tcxqt.top^$all
+||linkaeci.vip^$all
 ||linkchain-copytrading.com^$all
 ||linkcryptoearn.com^$all
 ||linkedar.com^$all
@@ -24672,6 +24685,7 @@
 ||m.ighhi.top^$all
 ||m.imlsz.top^$all
 ||m.imtoekn-tw.com^$all
+||m.imtoekns-tw.com^$all
 ||m.imtokenl.net^$all
 ||m.indoex.io^$all
 ||m.ise589.co^$all
@@ -27249,6 +27263,7 @@
 ||nyseexe.com^$all
 ||nyseliffevip.com^$all
 ||nysells.com^$all
+||nysena.com^$all
 ||nysencc.com^$all
 ||nyseplatform.com^$all
 ||nyseplu.com^$all
@@ -27495,6 +27510,7 @@
 ||okxpos-web3.com^$all
 ||okxrelex.com^$all
 ||okxusx.com^$all
+||okxvds.com^$all
 ||okxvew.com^$all
 ||okxx.okx-taiwan.com^$all
 ||ol.oyooya.xyz^$all
@@ -30059,8 +30075,10 @@
 ||serc.serccapital.cc^$all
 ||serccapital.com^$all
 ||serenitylines.com^$all
+||serhg.com^$all
 ||serial-trading.com^$all
 ||serveatrade.com^$all
+||service-2o5b36cu-1317524423.gz.apigw.tencentcs.com^$all
 ||setabee.bstapti.com^$all
 ||setsai.com^$all
 ||seu2036518.com^$all
@@ -30158,6 +30176,7 @@
 ||shboran.tw^$all
 ||shbsfinance.com^$all
 ||shbslkjjnvlsdjkjsdjdapp.com^$all
+||shechipin.tw^$all
 ||sheeldmarket1.com^$all
 ||sheer-pro.net^$all
 ||shejlo.com^$all
@@ -32052,6 +32071,7 @@
 ||theglobaltradesignals.com^$all
 ||theglobemining.com^$all
 ||thegoldenminer.com^$all
+||thehackerspro.com^$all
 ||thehouseofbitcoin.net^$all
 ||thehouseofbitcoins.net^$all
 ||thehyperverse.net^$all
@@ -33243,6 +33263,7 @@
 ||trust-trade.biz^$all
 ||trust-usdt.vip^$all
 ||trust-venture.com^$all
+||trust-wallext.xyz^$all
 ||trust226.com^$all
 ||trust266.com^$all
 ||trust2wallet.xyz^$all
@@ -34754,6 +34775,7 @@
 ||vestatradingpro.com^$all
 ||vestercoin.com^$all
 ||vestigecoin.tech^$all
+||vestimon.com^$all
 ||vestleglobal.com^$all
 ||vestycoin.com^$all
 ||vetcryptoearn.com^$all
@@ -35021,6 +35043,7 @@
 ||vr1688.net^$all
 ||vr61ln.coinbase23.xyz^$all
 ||vrbxdv.dtrex88.com^$all
+||vrcoin.art^$all
 ||vrijqhrqwne.com^$all
 ||vrkaadawbs.com^$all
 ||vrnbsnszcw.com^$all
@@ -36696,6 +36719,8 @@
 ||zdsg.kfvscg.top^$all
 ||zdsyy.com^$all
 ||ze28s.com^$all
+||zealcapitalfx.com^$all
+||zealcapitalfx.vip^$all
 ||zealglobalcoin.com^$all
 ||zealmarketfx.com^$all
 ||zealminers-trade.com^$all
