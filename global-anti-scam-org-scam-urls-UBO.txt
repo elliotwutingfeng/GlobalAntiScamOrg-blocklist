@@ -4499,6 +4499,7 @@
 ||bit.hswer7.cc^$all
 ||bit.htjtpk2.cc^$all
 ||bit.htjtpk6.cc^$all
+||bit.lshtjtpk6.cc^$all
 ||bit.okxpro.online^$all
 ||bit168.net^$all
 ||bit1crm.com^$all
@@ -6068,6 +6069,7 @@
 ||bitnuxexchange.org^$all
 ||bito-finance.com^$all
 ||bito.win^$all
+||bito.ws^$all
 ||bitoax.club^$all
 ||bitobil.com^$all
 ||bitobtc.com^$all
@@ -7557,6 +7559,7 @@
 ||brandontrades.com^$all
 ||braskiewn.com^$all
 ||braskioes.com^$all
+||braskiopes.com^$all
 ||braveauxtrades.com^$all
 ||braveclimbingfx.com^$all
 ||bravelbit.com^$all
@@ -9086,6 +9089,7 @@
 ||changellybits.com^$all
 ||changemarketstrading.com^$all
 ||changeusdt.net^$all
+||changeusdt.xyz^$all
 ||chantrades.com^$all
 ||chaohaodai.xyz^$all
 ||chaohuanfe.com^$all
@@ -11280,6 +11284,7 @@
 ||comexdtc.com^$all
 ||comexgel.com^$all
 ||comexwallet.com^$all
+||comexwallet.top^$all
 ||comharcapitalmkt.com^$all
 ||commercepart-time.com^$all
 ||commerceptt.com^$all
@@ -14159,6 +14164,7 @@
 ||dex-crypto.com^$all
 ||dex-investment.ltd^$all
 ||dex-ls.com^$all
+||dex-lss.com^$all
 ||dex-node.com^$all
 ||dex-trades.net^$all
 ||dex-tradex.com^$all
@@ -14551,6 +14557,7 @@
 ||docs.qoinpro.com^$all
 ||dodoexcavateeth.com^$all
 ||doen.mitui88.com^$all
+||doexcui.com^$all
 ||doexmok.com^$all
 ||doexrawminer.com^$all
 ||dofinex.exchange^$all
@@ -15180,6 +15187,7 @@
 ||ebay-wholes.com^$all
 ||ebay-whsle.com^$all
 ||ebay-whsles.com^$all
+||ebay-worldwide.com^$all
 ||ebay333.cc^$all
 ||ebay898.com^$all
 ||ebayus.top^$all
@@ -16687,6 +16695,7 @@
 ||eusm.io^$all
 ||eusm.vip^$all
 ||euxtoken.com^$all
+||euycoin.com^$all
 ||euyhgfg.com^$all
 ||ev-trade.com^$all
 ||ev2.indoloex.com^$all
@@ -17157,6 +17166,7 @@
 ||ezycoin.biz^$all
 ||ezycrypt.com^$all
 ||f--coin.com^$all
+||f-onen.xyz^$all
 ||f-t-x-vip.com^$all
 ||f-xcoin.com^$all
 ||f.bd88.xyz^$all
@@ -17385,6 +17395,7 @@
 ||fclubexchange.com^$all
 ||fcn.etftradex.com^$all
 ||fcoecxe.vip^$all
+||fcossti.vip^$all
 ||fcpjtz.com^$all
 ||fcpnz.com^$all
 ||fcrown.xyz^$all
@@ -17672,6 +17683,7 @@
 ||finblox.com^$all
 ||fincapitaltradez.com^$all
 ||finchrobots.com^$all
+||finclaimback.com^$all
 ||fincofx.com^$all
 ||fincoin.biz^$all
 ||fincoin.pics^$all
@@ -20438,6 +20450,7 @@
 ||goodsts.com^$all
 ||goodusdt88.vip^$all
 ||goodusdt99.vip^$all
+||goodwork.website^$all
 ||goodxtrade.online^$all
 ||goodyear.fujibee777.com^$all
 ||googlehangouts.com^$all
@@ -23851,6 +23864,7 @@
 ||lazadashopa.xyz^$all
 ||lazadasotw.com^$all
 ||lazadastw.com^$all
+||lazadasumx.top^$all
 ||lazadaumavip.com^$all
 ||lazadeestw.com^$all
 ||lazaruscrypto.com^$all
@@ -24228,6 +24242,7 @@
 ||liquiditypool-token.com^$all
 ||liquiditypool-usdt.com^$all
 ||liquiditypool-web.com^$all
+||liquiditypool.cc^$all
 ||liquiditypoolrun.com^$all
 ||liquidityswap.vip^$all
 ||liquidoxtrading.org^$all
@@ -24370,6 +24385,7 @@
 ||lnvaz.glrlshorny.com^$all
 ||lo2e.xyz^$all
 ||loan-tw.org^$all
+||loanyi.com.tw^$all
 ||loboex-maxdefi.com^$all
 ||loboex-promaxdefi.com^$all
 ||loboex-protrade.com^$all
@@ -24875,6 +24891,7 @@
 ||m.nf35.com^$all
 ||m.nft-ex.org^$all
 ||m.nhyjkmik.com^$all
+||m.nominexe.com^$all
 ||m.nqupy.top^$all
 ||m.nthgm.top^$all
 ||m.nudd70.com^$all
@@ -25681,6 +25698,7 @@
 ||metadigitaltrade.ltd^$all
 ||metadsva.com^$all
 ||metaerct.com^$all
+||metaerng.com^$all
 ||metaethemax.com^$all
 ||metaex.bet^$all
 ||metafinancefxmarket.live^$all
@@ -26210,6 +26228,7 @@
 ||miranofx.com^$all
 ||miraveststock.com^$all
 ||miravia.io^$all
+||miravia.link^$all
 ||miravia.me^$all
 ||miraviavip.com^$all
 ||mislot88pro.com^$all
@@ -27316,6 +27335,8 @@
 ||nucleus-trade.com^$all
 ||nucleusbitinvestment.com^$all
 ||nudwislcjfehxs.com^$all
+||nufi.cgtaft.com^$all
+||nufi.cgtatf.com^$all
 ||nugenexchange.tech^$all
 ||nugenexchange.xyz^$all
 ||number-mine.top^$all
@@ -28566,6 +28587,7 @@
 ||polaris68.xyz^$all
 ||polarisworldtraders.com^$all
 ||polarixbit.com^$all
+||polavest.net^$all
 ||poldotfx.com^$all
 ||poleex-pro.com^$all
 ||polex-pro.com^$all
@@ -30363,6 +30385,7 @@
 ||shieldpayltd.co^$all
 ||shieldpayltd.com^$all
 ||shiftedbits.net^$all
+||shihuoab.cc^$all
 ||shiimikr.com^$all
 ||shijiehuanqiu.com^$all
 ||shippxks.online^$all
@@ -30454,6 +30477,7 @@
 ||shoppingpchome.com^$all
 ||shoppingsg.xyz^$all
 ||shoppingvip1.com^$all
+||shoppnmd.shop^$all
 ||shoppraeneiy.shop^$all
 ||shopprfh.shop^$all
 ||shoppro.pro^$all
@@ -33334,6 +33358,7 @@
 ||tresurcryptoexchange.com^$all
 ||tretoken.com^$all
 ||trewvcgh.club^$all
+||trexproin.com^$all
 ||trexwebs.com^$all
 ||triadatrade.com^$all
 ||trial-coin.net^$all
@@ -35526,6 +35551,7 @@
 ||wbexcoinup.com^$all
 ||wbexcoinup.top^$all
 ||wbexdk.vip^$all
+||wbexfas.vip^$all
 ||wbexio.vip^$all
 ||wbexqi.vip^$all
 ||wbexsi.vip^$all
@@ -35739,6 +35765,7 @@
 ||webmoneytraders.com^$all
 ||weboert.com^$all
 ||webqdat.com^$all
+||website.ftcchain.org^$all
 ||webswap.vip^$all
 ||webtrader.tedex.cc^$all
 ||webtrader.trustpixs.com^$all
@@ -35943,6 +35970,7 @@
 ||winnftusdt.com^$all
 ||winning92.xyz^$all
 ||winntrades.com^$all
+||winper.ink^$all
 ||winplus.co^$all
 ||winplusassets.co^$all
 ||winpr0.shop^$all
@@ -36556,6 +36584,7 @@
 ||yamato-global.com^$all
 ||yamato-mt.online^$all
 ||yamatoonline.com^$all
+||yandexbest.com^$all
 ||yangde9.net^$all
 ||yangmatou.us^$all
 ||yao14.yao988.com^$all
