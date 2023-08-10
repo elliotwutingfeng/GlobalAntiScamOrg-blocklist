@@ -865,6 +865,7 @@
 *://*.aave-loan.life/*
 *://*.aave-loan.me/*
 *://*.aave-loan.net/*
+*://*.aave-tw.com/*
 *://*.aave.com/*
 *://*.aave.plus/*
 *://*.aave171.com/*
@@ -1078,6 +1079,7 @@
 *://*.acexusdt.com/*
 *://*.acfnygp.top/*
 *://*.achaindn.bar/*
+*://*.achainjp.vip/*
 *://*.achainjs.vip/*
 *://*.achains.vip/*
 *://*.achais.top/*
@@ -2477,6 +2479,7 @@
 *://*.armadaoter.com/*
 *://*.armadaz.com/*
 *://*.armadazes.com/*
+*://*.armaduers.com/*
 *://*.armani-trade.tech/*
 *://*.arnyc.nyc/*
 *://*.arontrading.com/*
@@ -2797,6 +2800,7 @@
 *://*.atraexchange56.com/*
 *://*.atranding.club/*
 *://*.atriedestrades.com/*
+*://*.ats4shop.live/*
 *://*.atsomelab.com/*
 *://*.attobits.com/*
 *://*.attunetrade.ltd/*
@@ -5519,6 +5523,7 @@
 *://*.bitindiscan.com/*
 *://*.bitinfinity.pro/*
 *://*.bitinfoglob.com/*
+*://*.bitinka.com/*
 *://*.bitinsbeex.com/*
 *://*.bitinscoinexpert.com/*
 *://*.bitinstangerinex.com/*
@@ -8732,6 +8737,7 @@
 *://*.cashitbitex.com/*
 *://*.cashminerbot.com/*
 *://*.cashngoloanpro.com/*
+*://*.cashopee.com/*
 *://*.cashouttrade.com/*
 *://*.cashtradecoin.com/*
 *://*.casino-spinbit.com/*
@@ -17315,6 +17321,7 @@
 *://*.fcossti.vip/*
 *://*.fcpjtz.com/*
 *://*.fcpnz.com/*
+*://*.fcrhkd.top/*
 *://*.fcrown.info/*
 *://*.fcrown.xyz/*
 *://*.fcusdt.com/*
@@ -19374,6 +19381,7 @@
 *://*.gaoshengxx.com/*
 *://*.gaoshengyb.com/*
 *://*.gaoshengzqq.com/*
+*://*.gapmall.vip/*
 *://*.garagedaytrader.com/*
 *://*.garantitrademiness.com/*
 *://*.garantitrademinex.net/*
@@ -22327,6 +22335,7 @@
 *://*.inintels.com/*
 *://*.initaltrades.com/*
 *://*.injectivecoin.xyz/*
+*://*.inkapay.com/*
 *://*.inktech.live/*
 *://*.inmarketsplus.com/*
 *://*.innovationcryptomarkets.com/*
@@ -23002,6 +23011,7 @@
 *://*.jpexcn.com/*
 *://*.jpexvip.site/*
 *://*.jpexweb.com/*
+*://*.jpgoonet.com/*
 *://*.jpm-base.xyz/*
 *://*.jpmchase.tw/*
 *://*.jpmcoin.club/*
@@ -23273,6 +23283,7 @@
 *://*.kcoindog.com/*
 *://*.kcoinfoot.com/*
 *://*.kcoinhome.com/*
+*://*.kcoinlinks.com/*
 *://*.kcoinonline.com/*
 *://*.kcowebs.com/*
 *://*.kcr989.com/*
@@ -25831,6 +25842,7 @@
 *://*.mjszmw.com/*
 *://*.mkaddets.top/*
 *://*.mkaddgov.top/*
+*://*.mkaddjks.top/*
 *://*.mkads.top/*
 *://*.mkcapp.com/*
 *://*.mkcapps.com/*
@@ -29445,6 +29457,7 @@
 *://*.royalassettrade.net/*
 *://*.royalbd.net/*
 *://*.royalbesttradeinvest.com/*
+*://*.royalcapitals.ltd/*
 *://*.royaleliteminers.com/*
 *://*.royalewin8888.com/*
 *://*.royalexpressglobalsh.com/*
@@ -31151,6 +31164,7 @@
 *://*.stonextw.com/*
 *://*.storebnswgi.shop/*
 *://*.storemavenhk.com/*
+*://*.storezui.store/*
 *://*.storginpt.com/*
 *://*.storm-seo.com/*
 *://*.stormavail-pro.com/*
@@ -32229,6 +32243,7 @@
 *://*.tmall.com/*
 *://*.tmall.hk/*
 *://*.tmallbuy.xyz/*
+*://*.tmallsh.com/*
 *://*.tmaxji.com/*
 *://*.tmaxky.com/*
 *://*.tmbanktrade.org/*
@@ -33469,6 +33484,7 @@
 *://*.tw11st.com/*
 *://*.tw279.com/*
 *://*.tw692.top/*
+*://*.tw718.top/*
 *://*.tw88.com.tw/*
 *://*.twaberd.com/*
 *://*.twacces.com/*
@@ -33736,6 +33752,7 @@
 *://*.uj9dz9.com/*
 *://*.ujikg7.net/*
 *://*.uk-innovaccer.com/*
+*://*.uk-minty.com/*
 *://*.uk-sourcingcorp.com/*
 *://*.uk-yabo.com/*
 *://*.uk.com/*
@@ -34865,6 +34882,7 @@
 *://*.vivefrance.com/*
 *://*.vivgoo.com/*
 *://*.vivien556.com/*
+*://*.vivocityyfc.com/*
 *://*.vizotrade.com/*
 *://*.vjfsg.shop/*
 *://*.vjhajhgeua.com/*
@@ -35223,6 +35241,7 @@
 *://*.wealthygrowth-finance.com/*
 *://*.wealthzonefx.com/*
 *://*.weasfstggh.com/*
+*://*.web-ane.com/*
 *://*.web-btcc.com/*
 *://*.web-layer2.net/*
 *://*.web-layer2.org/*
@@ -36100,6 +36119,7 @@
 *://*.xzgj6688.com/*
 *://*.xzgj999.com/*
 *://*.xziqd.xyz/*
+*://*.xzks1024.site/*
 *://*.y3589.com/*
 *://*.y55321.com/*
 *://*.y5btufj.com/*
@@ -36641,6 +36661,7 @@
 *://*.zhangkun.online/*
 *://*.zhangshuaipeng.xyz/*
 *://*.zhbamtw.com/*
+*://*.zhenbinp.cc/*
 *://*.zhenghaofl.com/*
 *://*.zheweuermawdsq.com/*
 *://*.zhfxti.com/*

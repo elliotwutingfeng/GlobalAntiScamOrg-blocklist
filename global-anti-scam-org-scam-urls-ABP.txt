@@ -744,6 +744,7 @@
 ||a.anhdty.com^
 ||a.avainvestr.com^
 ||a.b.tw692.top^
+||a.b.tw718.top^
 ||a.bell-micros.com^
 ||a.bycp23.com^
 ||a.cao76.cn^
@@ -1113,6 +1114,7 @@
 ||aceusdt.com^
 ||acexen.com^
 ||acfnygp.top^
+||achainjp.vip^
 ||achainjs.vip^
 ||achains.vip^
 ||achais.top^
@@ -2246,6 +2248,7 @@
 ||api.wsappapi.com^
 ||api.znahwbeqhsxiij.com^
 ||api5.ntdownloadmql5.com^
+||apk.aave-tw.com^
 ||apkingcoin.com^
 ||apkoss.oss-cn-chengdu.aliyuncs.com^
 ||apl-express.com^
@@ -2291,6 +2294,7 @@
 ||app.arqzcdc.com^
 ||app.asshop.shop^
 ||app.atbitforex.com^
+||app.ats4shop.live^
 ||app.aurora-quantitativefun.com^
 ||app.axkjgfbd.com^
 ||app.bbxotc.org^
@@ -5672,6 +5676,7 @@
 ||bitindiscan.com^
 ||bitinfinity.pro^
 ||bitinfoglob.com^
+||bitinka.com^
 ||bitinsbeex.com^
 ||bitinscoinexpert.com^
 ||bitinstangerinex.com^
@@ -8756,6 +8761,7 @@
 ||cashitbitex.com^
 ||cashminerbot.com^
 ||cashngoloanpro.com^
+||cashopee.com^
 ||cashouttrade.com^
 ||cashtradecoin.com^
 ||casino-spinbit.com^
@@ -8922,6 +8928,7 @@
 ||celtabit38.com^
 ||celtabit39.com^
 ||celticmine.com^
+||celufa.armaduers.com^
 ||cemexcoin.com^
 ||cemexfundsfx-miners.com^
 ||cen-tiger.com^
@@ -17398,6 +17405,7 @@
 ||fcossti.vip^
 ||fcpjtz.com^
 ||fcpnz.com^
+||fcrhkd.top^
 ||fcrown.xyz^
 ||fcsl.newex.top^
 ||fcusdt.com^
@@ -19373,6 +19381,7 @@
 ||gaoshengxx.com^
 ||gaoshengyb.com^
 ||gaoshengzqq.com^
+||gapmall.vip^
 ||garagedaytrader.com^
 ||garantitrademiness.com^
 ||garantitrademinex.net^
@@ -22464,6 +22473,7 @@
 ||ingfxgroup.com^
 ||inintels.com^
 ||injectivecoin.xyz^
+||inkapay.com^
 ||inktech.live^
 ||inm.instdld.com^
 ||inmarketsplus.com^
@@ -23079,6 +23089,7 @@
 ||jpexcn.com^
 ||jpexvip.site^
 ||jpexweb.com^
+||jpgoonet.com^
 ||jpm-base.xyz^
 ||jpm3b.cnqjd982.co^
 ||jpmchase.tw^
@@ -23326,6 +23337,7 @@
 ||kcoindog.com^
 ||kcoinfoot.com^
 ||kcoinhome.com^
+||kcoinlinks.com^
 ||kcoinonline.com^
 ||kcowebs.com^
 ||kcreso.com^
@@ -26259,6 +26271,7 @@
 ||mk.sihesd.top^
 ||mk126.yhcs9.net^
 ||mkaddets.top^
+||mkaddjks.top^
 ||mkcapp.com^
 ||mkcapps.com^
 ||mkcoin.online^
@@ -29773,6 +29786,7 @@
 ||royalassettrade.net^
 ||royalbd.net^
 ||royalbesttradeinvest.com^
+||royalcapitals.ltd^
 ||royaleliteminers.com^
 ||royalewin8888.com^
 ||royalexpressglobalsh.com^
@@ -31416,6 +31430,7 @@
 ||store.tkmallbuy.xyz^
 ||storebnswgi.shop^
 ||storemavenhk.com^
+||storezui.store^
 ||storm-seo.com^
 ||stormavail-pro.com^
 ||stormavailcoin.com^
@@ -32459,6 +32474,7 @@
 ||tm786.com^
 ||tmall.com^
 ||tmall.hk^
+||tmallsh.com^
 ||tmaxji.com^
 ||tmaxky.com^
 ||tmbanktrade.org^
@@ -33990,6 +34006,7 @@
 ||uj9dz9.com^
 ||ujrk50.sxsplx.top^
 ||uk-innovaccer.com^
+||uk-minty.com^
 ||uk-sourcingcorp.com^
 ||uk-yabo.com^
 ||uk2jj.xyz^
@@ -35170,6 +35187,7 @@
 ||viuaeba.com^
 ||vivefrance.com^
 ||vivi.everestacms2022.top^
+||vivocityyfc.com^
 ||vizotrade.com^
 ||vjfsg.shop^
 ||vjhajhgeua.com^
@@ -35627,6 +35645,7 @@
 ||wealthygrowth-finance.com^
 ||wealthzonefx.com^
 ||weasfstggh.com^
+||web-ane.com^
 ||web-btcc.com^
 ||web-layer2.net^
 ||web-layer2.org^
@@ -36565,6 +36584,7 @@
 ||xzgj6688.com^
 ||xzgj999.com^
 ||xziqd.xyz^
+||xzks1024.site^
 ||y.feimaglobal.com^
 ||y.localizedcoins.com^
 ||y69988.com^
@@ -37044,6 +37064,7 @@
 ||zhantop.bazxm.com^
 ||zhantop.bzeuk.com^
 ||zhe.staioils.com^
+||zhenbinp.cc^
 ||zheweuermawdsq.com^
 ||zhfxti.com^
 ||zhhold.live^
