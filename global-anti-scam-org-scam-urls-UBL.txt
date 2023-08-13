@@ -1914,6 +1914,7 @@
 *://*.ammuni.shop/*
 *://*.ammuni.top/*
 *://*.ammuplan.com/*
+*://*.amobbuy.com/*
 *://*.amodfxmining.com/*
 *://*.amplemine.com/*
 *://*.amplifydefi.club/*
@@ -10054,6 +10055,7 @@
 *://*.coinboxexchange.com/*
 *://*.coinboxtop.com/*
 *://*.coinbrox.com/*
+*://*.coinbsotcs.com/*
 *://*.coinbter.com/*
 *://*.coinbu.com/*
 *://*.coinbucex.com/*
@@ -14033,6 +14035,7 @@
 *://*.deribok.buzz/*
 *://*.dericoin.org/*
 *://*.deriv.com/*
+*://*.derivativemarket-app.com/*
 *://*.derivativetrades.net/*
 *://*.derivefx.com/*
 *://*.derivefxincome.com/*
@@ -14152,6 +14155,7 @@
 *://*.dfguoji2.com/*
 *://*.dfgyueyue.xyz/*
 *://*.dfi-fx.com/*
+*://*.dfi-moneyag.com/*
 *://*.dfi-moneyah.com/*
 *://*.dfinity.mobi/*
 *://*.dfl-finance-service.com/*
@@ -14856,6 +14860,7 @@
 *://*.e-crypto.site/*
 *://*.e-cryptopayment.com/*
 *://*.e-cryptosignal.trade/*
+*://*.e-cryptotrading.com/*
 *://*.e-expressdel.com/*
 *://*.e-forexmarket.xyz/*
 *://*.e-fxtrade.xyz/*
@@ -17967,6 +17972,7 @@
 *://*.foreignexchangehousekeeper.com/*
 *://*.foreigntradepros.com/*
 *://*.foreinetrade.com/*
+*://*.foremostminorhockey.com/*
 *://*.foresightmegatrade.com/*
 *://*.foresterltd.com/*
 *://*.forestexchange.org/*
@@ -18547,6 +18553,7 @@
 *://*.futaba.bet/*
 *://*.futabas.app/*
 *://*.futu-coin.net/*
+*://*.futubase.shop/*
 *://*.futultd.club/*
 *://*.futultd.live/*
 *://*.futultd.shop/*
@@ -19593,6 +19600,7 @@
 *://*.generistrade.ltd/*
 *://*.genernnysen.com/*
 *://*.genesbo.com/*
+*://*.genesis-continent-io.com/*
 *://*.genesis-fx.com/*
 *://*.genesis198.com/*
 *://*.genesiscryptoexch.online/*
@@ -20728,6 +20736,7 @@
 *://*.growex.ltd/*
 *://*.growexbit.com/*
 *://*.growfbs-investment.com/*
+*://*.growminer.com/*
 *://*.growmorefx.info/*
 *://*.growndech.com/*
 *://*.growrichcoin.com/*
@@ -21897,6 +21906,7 @@
 *://*.i-goda.com/*
 *://*.i-paytrade.com/*
 *://*.i0coins.net/*
+*://*.i274016.com/*
 *://*.i28q.vip/*
 *://*.i2k0.xyz/*
 *://*.i7trades.com/*
@@ -22839,6 +22849,7 @@
 *://*.jfdboker.com/*
 *://*.jfdbro.com/*
 *://*.jfdhq.xyz/*
+*://*.jfkskxciljvd.vip/*
 *://*.jfmolw.top/*
 *://*.jfn688.net/*
 *://*.jfygshop.com/*
@@ -23254,6 +23265,7 @@
 *://*.kavabtc.com/*
 *://*.kavadappflymaxpro.com/*
 *://*.kavalamb.com/*
+*://*.kavapork.com/*
 *://*.kavarunmax.com/*
 *://*.kavasun.com/*
 *://*.kavatsimaxpro.com/*
@@ -24537,6 +24549,7 @@
 *://*.lovemeet1.com/*
 *://*.loverhub.info/*
 *://*.loves5288.com/*
+*://*.lovesweiilie.com/*
 *://*.lovetea.shop/*
 *://*.lovetobuyshop.com/*
 *://*.lowescoins.com/*
@@ -25448,6 +25461,7 @@
 *://*.mgm66998.com/*
 *://*.mgmfmac.online/*
 *://*.mgmmacau.live/*
+*://*.mgs.financial/*
 *://*.mgs1788.vip/*
 *://*.mgtradeinvest.com/*
 *://*.mhdgold.com/*
@@ -27177,6 +27191,7 @@
 *://*.odintw597.com/*
 *://*.odjvdo.com/*
 *://*.odn688.com/*
+*://*.odpfir.com/*
 *://*.odqaktm.top/*
 *://*.odycoin.com/*
 *://*.odzsgtw.com/*
@@ -27241,6 +27256,7 @@
 *://*.okbitx.com/*
 *://*.okcnsx.com/*
 *://*.okcoinmarket.com/*
+*://*.okcoinsbtc.com/*
 *://*.okcoinstore.com/*
 *://*.okcoinus.com/*
 *://*.okcoinvip.com/*
@@ -30758,6 +30774,7 @@
 *://*.sotglobalfxs.com/*
 *://*.sothebysinc.world/*
 *://*.sotwex.com/*
+*://*.souhu85.com/*
 *://*.soultrade72.com/*
 *://*.soultradings.com/*
 *://*.sourcemo.store/*
@@ -31555,6 +31572,7 @@
 *://*.systtnn.com/*
 *://*.syuanltd.com/*
 *://*.sz168168.com/*
+*://*.sz17888.com/*
 *://*.sz555.net/*
 *://*.szdhexp.com/*
 *://*.szehope.com/*
@@ -32794,6 +32812,7 @@
 *://*.tradenetsignal.com/*
 *://*.tradeney.com/*
 *://*.tradenormfinance.net/*
+*://*.tradenow.ltd/*
 *://*.tradensured.com/*
 *://*.tradeonassets.live/*
 *://*.tradeonassets.net/*
@@ -33434,6 +33453,7 @@
 *://*.tufxc.com/*
 *://*.tugvq.com/*
 *://*.tumifx.com/*
+*://*.tunnel-nn.com/*
 *://*.tunotradeinvestments.com/*
 *://*.tunswap.com/*
 *://*.turbinetradeltd.com/*
@@ -34718,6 +34738,7 @@
 *://*.viabtctradefx.com/*
 *://*.viacoin-fxt.online/*
 *://*.viamarketsgo.co.uk/*
+*://*.vibbits.com/*
 *://*.vibbits.net/*
 *://*.vibeth-vvip.com/*
 *://*.vicoinpro.com/*
@@ -34840,6 +34861,7 @@
 *://*.virnvkrf.com/*
 *://*.virominers.top/*
 *://*.virtu.com/*
+*://*.virtuai.net/*
 *://*.virtual-exchanges.net/*
 *://*.virtualfarmmining.com/*
 *://*.virtualtrader.cash/*
@@ -35083,6 +35105,7 @@
 *://*.walmant.top/*
 *://*.walmartfx.com/*
 *://*.walmartglobalcms.com/*
+*://*.walmartglobals.com/*
 *://*.walmartshopgo.com/*
 *://*.walmartweb.net/*
 *://*.walmartweb.shop/*
@@ -36075,6 +36098,7 @@
 *://*.xts.group/*
 *://*.xtstarter.com/*
 *://*.xttw.xyz/*
+*://*.xtxtop.com/*
 *://*.xtzcryptoearn.com/*
 *://*.xtzsxz.com/*
 *://*.xu1688.net/*

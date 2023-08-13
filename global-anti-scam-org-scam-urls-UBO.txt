@@ -2397,6 +2397,7 @@
 ||app.ivdhhg.top^$all
 ||app.ivrjquwehy.com^$all
 ||app.iwqewjqwes.com^$all
+||app.jfkskxciljvd.vip^$all
 ||app.jgrqweaada.com^$all
 ||app.jhbxhhbvwhw.com^$all
 ||app.jinchuan.tw^$all
@@ -10046,6 +10047,7 @@
 ||coinboxexchange.com^$all
 ||coinboxtop.com^$all
 ||coinbrox.com^$all
+||coinbsotcs.com^$all
 ||coinbter.com^$all
 ||coinbu.com^$all
 ||coinbucex.com^$all
@@ -15005,6 +15007,7 @@
 ||e-crypto.site^$all
 ||e-cryptopayment.com^$all
 ||e-cryptosignal.trade^$all
+||e-cryptotrading.com^$all
 ||e-expressdel.com^$all
 ||e-forexmarket.xyz^$all
 ||e-fxtrade.xyz^$all
@@ -18027,6 +18030,7 @@
 ||foreignexchangehousekeeper.com^$all
 ||foreigntradepros.com^$all
 ||foreinetrade.com^$all
+||foremostminorhockey.com^$all
 ||foresightmegatrade.com^$all
 ||foresterltd.com^$all
 ||forestexchange.org^$all
@@ -18585,6 +18589,7 @@
 ||futaba.bet^$all
 ||futabas.app^$all
 ||futu-coin.net^$all
+||futubase.shop^$all
 ||futuo-fx.info^$all
 ||futuo-fx.net^$all
 ||futuohk.com^$all
@@ -19589,6 +19594,7 @@
 ||generistrade.ltd^$all
 ||genernnysen.com^$all
 ||genesbo.com^$all
+||genesis-continent-io.com^$all
 ||genesis-fx.com^$all
 ||genesis198.com^$all
 ||genesiscryptoexch.online^$all
@@ -20653,6 +20659,7 @@
 ||growex.ltd^$all
 ||growexbit.com^$all
 ||growfbs-investment.com^$all
+||growminer.com^$all
 ||growmorefx.info^$all
 ||growndech.com^$all
 ||growrich.fnvezr.com^$all
@@ -22082,6 +22089,7 @@
 ||i.kimjong-un.com.tw^$all
 ||i.zx118588.com^$all
 ||i0coins.net^$all
+||i274016.com^$all
 ||i28q.vip^$all
 ||i2k0.xyz^$all
 ||i7trades.com^$all
@@ -25888,6 +25896,7 @@
 ||mgm60660.com^$all
 ||mgmfmac.online^$all
 ||mgmmacau.live^$all
+||mgs.financial^$all
 ||mgs1788.vip^$all
 ||mgtradeinvest.com^$all
 ||mhdgold.com^$all
@@ -27576,6 +27585,7 @@
 ||odintw597.com^$all
 ||odjvdo.com^$all
 ||odn688.com^$all
+||odpfir.com^$all
 ||odqaktm.top^$all
 ||odtie.lotkgt.shop^$all
 ||odtie.lotkgt.work^$all
@@ -27636,6 +27646,7 @@
 ||okbits.site^$all
 ||okbitx.com^$all
 ||okcnsx.com^$all
+||okcoinsbtc.com^$all
 ||okcoinstore.com^$all
 ||okcoinus.com^$all
 ||okcoinvip.com^$all
@@ -31813,6 +31824,7 @@
 ||systeme.io^$all
 ||systtnen.com^$all
 ||systtnn.com^$all
+||sz17888.com^$all
 ||sz555.net^$all
 ||szdhexp.com^$all
 ||szehope.com^$all
@@ -32987,6 +32999,7 @@
 ||tradenetsignal.com^$all
 ||tradeney.com^$all
 ||tradenormfinance.net^$all
+||tradenow.ltd^$all
 ||tradensured.com^$all
 ||tradeonassets.live^$all
 ||tradeonassets.net^$all
@@ -35032,6 +35045,7 @@
 ||viabtctradefx.com^$all
 ||viacoin-fxt.online^$all
 ||viamarketsgo.co.uk^$all
+||vibbits.com^$all
 ||vibbits.net^$all
 ||vibeth-vvip.com^$all
 ||vicoinpro.com^$all
@@ -35149,6 +35163,7 @@
 ||virgox.club^$all
 ||virominers.top^$all
 ||virtu.com^$all
+||virtuai.net^$all
 ||virtual-exchanges.net^$all
 ||virtual.zhibangsx.com^$all
 ||virtualfarmmining.com^$all
@@ -35412,6 +35427,7 @@
 ||walmant.top^$all
 ||walmartfx.com^$all
 ||walmartglobalcms.com^$all
+||walmartglobals.com^$all
 ||walmartshopgo.com^$all
 ||walmartweb.net^$all
 ||walmartweb.shop^$all
@@ -36219,7 +36235,9 @@
 ||ww1.ast-intel.com^$all
 ||ww1.coinfirst.cc^$all
 ||ww1.elitetrading.co^$all
+||ww1.imipfshero.com^$all
 ||ww1.mystrickingly.com^$all
+||ww1.tunnel-nn.com^$all
 ||ww2.rsttw8989.com^$all
 ||ww25.bitfinance.me^$all
 ||ww25.cbeth.net^$all
@@ -36255,6 +36273,13 @@
 ||www-lfex.com^$all
 ||www-poloniex.com^$all
 ||www-ysb.com^$all
+||www.amobbuy.com^$all
+||www.derivativemarket-app.com^$all
+||www.dfi-moneyag.com^$all
+||www.kavapork.com^$all
+||www.lovesweiilie.com^$all
+||www.souhu85.com^$all
+||www.xtxtop.com^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all
