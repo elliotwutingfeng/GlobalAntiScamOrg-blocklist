@@ -1489,6 +1489,7 @@
 *://*.aismex.com/*
 *://*.aismexd.com/*
 *://*.aismexg.com/*
+*://*.aismexin.com/*
 *://*.aismexk.com/*
 *://*.aismexks.com/*
 *://*.aismexq.com/*
@@ -1904,6 +1905,7 @@
 *://*.amexcoininvestment.com/*
 *://*.amfx.online/*
 *://*.amg-8.com/*
+*://*.amgexali.com/*
 *://*.amgexcfx.com/*
 *://*.amgexthe.com/*
 *://*.amgexwlc.com/*
@@ -3288,6 +3290,7 @@
 *://*.bangdeforex.com/*
 *://*.banhinstock.com/*
 *://*.bank.com/*
+*://*.bank002.com/*
 *://*.bankatc.net/*
 *://*.bankbitcoin.info/*
 *://*.bankcex.club/*
@@ -3702,6 +3705,7 @@
 *://*.besttradingplatform.org/*
 *://*.bestusdtbank.buzz/*
 *://*.bet-coinx.com/*
+*://*.bet7777.cc/*
 *://*.beta-singularity.net/*
 *://*.betabitxchange.com/*
 *://*.betacryptomining.com/*
@@ -9589,6 +9593,7 @@
 *://*.cn.com/*
 *://*.cn456999711627280534.app/*
 *://*.cnaacoignn.com/*
+*://*.cnaacoin.com/*
 *://*.cnanputfvbq.com/*
 *://*.cnaxi.info/*
 *://*.cnbaxas.vip/*
@@ -9619,6 +9624,7 @@
 *://*.cnqjdgt.com/*
 *://*.cnqyzb.com/*
 *://*.cnwhjs.cc/*
+*://*.cnxvczo.vip/*
 *://*.cnyb.com/*
 *://*.cnzooms.vip/*
 *://*.co-bit9.com/*
@@ -11752,6 +11758,7 @@
 *://*.crex24.com/*
 *://*.crex24d.com/*
 *://*.crex24i.net/*
+*://*.crex24is.com/*
 *://*.crex24is.net/*
 *://*.crex24m.com/*
 *://*.crex24mi.com/*
@@ -14590,6 +14597,7 @@
 *://*.doc-token.com/*
 *://*.docnls.xyz/*
 *://*.dodoexcavateeth.com/*
+*://*.doexcoin.top/*
 *://*.doexcui.com/*
 *://*.doexmok.com/*
 *://*.doexrawminer.com/*
@@ -17186,6 +17194,7 @@
 *://*.eyrmqcz.top/*
 *://*.eyuanbi.com/*
 *://*.ez178.net/*
+*://*.ezagvip.com/*
 *://*.ezbuy888.com/*
 *://*.ezdanex.org/*
 *://*.ezifund.org/*
@@ -19713,6 +19722,7 @@
 *://*.gene07.com/*
 *://*.geneany.com/*
 *://*.genecryptoption.com/*
+*://*.genepro-ex.com/*
 *://*.generaetvse.com/*
 *://*.generalatlanticga.com/*
 *://*.generalfxsexchange.com/*
@@ -21902,6 +21912,7 @@
 *://*.huidaedh.com/*
 *://*.huidatw.com/*
 *://*.huideli.info/*
+*://*.huidonginvestment.com/*
 *://*.huidwhae.com/*
 *://*.huifengm.com/*
 *://*.huifengpro.com/*
@@ -21926,6 +21937,7 @@
 *://*.huiyuangang.cc/*
 *://*.huiyuangang2022.vip/*
 *://*.huizhirongli.top/*
+*://*.huizhirongssl.top/*
 *://*.huizhirongwt.top/*
 *://*.huiziong.com/*
 *://*.huizitn.com/*
@@ -23726,6 +23738,7 @@
 *://*.klmall.cc/*
 *://*.kloudfx.com/*
 *://*.klsecurities.net/*
+*://*.klweb.vip/*
 *://*.kmanalysis.com/*
 *://*.kmaxbit.com/*
 *://*.kmdjef.com/*
@@ -24320,7 +24333,13 @@
 *://*.leverj-web.com/*
 *://*.leverj-zec.com/*
 *://*.leverj.cc/*
+*://*.leverj.info/*
 *://*.leverj.io/*
+*://*.leverj.life/*
+*://*.leverj.live/*
+*://*.leverj.site/*
+*://*.leverj.vip/*
+*://*.leverj.xyz/*
 *://*.leverjdefi-concept.com/*
 *://*.leverjdefi-top.com/*
 *://*.leverjens.live/*
@@ -27677,6 +27696,7 @@
 *://*.onlinemcxtrading.com/*
 *://*.onlineminingcloud.com/*
 *://*.onlinetrade.asia/*
+*://*.onlinetraderacademy.com/*
 *://*.onlinetradespot.com/*
 *://*.onlinetrip.info/*
 *://*.only-ind.com/*
@@ -30813,6 +30833,7 @@
 *://*.slocksfx.com/*
 *://*.slotbesarjp.com/*
 *://*.slss258.com/*
+*://*.slss369.com/*
 *://*.slsstrade.com/*
 *://*.slstocks.com/*
 *://*.slushminingpool.com/*
@@ -30923,6 +30944,7 @@
 *://*.smcitycn.vip/*
 *://*.smetimes.xyz/*
 *://*.smikee.global/*
+*://*.smjsht581.top/*
 *://*.smlcryptoinvestment.com/*
 *://*.smnhus.com/*
 *://*.smoothfxoption.com/*
@@ -31929,6 +31951,7 @@
 *://*.taiyin-gj.top/*
 *://*.taiyin.vip/*
 *://*.taiyiptrade.com/*
+*://*.takealot1.vip/*
 *://*.talentsfx.com/*
 *://*.tallwinlife.com/*
 *://*.tam585.com/*
@@ -33558,6 +33581,7 @@
 *://*.trony.live/*
 *://*.trostfrx4trade.online/*
 *://*.trostminfx.com/*
+*://*.trovexbank.com/*
 *://*.trovictraders.com/*
 *://*.trovscoin.live/*
 *://*.trp-fx.com/*
@@ -35221,6 +35245,7 @@
 *://*.vitaltrades.ltd/*
 *://*.vitbeecoin.com/*
 *://*.vitcoin.pro/*
+*://*.vitex.net/*
 *://*.vitex111.top/*
 *://*.vitex222.top/*
 *://*.vitex333.top/*
@@ -35259,6 +35284,7 @@
 *://*.vllonline.com/*
 *://*.vm-tradergroup.com/*
 *://*.vmallocs.com/*
+*://*.vmalltw.com/*
 *://*.vmrkqjnssjdhb.com/*
 *://*.vmsdptrade.com/*
 *://*.vn888top.com/*
@@ -37199,6 +37225,7 @@
 *://*.zuen.fund/*
 *://*.zuflocoin.net/*
 *://*.zugofundsinvestment.com/*
+*://*.zuigg.biz/*
 *://*.zuigg.com/*
 *://*.zulmining.com/*
 *://*.zuluutrades.space/*

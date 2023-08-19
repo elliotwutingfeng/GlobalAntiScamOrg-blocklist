@@ -1905,6 +1905,7 @@
 ||amexbt.com^$all
 ||amexcoininvestment.com^$all
 ||amfx.online^$all
+||amgexali.com^$all
 ||amgexcfx.com^$all
 ||amgexthe.com^$all
 ||amgexwlc.com^$all
@@ -3522,6 +3523,7 @@
 ||banhinstock.com^$all
 ||bank.com^$all
 ||bank.maxplusgo.com^$all
+||bank002.com^$all
 ||bankatc.net^$all
 ||bankbitcoin.info^$all
 ||bankcex.com^$all
@@ -11665,6 +11667,7 @@
 ||crex.finance^$all
 ||crex24.com^$all
 ||crex24i.net^$all
+||crex24is.com^$all
 ||crex24is.net^$all
 ||crex24m.com^$all
 ||crex24mi.com^$all
@@ -14679,6 +14682,7 @@
 ||docs.qoinpro.com^$all
 ||dodoexcavateeth.com^$all
 ||doen.mitui88.com^$all
+||doexcoin.top^$all
 ||doexcui.com^$all
 ||doexmok.com^$all
 ||doexrawminer.com^$all
@@ -21170,6 +21174,12 @@
 ||h5.kpcb121.com^$all
 ||h5.kucoin-mtc.com^$all
 ||h5.lamresearehua.com^$all
+||h5.leverj.info^$all
+||h5.leverj.life^$all
+||h5.leverj.live^$all
+||h5.leverj.site^$all
+||h5.leverj.vip^$all
+||h5.leverj.xyz^$all
 ||h5.leverjens.live^$all
 ||h5.leverjsing.today^$all
 ||h5.lgjwzyb.top^$all
@@ -25527,6 +25537,7 @@
 ||marketsvt.tw^$all
 ||markoxtraders.net^$all
 ||marksfxt.com^$all
+||marlo6.bet7777.cc^$all
 ||marriltrade.com^$all
 ||marsbank-invest.com^$all
 ||marsinu.com^$all
@@ -28078,6 +28089,7 @@
 ||onlinemcxtrading.com^$all
 ||onlineminingcloud.com^$all
 ||onlinetrade.asia^$all
+||onlinetraderacademy.com^$all
 ||onlinetradespot.com^$all
 ||only.app.pgxjlg.bar^$all
 ||only.leswl.cn^$all
@@ -31087,6 +31099,7 @@
 ||slocksfx.com^$all
 ||slotbesarjp.com^$all
 ||slss258.com^$all
+||slss369.com^$all
 ||slsstrade.com^$all
 ||slstocks.com^$all
 ||slushminingpool.com^$all
@@ -32218,6 +32231,7 @@
 ||taiyin-gj.top^$all
 ||taiyin.vip^$all
 ||taiyiptrade.com^$all
+||takealot1.vip^$all
 ||talentsfx.com^$all
 ||tallwinlife.com^$all
 ||tanfxgroup.com^$all
@@ -33792,6 +33806,7 @@
 ||trony.live^$all
 ||trostfrx4trade.online^$all
 ||trostminfx.com^$all
+||trovexbank.com^$all
 ||trovictraders.com^$all
 ||trovscoin.live^$all
 ||trp-fx.com^$all
@@ -33978,6 +33993,7 @@
 ||tst.fuxinmixedtrade.top^$all
 ||tst.fuxinportrans.top^$all
 ||tst.fuxintransport.top^$all
+||tst.huizhirongssl.top^$all
 ||tstset.com^$all
 ||tt01.zbaooo8588.com^$all
 ||ttcd.xyz^$all
@@ -35549,6 +35565,7 @@
 ||vitaltrades.ltd^$all
 ||vitbeecoin.com^$all
 ||vitcoin.pro^$all
+||vitex.net^$all
 ||vitex111.top^$all
 ||vitex222.top^$all
 ||vitex333.top^$all
@@ -35583,6 +35600,7 @@
 ||vlop.iupkls.vip^$all
 ||vm-tradergroup.com^$all
 ||vmallocs.com^$all
+||vmalltw.com^$all
 ||vmsdptrade.com^$all
 ||vn.jho168.com^$all
 ||vn888top.com^$all
@@ -36138,6 +36156,7 @@
 ||web.wns9668.top^$all
 ||web.xtglobalpro.app^$all
 ||web.yesstyleorder.com^$all
+||web.zuigg.biz^$all
 ||web.zurex.cc^$all
 ||web3-cryptohopper.com^$all
 ||web3-index.org^$all
@@ -36651,6 +36670,14 @@
 ||www-poloniex.com^$all
 ||www-vip.oklink.fit^$all
 ||www-ysb.com^$all
+||www.aismexin.com^$all
+||www.cnaacoin.com^$all
+||www.cnxvczo.vip^$all
+||www.ezagvip.com^$all
+||www.genepro-ex.com^$all
+||www.huidonginvestment.com^$all
+||www.klweb.vip^$all
+||www.smjsht581.top^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all
