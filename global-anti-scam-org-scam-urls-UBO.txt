@@ -2598,6 +2598,7 @@
 ||appraisaldigitalmining.com^$all
 ||approcketpool.club^$all
 ||apps.deernetwork.org^$all
+||apps.tf9980.cc^$all
 ||appskqtat3fihbjy.jiabohao.com^$all
 ||appsmarcoin.com^$all
 ||appstimizer.com^$all
@@ -26064,6 +26065,7 @@
 ||metroautotrade.com^$all
 ||metroblockchain.ltd^$all
 ||metrocoin.pw^$all
+||metroengineeringservices.com^$all
 ||metrofx-mining.com^$all
 ||metrofx-trading.com^$all
 ||metrofxhub.live^$all
@@ -26271,6 +26273,8 @@
 ||minermask.online^$all
 ||minermine.com^$all
 ||minermoon.online^$all
+||minerone.pro^$all
+||minerone.vip^$all
 ||minerotrades.com^$all
 ||minerrent.net^$all
 ||miners-deck.ltd^$all
@@ -26904,6 +26908,7 @@
 ||mtweb68.com^$all
 ||mtyl.allh5.com^$all
 ||mtzcoin.live^$all
+||mu-coin.com^$all
 ||mubeentrading.com^$all
 ||much666.muhgscooin.com^$all
 ||much666.muhgszacoin.com^$all
@@ -36671,9 +36676,11 @@
 ||www-vip.oklink.fit^$all
 ||www-ysb.com^$all
 ||www.aismexin.com^$all
+||www.albb7815.vip^$all
 ||www.cnaacoin.com^$all
 ||www.cnxvczo.vip^$all
 ||www.ezagvip.com^$all
+||www.fcchaian.vip^$all
 ||www.genepro-ex.com^$all
 ||www.huidonginvestment.com^$all
 ||www.klweb.vip^$all

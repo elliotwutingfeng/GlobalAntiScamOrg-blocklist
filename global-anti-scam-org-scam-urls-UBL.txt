@@ -1549,6 +1549,7 @@
 *://*.albb11681168.com/*
 *://*.albb16881688.com/*
 *://*.albb771.com/*
+*://*.albb7815.vip/*
 *://*.albbsh19.xyz/*
 *://*.albit-earn.gold/*
 *://*.albitr.com/*
@@ -17427,6 +17428,7 @@
 *://*.fc69.online/*
 *://*.fcacryptoglobal.com/*
 *://*.fcaox.com/*
+*://*.fcchaian.vip/*
 *://*.fcchainv.vip/*
 *://*.fccstakingdapp.com/*
 *://*.fccvip.cc/*
@@ -25605,6 +25607,7 @@
 *://*.metroautotrade.com/*
 *://*.metroblockchain.ltd/*
 *://*.metrocoin.pw/*
+*://*.metroengineeringservices.com/*
 *://*.metrofx-mining.com/*
 *://*.metrofx-trading.com/*
 *://*.metrofxhub.live/*
@@ -25822,6 +25825,8 @@
 *://*.minermask.online/*
 *://*.minermine.com/*
 *://*.minermoon.online/*
+*://*.minerone.pro/*
+*://*.minerone.vip/*
 *://*.minerotrades.com/*
 *://*.minerrent.net/*
 *://*.miners-deck.ltd/*
@@ -26455,6 +26460,7 @@
 *://*.mtweb68.com/*
 *://*.mtyl99.com/*
 *://*.mtzcoin.live/*
+*://*.mu-coin.com/*
 *://*.muanlife123.com/*
 *://*.mubeentrading.com/*
 *://*.muchmore.vip/*
@@ -32217,6 +32223,7 @@
 *://*.tezoswer.com/*
 *://*.tf1688.net/*
 *://*.tf7688.net/*
+*://*.tf9980.cc/*
 *://*.tfcfootball.com/*
 *://*.tfcm-protrading.com/*
 *://*.tfcvcoin.com/*
