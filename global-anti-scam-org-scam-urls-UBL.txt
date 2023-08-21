@@ -7673,6 +7673,7 @@
 *://*.bsdsyey.com/*
 *://*.bsep.online/*
 *://*.bsep.site/*
+*://*.bsep.store/*
 *://*.bsfxexp.com/*
 *://*.bsjkdlk.com/*
 *://*.bsn19.com/*
@@ -35497,6 +35498,7 @@
 *://*.wanderingtraders.com/*
 *://*.wanfinance.xyz/*
 *://*.wang.moe/*
+*://*.wangyi-mart.com/*
 *://*.wanhong321.com/*
 *://*.wanhuiss.com/*
 *://*.wanhuitrc.com/*

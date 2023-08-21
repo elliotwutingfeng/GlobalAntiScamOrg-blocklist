@@ -2134,6 +2134,7 @@
 ||aope.besp.website^$all
 ||aope.bsep.online^$all
 ||aope.bsep.site^$all
+||aope.bsep.store^$all
 ||aope.oxeoxe.co^$all
 ||aovo-tw.com^$all
 ||aoyamainvest.com^$all
@@ -35844,6 +35845,7 @@
 ||wanderingtraders.com^$all
 ||wanfinance.xyz^$all
 ||wang.moe^$all
+||wangyi-mart.com^$all
 ||wanhong321.com^$all
 ||wanhuiss.com^$all
 ||wanjiahuangjin.com^$all
