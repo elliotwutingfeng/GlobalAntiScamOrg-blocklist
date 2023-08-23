@@ -3412,6 +3412,7 @@
 *://*.bbncmd.com/*
 *://*.bboilyf.com/*
 *://*.bbonmarket.com/*
+*://*.bbq-x.com/*
 *://*.bbs157.com/*
 *://*.bbs157.net/*
 *://*.bbs2001.net/*
@@ -4812,6 +4813,7 @@
 *://*.bitcoincrytovest.com/*
 *://*.bitcoindefi.cloud/*
 *://*.bitcoindefi.financial/*
+*://*.bitcoindefi.live/*
 *://*.bitcoindehandelsunternehmen.net/*
 *://*.bitcoindepotstore.com/*
 *://*.bitcoindynamit.app/*
@@ -8114,6 +8116,7 @@
 *://*.btgovtw88.com/*
 *://*.bth-coin.us/*
 *://*.bth-coinbase.vip/*
+*://*.bthcoinbase.cc/*
 *://*.bthexb.com/*
 *://*.btinkis.com/*
 *://*.btions.com/*
@@ -9125,6 +9128,7 @@
 *://*.chainbit24.com/*
 *://*.chainbrokertrade.com/*
 *://*.chaincapitalfx.com/*
+*://*.chaincecoin.com/*
 *://*.chainceex.com/*
 *://*.chainceinfoex.top/*
 *://*.chaincofx.net/*
@@ -22622,6 +22626,7 @@
 *://*.intra-trading.com/*
 *://*.intradaytrading.app/*
 *://*.intramirror-023.top/*
+*://*.intramirror-047.top/*
 *://*.intrexcapitalfx.com/*
 *://*.introcapitaltrade.com/*
 *://*.introcoin.biz/*
@@ -23321,6 +23326,7 @@
 *://*.juno-global.com/*
 *://*.juno.investments/*
 *://*.junoglobal.cc/*
+*://*.junoxie.com/*
 *://*.jupitermining.net/*
 *://*.jurassicoins.com/*
 *://*.justbecauseimetyou.com/*
@@ -23337,6 +23343,7 @@
 *://*.jvceaexx.com/*
 *://*.jvgrbqn.top/*
 *://*.jvmpingbearscrypto.com/*
+*://*.jw888.cc/*
 *://*.jwab9sasocrx.com/*
 *://*.jwcoin.net/*
 *://*.jx753.cn/*
@@ -25658,6 +25665,7 @@
 *://*.mexctradepromax.com/*
 *://*.mexcuzo.com/*
 *://*.mexcvip01.com/*
+*://*.mexd4.com/*
 *://*.mexglobal.pro/*
 *://*.mexglobal.top/*
 *://*.mexglobal.wiki/*
@@ -28507,6 +28515,7 @@
 *://*.pockettradingsignal.net/*
 *://*.pocumtuck.com/*
 *://*.podcastaw.com/*
+*://*.podcastbf.com/*
 *://*.podcastdw.com/*
 *://*.poecryptocoin.com/*
 *://*.pogglobal.cc/*
@@ -31015,6 +31024,7 @@
 *://*.socialsnow.xyz/*
 *://*.socialsto.com/*
 *://*.socialsto.xyz/*
+*://*.socialtamccks.cc/*
 *://*.socialtradernetwork.ltd/*
 *://*.socialtradingpk.com/*
 *://*.socktkf.com/*
@@ -32497,6 +32507,7 @@
 *://*.tiktkoshop.com/*
 *://*.tikto2020.com/*
 *://*.tiktok-nft.cc/*
+*://*.tiktok-shop.click/*
 *://*.tiktok2020.com/*
 *://*.tiktokfreecoins.com/*
 *://*.tiktokhoping.com/*
@@ -33843,6 +33854,7 @@
 *://*.tw.com/*
 *://*.tw111.net/*
 *://*.tw11st.com/*
+*://*.tw268.top/*
 *://*.tw279.com/*
 *://*.tw3368.top/*
 *://*.tw692.top/*
@@ -35805,6 +35817,7 @@
 *://*.whgj66.com/*
 *://*.whgj668.cc/*
 *://*.whgj68.com/*
+*://*.whgj756.com/*
 *://*.whgj77.com/*
 *://*.whgj988.com/*
 *://*.whitcex.net/*

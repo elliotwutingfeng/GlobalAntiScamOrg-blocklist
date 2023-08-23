@@ -747,6 +747,7 @@
 ||a.885883.cn^$all
 ||a.anhdty.com^$all
 ||a.avainvestr.com^$all
+||a.b.tw268.top^$all
 ||a.b.tw3368.top^$all
 ||a.b.tw692.top^$all
 ||a.b.tw718.top^$all
@@ -3645,6 +3646,7 @@
 ||bbncmd.com^$all
 ||bboilyf.com^$all
 ||bbonmarket.com^$all
+||bbq-x.com^$all
 ||bbs.visfjie.com^$all
 ||bbs157.com^$all
 ||bbs157.net^$all
@@ -8190,6 +8192,7 @@
 ||btgovtw88.com^$all
 ||bth-coin.us^$all
 ||bth-coinbase.vip^$all
+||bthcoinbase.cc^$all
 ||btinkis.com^$all
 ||btions.com^$all
 ||btjnwkejrnsmk.com^$all
@@ -9153,6 +9156,7 @@
 ||chainbit24.com^$all
 ||chainbrokertrade.com^$all
 ||chaincapitalfx.com^$all
+||chaincecoin.com^$all
 ||chainceex.com^$all
 ||chainceinfoex.top^$all
 ||chaincofx.net^$all
@@ -22770,6 +22774,7 @@
 ||intra-trading.com^$all
 ||intradaytrading.app^$all
 ||intramirror-023.top^$all
+||intramirror-047.top^$all
 ||intrexcapitalfx.com^$all
 ||introcapitaltrade.com^$all
 ||introcoin.biz^$all
@@ -23408,6 +23413,7 @@
 ||jvceaexx.com^$all
 ||jvgrbqn.top^$all
 ||jvmpingbearscrypto.com^$all
+||jw888.cc^$all
 ||jwab9sasocrx.com^$all
 ||jwcoin.net^$all
 ||jx-bopt.h5fun.net^$all
@@ -26113,6 +26119,7 @@
 ||mexctradepromax.com^$all
 ||mexcuzo.com^$all
 ||mexcvip01.com^$all
+||mexd4.com^$all
 ||mexglobal.pro^$all
 ||mexglobal.top^$all
 ||mexglobal.wiki^$all
@@ -28891,6 +28898,7 @@
 ||pockettradingsignal.net^$all
 ||pocumtuck.com^$all
 ||podcastaw.com^$all
+||podcastbf.com^$all
 ||podcastdw.com^$all
 ||poecryptocoin.com^$all
 ||pogglobal.cc^$all
@@ -32352,6 +32360,7 @@
 ||teamsmining.com^$all
 ||teamstocktrades.com^$all
 ||tech-prominers.org^$all
+||tech.socialtamccks.cc^$all
 ||techacefx.ltd^$all
 ||techbtc.pro^$all
 ||techecoin.com^$all
@@ -36319,6 +36328,7 @@
 ||whalexca.com^$all
 ||whcshop.com^$all
 ||whgj68.com^$all
+||whgj756.com^$all
 ||whgj77.com^$all
 ||whgj988.com^$all
 ||whh.atcqt.com^$all
@@ -36679,14 +36689,18 @@
 ||www-ysb.com^$all
 ||www.aismexin.com^$all
 ||www.albb7815.vip^$all
+||www.bitcoindefi.live^$all
 ||www.cnaacoin.com^$all
 ||www.cnxvczo.vip^$all
+||www.derivativemarket-app.com^$all
 ||www.ezagvip.com^$all
 ||www.fcchaian.vip^$all
 ||www.genepro-ex.com^$all
 ||www.huidonginvestment.com^$all
+||www.junoxie.com^$all
 ||www.klweb.vip^$all
 ||www.smjsht581.top^$all
+||www.tiktok-shop.click^$all
 ||www1.dt599.net^$all
 ||www1.initaltrades.com^$all
 ||www1.zxbit1.com^$all
