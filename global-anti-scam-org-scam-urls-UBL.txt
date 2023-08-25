@@ -1401,6 +1401,7 @@
 *://*.ahxex.com/*
 *://*.ahxgehiwgha.com/*
 *://*.ahzbeuiqhwee.com/*
+*://*.ahzza.com/*
 *://*.ai-bitcoin.online/*
 *://*.ai-crypto.cloud/*
 *://*.ai-cryptotraders.com/*
@@ -1580,6 +1581,7 @@
 *://*.ale1688.com/*
 *://*.alephfx.com/*
 *://*.alexacryptofx.com/*
+*://*.alexdnys.top/*
 *://*.alexincoin.com/*
 *://*.alextrade1.top/*
 *://*.alextrade2.top/*
@@ -3655,6 +3657,7 @@
 *://*.best-finance-credit.com/*
 *://*.best-finn-invest.com/*
 *://*.best-mt5.com/*
+*://*.best-worldexpertosysolucionesit.com/*
 *://*.best4crypto.exchange/*
 *://*.bestaby.com/*
 *://*.bestaicrypto.pro/*
@@ -8956,6 +8959,7 @@
 *://*.cbx-coin.net/*
 *://*.cbxbit.top/*
 *://*.cbxcoins.vip/*
+*://*.cbxex.com/*
 *://*.cbxp.vip/*
 *://*.cbxsc.vip/*
 *://*.cbyaskf.com/*
@@ -9301,6 +9305,7 @@
 *://*.chobit-mails.com/*
 *://*.choicefx.online/*
 *://*.chorderct.com/*
+*://*.chorderxi.com/*
 *://*.chosenone.io/*
 *://*.choshop.net/*
 *://*.chrimafx.com/*
@@ -15059,6 +15064,7 @@
 *://*.e0t0r.com/*
 *://*.e3eatw.bond/*
 *://*.e9btc.com/*
+*://*.ea-mart.space/*
 *://*.eaconomy.io/*
 *://*.eafxtm.com/*
 *://*.eagle2trade.com/*
@@ -17527,6 +17533,7 @@
 *://*.fcnwod.com/*
 *://*.fcnwodd.com/*
 *://*.fcnworld.com/*
+*://*.fcoceon.vip/*
 *://*.fcoecxe.vip/*
 *://*.fcossti.vip/*
 *://*.fcpjtz.com/*
@@ -24956,6 +24963,7 @@
 *://*.luckbim.com/*
 *://*.luckjupiter-coin.com/*
 *://*.luckjupiter_coin.com/*
+*://*.lucklovey.com/*
 *://*.lucky82.com/*
 *://*.luckybitc.com/*
 *://*.luckycoin.shop/*
@@ -27638,6 +27646,7 @@
 *://*.ogolb.com/*
 *://*.ogold.com/*
 *://*.oheho.com/*
+*://*.ohh2you.com/*
 *://*.ohjoi.top/*
 *://*.ohmeho.com/*
 *://*.ohoooho.com/*

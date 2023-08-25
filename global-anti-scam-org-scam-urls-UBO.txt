@@ -3871,6 +3871,7 @@
 ||best-finance-credit.com^$all
 ||best-finn-invest.com^$all
 ||best-mt5.com^$all
+||best-worldexpertosysolucionesit.com^$all
 ||best.bairdd.com^$all
 ||best4crypto.exchange^$all
 ||bestaicrypto.pro^$all
@@ -8971,6 +8972,7 @@
 ||cbx-coin.net^$all
 ||cbxbit.top^$all
 ||cbxcoins.vip^$all
+||cbxex.com^$all
 ||cbxp.vip^$all
 ||cbxsc.vip^$all
 ||cbzxcoin.com^$all
@@ -15206,6 +15208,7 @@
 ||e7301.htongtw.com^$all
 ||e9425.smyqpf.com^$all
 ||e9btc.com^$all
+||ea-mart.space^$all
 ||ea.tmnkeof.com^$all
 ||eaconomy.io^$all
 ||eafxtm.com^$all
@@ -24838,6 +24841,7 @@
 ||luckbim.com^$all
 ||luckjupiter-coin.com^$all
 ||luckjupiter_coin.com^$all
+||lucklovey.com^$all
 ||lucky.baojingbiz.com^$all
 ||lucky03.opuersw.net^$all
 ||lucky168.pleroma.cc^$all
@@ -28014,6 +28018,7 @@
 ||ogasupreme.com^$all
 ||ogone.intell8.com^$all
 ||oheho.com^$all
+||ohh2you.com^$all
 ||ohmeho.com^$all
 ||ohoooho.com^$all
 ||ohoooho88.com^$all
@@ -36815,10 +36820,12 @@
 ||www-poloniex.com^$all
 ||www-vip.oklink.fit^$all
 ||www-ysb.com^$all
+||www.ahzza.com^$all
 ||www.aismexin.com^$all
 ||www.aismexj.com^$all
 ||www.albb7815.vip^$all
 ||www.aldishoppin.com^$all
+||www.alexdnys.top^$all
 ||www.allemall.shop^$all
 ||www.am88.fit^$all
 ||www.appstoredown.net^$all
@@ -36838,6 +36845,7 @@
 ||www.cexio.link^$all
 ||www.chaincecoinex.com^$all
 ||www.chorderct.com^$all
+||www.chorderxi.com^$all
 ||www.cnaacoin.com^$all
 ||www.cnxvczo.vip^$all
 ||www.coinatcanna.com^$all
@@ -36853,6 +36861,7 @@
 ||www.eshop-tw.shop^$all
 ||www.ezagvip.com^$all
 ||www.fcchaian.vip^$all
+||www.fcoceon.vip^$all
 ||www.ft888.net^$all
 ||www.fxcmus52.top^$all
 ||www.gate7831.com^$all
