@@ -1003,6 +1003,7 @@
 ||abghtradefx.com^$all
 ||abidjanexchange.com^$all
 ||abieurofinancialservices.com^$all
+||abinitioen.com^$all
 ||abinitos.com^$all
 ||abinvestmentonline.com^$all
 ||abirotrades.com^$all
@@ -8019,6 +8020,7 @@
 ||btcelon.com^$all
 ||btcerainvest.com^$all
 ||btcethforex.com^$all
+||btcethg.com^$all
 ||btcex-official.site^$all
 ||btcex-rewards.website^$all
 ||btcex.bio^$all
@@ -9544,6 +9546,7 @@
 ||cloudminerspro.com^$all
 ||cloudmining.life^$all
 ||cloudmining.live^$all
+||cloudmining166.com^$all
 ||cloudmining5.com^$all
 ||cloudminingfarm.pro^$all
 ||cloudminingfin.uk^$all
@@ -11272,6 +11275,7 @@
 ||coinusdt66.com^$all
 ||coinusdt69.com^$all
 ||coinutame.com^$all
+||coinutgptw.com^$all
 ||coinutpl.com^$all
 ||coinutpool.io^$all
 ||coinutres.com^$all
@@ -11644,6 +11648,7 @@
 ||cq0002.com^$all
 ||cqhangfeng.com^$all
 ||cracksupport.com^$all
+||craeatpe.com^$all
 ||cramercoins.com^$all
 ||cranetradeholdings.com^$all
 ||crantrade.com^$all
@@ -15077,6 +15082,7 @@
 ||dukesexchange.com^$all
 ||duluxcoin.com^$all
 ||dumbllmarket.com^$all
+||dumblyfinanceinc.com^$all
 ||dunhuanggou.com^$all
 ||dunicorn.co^$all
 ||durafxtrade.com^$all
@@ -17853,6 +17859,7 @@
 ||financial-agent.com^$all
 ||financial-cointrade.com^$all
 ||financial-excel.com^$all
+||financial-fraud-recovery.net^$all
 ||financial-genius-investors.org^$all
 ||financial-rep.net^$all
 ||financial-trade.ltd^$all
@@ -21646,6 +21653,7 @@
 ||hf-traders.com^$all
 ||hf2003.cfd^$all
 ||hf688.net^$all
+||hfc-loan-car.com.tw^$all
 ||hfcfinance.xyz^$all
 ||hfct.hyhtml5.com^$all
 ||hfengmcy69.top^$all
@@ -25258,6 +25266,7 @@
 ||m.omxmax.net^$all
 ||m.oneshop.tw^$all
 ||m.ookvip.com^$all
+||m.otccee.com^$all
 ||m.pangaea-global.com^$all
 ||m.paxpro.vip^$all
 ||m.plasmaoracleglobal.com^$all
@@ -28107,6 +28116,7 @@
 ||ole777th.co^$all
 ||olegxbit.com^$all
 ||olexstake.com^$all
+||olive.cash^$all
 ||olivecryptotrade.com^$all
 ||olivepanlimited.com^$all
 ||olivetradex.com^$all
@@ -28976,6 +28986,7 @@
 ||pmb.myrnna.com^$all
 ||pmb.myrnne.com^$all
 ||pmb.wokaai.com^$all
+||pmeriatrade.com^$all
 ||pmj520.com^$all
 ||pmp-mine.com^$all
 ||pmpcoin.info^$all
@@ -30415,6 +30426,7 @@
 ||safemetatrading.com^$all
 ||safemoretrx.cc^$all
 ||safepal.aigrid.site^$all
+||safepal.aigridex.com^$all
 ||safepal.aigridpro.com^$all
 ||safepal.bet^$all
 ||safepal365-eth.info^$all
@@ -31076,6 +31088,7 @@
 ||simexclub.com^$all
 ||simexidn.com^$all
 ||simexkyc.com^$all
+||similarsnsdefi.com^$all
 ||simonshop.app^$all
 ||simonshop.org^$all
 ||simplecapitalfx.com^$all
@@ -36302,6 +36315,7 @@
 ||web.yesstyleorder.com^$all
 ||web.zuigg.biz^$all
 ||web.zurex.cc^$all
+||web3-cointrade.org^$all
 ||web3-cryptohopper.com^$all
 ||web3-index.org^$all
 ||web3.coinivs.com^$all
@@ -36849,6 +36863,7 @@
 ||www.cnaacoin.com^$all
 ||www.cnxvczo.vip^$all
 ||www.coinatcanna.com^$all
+||www.coinexx.io^$all
 ||www.coinmarketses-us.cc^$all
 ||www.coiwehes.com^$all
 ||www.csdinjf.com^$all
@@ -36859,10 +36874,12 @@
 ||www.edxmarkets.top^$all
 ||www.egsstart.top^$all
 ||www.eshop-tw.shop^$all
+||www.etoraierkuy.com^$all
 ||www.ezagvip.com^$all
 ||www.fcchaian.vip^$all
 ||www.fcoceon.vip^$all
 ||www.ft888.net^$all
+||www.fuex.net^$all
 ||www.fxcmus52.top^$all
 ||www.gate7831.com^$all
 ||www.gendaxawatawjdweal.com^$all
@@ -36880,11 +36897,13 @@
 ||www.jjurer.com^$all
 ||www.junoxie.com^$all
 ||www.kavabeef.com^$all
+||www.kinvestcaps.com^$all
 ||www.klweb.vip^$all
 ||www.kucoin135.com^$all
 ||www.lazadalc.com^$all
 ||www.lissshop.com^$all
 ||www.mg81909.top^$all
+||www.miracledxsx.com^$all
 ||www.moondnyh.com^$all
 ||www.mx124.cn^$all
 ||www.mxexchang.com^$all

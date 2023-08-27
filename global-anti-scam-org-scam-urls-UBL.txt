@@ -971,6 +971,7 @@
 *://*.abghtradefx.com/*
 *://*.abidjanexchange.com/*
 *://*.abieurofinancialservices.com/*
+*://*.abinitioen.com/*
 *://*.abinitos.com/*
 *://*.abinvestmentonline.com/*
 *://*.abirotrades.com/*
@@ -1448,6 +1449,7 @@
 *://*.aifundslimited.org/*
 *://*.aifxholding.com/*
 *://*.aigrid.site/*
+*://*.aigridex.com/*
 *://*.aigridpro.com/*
 *://*.aiinvesttrade.com/*
 *://*.ailandcoin.shop/*
@@ -7931,6 +7933,7 @@
 *://*.btcelon.com/*
 *://*.btcerainvest.com/*
 *://*.btcethforex.com/*
+*://*.btcethg.com/*
 *://*.btcex-official.site/*
 *://*.btcex-rewards.website/*
 *://*.btcex.bio/*
@@ -9531,6 +9534,7 @@
 *://*.cloudminerspro.com/*
 *://*.cloudmining.life/*
 *://*.cloudmining.live/*
+*://*.cloudmining166.com/*
 *://*.cloudmining5.com/*
 *://*.cloudminingfarm.pro/*
 *://*.cloudminingfin.uk/*
@@ -10462,6 +10466,7 @@
 *://*.coinexvip.cc/*
 *://*.coinexvip.top/*
 *://*.coinexweb.xyz/*
+*://*.coinexx.io/*
 *://*.coinezx-global.cloud/*
 *://*.coinface.org/*
 *://*.coinfactory.live/*
@@ -11335,6 +11340,7 @@
 *://*.coinusdt66.com/*
 *://*.coinusdt69.com/*
 *://*.coinutame.com/*
+*://*.coinutgptw.com/*
 *://*.coinutpl.com/*
 *://*.coinutpool.io/*
 *://*.coinutres.com/*
@@ -11749,6 +11755,7 @@
 *://*.cqja.tw/*
 *://*.cqyanzhong.com/*
 *://*.cracksupport.com/*
+*://*.craeatpe.com/*
 *://*.cramercoins.com/*
 *://*.cranetradeholdings.com/*
 *://*.crantrade.com/*
@@ -14936,6 +14943,7 @@
 *://*.dukesexchange.com/*
 *://*.duluxcoin.com/*
 *://*.dumbllmarket.com/*
+*://*.dumblyfinanceinc.com/*
 *://*.dunhuanggou.com/*
 *://*.dunicorn.co/*
 *://*.duopq.top/*
@@ -16696,6 +16704,7 @@
 *://*.eto-stack.com/*
 *://*.eto.cash/*
 *://*.etoraeotes.com/*
+*://*.etoraierkuy.com/*
 *://*.etoraiertes.com/*
 *://*.etoraieryos.com/*
 *://*.etoro-et.online/*
@@ -17807,6 +17816,7 @@
 *://*.financial-agent.com/*
 *://*.financial-cointrade.com/*
 *://*.financial-excel.com/*
+*://*.financial-fraud-recovery.net/*
 *://*.financial-genius-investors.org/*
 *://*.financial-rep.net/*
 *://*.financial-trade.ltd/*
@@ -18653,6 +18663,7 @@
 *://*.fudingking.com/*
 *://*.fuelcoin.tech/*
 *://*.fuex-pro.com/*
+*://*.fuex.net/*
 *://*.fuexet.com/*
 *://*.fuexmt.com/*
 *://*.fuexs.com/*
@@ -21413,6 +21424,7 @@
 *://*.hf-traders.com/*
 *://*.hf2003.cfd/*
 *://*.hf688.net/*
+*://*.hfc-loan-car.com.tw/*
 *://*.hfcfinance.xyz/*
 *://*.hfengmcy69.top/*
 *://*.hfghfx.com/*
@@ -23805,6 +23817,7 @@
 *://*.kinsmine.com/*
 *://*.kinstafx.com/*
 *://*.kinvestcap.com/*
+*://*.kinvestcaps.com/*
 *://*.kioe.xyz/*
 *://*.kion.rocks/*
 *://*.kion.work/*
@@ -26204,6 +26217,7 @@
 *://*.mipexcrypto.com/*
 *://*.mir-refund.live/*
 *://*.miraclecoins884.com/*
+*://*.miracledxsx.com/*
 *://*.miracletro.com/*
 *://*.miragecoins.com/*
 *://*.mirai-trade.com/*
@@ -27750,6 +27764,7 @@
 *://*.ole777th.co/*
 *://*.olegxbit.com/*
 *://*.olexstake.com/*
+*://*.olive.cash/*
 *://*.olivecryptotrade.com/*
 *://*.olivepanlimited.com/*
 *://*.olivetradex.com/*
@@ -28057,6 +28072,7 @@
 *://*.otb123.xyz/*
 *://*.otc-ethh.org/*
 *://*.otc-mexc.com/*
+*://*.otccee.com/*
 *://*.otcfsx-vip.com/*
 *://*.otcindia.trade/*
 *://*.otcintaiwan.com/*
@@ -28634,6 +28650,7 @@
 *://*.plutofxtrades.com/*
 *://*.plwda800.net/*
 *://*.plyfx.online/*
+*://*.pmeriatrade.com/*
 *://*.pmj520.com/*
 *://*.pmp-mine.com/*
 *://*.pmpcoin.info/*
@@ -30845,6 +30862,7 @@
 *://*.simexclub.com/*
 *://*.simexidn.com/*
 *://*.simexkyc.com/*
+*://*.similarsnsdefi.com/*
 *://*.simkk.cn/*
 *://*.simonshop.app/*
 *://*.simonshop.org/*
@@ -35842,6 +35860,7 @@
 *://*.web-layer2.org/*
 *://*.web-tradeplus.com/*
 *://*.web.app/*
+*://*.web3-cointrade.org/*
 *://*.web3-cryptohopper.com/*
 *://*.web3-index.org/*
 *://*.web30defi.org/*
