@@ -43,6 +43,7 @@
 *://*.115198.space/*
 *://*.115295.com/*
 *://*.11shop.vip/*
+*://*.11stc.com/*
 *://*.11stm.shop/*
 *://*.11stw.shop/*
 *://*.11xcrypto.com/*
@@ -777,6 +778,7 @@
 *://*.Foxwallet.top/*
 *://*.HUNFX.COM/*
 *://*.Imcyp.com/*
+*://*.Lao2008.com/*
 *://*.Nobeliumhackers.com/*
 *://*.Novasfx.com/*
 *://*.RHONECOIN.com/*
@@ -1568,6 +1570,7 @@
 *://*.albit-earn.gold/*
 *://*.albitr.com/*
 *://*.albuquercoins.com/*
+*://*.albus.finance/*
 *://*.alc53.com/*
 *://*.alca-central.com/*
 *://*.alccoin.live/*
@@ -1913,6 +1916,7 @@
 *://*.amendaex.com/*
 *://*.amendaex.vip/*
 *://*.amerainvests.trade/*
+*://*.america-mall.cc/*
 *://*.america-ned.com/*
 *://*.america-task.com/*
 *://*.americamerrilllynch1914.com/*
@@ -3570,6 +3574,7 @@
 *://*.beastexch247.com/*
 *://*.beastrading.com/*
 *://*.beaticecryptos.com/*
+*://*.beauxas.vip/*
 *://*.bebmining.com/*
 *://*.bebofx.com/*
 *://*.becent388.com/*
@@ -9183,6 +9188,7 @@
 *://*.cfxdigitals.com/*
 *://*.cfxintuo.xyz/*
 *://*.cfxpremium.net/*
+*://*.cfxtradesoption.com/*
 *://*.cg2021.xyz/*
 *://*.cgcerex.com/*
 *://*.cgdg.xyz/*
@@ -9678,6 +9684,7 @@
 *://*.cmitcen.com/*
 *://*.cmiusbta.vip/*
 *://*.cmivpg.com/*
+*://*.cmksrwgt.cfd/*
 *://*.cmmae.com/*
 *://*.cmmcisecurities.com/*
 *://*.cmouks.com/*
@@ -14872,6 +14879,7 @@
 *://*.dozbit.com/*
 *://*.dozbm.com/*
 *://*.dp-investrade.com/*
+*://*.dp7.tw/*
 *://*.dpethmin.com/*
 *://*.dpex.vip/*
 *://*.dpifxetc.cc/*
@@ -21116,6 +21124,7 @@
 *://*.gspsexpress.com/*
 *://*.gsras.com/*
 *://*.gssdfc.com/*
+*://*.gstarfx.net/*
 *://*.gstrade.online/*
 *://*.gsturex.com/*
 *://*.gsziben.net/*
@@ -22090,6 +22099,7 @@
 *://*.huayangs.net/*
 *://*.huayusecurities.com/*
 *://*.huayushares.com/*
+*://*.huayutwrr.com/*
 *://*.hub-crypto.xyz/*
 *://*.hubcultures.com/*
 *://*.hubcultures.net/*
@@ -30215,6 +30225,7 @@
 *://*.rynoexpressservice.com/*
 *://*.rzdhdu.com/*
 *://*.rzqfinance.com/*
+*://*.s-finance.live/*
 *://*.s-fx.world/*
 *://*.s-markets.cc/*
 *://*.s-na8.com/*
@@ -30851,6 +30862,7 @@
 *://*.shopssk.com/*
 *://*.shopsvip.link/*
 *://*.shopsyx.com/*
+*://*.shoptwn.com/*
 *://*.shopvipgiveback.com/*
 *://*.shopvmp.com/*
 *://*.shopvvv.com/*
@@ -36029,6 +36041,7 @@
 *://*.web-layer2.org/*
 *://*.web-tradeplus.com/*
 *://*.web.app/*
+*://*.web3-cointrade.net/*
 *://*.web3-cointrade.org/*
 *://*.web3-cryptohopper.com/*
 *://*.web3-index.org/*
@@ -37660,6 +37673,7 @@
 *://*.zutmining.com/*
 *://*.zuttelo.world/*
 *://*.zvcbd.xyz/*
+*://*.zvcnt.top/*
 *://*.zvdpr.top/*
 *://*.zw585.com/*
 *://*.zwiahbgd.site/*

@@ -723,6 +723,7 @@
 ||Ic.maooam.cn^$all
 ||Imcyp.com^$all
 ||Iss.ruixg.cnhomelogininbes.ht^$all
+||Lao2008.com^$all
 ||MetaBit30.mettbit.com^$all
 ||Nirvana.finigm.com^$all
 ||Nobeliumhackers.com^$all
@@ -1575,6 +1576,8 @@
 ||albit-earn.gold^$all
 ||albitr.com^$all
 ||albuquercoins.com^$all
+||albus-us.xcmud.top^$all
+||albus.finance^$all
 ||alc53.com^$all
 ||alca-central.com^$all
 ||alccoin.live^$all
@@ -2866,6 +2869,7 @@
 ||asia-greenltd.com^$all
 ||asia-greenltdss.com^$all
 ||asia-net.pro^$all
+||asia.11stc.com^$all
 ||asia.11stm.shop^$all
 ||asia.11stw.shop^$all
 ||asia.etfuneoro.com^$all
@@ -9210,6 +9214,7 @@
 ||cfxdigitals.com^$all
 ||cfxintuo.xyz^$all
 ||cfxpremium.net^$all
+||cfxtradesoption.com^$all
 ||cg2021.xyz^$all
 ||cgbo.ios03.com^$all
 ||cgcerex.com^$all
@@ -9694,6 +9699,7 @@
 ||cmitcen.com^$all
 ||cmiusbta.vip^$all
 ||cmivpg.com^$all
+||cmksrwgt.cfd^$all
 ||cmmcisecurities.com^$all
 ||cmsbita.com^$all
 ||cmuspro.com^$all
@@ -21030,6 +21036,7 @@
 ||gspsexpress.com^$all
 ||gsras.com^$all
 ||gssdfc.com^$all
+||gstarfx.net^$all
 ||gstrade.online^$all
 ||gsturex.com^$all
 ||gsziben.net^$all
@@ -21402,6 +21409,7 @@
 ||h5.ptelnc.live^$all
 ||h5.rosemp.vip^$all
 ||h5.ry5b5mmj.com^$all
+||h5.s-finance.live^$all
 ||h5.scbs.pw^$all
 ||h5.schroders.digital^$all
 ||h5.sespu.com^$all
@@ -31133,6 +31141,7 @@
 ||shoppwisnik.club^$all
 ||shoppxmousi.shop^$all
 ||shopsmovie.com^$all
+||shoptwn.com^$all
 ||shopvipgiveback.com^$all
 ||shopvmp.com^$all
 ||shopwako.com^$all
@@ -36515,6 +36524,7 @@
 ||web.yesstyleorder.com^$all
 ||web.zuigg.biz^$all
 ||web.zurex.cc^$all
+||web3-cointrade.net^$all
 ||web3-cointrade.org^$all
 ||web3-cryptohopper.com^$all
 ||web3-index.org^$all
@@ -37038,6 +37048,8 @@
 ||www-vip.oklink.fit^$all
 ||www-ysb.com^$all
 ||www.alexjtdx.com^$all
+||www.america-mall.cc^$all
+||www.beauxas.vip^$all
 ||www.bh1788.co^$all
 ||www.bitazavmi.com^$all
 ||www.bitget-maxtsi.com^$all
@@ -37056,6 +37068,7 @@
 ||www.cmegrouz.com^$all
 ||www.coinoak1995.com^$all
 ||www.dfi-moneybg.com^$all
+||www.dp7.tw^$all
 ||www.dwflabs.cc^$all
 ||www.ebay-tw.wiki^$all
 ||www.eliteparcelservice.com^$all
@@ -37070,6 +37083,7 @@
 ||www.gold-supermall.com^$all
 ||www.greatshop.cc^$all
 ||www.gvfyguf.com^$all
+||www.huayutwrr.com^$all
 ||www.jpmgine.pw^$all
 ||www.jsforex25.com^$all
 ||www.kcraeres.com^$all
@@ -38092,6 +38106,7 @@
 ||zurichmining.xyz^$all
 ||zutmining.com^$all
 ||zvcbd.xyz^$all
+||zvcnt.top^$all
 ||zw.hsqwjy.com^$all
 ||zw585.com^$all
 ||zwiahbgd.site^$all
