@@ -1702,6 +1702,7 @@
 *://*.allstocktrade.com/*
 *://*.alltradeinnovative.ltd/*
 *://*.alltradesolution.com/*
+*://*.alltrust-defi.com/*
 *://*.allwin008.com/*
 *://*.allwinbit.com/*
 *://*.allycoinfleetcircles.com/*
@@ -3336,6 +3337,7 @@
 *://*.bankcex.mobi/*
 *://*.bankhlbtw.com/*
 *://*.bankia-financial.com/*
+*://*.banocoin.org/*
 *://*.banoky.com/*
 *://*.bansgr.com/*
 *://*.bantercryptofxtrading.com/*
@@ -6088,6 +6090,7 @@
 *://*.bitopro.co.uk/*
 *://*.bitopro.us/*
 *://*.bitopro.wiki/*
+*://*.bitoproex.vip/*
 *://*.bitoptionmarket.online/*
 *://*.bitoptionmining.com/*
 *://*.bitoptionsmining.com/*
@@ -9726,6 +9729,7 @@
 *://*.cnlsa.store/*
 *://*.cnlsa.xyz/*
 *://*.cnncoin.pro/*
+*://*.cnouyi.expert/*
 *://*.cnqjd982.co/*
 *://*.cnqjdgt.com/*
 *://*.cnqyzb.com/*
@@ -10053,6 +10057,8 @@
 *://*.coinbase10.com/*
 *://*.coinbase14.com/*
 *://*.coinbase15.com/*
+*://*.coinbase150.com/*
+*://*.coinbase152.com/*
 *://*.coinbase23.com/*
 *://*.coinbase23.xyz/*
 *://*.coinbase27.com/*
@@ -11946,6 +11952,7 @@
 *://*.crtautotrading.com/*
 *://*.crunchbaseinvestment.com/*
 *://*.crvwtop.com/*
+*://*.crxo.com/*
 *://*.crybit.top/*
 *://*.crybitus.com/*
 *://*.cryfxcmprobitcored16.com/*
@@ -13879,6 +13886,7 @@
 *://*.dbexbes.com/*
 *://*.dbexbt.com/*
 *://*.dbg-coltd.com/*
+*://*.dbg-coltdfx.cc/*
 *://*.dbgcntw.com/*
 *://*.dbgmarke886.com/*
 *://*.dbgmarketw.com/*
@@ -14395,6 +14403,7 @@
 *://*.dfi-fx.com/*
 *://*.dfi-moneyag.com/*
 *://*.dfi-moneyah.com/*
+*://*.dfi-moneyaj.com/*
 *://*.dfi-moneybg.com/*
 *://*.dfinity.mobi/*
 *://*.dfl-finance-service.com/*
@@ -15193,6 +15202,7 @@
 *://*.east-century.com/*
 *://*.east-century.info/*
 *://*.east-shop.shop/*
+*://*.eastasiannft.com/*
 *://*.eastpac.live/*
 *://*.easttd.com/*
 *://*.easy-bitcoin.online/*
@@ -21660,6 +21670,7 @@
 *://*.hirosetws.wiki/*
 *://*.his9603.cc/*
 *://*.hisensecoinzs.live/*
+*://*.hispeedtrading0728.com/*
 *://*.hitaltcoins.com/*
 *://*.hitbcx.co/*
 *://*.hitbite.shop/*
@@ -21854,6 +21865,7 @@
 *://*.homemalltw.com/*
 *://*.homemals.com/*
 *://*.homeofcrypto.net/*
+*://*.homeshop18.top/*
 *://*.homles.city/*
 *://*.hon-ho2.com/*
 *://*.honchlimited.com/*
@@ -22043,6 +22055,7 @@
 *://*.hsjrng.tw/*
 *://*.hsksmga.cn/*
 *://*.hsqwjy.com/*
+*://*.hssosh.top/*
 *://*.hsuvsa.com/*
 *://*.hswapp.com/*
 *://*.hswer7.cc/*
@@ -24346,6 +24359,7 @@
 *://*.latexarbitrageholdings.com/*
 *://*.latexarbitrageholdings.net/*
 *://*.latoken-glo.com/*
+*://*.latokencrypto.com/*
 *://*.latourtradesintl.com/*
 *://*.lavaprime.com/*
 *://*.lavcoin.com/*
@@ -25976,6 +25990,7 @@
 *://*.mgm66998.com/*
 *://*.mgmfmac.online/*
 *://*.mgmmacau.live/*
+*://*.mgmvip.cc/*
 *://*.mgs.financial/*
 *://*.mgs1788.vip/*
 *://*.mgs1988.vip/*
@@ -28199,6 +28214,7 @@
 *://*.otb123.xyz/*
 *://*.otc-ethh.org/*
 *://*.otc-mexc.com/*
+*://*.otcbec.com/*
 *://*.otccee.com/*
 *://*.otcfsx-vip.com/*
 *://*.otcindia.trade/*
@@ -31532,6 +31548,7 @@
 *://*.sprintlitefx.com/*
 *://*.sprintminersfxs.com/*
 *://*.spsucmtx.vip/*
+*://*.spsunteccity.com/*
 *://*.spttoken.net/*
 *://*.spur51.com/*
 *://*.spurcryptooptions.com/*
@@ -31576,6 +31593,7 @@
 *://*.ssnvnudhjkwq.com/*
 *://*.ssolutionteam.com/*
 *://*.sspappfx.com/*
+*://*.ssshopcashbacking.com/*
 *://*.sstopapp.com/*
 *://*.ssvjhzv.com/*
 *://*.sswapep.vip/*
@@ -32032,6 +32050,7 @@
 *://*.surefxminers.com/*
 *://*.surefxoptions.com/*
 *://*.surelitefx.org/*
+*://*.sureoak-work65.com/*
 *://*.surerealbit.com/*
 *://*.suretradefinance.com/*
 *://*.suretradevest.ltd/*
@@ -32969,6 +32988,7 @@
 *://*.tmgm9.net/*
 *://*.tmgmex.com/*
 *://*.tmgmextws.com/*
+*://*.tmgmforexglobal.com/*
 *://*.tmgmfxcn.com/*
 *://*.tmgmom.com/*
 *://*.tmgmpro.xyz/*
@@ -33065,6 +33085,7 @@
 *://*.tokoshopeol.com/*
 *://*.tokoshopeom.club/*
 *://*.tokpiedex.com/*
+*://*.tokshop68.com/*
 *://*.tolikeweb.com/*
 *://*.tolodex.com/*
 *://*.tomaha-markets.com/*
@@ -34141,6 +34162,7 @@
 *://*.tsvcrod.com/*
 *://*.tsxpor.net/*
 *://*.ttaaa.me/*
+*://*.ttbusinss.com/*
 *://*.ttcd.xyz/*
 *://*.ttcoin.so/*
 *://*.ttcopp.com/*
@@ -36505,6 +36527,7 @@
 *://*.wprfmt.com/*
 *://*.wqddl.xyz/*
 *://*.wreherg.cn/*
+*://*.wrgyufh.com/*
 *://*.wrightvips.com/*
 *://*.wrxst-global.com/*
 *://*.wrxstfx.com/*

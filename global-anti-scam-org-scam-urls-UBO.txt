@@ -9741,6 +9741,7 @@
 ||cnjars.vip^$all
 ||cnlsa.store^$all
 ||cnncoin.pro^$all
+||cnouyi.expert^$all
 ||cnwhjs.cc^$all
 ||cnxvczo.vip^$all
 ||cnyb.com^$all
@@ -10064,6 +10065,8 @@
 ||coinbase10.com^$all
 ||coinbase14.com^$all
 ||coinbase15.com^$all
+||coinbase150.com^$all
+||coinbase152.com^$all
 ||coinbase23.com^$all
 ||coinbase27.com^$all
 ||coinbase28.com^$all
@@ -16430,6 +16433,7 @@
 ||eth-wintermute.top^$all
 ||eth-xt.com^$all
 ||eth-xtt.com^$all
+||eth.crxo.com^$all
 ||eth.iusdt.cc^$all
 ||eth.unidefibll.com^$all
 ||eth0mining.com^$all
@@ -18064,6 +18068,7 @@
 ||fir.clomc.com^$all
 ||fir.coboka.com^$all
 ||fir.ctidown99.club^$all
+||fir.eastasiannft.com^$all
 ||fir.geroinv.com^$all
 ||fir.oket.club^$all
 ||fir.richemintpa.com^$all
@@ -21430,6 +21435,7 @@
 ||h5.thelhjf.net^$all
 ||h5.theyhgj.net^$all
 ||h5.tokenplace.vip^$all
+||h5.tokshop68.com^$all
 ||h5.toobit.top^$all
 ||h5.tpexmax.com^$all
 ||h5.tpgabc.com^$all
@@ -22238,6 +22244,7 @@
 ||hsht355.com^$all
 ||hsinv.net^$all
 ||hsitex.com^$all
+||hssosh.top^$all
 ||hswapp.com^$all
 ||hsydl.com^$all
 ||hsystems.xyz^$all
@@ -24307,6 +24314,7 @@
 ||latexarbitrageholdings.com^$all
 ||latexarbitrageholdings.net^$all
 ||latoken-glo.com^$all
+||latokencrypto.com^$all
 ||latourtradesintl.com^$all
 ||lavaprime.com^$all
 ||lavcoin.com^$all
@@ -25409,6 +25417,7 @@
 ||m.omxmax.net^$all
 ||m.oneshop.tw^$all
 ||m.ookvip.com^$all
+||m.otcbec.com^$all
 ||m.otccee.com^$all
 ||m.pangaea-global.com^$all
 ||m.paxpro.vip^$all
@@ -26417,6 +26426,7 @@
 ||mgm60660.com^$all
 ||mgmfmac.online^$all
 ||mgmmacau.live^$all
+||mgmvip.cc^$all
 ||mgs.financial^$all
 ||mgs1788.vip^$all
 ||mgs1988.vip^$all
@@ -28820,12 +28830,14 @@
 ||paywaysfinance.com^$all
 ||pbfxcn.com^$all
 ||pc.03564.com^$all
+||pc.alltrust-defi.com^$all
 ||pc.bit-contract.com^$all
 ||pc.bitpro-options.com^$all
 ||pc.bitsten.net^$all
 ||pc.bkexpro.com^$all
 ||pc.chaoxie.shop^$all
 ||pc.cryptoswaper.net^$all
+||pc.dbg-coltdfx.cc^$all
 ||pc.defi2.fun^$all
 ||pc.gemini-pro.co^$all
 ||pc.holderpro.net^$all
@@ -34344,6 +34356,7 @@
 ||tst.huizhirongssl.top^$all
 ||tstset.com^$all
 ||tt01.zbaooo8588.com^$all
+||ttbusinss.com^$all
 ||ttcd.xyz^$all
 ||ttch.chubbd.com^$all
 ||ttch.dtnez001s.com^$all
@@ -36945,6 +36958,7 @@
 ||wowmiracle.net^$all
 ||woxkm.com^$all
 ||wp.hbnufu.md.ci^$all
+||wp.sureoak-work65.com^$all
 ||wp999.kx888888.cn^$all
 ||wpam.zxcomten.com^$all
 ||wpavqs.vip^$all
@@ -37049,12 +37063,14 @@
 ||www-ysb.com^$all
 ||www.alexjtdx.com^$all
 ||www.america-mall.cc^$all
+||www.banocoin.org^$all
 ||www.beauxas.vip^$all
 ||www.bh1788.co^$all
 ||www.bitazavmi.com^$all
 ||www.bitget-maxtsi.com^$all
 ||www.bitkeep2018.com^$all
 ||www.bitkulink.com^$all
+||www.bitoproex.vip^$all
 ||www.bitoxcoin.com^$all
 ||www.bjkcvcv.com^$all
 ||www.bl678.net^$all
@@ -37067,6 +37083,7 @@
 ||www.cfhkddwo03.top^$all
 ||www.cmegrouz.com^$all
 ||www.coinoak1995.com^$all
+||www.dfi-moneyaj.com^$all
 ||www.dfi-moneybg.com^$all
 ||www.dp7.tw^$all
 ||www.dwflabs.cc^$all
@@ -37083,6 +37100,8 @@
 ||www.gold-supermall.com^$all
 ||www.greatshop.cc^$all
 ||www.gvfyguf.com^$all
+||www.hispeedtrading0728.com^$all
+||www.homeshop18.top^$all
 ||www.huayutwrr.com^$all
 ||www.jpmgine.pw^$all
 ||www.jsforex25.com^$all
@@ -37110,10 +37129,13 @@
 ||www.rwlke.com^$all
 ||www.sgx7799.com^$all
 ||www.spartoo.vip^$all
+||www.spsunteccity.com^$all
+||www.ssshopcashbacking.com^$all
 ||www.starexchangei.com^$all
 ||www.starexchangex.com^$all
 ||www.tbtgost.com^$all
 ||www.thorchaino.com^$all
+||www.tmgmforexglobal.com^$all
 ||www.tradeopi.com^$all
 ||www.trekncy.com^$all
 ||www.tusd-mine.xyz^$all
@@ -37124,6 +37146,7 @@
 ||www.wb-one.com^$all
 ||www.whauihyg.com^$all
 ||www.wncgvax.com^$all
+||www.wrgyufh.com^$all
 ||www.xtzant.com^$all
 ||www.zftrsf.com^$all
 ||www.zlc.name^$all
