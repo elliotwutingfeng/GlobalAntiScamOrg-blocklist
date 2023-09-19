@@ -14866,6 +14866,7 @@
 *://*.dmbwap.vip/*
 *://*.dmcc-eth.com/*
 *://*.dmcc-eth20.com/*
+*://*.dmcc-ethesm.com/*
 *://*.dmcc-ethexr20.com/*
 *://*.dmcc-ethrco.com/*
 *://*.dmcccoin.com/*
@@ -22953,6 +22954,7 @@
 *://*.index.do/*
 *://*.indexassetmarket.com/*
 *://*.indexbinaryf2.com/*
+*://*.indexbinf2.com/*
 *://*.indexcrypto.ltd/*
 *://*.indexdigitalmarket.com/*
 *://*.indexfx.online/*
@@ -25469,6 +25471,7 @@
 *://*.lvshop.com.tw/*
 *://*.lw-tw.com/*
 *://*.lwcbrxh.xyz/*
+*://*.lwenudn.com/*
 *://*.lwords-man.xyz/*
 *://*.lwxywm.com/*
 *://*.lxanys.com/*
@@ -25478,6 +25481,7 @@
 *://*.lxmcshoptw.com/*
 *://*.lxsrrn.top/*
 *://*.lyakrl.com/*
+*://*.lybobet.com/*
 *://*.lycanretrieve.com/*
 *://*.lyhvr.top/*
 *://*.lykaswap.com/*
@@ -25559,6 +25563,7 @@
 *://*.mainfxtrade.org/*
 *://*.mainstream-detection.com/*
 *://*.mainstream-quotes.com/*
+*://*.mairavia-vk.com/*
 *://*.majestyhash.com/*
 *://*.majestyinvest.com/*
 *://*.majoritytrade.com/*
@@ -27772,6 +27777,7 @@
 *://*.nomibits.com/*
 *://*.nominex-korea.com/*
 *://*.nominexe.com/*
+*://*.nominexpmg.xyz/*
 *://*.none.com/*
 *://*.nonfungiblecoin.net/*
 *://*.nonghuongpro.online/*
@@ -28838,6 +28844,7 @@
 *://*.payironn.com/*
 *://*.paykt.buzz/*
 *://*.paymallso.today/*
+*://*.paymiumodd.com/*
 *://*.payriser-fx.pro/*
 *://*.payriserfx.site/*
 *://*.payrole.io/*
@@ -36325,6 +36332,7 @@
 *://*.vviptw.com/*
 *://*.vvtaa3.com/*
 *://*.vvyagerap.com/*
+*://*.vweb.com/*
 *://*.vweb.org/*
 *://*.vweb.top/*
 *://*.vwhcg0l7i2.com/*
@@ -37805,6 +37813,7 @@
 *://*.yuhenfx.com/*
 *://*.yuhengfx.com/*
 *://*.yuighjjf.com/*
+*://*.yujpon.com/*
 *://*.yulonfortw.com/*
 *://*.yulonfortw.xyz/*
 *://*.yum-forex.com/*

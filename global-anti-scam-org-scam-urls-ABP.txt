@@ -13815,6 +13815,7 @@
 ||d.metaexs.com^
 ||d.mfcrp.top^
 ||d.micex.buzz^
+||d.nominexpmg.xyz^
 ||d.nyseuronex.buzz^
 ||d.ohjoi.top^
 ||d.okqhd.top^
@@ -14305,6 +14306,7 @@
 ||defi.df-ethe.org^
 ||defi.dmcc-eth.com^
 ||defi.dmcc-eth20.com^
+||defi.dmcc-ethesm.com^
 ||defi.dmcc-ethexr20.com^
 ||defi.dmcc-ethrco.com^
 ||defi.etcdefi81.xyz^
@@ -23004,6 +23006,7 @@
 ||index.brokercfd.xyz^
 ||indexassetmarket.com^
 ||indexbinaryf2.com^
+||indexbinf2.com^
 ||indexcrypto.ltd^
 ||indexdigitalmarket.com^
 ||indexfx.online^
@@ -25158,6 +25161,7 @@
 ||loyalcoino-global.com^
 ||loyaltytraders.live^
 ||lp.btcc.academy^
+||lp.lybobet.com^
 ||lpbyduq.cn^
 ||lpegroupltd.com^
 ||lpg6668.com^
@@ -29072,6 +29076,7 @@
 ||payfastcoin.com^
 ||payironn.com^
 ||paykt.buzz^
+||paymiumodd.com^
 ||payriser-fx.pro^
 ||payriserfx.site^
 ||payrole.io^
@@ -37562,9 +37567,11 @@
 ||www.lqrer.com^
 ||www.lsex-ex.cc^
 ||www.lsex-main.com^
+||www.lwenudn.com^
 ||www.maicoincake.com^
 ||www.maicoindb.com^
 ||www.maicoinlapse.com^
+||www.mairavia-vk.com^
 ||www.martexiu.com^
 ||www.martovj.com^
 ||www.mastercardsvip.com^
@@ -37673,6 +37680,7 @@
 ||www.vipnosw.cn^
 ||www.vlctdfx.com^
 ||www.vnulouis.com^
+||www.vweb.com^
 ||www.wainant.top^
 ||www.walletsac.com^
 ||www.walmarteshop.net^
@@ -38308,6 +38316,7 @@
 ||yuhenfx.com^
 ||yuhengfx.com^
 ||yuighjjf.com^
+||yujpon.com^
 ||yulonfortw.com^
 ||yum-forex.com^
 ||yume168.extradtw.com^
