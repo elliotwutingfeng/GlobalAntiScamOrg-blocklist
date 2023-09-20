@@ -1757,6 +1757,7 @@
 ||alphaetrade.com^$all
 ||alphafinace.com^$all
 ||alphafinacec.com^$all
+||alphafinaced.com^$all
 ||alphafinacex.com^$all
 ||alphafinance.space^$all
 ||alphaforexmarkets.com^$all
@@ -9353,6 +9354,7 @@
 ||chainup-dex.com^$all
 ||chainvault.tech^$all
 ||chainxbit.com^$all
+||chakanr.com^$all
 ||champ.land^$all
 ||championproptrading.com^$all
 ||champtradefx.net^$all
@@ -15605,6 +15607,7 @@
 ||ebpexn.com^$all
 ||ebratradeinvestment.org^$all
 ||ebrbmining.com^$all
+||ebuy.alasikam.com^$all
 ||ebuy8899.com^$all
 ||ecacbwcxgvll.com^$all
 ||ecashmining.com^$all
@@ -22877,6 +22880,7 @@
 ||ignitersafemining.com^$all
 ||igo-town.com^$all
 ||igold1888.com^$all
+||igoldh8.com^$all
 ||igomarket.net^$all
 ||igomarketes.net^$all
 ||igomarketing.net^$all
@@ -23180,6 +23184,7 @@
 ||inukocoin.com^$all
 ||inv.top-fulfill.com^$all
 ||inveceltdteam.com^$all
+||invechcapital.co^$all
 ||invechcorporation.com^$all
 ||inverchy.elparii.com^$all
 ||inverchy.hk-exnews.com^$all
@@ -27477,6 +27482,7 @@
 ||mvs.richenraents.com^$all
 ||mvs.upbounes.com^$all
 ||mvs.upbounx.com^$all
+||mvxnft.net^$all
 ||mwhcapitals.com^$all
 ||mwhcp.com^$all
 ||mwhfx.com^$all
@@ -37395,6 +37401,7 @@
 ||www.anxindaii.com^$all
 ||www.appstoredown.net^$all
 ||www.auchanauntwds.vip^$all
+||www.baicoine.com^$all
 ||www.banocoin.org^$all
 ||www.barriers.cc^$all
 ||www.beauxas.vip^$all
@@ -37483,6 +37490,7 @@
 ||www.elc-6.com^$all
 ||www.eliteparcelservice.com^$all
 ||www.enlife.shop^$all
+||www.enlife.site^$all
 ||www.erchoraes.com^$all
 ||www.etimtoken4.com^$all
 ||www.etoracluy.com^$all
@@ -37584,6 +37592,7 @@
 ||www.mexczx.top^$all
 ||www.mitsubishicorphk.xyz^$all
 ||www.mkrcoinnag.com^$all
+||www.mogafx.com^$all
 ||www.moondonk.com^$all
 ||www.moonhud.com^$all
 ||www.mtt-ae.com^$all

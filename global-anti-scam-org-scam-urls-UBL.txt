@@ -1580,6 +1580,7 @@
 *://*.alanfx.cn/*
 *://*.alangraycryptocurrency.com/*
 *://*.alantraexchange.com/*
+*://*.alasikam.com/*
 *://*.alaxfinance.com/*
 *://*.alazuu.top/*
 *://*.alb85.com/*
@@ -1763,6 +1764,7 @@
 *://*.alphaetrade.com/*
 *://*.alphafinace.com/*
 *://*.alphafinacec.com/*
+*://*.alphafinaced.com/*
 *://*.alphafinacex.com/*
 *://*.alphafinance.space/*
 *://*.alphaforexmarkets.com/*
@@ -3312,6 +3314,7 @@
 *://*.bagmiomio.com/*
 *://*.bahela.vip/*
 *://*.bahouryfxacademy.org/*
+*://*.baicoine.com/*
 *://*.baicoins.com/*
 *://*.baidufx.com/*
 *://*.baile6688vip.com/*
@@ -9343,6 +9346,7 @@
 *://*.chainup-dex.com/*
 *://*.chainvault.tech/*
 *://*.chainxbit.com/*
+*://*.chakanr.com/*
 *://*.champ.land/*
 *://*.championproptrading.com/*
 *://*.champtradefx.net/*
@@ -15992,6 +15996,7 @@
 *://*.enkryptfinance.com/*
 *://*.enlaceassets.com/*
 *://*.enlife.shop/*
+*://*.enlife.site/*
 *://*.enmgjt.top/*
 *://*.enn666.com/*
 *://*.enocrypt.com/*
@@ -22799,6 +22804,7 @@
 *://*.ignitersafemining.com/*
 *://*.igo-town.com/*
 *://*.igold1888.com/*
+*://*.igoldh8.com/*
 *://*.igomarket.net/*
 *://*.igomarketes.net/*
 *://*.igomarketing.net/*
@@ -23132,6 +23138,7 @@
 *://*.inv-finder.biz/*
 *://*.inv-finder.pro/*
 *://*.inveceltdteam.com/*
+*://*.invechcapital.co/*
 *://*.invechcorporation.com/*
 *://*.inversion123.com/*
 *://*.inversorsamericanexpress.com/*
@@ -27155,6 +27162,7 @@
 *://*.mutualminer.pro/*
 *://*.muysas.top/*
 *://*.mvk5658.net/*
+*://*.mvxnft.net/*
 *://*.mvythqqwu.com/*
 *://*.mwhcapitals.com/*
 *://*.mwhcp.com/*
