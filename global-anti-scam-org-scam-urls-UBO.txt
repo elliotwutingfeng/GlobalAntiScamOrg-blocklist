@@ -2537,6 +2537,7 @@
 ||app.mozmcg.com^$all
 ||app.mshgdv.top^$all
 ||app.mt7.info^$all
+||app.myvisionlife.com^$all
 ||app.nasjdbwaq.com^$all
 ||app.ncxkbnd.com^$all
 ||app.neurofx.io^$all
@@ -7529,6 +7530,7 @@
 ||bnan.casave100.com^$all
 ||bnan.casave200.com^$all
 ||bnan.casave300.com^$all
+||bnancethpro.com^$all
 ||bnat.io^$all
 ||bnb-design.com^$all
 ||bnb-dt.pro^$all
@@ -9832,6 +9834,7 @@
 ||cnlsa.store^$all
 ||cnncoin.pro^$all
 ||cnouyi.expert^$all
+||cnstom.com^$all
 ||cnwhjs.cc^$all
 ||cnxvczo.vip^$all
 ||cnyb.com^$all
@@ -14505,6 +14508,7 @@
 ||desksn.com^$all
 ||deskwa.com^$all
 ||deskzb.com^$all
+||desmondtop.com^$all
 ||destbit.com^$all
 ||detemines.com^$all
 ||dethtoken.com^$all
@@ -14679,6 +14683,7 @@
 ||dicimining.com^$all
 ||dicitmining.com^$all
 ||dicocryptinvtltd.com^$all
+||did.shangchey.com^$all
 ||diegocoin.live^$all
 ||diegocoin.net^$all
 ||dieka.shop^$all
@@ -17616,6 +17621,7 @@
 ||fa666.kca888.com^$all
 ||fa888.ttowwohuy.com^$all
 ||fa88b.com^$all
+||fa8top3.com^$all
 ||fabcons.cn^$all
 ||fabit-ex.com^$all
 ||face-forex.com^$all
@@ -18101,6 +18107,7 @@
 ||financial-rep.net^$all
 ||financial-trade.ltd^$all
 ||financial.armadaz.com^$all
+||financial.merrylans.com^$all
 ||financial.wazirrz.com^$all
 ||financial66.com^$all
 ||financialacorns.com^$all
@@ -20951,6 +20958,7 @@
 ||gominerx.com^$all
 ||gomining.biz^$all
 ||gomkinvest.com^$all
+||gomkinvest.vip^$all
 ||gomontecryptos8.com^$all
 ||gonaket.com^$all
 ||gonsin.vip^$all
@@ -22458,6 +22466,7 @@
 ||htmlco2.com^$all
 ||htmlco3.com^$all
 ||htps.ikalaco.com^$all
+||htps.ikalacoaruts.com^$all
 ||htps.ikalacoer.com^$all
 ||htps.sfsoaies.com^$all
 ||htps.sfsoaoter.com^$all
@@ -23954,6 +23963,7 @@
 ||kavatsimaxpro.com^$all
 ||kavatsipro.com^$all
 ||kay.egscenter.top^$all
+||kay.egsstarten.top^$all
 ||kay.egsstartus.top^$all
 ||kaydefi.com^$all
 ||kaykonw.cn^$all
@@ -36965,6 +36975,7 @@
 ||wellingtoncapitalinvest.com^$all
 ||wellminesraise.com^$all
 ||wellstocktrading.com^$all
+||welove16888.com^$all
 ||weltrade.ltd^$all
 ||wemixtrading.com^$all
 ||weneco.io^$all
@@ -37429,6 +37440,7 @@
 ||www.bodyshop166.com^$all
 ||www.brentcenter.top^$all
 ||www.brokercfd.xyz^$all
+||www.btcc.us^$all
 ||www.btmexlex.info^$all
 ||www.buyusdt.shop^$all
 ||www.bybpoz.com^$all
@@ -37437,6 +37449,7 @@
 ||www.carrofomierts.com^$all
 ||www.cblcnrt.com^$all
 ||www.ccdcostcosdg.com^$all
+||www.cdcejio.com^$all
 ||www.cdcvnm.com^$all
 ||www.cexio.top^$all
 ||www.cfhkd.com^$all
@@ -37497,6 +37510,7 @@
 ||www.etoracluyer.com^$all
 ||www.etoroes.com^$all
 ||www.etuext.xyz^$all
+||www.eurtwoxt.site^$all
 ||www.eurtwoxt.xyz^$all
 ||www.exnestr.com^$all
 ||www.exnesuor.com^$all
@@ -37657,6 +37671,7 @@
 ||www.tbtkncy.com^$all
 ||www.thorchaini.com^$all
 ||www.thorchaino.com^$all
+||www.tianmaoscguoji788.com^$all
 ||www.tidex-in.site^$all
 ||www.tmgmforexglobal.com^$all
 ||www.tnyjlo.top^$all
@@ -37680,6 +37695,7 @@
 ||www.usgfx.global^$all
 ||www.utubebp.vip^$all
 ||www.utubedp.vip^$all
+||www.utuxspa.vip^$all
 ||www.uvgwbk.top^$all
 ||www.vbicso.vip^$all
 ||www.vbixnn.vip^$all

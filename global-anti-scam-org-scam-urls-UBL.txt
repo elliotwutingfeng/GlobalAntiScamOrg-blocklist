@@ -7422,6 +7422,7 @@
 *://*.bnan680.com/*
 *://*.bnan700.com/*
 *://*.bnan900.com/*
+*://*.bnancethpro.com/*
 *://*.bnat.io/*
 *://*.bnb-design.com/*
 *://*.bnb-dt.pro/*
@@ -8024,6 +8025,7 @@
 *://*.btcc.cloud/*
 *://*.btcc.com/*
 *://*.btcc.cyou/*
+*://*.btcc.us/*
 *://*.btcc.wang/*
 *://*.btcc2022.com/*
 *://*.btccap.online/*
@@ -9140,6 +9142,7 @@
 *://*.cdcamge.com/*
 *://*.cdcamke.com/*
 *://*.cdcamop.com/*
+*://*.cdcejio.com/*
 *://*.cdcvdsb.com/*
 *://*.cdcvnm.com/*
 *://*.cdefilmex.com/*
@@ -9840,6 +9843,7 @@
 *://*.cnqjd982.co/*
 *://*.cnqjdgt.com/*
 *://*.cnqyzb.com/*
+*://*.cnstom.com/*
 *://*.cnwhjs.cc/*
 *://*.cnxvczo.vip/*
 *://*.cnyb.com/*
@@ -14454,6 +14458,7 @@
 *://*.desksn.com/*
 *://*.deskwa.com/*
 *://*.deskzb.com/*
+*://*.desmondtop.com/*
 *://*.destbit.com/*
 *://*.detectrate.com/*
 *://*.detemines.com/*
@@ -15646,6 +15651,7 @@
 *://*.egrcoinbase.com/*
 *://*.egscenter.top/*
 *://*.egsstart.top/*
+*://*.egsstarten.top/*
 *://*.egsstartus.top/*
 *://*.egt126.xyz/*
 *://*.egtrade.biz/*
@@ -17069,6 +17075,7 @@
 *://*.eurotradeinvestments.com/*
 *://*.euroxbit.com/*
 *://*.euroyal.org/*
+*://*.eurtwoxt.site/*
 *://*.eurtwoxt.xyz/*
 *://*.eusdt.site/*
 *://*.eusm.io/*
@@ -17582,6 +17589,7 @@
 *://*.f2pfit.com/*
 *://*.fa3mxiuw.com/*
 *://*.fa88b.com/*
+*://*.fa8top3.com/*
 *://*.fabcons.cn/*
 *://*.fabit-ex.com/*
 *://*.face-forex.com/*
@@ -21097,6 +21105,7 @@
 *://*.gominerx.com/*
 *://*.gomining.biz/*
 *://*.gomkinvest.com/*
+*://*.gomkinvest.vip/*
 *://*.gomncyo.cn/*
 *://*.gomontecryptos8.com/*
 *://*.gonaket.com/*
@@ -22839,6 +22848,7 @@
 *://*.ijngnrv.top/*
 *://*.iju888.net/*
 *://*.ikalaco.com/*
+*://*.ikalacoaruts.com/*
 *://*.ikalacoer.com/*
 *://*.ikamiia.com/*
 *://*.ikeatr.com/*
@@ -26088,6 +26098,7 @@
 *://*.merrilllynch.top/*
 *://*.merrilllynch1914.cn/*
 *://*.merrilllynch1914.vip/*
+*://*.merrylans.com/*
 *://*.merycl.com/*
 *://*.mesh.trade/*
 *://*.mesofy.trade/*
@@ -27305,6 +27316,7 @@
 *://*.mytrusttrade.com/*
 *://*.myuniquetrade.com/*
 *://*.myusdt.lol/*
+*://*.myvisionlife.com/*
 *://*.mywealthtrade.com/*
 *://*.mywebull.net/*
 *://*.mywpfex.com/*
@@ -31121,6 +31133,7 @@
 *://*.shakepayex.com/*
 *://*.shakepaytrade.net/*
 *://*.shandongsanfang.com/*
+*://*.shangchey.com/*
 *://*.shangchx.com/*
 *://*.shangquan.com/*
 *://*.shangquan.me/*
@@ -33260,6 +33273,7 @@
 *://*.tianchengsells.com/*
 *://*.tianli808.com/*
 *://*.tianmao888.cc/*
+*://*.tianmaoscguoji788.com/*
 *://*.tians888.net/*
 *://*.tianw1688.com/*
 *://*.tianyue1122.com/*
@@ -35765,6 +35779,7 @@
 *://*.utubebp.vip/*
 *://*.utubedha.vip/*
 *://*.utubedp.vip/*
+*://*.utuxspa.vip/*
 *://*.uuc.com/*
 *://*.uuex.shop/*
 *://*.uuexfly.com/*
@@ -36674,6 +36689,7 @@
 *://*.wellingtoncapitalinvest.com/*
 *://*.wellminesraise.com/*
 *://*.wellstocktrading.com/*
+*://*.welove16888.com/*
 *://*.weltcoin.com/*
 *://*.weltkajshf.xyz/*
 *://*.weltrade.ltd/*
