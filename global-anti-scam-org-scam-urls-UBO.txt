@@ -2567,6 +2567,7 @@
 ||app.rfdda.com^$all
 ||app.ripplebank.pro^$all
 ||app.rnfenqwndams.com^$all
+||app.rrnfhd.com^$all
 ||app.rrrrfgnj.com^$all
 ||app.sa-platform.com^$all
 ||app.sdsdfdf.com^$all
@@ -9409,6 +9410,7 @@
 ||chauihdn.com^$all
 ||chcryptotrade.com^$all
 ||chdwtw.com^$all
+||che-excailpro.org^$all
 ||che-shi.top^$all
 ||che1961.skcbtec.com^$all
 ||cheap-home.icu^$all
@@ -14013,6 +14015,7 @@
 ||dashl2trade.com^$all
 ||dashprimepro.com^$all
 ||dashtradingpro.com^$all
+||dasinadv.com^$all
 ||dask99.com^$all
 ||daslh2trade.com^$all
 ||dassfund.com^$all
@@ -17667,6 +17670,7 @@
 ||falconx.vip^$all
 ||famainvestment.com^$all
 ||fameexbre.com^$all
+||fameextio.com^$all
 ||fameexurd.com^$all
 ||fameexwlc.com^$all
 ||familyboost.online^$all
@@ -23184,6 +23188,7 @@
 ||intradaytrading.app^$all
 ||intramirror-023.top^$all
 ||intramirror-047.top^$all
+||intramirror-d109.top^$all
 ||intrexcapitalfx.com^$all
 ||intrexfinance.com^$all
 ||introcapitaltrade.com^$all
@@ -23981,6 +23986,7 @@
 ||kcbtex.com^$all
 ||kcklqwkeir.com^$all
 ||kclever6.com^$all
+||kcmtradeinc.com^$all
 ||kcmusdc.com^$all
 ||kcmusdt.com^$all
 ||kcoin.buzz^$all
@@ -25574,6 +25580,7 @@
 ||m.jssscylc.xyz^$all
 ||m.k9866.cc^$all
 ||m.k9866.vip^$all
+||m.kcmtradeincltd.cc^$all
 ||m.kexni.com^$all
 ||m.kgyatu.top^$all
 ||m.kin569.com^$all
@@ -28456,6 +28463,7 @@
 ||oga-two.com^$all
 ||ogarlprofx.com^$all
 ||ogasupreme.com^$all
+||oggametop.live^$all
 ||ogone.intell8.com^$all
 ||oheho.com^$all
 ||ohh2you.com^$all
@@ -31551,6 +31559,7 @@
 ||silverlionstock.com^$all
 ||silverliontrade.com^$all
 ||silverliontrades.com^$all
+||silverprosolution.com^$all
 ||silversuncrypto.com^$all
 ||silvertradefxltd.com^$all
 ||silverwellsinvestmentltd.com^$all
@@ -37428,6 +37437,7 @@
 ||www.bitgetev.com^$all
 ||www.bitkanexchange.com^$all
 ||www.bitkeep2018.com^$all
+||www.bitkeep2018pro.com^$all
 ||www.bitkulink.com^$all
 ||www.bitmillion.vip^$all
 ||www.bitoproex.vip^$all
@@ -37458,6 +37468,7 @@
 ||www.chiyiwatch.com.tw^$all
 ||www.cmegrouz.com^$all
 ||www.coinbasewallet.gay^$all
+||www.coinbasewallet.top^$all
 ||www.coindifeweb3.xyz^$all
 ||www.coinebcx.com^$all
 ||www.coinhako.com^$all
@@ -37559,6 +37570,8 @@
 ||www.imxuon.vip^$all
 ||www.ireyrbhg.com^$all
 ||www.ivhtpe.top^$all
+||www.jkf666.com^$all
+||www.jkf888.com^$all
 ||www.johnsontrademax.com^$all
 ||www.jpmgine.pw^$all
 ||www.jsforex25.com^$all
@@ -37585,6 +37598,7 @@
 ||www.lih276.com^$all
 ||www.linqsvip.com^$all
 ||www.lissshop.co^$all
+||www.lllseexvip.com^$all
 ||www.loboexdefipro.xyz^$all
 ||www.lqrer.com^$all
 ||www.lsex-ex.cc^$all
@@ -37622,6 +37636,7 @@
 ||www.okxfui.com^$all
 ||www.oqcbjm.top^$all
 ||www.orsted-aa.com^$all
+||www.osiskocx.com^$all
 ||www.paktor.org^$all
 ||www.pdivys.com^$all
 ||www.pepperstonecrm.com^$all
@@ -37676,6 +37691,7 @@
 ||www.tmgmforexglobal.com^$all
 ||www.tnyjlo.top^$all
 ||www.tradenationt.tw^$all
+||www.tradenationtr.tw^$all
 ||www.tradeopi.com^$all
 ||www.tradewheel.info^$all
 ||www.travelport-agency.com^$all
@@ -38162,6 +38178,7 @@
 ||yh2222.xyz^$all
 ||yh22665.com^$all
 ||yh3333.xyz^$all
+||yh66988.com^$all
 ||yh777.mercuryy1357.com^$all
 ||yhccoin.net^$all
 ||yhit566.com^$all

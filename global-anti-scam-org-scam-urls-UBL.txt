@@ -5747,6 +5747,7 @@
 *://*.bitkeep.com/*
 *://*.bitkeep.tips/*
 *://*.bitkeep2018.com/*
+*://*.bitkeep2018pro.com/*
 *://*.bitkeep5.com/*
 *://*.bitkeep6688.com/*
 *://*.bitkeep7.com/*
@@ -9410,6 +9411,7 @@
 *://*.chcprotw.com/*
 *://*.chcryptotrade.com/*
 *://*.chdwtw.com/*
+*://*.che-excailpro.org/*
 *://*.che-shi.top/*
 *://*.cheap-home.icu/*
 *://*.cheap-homema.fun/*
@@ -10288,6 +10290,7 @@
 *://*.coinbasevip.com/*
 *://*.coinbasewallet.club/*
 *://*.coinbasewallet.gay/*
+*://*.coinbasewallet.top/*
 *://*.coinbasewallet.wang/*
 *://*.coinbasewallets.online/*
 *://*.coinbaseweb.club/*
@@ -13976,6 +13979,7 @@
 *://*.dashl2trade.com/*
 *://*.dashprimepro.com/*
 *://*.dashtradingpro.com/*
+*://*.dasinadv.com/*
 *://*.dask99.com/*
 *://*.daslh2trade.com/*
 *://*.dassfund.com/*
@@ -17633,6 +17637,7 @@
 *://*.falconx.vip/*
 *://*.famainvestment.com/*
 *://*.fameexbre.com/*
+*://*.fameextio.com/*
 *://*.fameexurd.com/*
 *://*.fameexwlc.com/*
 *://*.familyboost.online/*
@@ -23138,6 +23143,7 @@
 *://*.intradaytrading.app/*
 *://*.intramirror-023.top/*
 *://*.intramirror-047.top/*
+*://*.intramirror-d109.top/*
 *://*.intrexcapitalfx.com/*
 *://*.intrexfinance.com/*
 *://*.introcapitaltrade.com/*
@@ -23652,6 +23658,8 @@
 *://*.jkb8720.com/*
 *://*.jkefx.com/*
 *://*.jkevb.xyz/*
+*://*.jkf666.com/*
+*://*.jkf888.com/*
 *://*.jkfjgkfjgkfj.life/*
 *://*.jkhiurthrkjhfg.space/*
 *://*.jkjrs.com/*
@@ -24029,6 +24037,8 @@
 *://*.kcchat.net/*
 *://*.kcklqwkeir.com/*
 *://*.kclever6.com/*
+*://*.kcmtradeinc.com/*
+*://*.kcmtradeincltd.cc/*
 *://*.kcmusdc.com/*
 *://*.kcmusdt.com/*
 *://*.kcoin.buzz/*
@@ -25242,6 +25252,7 @@
 *://*.llc-exclusiv.tw/*
 *://*.llgjscshop-tw.com/*
 *://*.llinft.com/*
+*://*.lllseexvip.com/*
 *://*.llsexvip.com/*
 *://*.llshopping-tw.com/*
 *://*.llsspshop-tw.com/*
@@ -28178,6 +28189,7 @@
 *://*.ogarlprofx.com/*
 *://*.ogasupreme.com/*
 *://*.ogcwallet.com/*
+*://*.oggametop.live/*
 *://*.ogolb.com/*
 *://*.ogold.com/*
 *://*.oheho.com/*
@@ -28590,6 +28602,7 @@
 *://*.oryxglobaltraders.com/*
 *://*.os-bitsky.com/*
 *://*.oshincrypfx.com/*
+*://*.osiskocx.com/*
 *://*.oslarl.com/*
 *://*.oslau.com/*
 *://*.oslint.com/*
@@ -30562,6 +30575,7 @@
 *://*.rpekq.xyz/*
 *://*.rpyxmda.top/*
 *://*.rqjsnda.com/*
+*://*.rrnfhd.com/*
 *://*.rrr99.fun/*
 *://*.rrrrfgnj.com/*
 *://*.rs-shop.club/*
@@ -31437,6 +31451,7 @@
 *://*.silverlionstock.com/*
 *://*.silverliontrade.com/*
 *://*.silverliontrades.com/*
+*://*.silverprosolution.com/*
 *://*.silversuncrypto.com/*
 *://*.silvertradefxltd.com/*
 *://*.silverwellsinvestmentltd.com/*
@@ -33993,6 +34008,7 @@
 *://*.tradenation.tw/*
 *://*.tradenationfex.com/*
 *://*.tradenationt.tw/*
+*://*.tradenationtr.tw/*
 *://*.tradenationus.com/*
 *://*.tradenationxm.com/*
 *://*.tradendex.com/*
@@ -37630,6 +37646,7 @@
 *://*.yh22665.com/*
 *://*.yh3333.xyz/*
 *://*.yh3588.xyz/*
+*://*.yh66988.com/*
 *://*.yhccoin.net/*
 *://*.yhcs9.net/*
 *://*.yhit566.com/*
