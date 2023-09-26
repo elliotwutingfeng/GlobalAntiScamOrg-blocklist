@@ -1961,6 +1961,7 @@
 ||amgexthe.com^$all
 ||amgexwlc.com^$all
 ||amgexxds.com^$all
+||amgmall.top^$all
 ||amgofx.com^$all
 ||amgroutt.amgrou.com^$all
 ||amicablefunds.com^$all
@@ -25050,6 +25051,7 @@
 ||liquityprodefi.com^$all
 ||liquldaub.com^$all
 ||liquldohn.com^$all
+||lirbormarket.com^$all
 ||lirentw.com^$all
 ||lirunexfx.com^$all
 ||lirunexprimemkt.com^$all
@@ -28090,6 +28092,7 @@
 ||nflix.media^$all
 ||nft-base.cc^$all
 ||nft-cryptomine.com^$all
+||nft-polygon.top^$all
 ||nft-qr.com^$all
 ||nft-sea.top^$all
 ||nft-uniswap.net^$all
@@ -37680,6 +37683,7 @@
 ||www.ebay-tw.cloud^$all
 ||www.ebay-tw.wiki^$all
 ||www.ebcrmty.com^$all
+||www.ebcrvb.com^$all
 ||www.ebcvdc.com^$all
 ||www.ebhdjbdfg.com^$all
 ||www.edgcaptlrce.top^$all
@@ -37729,6 +37733,7 @@
 ||www.gendaxfuejawjdweal.com^$all
 ||www.ghangsharin.com^$all
 ||www.gistex.top^$all
+||www.gmakets.com^$all
 ||www.gmall-tw.site^$all
 ||www.gmarket-go.vip^$all
 ||www.gmiusfx.com^$all
@@ -37979,6 +37984,7 @@
 ||www.zadqb.com^$all
 ||www.zaisibs.vip^$all
 ||www.zananxiap.com^$all
+||www.zbncsk.vip^$all
 ||www.zenexcin.com^$all
 ||www.zenexr.com^$all
 ||www.zenexw.com^$all

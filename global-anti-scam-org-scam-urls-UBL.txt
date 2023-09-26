@@ -1972,6 +1972,7 @@
 *://*.amgm88.net/*
 *://*.amgmall.com/*
 *://*.amgmall.org/*
+*://*.amgmall.top/*
 *://*.amgmei.net/*
 *://*.amgofx.com/*
 *://*.amgrou.com/*
@@ -15557,6 +15558,7 @@
 *://*.ebcfinanatws.com/*
 *://*.ebcfinancetw.com/*
 *://*.ebcrmty.com/*
+*://*.ebcrvb.com/*
 *://*.ebcvdc.com/*
 *://*.ebcxex.com/*
 *://*.ebg-coin.com/*
@@ -20883,6 +20885,7 @@
 *://*.gm1688.net/*
 *://*.gm1788.net/*
 *://*.gm1888.net/*
+*://*.gmakets.com/*
 *://*.gmall-tw.buzz/*
 *://*.gmall-tw.one/*
 *://*.gmall-tw.site/*
@@ -25274,6 +25277,7 @@
 *://*.liquityprodefi.com/*
 *://*.liquldaub.com/*
 *://*.liquldohn.com/*
+*://*.lirbormarket.com/*
 *://*.lirentw.com/*
 *://*.lirunexfx.com/*
 *://*.lirunexprimemkt.com/*
@@ -27806,6 +27810,7 @@
 *://*.nft-base.cc/*
 *://*.nft-cryptomine.com/*
 *://*.nft-ex.org/*
+*://*.nft-polygon.top/*
 *://*.nft-qr.com/*
 *://*.nft-sea.top/*
 *://*.nft-uniswap.net/*
@@ -38193,6 +38198,7 @@
 *://*.zbkjccuiqeq.com/*
 *://*.zblines.com/*
 *://*.zbmom.com/*
+*://*.zbncsk.vip/*
 *://*.zbos.space/*
 *://*.zbpro888.com/*
 *://*.zbtc.pw/*
