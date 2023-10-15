@@ -1088,6 +1088,7 @@
 *://*.aceproexchange.xyz/*
 *://*.aceprofitablefxtrade.online/*
 *://*.acepropfirmtraders.com/*
+*://*.acer-booking.app/*
 *://*.acestops.com/*
 *://*.acestradingfx.com/*
 *://*.acetiqinvests.ltd/*
@@ -23176,6 +23177,7 @@
 *://*.invictus-investments.com/*
 *://*.invierteusdt.com/*
 *://*.invinciblehk.com/*
+*://*.invnhz.top/*
 *://*.invose.com/*
 *://*.invstexo.com/*
 *://*.invstexo.net/*
@@ -36268,6 +36270,7 @@
 *://*.w3aaldotw.com/*
 *://*.w89voll.com/*
 *://*.wa578.com/*
+*://*.waacad.cyou/*
 *://*.wadgzh.com/*
 *://*.wadmof.top/*
 *://*.wagento.live/*
