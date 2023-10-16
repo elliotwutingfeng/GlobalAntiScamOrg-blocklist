@@ -5784,6 +5784,7 @@
 ||bitgoldtech.ltd^
 ||bitgoldtrades.com^
 ||bitgomine.com^
+||bitgoopebs.com^
 ||bitgop.com^
 ||bitgopro.live^
 ||bitgopv.vip^
@@ -8803,6 +8804,7 @@
 ||capitalboostingtrade.com^
 ||capitalbtc.trade^
 ||capitalbuilderinvest.com^
+||capitalcirclesg.com^
 ||capitalcloudtrade.org^
 ||capitalcoincircle.com^
 ||capitalcoinex.com^
@@ -17600,6 +17602,8 @@
 ||f2pfit.com^
 ||f3c.easy.co^
 ||f5.fpstrade.top^
+||f8coin.com^
+||f8coin.in^
 ||f9.maiaxx.com^
 ||fa01.zhyrtc.com^
 ||fa03.bflyit.com^
@@ -23869,6 +23873,7 @@
 ||k9c0.xyz^
 ||k9ws.xyz^
 ||ka.hongzii.com^
+||kab897.com^
 ||kabitw.com^
 ||kabtw.net^
 ||kacofin-eth.com^
@@ -29214,6 +29219,7 @@
 ||phemexproe.com^
 ||phemexpros.com^
 ||phemexw.com^
+||pheonixics.com^
 ||phftrades.online^
 ||phhshopify.com^
 ||philcotoken.net^
@@ -31694,6 +31700,7 @@
 ||smart-minings.com^
 ||smart-moneydeal-now.com^
 ||smart-optionsinvestment.com^
+||smart-shopping.life^
 ||smartaccessfx.online^
 ||smartarbitrager.com^
 ||smartbaseinvestltd.com^
@@ -37876,6 +37883,7 @@
 ||xrmeetlove.com^
 ||xrpcryptoearn.com^
 ||xs888.xyz^
+||xshiwu.com^
 ||xsnherwmkssd.com^
 ||xspeedfx.com^
 ||xspeedtrading.com^
@@ -37891,6 +37899,8 @@
 ||xtglobalpro.com^
 ||xtk-forexmt.com^
 ||xtnapp.com^
+||xtnappk.com^
+||xtnapptw.com^
 ||xtopscryptofarm.com^
 ||xtraco.vip^
 ||xtracy.vip^
