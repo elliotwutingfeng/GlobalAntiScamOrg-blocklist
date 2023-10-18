@@ -1311,6 +1311,7 @@
 *://*.aetosszonetws.com/*
 *://*.aetxmining.com/*
 *://*.aex-china.com/*
+*://*.aex.ink/*
 *://*.aexange.com/*
 *://*.aexbitpro.vip/*
 *://*.aexcrypto.com/*
@@ -5546,6 +5547,7 @@
 *://*.bitgeto.vip/*
 *://*.bitgetpr0.com/*
 *://*.bitgetpro.top/*
+*://*.bitgetpro.vip/*
 *://*.bitgets.io/*
 *://*.bitgetsfx.top/*
 *://*.bitgetsg.com/*
@@ -10107,6 +10109,7 @@
 *://*.coinbase-promaxdefi.com/*
 *://*.coinbase-revert.com/*
 *://*.coinbase-safety.com/*
+*://*.coinbase-trade.com/*
 *://*.coinbase-trade.live/*
 *://*.coinbase-trademax.com/*
 *://*.coinbase-tradepro.com/*
@@ -18380,6 +18383,7 @@
 *://*.fml1.com/*
 *://*.fmxtradinginvestment.com/*
 *://*.fnac-mall.com/*
+*://*.fncai.com/*
 *://*.fnebbeqnca.com/*
 *://*.fng-x.com/*
 *://*.fnglc.com/*
@@ -19846,6 +19850,7 @@
 *://*.galaxybe.top/*
 *://*.galaxyglobalpro.com/*
 *://*.galaxyglobalpro.vip/*
+*://*.galaxymaxwin.com/*
 *://*.galaxymining.pro/*
 *://*.galaxynet.asia/*
 *://*.galaxyoptionfx.com/*
@@ -19953,6 +19958,7 @@
 *://*.gatesz.com/*
 *://*.gatetmb.com/*
 *://*.gateusdt.com/*
+*://*.gatevlink.com/*
 *://*.gatewas.com/*
 *://*.gatewaydigitalinvestments.com/*
 *://*.gatewayinvestmentinc.online/*
@@ -21040,6 +21046,7 @@
 *://*.gomarketfxol.com/*
 *://*.gomarkets.mu/*
 *://*.gomarketshk.com/*
+*://*.gomarketsme.com/*
 *://*.gomarketsprofx.net/*
 *://*.gomarketstw.store/*
 *://*.gomarkfex.cc/*

@@ -1334,6 +1334,7 @@
 ||aetosszonetws.com^$all
 ||aetxmining.com^$all
 ||aex-china.com^$all
+||aex.ink^$all
 ||aexange.com^$all
 ||aexbitpro.vip^$all
 ||aexcrypto.com^$all
@@ -10119,6 +10120,7 @@
 ||coinbase-promaxdefi.com^$all
 ||coinbase-revert.com^$all
 ||coinbase-safety.com^$all
+||coinbase-trade.com^$all
 ||coinbase-trade.live^$all
 ||coinbase-trademax.com^$all
 ||coinbase-tradepro.com^$all
@@ -13165,6 +13167,7 @@
 ||cryptos-forexbiz.com^$all
 ||cryptos-gpt.org^$all
 ||cryptos-pair.net^$all
+||cryptos.bitgetpro.vip^$all
 ||cryptos27.com^$all
 ||cryptos9.com^$all
 ||cryptosafe-miners.org^$all
@@ -18419,6 +18422,7 @@
 ||fml1.com^$all
 ||fmxtradinginvestment.com^$all
 ||fnac-mall.com^$all
+||fncai.com^$all
 ||fnglc.com^$all
 ||fnostories.com^$all
 ||fntzq.com^$all
@@ -19811,6 +19815,7 @@
 ||galaxy.kion.rocks^$all
 ||galaxy.kion.work^$all
 ||galaxybe.top^$all
+||galaxymaxwin.com^$all
 ||galaxymining.pro^$all
 ||galaxynet.asia^$all
 ||galaxyoptionfx.com^$all
@@ -19916,6 +19921,7 @@
 ||gatesz.com^$all
 ||gatetmb.com^$all
 ||gateusdt.com^$all
+||gatevlink.com^$all
 ||gatewas.com^$all
 ||gatewaydigitalinvestments.com^$all
 ||gatewayinvestmentinc.online^$all
@@ -20931,6 +20937,7 @@
 ||goldxbit.com^$all
 ||goldybasecoin.com^$all
 ||goleaderfx.com^$all
+||gomarkcotd.com^$all
 ||gomarketex.com^$all
 ||gomarketfxol.com^$all
 ||gomarketshk.com^$all
@@ -34020,6 +34027,7 @@
 ||trader.farreachfex.com^$all
 ||trader.farrvip.com^$all
 ||trader.gomarketshk.com^$all
+||trader.gomarketsme.com^$all
 ||trader.kovieans.com^$all
 ||trader.lion-forex.com^$all
 ||trader.maxwinote.com^$all
@@ -37453,7 +37461,6 @@
 ||www.gmarket-go.vip^$all
 ||www.gogo1122.com^$all
 ||www.gold-supermall.com^$all
-||www.gomarkcotd.com^$all
 ||www.greatshop.cc^$all
 ||www.grovpon.org^$all
 ||www.gunonq.top^$all
