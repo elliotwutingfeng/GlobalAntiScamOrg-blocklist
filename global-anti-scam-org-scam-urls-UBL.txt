@@ -33691,6 +33691,7 @@
 *://*.trade-realcoin.org/*
 *://*.trade-valueinvest.com/*
 *://*.trade-xcrypto.com/*
+*://*.trade.cc/*
 *://*.trade00803.xyz/*
 *://*.trade05035.xyz/*
 *://*.trade08515.xyz/*

@@ -33741,6 +33741,7 @@
 ||trade.bmpcoins.com^$all
 ||trade.br-stone.net^$all
 ||trade.btccoin6.com^$all
+||trade.cc^$all
 ||trade.eaglefxportfolio.com^$all
 ||trade.fxltetrade.com^$all
 ||trade.ghpxy.com^$all
