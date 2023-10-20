@@ -2524,6 +2524,7 @@
 ||app.liacexs.com^$all
 ||app.lianruint.xyz^$all
 ||app.lightninglgg.com^$all
+||app.ljdujuss.com^$all
 ||app.lkhaxs.top^$all
 ||app.lqvpma.top^$all
 ||app.lsdmejnqhn.com^$all
@@ -2592,6 +2593,7 @@
 ||app.tiruoutiequ.com^$all
 ||app.tmx68.com^$all
 ||app.tox1.net^$all
+||app.tronpp.vip^$all
 ||app.trustcoin-exchange.com^$all
 ||app.uainfbja.com^$all
 ||app.udhxyq.top^$all
@@ -5087,6 +5089,7 @@
 ||bitcoin199.com^$all
 ||bitcoin20x.com^$all
 ||bitcoin360ai-official.com^$all
+||bitcoin360ai.com^$all
 ||bitcoin360ai.link^$all
 ||bitcoin360ai.website^$all
 ||bitcoin360aiapp.net^$all
@@ -24825,6 +24828,7 @@
 ||lifeshop.me^$all
 ||lifeshop.pro^$all
 ||lifeshop.world^$all
+||lifesps.com^$all
 ||lifetimemining.site^$all
 ||lifetrading.info^$all
 ||liffecoin.com^$all
@@ -28795,6 +28799,7 @@
 ||orson66.com^$all
 ||orsp.xyz^$all
 ||orsted-dex.com^$all
+||orsted-ing.com^$all
 ||ortraxinvestment.com^$all
 ||os-bitsky.com^$all
 ||oshincrypfx.com^$all
@@ -29066,6 +29071,7 @@
 ||paywayfinance.com^$all
 ||paywaysfinance.com^$all
 ||pbfxcn.com^$all
+||pc-us.penumbras.cc^$all
 ||pc.03564.com^$all
 ||pc.alltrust-defi.com^$all
 ||pc.bit-contract.com^$all

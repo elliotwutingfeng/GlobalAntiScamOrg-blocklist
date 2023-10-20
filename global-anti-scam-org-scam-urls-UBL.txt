@@ -4868,6 +4868,7 @@
 *://*.bitcoin199.com/*
 *://*.bitcoin20x.com/*
 *://*.bitcoin360ai-official.com/*
+*://*.bitcoin360ai.com/*
 *://*.bitcoin360ai.link/*
 *://*.bitcoin360ai.website/*
 *://*.bitcoin360aiapp.net/*
@@ -24973,6 +24974,7 @@
 *://*.lifeshop.me/*
 *://*.lifeshop.pro/*
 *://*.lifeshop.world/*
+*://*.lifesps.com/*
 *://*.lifetimemining.site/*
 *://*.lifetrading.info/*
 *://*.liffecoin.com/*
@@ -25166,6 +25168,7 @@
 *://*.liwanxsq.top/*
 *://*.liyeforex.com/*
 *://*.liyeplimal.net/*
+*://*.ljdujuss.com/*
 *://*.ljfdx.com/*
 *://*.ljjyfj.com/*
 *://*.lkhaxs.top/*
@@ -28505,6 +28508,7 @@
 *://*.orson66.com/*
 *://*.orsp.xyz/*
 *://*.orsted-dex.com/*
+*://*.orsted-ing.com/*
 *://*.ortraxinvestment.com/*
 *://*.oryxglobaltraders.com/*
 *://*.os-bitsky.com/*
@@ -28858,6 +28862,7 @@
 *://*.penaker.com/*
 *://*.pennyupfx.com/*
 *://*.pentycoon.com/*
+*://*.penumbras.cc/*
 *://*.penvyr.tw/*
 *://*.penxbit.com/*
 *://*.penzolead.com/*
@@ -34366,6 +34371,7 @@
 *://*.tronmsc.com/*
 *://*.tronnesz.com/*
 *://*.tronpool.top/*
+*://*.tronpp.vip/*
 *://*.tronrenu.com/*
 *://*.tronsdew.com/*
 *://*.tronseng.com/*
