@@ -26033,6 +26033,7 @@
 ||masks.nftwolds.com^$all
 ||maslaex.com^$all
 ||masscoin.us^$all
+||masscoin.vip^$all
 ||massf.net^$all
 ||massiveprotrade.com^$all
 ||master-ace.com^$all

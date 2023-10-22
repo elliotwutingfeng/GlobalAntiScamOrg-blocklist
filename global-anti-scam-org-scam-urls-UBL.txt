@@ -25643,6 +25643,7 @@
 *://*.masknetwork.network/*
 *://*.maslaex.com/*
 *://*.masscoin.us/*
+*://*.masscoin.vip/*
 *://*.massf.net/*
 *://*.massiveprotrade.com/*
 *://*.massusa.com/*
