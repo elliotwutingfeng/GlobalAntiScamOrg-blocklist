@@ -713,6 +713,7 @@
 ||Bitaifund.org^$all
 ||BlockFolio8.top^$all
 ||Blockf.top^$all
+||Brela.vip^$all
 ||Britishfx.org^$all
 ||C002.kgi888.cc^$all
 ||CMIVPG.COM^$all
@@ -739,10 +740,13 @@
 ||RHONECOIN.com^$all
 ||Rawkchain.com^$all
 ||Scfchain.io^$all
+||Sdxge.com^$all
 ||StudyBT199.com^$all
+||Swiftsecure.net^$all
 ||Ubstex.com^$all
 ||V1.ratex8.com^$all
 ||Web-Ma.com^$all
+||Web3-lending.xyz^$all
 ||Weini000.com^$all
 ||Xbto168.com^$all
 ||a-exchangepro.com^$all

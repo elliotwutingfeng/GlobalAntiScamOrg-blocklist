@@ -775,6 +775,7 @@
 *://*.Bitaifund.org/*
 *://*.BlockFolio8.top/*
 *://*.Blockf.top/*
+*://*.Brela.vip/*
 *://*.Britishfx.org/*
 *://*.CMIVPG.COM/*
 *://*.Cmusq.com/*
@@ -796,10 +797,13 @@
 *://*.RHONECOIN.com/*
 *://*.Rawkchain.com/*
 *://*.Scfchain.io/*
+*://*.Sdxge.com/*
 *://*.StudyBT199.com/*
+*://*.Swiftsecure.net/*
 *://*.Tanwan88.cn/*
 *://*.Ubstex.com/*
 *://*.Web-Ma.com/*
+*://*.Web3-lending.xyz/*
 *://*.Weini000.com/*
 *://*.Xbto168.com/*
 *://*.a-exchangepro.com/*
