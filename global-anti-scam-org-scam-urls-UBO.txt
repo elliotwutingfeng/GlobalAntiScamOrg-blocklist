@@ -28568,6 +28568,7 @@
 ||okoed.com^$all
 ||okscoin.com^$all
 ||oksecoin.com^$all
+||oktexpro.com^$all
 ||oktodex.com^$all
 ||okucoin.club^$all
 ||okusdt.vip^$all
@@ -35459,6 +35460,7 @@
 ||upexcoin.com^$all
 ||upexdst.vip^$all
 ||upgradedtradefx.com^$all
+||uphold.com^$all
 ||upjob.trade^$all
 ||uplanamm.com^$all
 ||uplexport.com^$all
@@ -35976,6 +35978,7 @@
 ||uw.allh5.com^$all
 ||uw.ry888.xyz^$all
 ||uwybbf.com^$all
+||uyeoc.com^$all
 ||uyrpbnds.xyz^$all
 ||uzek6.com^$all
 ||uzsnf.com^$all
@@ -37520,6 +37523,7 @@
 ||www.bithoh.com^$all
 ||www.bitkon.xyz^$all
 ||www.bitkulink.com^$all
+||www.bitmartchi.net^$all
 ||www.bitopmaket.com^$all
 ||www.bitopmakt.com^$all
 ||www.bitoproex.vip^$all

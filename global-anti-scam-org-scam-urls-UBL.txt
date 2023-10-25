@@ -5926,6 +5926,7 @@
 *://*.bitmart.shop/*
 *://*.bitmartch.com/*
 *://*.bitmartch.net/*
+*://*.bitmartchi.net/*
 *://*.bitmartcn.net/*
 *://*.bitmartinfo.online/*
 *://*.bitmartob.com/*
@@ -28300,6 +28301,7 @@
 *://*.okqhd.top/*
 *://*.okscoin.com/*
 *://*.oksecoin.com/*
+*://*.oktexpro.com/*
 *://*.oktodex.com/*
 *://*.okucoin.club/*
 *://*.okusdt.vip/*
@@ -35446,6 +35448,7 @@
 *://*.upexdst.vip/*
 *://*.upfinget.com/*
 *://*.upgradedtradefx.com/*
+*://*.uphold.com/*
 *://*.upjob.trade/*
 *://*.uplanamm.com/*
 *://*.uplexport.com/*
@@ -35896,6 +35899,7 @@
 *://*.uwuyfe.com/*
 *://*.uwybbf.com/*
 *://*.uxmexglobal.com/*
+*://*.uyeoc.com/*
 *://*.uyrds.club/*
 *://*.uyrpbnds.xyz/*
 *://*.uyvifdjgh.com/*
