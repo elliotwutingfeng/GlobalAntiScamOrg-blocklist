@@ -3517,6 +3517,7 @@
 *://*.bbtforex.com/*
 *://*.bbtforex.us/*
 *://*.bbva1999.co/*
+*://*.bbvsfx.cc/*
 *://*.bbxotc.co/*
 *://*.bbxotc.net/*
 *://*.bbxotc.org/*
@@ -3865,6 +3866,7 @@
 *://*.bfcwo.com/*
 *://*.bfcwoz.com/*
 *://*.bfex.pro/*
+*://*.bfidl.com/*
 *://*.bfinancextra.org/*
 *://*.bflex.online/*
 *://*.bflixce.vip/*
@@ -4429,6 +4431,7 @@
 *://*.bit-miner.ltd/*
 *://*.bit-miners.ltd/*
 *://*.bit-mining.xyz/*
+*://*.bit-mtd.io/*
 *://*.bit-netcapital.com/*
 *://*.bit-nex.com/*
 *://*.bit-nice.com/*
@@ -14586,6 +14589,7 @@
 *://*.dfi-moneyaj.com/*
 *://*.dfi-moneybf.com/*
 *://*.dfi-moneybg.com/*
+*://*.dfi-moneybj.com/*
 *://*.dfimoneyaab.com/*
 *://*.dfinity.mobi/*
 *://*.dfl-finance-service.com/*
@@ -16992,6 +16996,7 @@
 *://*.etliforo.com/*
 *://*.eto-stack.com/*
 *://*.eto.cash/*
+*://*.etomapps.com/*
 *://*.etorackcter.com/*
 *://*.etorackect.com/*
 *://*.etoraeotes.com/*
@@ -20349,6 +20354,7 @@
 *://*.giagame003.com/*
 *://*.giankycoin.com/*
 *://*.giant-1.com/*
+*://*.giant-shopingmy.com/*
 *://*.giantshubs.trade/*
 *://*.giantwin7.com/*
 *://*.giaodichlondonex.com/*
@@ -30847,6 +30853,7 @@
 *://*.sansuoli8.xyz/*
 *://*.santatrade.top/*
 *://*.santndafq.com/*
+*://*.santndamyq.com/*
 *://*.santndapjc.top/*
 *://*.saodisof.com/*
 *://*.sapere.uk/*
@@ -31639,6 +31646,7 @@
 *://*.sktorsion-tw.com/*
 *://*.skullcoin.tech/*
 *://*.skxjgq.top/*
+*://*.sky-entertainment.website/*
 *://*.sky2628.com/*
 *://*.skyamltd.com/*
 *://*.skyblueshop.ph/*
@@ -32273,6 +32281,7 @@
 *://*.steady168.com/*
 *://*.steady3650.com/*
 *://*.steambid.co/*
+*://*.stellar-finance.com/*
 *://*.stellarcvc.com/*
 *://*.stellarcxv.com/*
 *://*.stellarrnt.com/*
@@ -33667,6 +33676,7 @@
 *://*.tongaminersfx.com/*
 *://*.tonierocoin.com/*
 *://*.tonmek.com/*
+*://*.toobit.com/*
 *://*.toobit.top/*
 *://*.toobitep.com/*
 *://*.top-fulfill.com/*
@@ -35123,6 +35133,7 @@
 *://*.ukexba06.top/*
 *://*.ukexba1.top/*
 *://*.ukexcfk.com/*
+*://*.ukexjiu05.top/*
 *://*.ukexqi01.top/*
 *://*.ukexqi02.top/*
 *://*.ukexqi06.top/*
@@ -35947,6 +35958,7 @@
 *://*.vancetrade.com/*
 *://*.vanebit.com/*
 *://*.vanecks.vip/*
+*://*.vanguardac.site/*
 *://*.vanguardchange.com/*
 *://*.vanguardokx.site/*
 *://*.vansihoex.com/*
@@ -36719,6 +36731,7 @@
 *://*.webswap.vip/*
 *://*.webulinvestment.com/*
 *://*.webull-crypto.com/*
+*://*.webull-xc.com/*
 *://*.webullcryptofx.com/*
 *://*.webullex.com/*
 *://*.webullsp.vip/*

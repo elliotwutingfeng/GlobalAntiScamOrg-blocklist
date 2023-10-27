@@ -3791,6 +3791,7 @@
 ||bbt8.net^$all
 ||bbtc.gold^$all
 ||bbtforex.com^$all
+||bbvsfx.cc^$all
 ||bbxotc.co^$all
 ||bbxotc.net^$all
 ||bc-probank.tw^$all
@@ -4115,6 +4116,7 @@
 ||bfcwo.com^$all
 ||bfcwoz.com^$all
 ||bfex.pro^$all
+||bfidl.com^$all
 ||bfinancextra.org^$all
 ||bflex.online^$all
 ||bflixce.vip^$all
@@ -4651,6 +4653,7 @@
 ||bit-miner.ltd^$all
 ||bit-miners.ltd^$all
 ||bit-mining.xyz^$all
+||bit-mtd.io^$all
 ||bit-netcapital.com^$all
 ||bit-nex.com^$all
 ||bit-nice.com^$all
@@ -17062,6 +17065,7 @@
 ||etliforo.com^$all
 ||eto-stack.com^$all
 ||eto.cash^$all
+||etomapps.com^$all
 ||etoraierkuy.com^$all
 ||etoro-et.online^$all
 ||etoro-teh.live^$all
@@ -20258,6 +20262,7 @@
 ||giagame003.com^$all
 ||giankycoin.com^$all
 ||giant-1.com^$all
+||giant-shopingmy.com^$all
 ||giantshubs.trade^$all
 ||giaodichlondonex.com^$all
 ||giaodichvanggkfxprime.com^$all
@@ -21721,6 +21726,7 @@
 ||h5.unis-shop.com^$all
 ||h5.usallystock.com^$all
 ||h5.uxmexglobal.com^$all
+||h5.vanguardac.site^$all
 ||h5.vanguardokx.site^$all
 ||h5.vatee8888.com^$all
 ||h5.vivgoo.com^$all
@@ -22501,6 +22507,7 @@
 ||ht.tfdexcoin8.cc^$all
 ||ht.ukexba06.top^$all
 ||ht.ukexba1.top^$all
+||ht.ukexjiu05.top^$all
 ||ht.ukexqi06.top^$all
 ||ht.ukexqi07.top^$all
 ||ht007.awstw.net^$all
@@ -29178,7 +29185,7 @@
 ||pc.serc-capital.com^$all
 ||pc.shakepaytrade.net^$all
 ||pc.tg-makets.com^$all
-||pc.toobit.top^$all
+||pc.toobit.top.com^$all
 ||pc.ueexpro.com^$all
 ||pc.uvs123.com^$all
 ||pc.xtcrypto.vip^$all
@@ -31021,6 +31028,7 @@
 ||sansuoli8.xyz^$all
 ||santatrade.top^$all
 ||santndafq.com^$all
+||santndamyq.com^$all
 ||santndapjc.top^$all
 ||saodisof.com^$all
 ||sapere.uk^$all
@@ -31731,6 +31739,7 @@
 ||skshoptw.com^$all
 ||skullcoin.tech^$all
 ||skxjgq.top^$all
+||sky-entertainment.website^$all
 ||sky.genesbo.com^$all
 ||sky000.ptlint.net^$all
 ||sky2628.com^$all
@@ -32359,6 +32368,7 @@
 ||steady168.com^$all
 ||steady3650.com^$all
 ||steambid.co^$all
+||stellar-finance.com^$all
 ||stellarcvc.com^$all
 ||stellarcxv.com^$all
 ||stellarrnt.com^$all
@@ -33677,6 +33687,7 @@
 ||tongaminersfx.com^$all
 ||tonierocoin.com^$all
 ||tonmek.com^$all
+||toobit.com^$all
 ||toobitep.com^$all
 ||top-notchinvestment.org^$all
 ||top-supermall.top^$all
@@ -36998,6 +37009,7 @@
 ||webtrader.trustpixs.com^$all
 ||webulinvestment.com^$all
 ||webull-crypto.com^$all
+||webull-xc.com^$all
 ||webullcryptofx.com^$all
 ||webullex.com^$all
 ||webullsp.vip^$all
@@ -37574,6 +37586,7 @@
 ||www.dfi-moneyaj.com^$all
 ||www.dfi-moneybf.com^$all
 ||www.dfi-moneybg.com^$all
+||www.dfi-moneybj.com^$all
 ||www.dfimoneyaab.com^$all
 ||www.dgdgdg58.com^$all
 ||www.diamondsrich.com^$all
