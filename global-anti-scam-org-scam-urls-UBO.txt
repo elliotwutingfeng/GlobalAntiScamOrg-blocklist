@@ -13645,6 +13645,7 @@
 ||ctstocks.com^$all
 ||cttexchange.com^$all
 ||cturkp.vip^$all
+||ctyptotopools.com^$all
 ||cu.auenfj.top^$all
 ||cu.ruvnrjg.top^$all
 ||cuanthebcr.com^$all
@@ -24952,6 +24953,7 @@
 ||link.ofgrml.top^$all
 ||link.qddxu.top^$all
 ||link.tcxqt.top^$all
+||link.yrjozh.top^$all
 ||linkaeci.vip^$all
 ||linkchain-copytrading.com^$all
 ||linkcryptoearn.com^$all
@@ -32998,6 +33000,8 @@
 ||tatoex.com^$all
 ||tauokeglobal.com^$all
 ||tauromarkets.com^$all
+||taurusbg.com^$all
+||taurusbr.me^$all
 ||taurusfx.fun^$all
 ||taurusprofx.com^$all
 ||tauruss.top^$all
@@ -35140,6 +35144,7 @@
 ||uftrade.org^$all
 ||ufxtradesoption.com^$all
 ||ufycoin.com^$all
+||ug.trxluts.com^$all
 ||uh-und.com^$all
 ||uhcuisvs.com^$all
 ||uhjsd.com^$all

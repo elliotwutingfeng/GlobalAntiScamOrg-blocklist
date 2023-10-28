@@ -13698,6 +13698,7 @@
 *://*.cttexchange.com/*
 *://*.ctugame.store/*
 *://*.cturkp.vip/*
+*://*.ctyptotopools.com/*
 *://*.cuanthebcr.com/*
 *://*.cuaythebcr.com/*
 *://*.cubcoinpro.ink/*
@@ -32930,6 +32931,8 @@
 *://*.taudex.com/*
 *://*.tauokeglobal.com/*
 *://*.tauromarkets.com/*
+*://*.taurusbg.com/*
+*://*.taurusbr.me/*
 *://*.taurusfx.fun/*
 *://*.taurusprofx.com/*
 *://*.tauruss.top/*
@@ -34701,6 +34704,7 @@
 *://*.trxewf.com/*
 *://*.trxewmv.com/*
 *://*.trxfminingcoin.com/*
+*://*.trxluts.com/*
 *://*.trxminers.site/*
 *://*.trxmining.company/*
 *://*.trxmininghouse.com/*
@@ -37917,6 +37921,7 @@
 *://*.yptd-music.cn/*
 *://*.yqjaij.top/*
 *://*.yrconnect.com/*
+*://*.yrjozh.top/*
 *://*.yrz3535.com/*
 *://*.ys588.net/*
 *://*.yscs909.vip/*
