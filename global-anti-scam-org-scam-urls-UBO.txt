@@ -1105,6 +1105,7 @@
 ||accurewealthtrade.com^$all
 ||accurewealthtrade.net^$all
 ||acdxcoin.nl^$all
+||ace-crypto.com^$all
 ||ace-eth.com^$all
 ||ace-expressdelivery.com^$all
 ||ace-tradingfx.com^$all

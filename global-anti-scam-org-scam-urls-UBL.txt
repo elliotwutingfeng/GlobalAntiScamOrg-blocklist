@@ -1066,6 +1066,7 @@
 *://*.accurewealthtrade.net/*
 *://*.acdxcoin.nl/*
 *://*.acdxcoin.site/*
+*://*.ace-crypto.com/*
 *://*.ace-eth.com/*
 *://*.ace-expressdelivery.com/*
 *://*.ace-tradingfx.com/*
