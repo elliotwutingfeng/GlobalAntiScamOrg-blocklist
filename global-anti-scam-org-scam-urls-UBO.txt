@@ -24180,6 +24180,7 @@
 ||kcoinfoot.com^$all
 ||kcoinhome.com^$all
 ||kcoinlinks.com^$all
+||kcoinoni.com^$all
 ||kcoinonline.com^$all
 ||kcoinpeg.com^$all
 ||kcowebs.com^$all

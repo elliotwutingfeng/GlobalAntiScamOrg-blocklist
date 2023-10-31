@@ -24211,6 +24211,7 @@
 *://*.kcoinhome.com/*
 *://*.kcoinlinks.com/*
 *://*.kcoinnet.com/*
+*://*.kcoinoni.com/*
 *://*.kcoinonline.com/*
 *://*.kcoinpeg.com/*
 *://*.kcowebs.com/*
