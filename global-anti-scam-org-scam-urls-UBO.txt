@@ -491,6 +491,7 @@
 ||5608720.vip^$all
 ||562088.com^$all
 ||5623667.com^$all
+||565pa.nryvkkf.com^$all
 ||5688pro.com^$all
 ||56bit.bitmexx02.com^$all
 ||56bit.bitmexx03.com^$all
@@ -3345,6 +3346,7 @@
 ||autofxtrade.net^$all
 ||autofxtrades.com^$all
 ||autogrowtrading.com^$all
+||autohashmining.com^$all
 ||autoinvestmentgroup.com^$all
 ||automated-bot-trade.com^$all
 ||automatedbittrade.com^$all
@@ -4515,6 +4517,7 @@
 ||binary.currency.pet^$all
 ||binary.etrades.xyz^$all
 ||binary.hftk999.com^$all
+||binary.kekgd.com^$all
 ||binary.kimoni.fun^$all
 ||binary.kimoni.website^$all
 ||binary.lian-zi.com^$all
@@ -5398,6 +5401,7 @@
 ||bitcorecrypto.cc^$all
 ||bitcoredex.com^$all
 ||bitcoreglobal.com^$all
+||bitcorem.net^$all
 ||bitcoreminers.net^$all
 ||bitcores233.com^$all
 ||bitcores688.com^$all
@@ -6376,6 +6380,7 @@
 ||bitnexbit.com^$all
 ||bitnexcapital.com^$all
 ||bitnexed.com^$all
+||bitnexus.vip^$all
 ||bitnfex.com^$all
 ||bitnfx.com^$all
 ||bitnice.org^$all
@@ -6441,6 +6446,7 @@
 ||bitoppror.com^$all
 ||bitopro.co^$all
 ||bitopro.co.uk^$all
+||bitopro.trade^$all
 ||bitopro.us^$all
 ||bitopro.wiki^$all
 ||bitoproglobal.com^$all
@@ -7198,6 +7204,7 @@
 ||bitveh.com^$all
 ||bitvensun.com^$all
 ||bitventuresglobal.com^$all
+||bitvenus.me^$all
 ||bitvenusali.com^$all
 ||bitvenusame.com^$all
 ||bitvenusbre.com^$all
@@ -10894,6 +10901,7 @@
 ||coinhui.net^$all
 ||coinhut.online^$all
 ||coinhyt.top^$all
+||coinidcm-ex.com^$all
 ||coinidcm.vip^$all
 ||coinifyoptionstrade.com^$all
 ||coinifytrade.online^$all
@@ -11677,6 +11685,7 @@
 ||coinwbiotc.org^$all
 ||coinwcc.com^$all
 ||coinweb.cc^$all
+||coinweb.io^$all
 ||coinweb.live^$all
 ||coinwebapp.org^$all
 ||coinwema.com^$all
@@ -13870,6 +13879,7 @@
 ||cyabo.com^$all
 ||cyber-forensics.net^$all
 ||cyberbitem.com^$all
+||cyberclaims.net^$all
 ||cybercoinprotection.com^$all
 ||cybercoinscasino.com^$all
 ||cyberfinance-online.com^$all
@@ -14701,6 +14711,7 @@
 ||desksn.com^$all
 ||deskwa.com^$all
 ||deskzb.com^$all
+||desmondsc.com^$all
 ||destbit.com^$all
 ||detemines.com^$all
 ||dethtoken.com^$all
@@ -15615,7 +15626,9 @@
 ||e-tradegrowthfx.com^$all
 ||e-tradeltd.com^$all
 ||e-vastintel.com^$all
+||e-world.live^$all
 ||e.ebcfinancetw.com^$all
+||e.fidelityoptionsgn.com^$all
 ||e.sg-ex.org^$all
 ||e02.wayteciyes.com^$all
 ||e0t0r.com^$all
@@ -16362,6 +16375,7 @@
 ||erc-deficoin.top^$all
 ||erc-usdt.top^$all
 ||erc20-digital.xyz^$all
+||erc20eth.club^$all
 ||erc20free.io^$all
 ||erc20free.org^$all
 ||ercdefi.top^$all
@@ -18761,6 +18775,7 @@
 ||forex88.app^$all
 ||forex88.net^$all
 ||forexadministration.com^$all
+||forexadultenergy.com^$all
 ||forexageinvestmentlimited.com^$all
 ||forexast.com^$all
 ||forexbot.live^$all
@@ -22594,6 +22609,7 @@
 ||horizon-crypto.org^$all
 ||horizonbitfx.com^$all
 ||horizonmining.net^$all
+||horizonnft.net^$all
 ||horizontradefx.com^$all
 ||horizontradingcoin.com^$all
 ||hornedlimited.com^$all
@@ -22731,6 +22747,7 @@
 ||hszt.dnlmy.com^$all
 ||ht-forexs.com^$all
 ||ht-fortune.com^$all
+||ht.cbexjiu06.top^$all
 ||ht.cbexshi01.top^$all
 ||ht.htkjlsliu06.top^$all
 ||ht.kjcoinliu02.top^$all
@@ -23249,6 +23266,7 @@
 ||immaculatetrade.com^$all
 ||immasteryacademycoin.com^$all
 ||immense-trade.com^$all
+||impact-qk.com^$all
 ||imperace.cc^$all
 ||imperial-co.com^$all
 ||imperialcapitalinvestltd.com^$all
@@ -23877,6 +23895,7 @@
 ||jfn688.net^$all
 ||jfygshop.com^$all
 ||jg178.viictec.com^$all
+||jg4mm.roqgsbm.com^$all
 ||jghhshqux.com^$all
 ||jh178.cc^$all
 ||jh777.net^$all
@@ -24869,6 +24888,7 @@
 ||lawyer2invest.com^$all
 ||laycryptomarkets.com^$all
 ||laydefi.com^$all
+||laz-wholesale.com^$all
 ||lazada-tw.com^$all
 ||lazada58.com^$all
 ||lazada80.com^$all
@@ -30307,6 +30327,7 @@
 ||prominence.credit^$all
 ||prominenceseabank.com^$all
 ||prominer.info^$all
+||prominer.org^$all
 ||prominers.org^$all
 ||prominersfx.com^$all
 ||promkfx.com^$all
@@ -31636,6 +31657,7 @@
 ||select-limited.com^$all
 ||selectya.financial66.com^$all
 ||selforex.com^$all
+||seller.acsshop.biz^$all
 ||seller.hottkshop.com^$all
 ||selleract.com^$all
 ||sellercoindescription.info^$all
@@ -32387,6 +32409,7 @@
 ||softbank666.com^$all
 ||softcoin.live^$all
 ||softonicfx.com^$all
+||sofvokl.com^$all
 ||soget.io^$all
 ||sogosecurities.com^$all
 ||sogotrading.com^$all
@@ -33510,6 +33533,7 @@
 ||techtrusttool.com^$all
 ||tecmactrade.com^$all
 ||tecmactrade.live^$all
+||tee5.co^$all
 ||teelwealthinvestment.com^$all
 ||tegasfx.com^$all
 ||teknosfx.com^$all
@@ -34246,6 +34270,7 @@
 ||tr69.xyz^$all
 ||tr9898.com^$all
 ||tracking.fluxexpress.live^$all
+||trad01.com^$all
 ||trad212.com^$all
 ||tradable.xyz^$all
 ||tradacoin.com^$all
@@ -35132,6 +35157,7 @@
 ||trxcloud.cc^$all
 ||trxcnio.com^$all
 ||trxcryptoearn.com^$all
+||trxdeepminer.com^$all
 ||trxewf.com^$all
 ||trxewmv.com^$all
 ||trxfminingcoin.com^$all
@@ -35445,6 +35471,7 @@
 ||txxd668.com^$all
 ||ty.tobywu.xyz^$all
 ||tychyyds.com^$all
+||tycoinpro.com^$all
 ||tycooncoin.info^$all
 ||tycooncoin.online^$all
 ||tyjyjk.club^$all
@@ -35548,6 +35575,7 @@
 ||ud72ncde.xyz^$all
 ||udextrades.com^$all
 ||udsfyhd.com^$all
+||udstmg.com^$all
 ||udunloo.xyz^$all
 ||ue-fx.com^$all
 ||uebgjrn.top^$all
@@ -38316,6 +38344,7 @@
 ||www.yggjvl.top^$all
 ||www.ytexpro.com^$all
 ||www.zbzuitt.vip^$all
+||www.zenexce.com^$all
 ||www.zenexin.com^$all
 ||www.zftrsf.com^$all
 ||www.zlc.name^$all
