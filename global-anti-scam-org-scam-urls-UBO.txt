@@ -3013,6 +3013,7 @@
 ||asia-net.pro^$all
 ||asia.11stc.com^$all
 ||asia.11stm.shop^$all
+||asia.11sts.shop^$all
 ||asia.11stw.com^$all
 ||asia.11stw.shop^$all
 ||asia.dangdengtw.shop^$all
@@ -13879,7 +13880,6 @@
 ||cyabo.com^$all
 ||cyber-forensics.net^$all
 ||cyberbitem.com^$all
-||cyberclaims.net^$all
 ||cybercoinprotection.com^$all
 ||cybercoinscasino.com^$all
 ||cyberfinance-online.com^$all
@@ -16328,6 +16328,7 @@
 ||eos-trade.ltd^$all
 ||eose.xyz^$all
 ||eosglobalinvesting.com^$all
+||eov218.com^$all
 ||ep.emngrk.top^$all
 ||ep.euignrg.top^$all
 ||epbu.top^$all
@@ -24572,6 +24573,7 @@
 ||kodascoins.ltd^$all
 ||kodex.finance^$all
 ||koexchange.tw^$all
+||kofexweb.com^$all
 ||kogege.xyz^$all
 ||kohlecapfx.com^$all
 ||kohletop.com^$all
@@ -26241,6 +26243,7 @@
 ||m.ylc7177.com^$all
 ||m.ylc9199.com^$all
 ||m.ylhg2626.vip^$all
+||m.ylhg66.top^$all
 ||m.ylhg66.xyz^$all
 ||m.ylhg85.xyz^$all
 ||m.ylhg9599.vip^$all
@@ -33302,6 +33305,7 @@
 ||synarbitrage.com^$all
 ||syncaccuratefx.com^$all
 ||syncfxt.online^$all
+||syncgpt.network^$all
 ||synergyworldmining.com^$all
 ||synquotescrm.com^$all
 ||synquotescrma.com^$all

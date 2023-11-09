@@ -47,6 +47,7 @@
 *://*.11shop.vip/*
 *://*.11stc.com/*
 *://*.11stm.shop/*
+*://*.11sts.shop/*
 *://*.11stw.com/*
 *://*.11stw.shop/*
 *://*.11xcrypto.com/*
@@ -13916,7 +13917,6 @@
 *://*.cyabo.com/*
 *://*.cyber-forensics.net/*
 *://*.cyberbitem.com/*
-*://*.cyberclaims.net/*
 *://*.cybercoinprotection.com/*
 *://*.cybercoinscasino.com/*
 *://*.cyberfinance-online.com/*
@@ -16208,6 +16208,7 @@
 *://*.eosglobalinvesting.com/*
 *://*.eosnrun.top/*
 *://*.eouiohgfh.com/*
+*://*.eov218.com/*
 *://*.eovnrc.top/*
 *://*.epbu.top/*
 *://*.epelle-funds.com/*
@@ -24655,6 +24656,7 @@
 *://*.kodascoins.ltd/*
 *://*.kodex.finance/*
 *://*.koexchange.tw/*
+*://*.kofexweb.com/*
 *://*.kogege.xyz/*
 *://*.kohlecapfx.com/*
 *://*.kohletop.com/*
@@ -33190,6 +33192,7 @@
 *://*.synarbitrage.com/*
 *://*.syncaccuratefx.com/*
 *://*.syncfxt.online/*
+*://*.syncgpt.network/*
 *://*.synergyworldmining.com/*
 *://*.synquotescrm.com/*
 *://*.synquotescrma.com/*
@@ -38319,6 +38322,7 @@
 *://*.ylcointw.com/*
 *://*.ylfx.uk/*
 *://*.ylhg2626.vip/*
+*://*.ylhg66.top/*
 *://*.ylhg66.xyz/*
 *://*.ylhg68.xyz/*
 *://*.ylhg7018.com/*
