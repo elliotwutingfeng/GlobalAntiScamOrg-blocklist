@@ -6821,6 +6821,7 @@
 *://*.bitstre.com/*
 *://*.bitstret.com/*
 *://*.bitstrochain.com/*
+*://*.bitstuk.com/*
 *://*.bitstylex.com/*
 *://*.bitsuex.com/*
 *://*.bitsuisse.net/*
@@ -37166,6 +37167,7 @@
 *://*.web3-cointrade.net/*
 *://*.web3-cointrade.org/*
 *://*.web3-cryptohopper.com/*
+*://*.web3-ethereum.io/*
 *://*.web3-index.org/*
 *://*.web30defi.org/*
 *://*.web30miningpool.com/*

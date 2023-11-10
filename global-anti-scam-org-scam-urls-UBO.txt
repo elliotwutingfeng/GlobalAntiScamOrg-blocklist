@@ -7017,6 +7017,7 @@
 ||bitstre.com^$all
 ||bitstret.com^$all
 ||bitstrochain.com^$all
+||bitstuk.com^$all
 ||bitstylex.com^$all
 ||bitsuex.com^$all
 ||bitsuisse.net^$all
@@ -37477,6 +37478,7 @@
 ||web3-cointrade.net^$all
 ||web3-cointrade.org^$all
 ||web3-cryptohopper.com^$all
+||web3-ethereum.io^$all
 ||web3-index.org^$all
 ||web3.coininvst.com^$all
 ||web3.coinivs.com^$all
