@@ -9711,6 +9711,7 @@
 *://*.cicnbtc.com/*
 *://*.ciddxx.club/*
 *://*.cietrade.org/*
+*://*.ciexcip.vip/*
 *://*.ciexexchange.com/*
 *://*.ciexpro.net/*
 *://*.ciexpro.site/*
@@ -23553,6 +23554,7 @@
 *://*.index.do/*
 *://*.indexassetmarket.com/*
 *://*.indexbinaryf2.com/*
+*://*.indexbinf2.com/*
 *://*.indexcfd.online/*
 *://*.indexcrypto.ltd/*
 *://*.indexdigitalmarket.com/*

@@ -9816,6 +9816,7 @@
 ||cicnbtc.com^$all
 ||ciddxx.club^$all
 ||cietrade.org^$all
+||ciexcip.vip^$all
 ||ciexexchange.com^$all
 ||ciexpro.net^$all
 ||ciexpro.site^$all
@@ -23677,6 +23678,7 @@
 ||index.brokercfd.xyz^$all
 ||indexassetmarket.com^$all
 ||indexbinaryf2.com^$all
+||indexbinf2.com^$all
 ||indexcrypto.ltd^$all
 ||indexdigitalmarket.com^$all
 ||indexfx.online^$all
