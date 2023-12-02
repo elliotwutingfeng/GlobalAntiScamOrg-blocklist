@@ -433,6 +433,7 @@
 *://*.3989988.com/*
 *://*.3a168.net/*
 *://*.3a568.com/*
+*://*.3aextio.com/*
 *://*.3ahglefx.com/*
 *://*.3azdh.com/*
 *://*.3baasecom.xyz/*
@@ -2014,6 +2015,7 @@
 *://*.amg-8.com/*
 *://*.amgexali.com/*
 *://*.amgexcfx.com/*
+*://*.amgexidn.com/*
 *://*.amgexthe.com/*
 *://*.amgexwlc.com/*
 *://*.amgexxds.com/*
@@ -11590,6 +11592,7 @@
 *://*.coinspalmine.com/*
 *://*.coinspayment.ltd/*
 *://*.coinspays.cc/*
+*://*.coinspectraus.com/*
 *://*.coinsph.one/*
 *://*.coinspockets.com/*
 *://*.coinspod.org/*
@@ -21154,6 +21157,7 @@
 *://*.globalminingtradingltd.com/*
 *://*.globalnationmine.com/*
 *://*.globalonemarkets.net/*
+*://*.globaloptions.live/*
 *://*.globalorganizationfx.net/*
 *://*.globalpaymentsex.com/*
 *://*.globalpaymentstw.com/*
@@ -29229,6 +29233,7 @@
 *://*.onextbit.com/*
 *://*.onexue.xyz/*
 *://*.onialprofx.online/*
+*://*.onlineasoworld.cc/*
 *://*.onlinedigitalfxtrading.online/*
 *://*.onlinefxspaces.live/*
 *://*.onlineinvestcrypto.com/*
@@ -30463,6 +30468,7 @@
 *://*.professionaldailyexchangefx.com/*
 *://*.professorvenombite.com/*
 *://*.proficiencycrypto.ltd/*
+*://*.profinance.website/*
 *://*.profinancemarkets.net/*
 *://*.profinancemeans.com/*
 *://*.profintech.live/*
@@ -32761,6 +32767,7 @@
 *://*.smoothfxoption.com/*
 *://*.smpstrades.com/*
 *://*.smrsir.cn/*
+*://*.smrtxchange.pro/*
 *://*.smt-shop-tw.com/*
 *://*.smtc8.com/*
 *://*.smtecommece.com/*
@@ -33157,6 +33164,7 @@
 *://*.standardex.site/*
 *://*.standardfx.net/*
 *://*.standardfxmarket.com/*
+*://*.standardfxoaks.com/*
 *://*.standardfxtrade.org/*
 *://*.standardgoldway.com/*
 *://*.standardoptionsfx.com/*
@@ -39366,6 +39374,7 @@
 *://*.zenexcd.com/*
 *://*.zenexce.com/*
 *://*.zenexcpro.com/*
+*://*.zenexcs.com/*
 *://*.zenexcus.com/*
 *://*.zenexcw.com/*
 *://*.zenexin.com/*

@@ -419,6 +419,7 @@
 ||369shoptw.com^$all
 ||38894435.kvbkunlun.vip^$all
 ||3a568.com^$all
+||3aextio.com^$all
 ||3ahglefx.com^$all
 ||3baasecom.xyz^$all
 ||3baobaomall.com^$all
@@ -2000,6 +2001,7 @@
 ||amfx.online^$all
 ||amgexali.com^$all
 ||amgexcfx.com^$all
+||amgexidn.com^$all
 ||amgexthe.com^$all
 ||amgexwlc.com^$all
 ||amgexxds.com^$all
@@ -11616,6 +11618,7 @@
 ||coinspact.org^$all
 ||coinspalmine.com^$all
 ||coinspayment.ltd^$all
+||coinspectraus.com^$all
 ||coinsph.one^$all
 ||coinspockets.com^$all
 ||coinspod.org^$all
@@ -29576,6 +29579,7 @@
 ||onexue.xyz^$all
 ||oni618.gm1788.net^$all
 ||onialprofx.online^$all
+||onlineasoworld.cc^$all
 ||onlinedigitalfxtrading.online^$all
 ||onlinefxspaces.live^$all
 ||onlineinvestcrypto.com^$all
@@ -30784,6 +30788,7 @@
 ||professionaldailyexchangefx.com^$all
 ||professorvenombite.com^$all
 ||proficiencycrypto.ltd^$all
+||profinance.website^$all
 ||profinancemarkets.net^$all
 ||profinancemeans.com^$all
 ||profintech.live^$all
@@ -32919,6 +32924,7 @@
 ||smnhus.com^$all
 ||smone.loginto.me^$all
 ||smoothfxoption.com^$all
+||smrtxchange.pro^$all
 ||smt-shop-tw.com^$all
 ||smtecommece.com^$all
 ||smvip.zapto.org^$all
@@ -33315,6 +33321,7 @@
 ||standardex.site^$all
 ||standardfx.net^$all
 ||standardfxmarket.com^$all
+||standardfxoaks.com^$all
 ||standardfxtrade.org^$all
 ||standardgoldway.com^$all
 ||standardoptionsfx.com^$all
@@ -34955,6 +34962,7 @@
 ||trade.egslpmore.buzz^$all
 ||trade.fxltetrade.com^$all
 ||trade.ghpxy.com^$all
+||trade.globaloptions.live^$all
 ||trade.ircatital-tw.com^$all
 ||trade.kijmoop.com^$all
 ||trade.lem-tw.com^$all
@@ -39900,6 +39908,7 @@
 ||zenethtrades.net^$all
 ||zenexcd.com^$all
 ||zenexcpro.com^$all
+||zenexcs.com^$all
 ||zenexcus.com^$all
 ||zenexcw.com^$all
 ||zenexq.com^$all
