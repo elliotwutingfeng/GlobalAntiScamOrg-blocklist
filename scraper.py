@@ -170,6 +170,8 @@ if __name__ == "__main__":
     fqdns: set[str] = set()
     registered_domains: set[str] = set()
 
+    if not urls:
+        raise ValueError("Failed to scrape URLs")
     for url in urls:
         res = tldextract.extract(url)
         registered_domain, domain, fqdn = (
