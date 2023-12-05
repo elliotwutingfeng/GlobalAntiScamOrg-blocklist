@@ -120,8 +120,7 @@ def retrieve_dataset(
     bodies: list[dict] = [first_page_body]
     for offset in range(1, num_offsets + 1):
         response = get_page(svSession, offset=offset * page_limit)
-        if response.status_code == 200:
-            body = response.json()
+        body = response.json() if response.status_code == 200 else {}
         bodies.append(body)
     return bodies
 
@@ -170,26 +169,26 @@ if __name__ == "__main__":
     non_ips: set[str] = set()
     fqdns: set[str] = set()
     registered_domains: set[str] = set()
-    if urls:
-        for url in urls:
-            res = tldextract.extract(url)
-            registered_domain, domain, fqdn = (
-                res.registered_domain,
-                res.domain,
-                res.fqdn,
-            )
-            if domain and not fqdn:
-                # Possible IPv4 Address
-                try:
-                    socket.inet_pton(socket.AF_INET, domain)
-                    ips.add(domain)
-                except socket.error:
-                    # Is invalid URL and invalid IP -> skip
-                    pass
-            elif fqdn:
-                non_ips.add(url)
-                fqdns.add(fqdn)
-                registered_domains.add(registered_domain)
+
+    for url in urls:
+        res = tldextract.extract(url)
+        registered_domain, domain, fqdn = (
+            res.registered_domain,
+            res.domain,
+            res.fqdn,
+        )
+        if domain and not fqdn:
+            # Possible IPv4 Address
+            try:
+                socket.inet_pton(socket.AF_INET, domain)
+                ips.add(domain)
+            except socket.error:
+                # Is invalid URL and invalid IP -> skip
+                pass
+        elif fqdn:
+            non_ips.add(url)
+            fqdns.add(fqdn)
+            registered_domains.add(registered_domain)
 
     if not non_ips and not ips:
         logger.error("No content available for blocklists.")
