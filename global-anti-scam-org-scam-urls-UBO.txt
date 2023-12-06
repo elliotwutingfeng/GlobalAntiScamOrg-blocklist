@@ -4119,6 +4119,7 @@
 ||beibei-express.com^$all
 ||beimalu.com^$all
 ||beipaizangyao.com^$all
+||beklktwrd.com^$all
 ||beko688.com^$all
 ||belc.bellagio.casa^$all
 ||belc.bellagio.digital^$all
@@ -12916,6 +12917,7 @@
 ||cryptocoindeskfx.com^$all
 ||cryptocoingeek.org^$all
 ||cryptocoininvestcompany.site^$all
+||cryptocoinq.com^$all
 ||cryptocoins-limited.org^$all
 ||cryptocoins-wallet.com^$all
 ||cryptocoinscoach.com^$all

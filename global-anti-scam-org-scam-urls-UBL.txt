@@ -3768,6 +3768,7 @@
 *://*.beipaizangyao.com/*
 *://*.beirock.top/*
 *://*.bejgnrk.top/*
+*://*.beklktwrd.com/*
 *://*.beko688.com/*
 *://*.belcherinvestment.com/*
 *://*.belebey.com/*
@@ -12889,6 +12890,7 @@
 *://*.cryptocoindeskfx.com/*
 *://*.cryptocoingeek.org/*
 *://*.cryptocoininvestcompany.site/*
+*://*.cryptocoinq.com/*
 *://*.cryptocoins-limited.org/*
 *://*.cryptocoins-wallet.com/*
 *://*.cryptocoinscoach.com/*
