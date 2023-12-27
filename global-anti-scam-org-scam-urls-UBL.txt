@@ -12118,6 +12118,7 @@
 *://*.coinwstrive.com/*
 *://*.coinwure.com/*
 *://*.coinwyx.com/*
+*://*.coinwzc.com/*
 *://*.coinx.ai/*
 *://*.coinx.live/*
 *://*.coinxas.com/*
@@ -14929,6 +14930,7 @@
 *://*.defimine.one/*
 *://*.defiminepool.top/*
 *://*.defimining-eth.vip/*
+*://*.defimining.xyz/*
 *://*.defiminingproject.com/*
 *://*.defimnb.com/*
 *://*.defimoney.info/*
@@ -25628,6 +25630,7 @@
 *://*.krakencryptotraders.com/*
 *://*.krakendaytrading.net/*
 *://*.krakenfuturesbit.com/*
+*://*.krakenfuturesckf.com/*
 *://*.krakenfuturescrypt.com/*
 *://*.krakenfuturescurrency.com/*
 *://*.krakeniec.com/*
@@ -28736,6 +28739,7 @@
 *://*.nang5.com/*
 *://*.nanhuajatuan.xyz/*
 *://*.nanisiphone.com/*
+*://*.nanobitus.com/*
 *://*.nanocoin.site/*
 *://*.nanoexchange.org/*
 *://*.nanoinvest.online/*
