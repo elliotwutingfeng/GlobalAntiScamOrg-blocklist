@@ -7764,6 +7764,7 @@
 *://*.bnbcryptoearn.com/*
 *://*.bnbfanminer.online/*
 *://*.bnbfinex.vip/*
+*://*.bnbinseme.pics/*
 *://*.bnbminer-app.com/*
 *://*.bnbminer-app.online/*
 *://*.bnbminer.pro/*
@@ -12414,6 +12415,7 @@
 *://*.coudal.click/*
 *://*.counsellingbit.com/*
 *://*.courierplusxpress.com/*
+*://*.courriercanadapost.com/*
 *://*.courseinforex.com/*
 *://*.courseracryptoinvest.com/*
 *://*.cov-aid.com/*
@@ -23956,6 +23958,7 @@
 *://*.imtoken-usdt.life/*
 *://*.imtoken-xx.com/*
 *://*.imtoken.actor/*
+*://*.imtoken.com/*
 *://*.imtoken599.com/*
 *://*.imtokenb.cloud/*
 *://*.imtokenbe.com/*
@@ -24069,6 +24072,7 @@
 *://*.infinityglobaltrade.com/*
 *://*.infinityglobaltraders.com/*
 *://*.infinityslotsfreecoins.icu/*
+*://*.infinitystakechain.com/*
 *://*.infinitytradingbit.top/*
 *://*.infinox.com/*
 *://*.infintws.com/*
@@ -28660,6 +28664,7 @@
 *://*.mynexusglobal.com/*
 *://*.mypassivetrade.com/*
 *://*.myphzc.com/*
+*://*.myprosperous.io/*
 *://*.mypsx.net/*
 *://*.myrafflesmall.com/*
 *://*.myrichbtc.com/*
@@ -33606,6 +33611,7 @@
 *://*.sogomining.top/*
 *://*.sogosecurities.com/*
 *://*.sogotrade.cc/*
+*://*.sogotrader.com/*
 *://*.sogotrading.com/*
 *://*.sojjw.com/*
 *://*.sokofund.com/*

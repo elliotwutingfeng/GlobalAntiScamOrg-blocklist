@@ -3806,6 +3806,7 @@
 ||azarinvestmentpty.com^$all
 ||azavafaucetcoins.online^$all
 ||azbit-farm.net^$all
+||azbit-usa.com^$all
 ||azbit.space^$all
 ||azbitcsz.com^$all
 ||azbitdl.com^$all
@@ -12422,6 +12423,7 @@
 ||coudal.click^$all
 ||counsellingbit.com^$all
 ||courierplusxpress.com^$all
+||courriercanadapost.com^$all
 ||courseinforex.com^$all
 ||courseracryptoinvest.com^$all
 ||cov-aid.com^$all
@@ -22585,6 +22587,7 @@
 ||h5.shop94700.shop^$all
 ||h5.shopconch8.com^$all
 ||h5.slnqoef.top^$all
+||h5.sogotrader.com^$all
 ||h5.sothebysinc.world^$all
 ||h5.sqg.life^$all
 ||h5.square99.xyz^$all
@@ -24065,6 +24068,7 @@
 ||imtoken-usdt.life^$all
 ||imtoken-xx.com^$all
 ||imtoken.actor^$all
+||imtoken.com^$all
 ||imtoken599.com^$all
 ||imtokenb.cloud^$all
 ||imtokenbe.com^$all
@@ -24163,6 +24167,7 @@
 ||infinityglobaltrade.com^$all
 ||infinityglobaltraders.com^$all
 ||infinityslotsfreecoins.icu^$all
+||infinitystakechain.com^$all
 ||infinitytradingbit.top^$all
 ||infinox.com^$all
 ||infintws.com^$all
@@ -29027,6 +29032,7 @@
 ||mynexusglobal.com^$all
 ||mypassivetrade.com^$all
 ||myphzc.com^$all
+||myprosperous.io^$all
 ||myrafflesmall.com^$all
 ||myrichbtc.com^$all
 ||myrscoin.com^$all
@@ -37563,6 +37569,7 @@
 ||usdt04.com^$all
 ||usdt08.com^$all
 ||usdt12.com^$all
+||usdt158.bnbinseme.pics^$all
 ||usdt1629.com^$all
 ||usdt20.fun^$all
 ||usdt3.me^$all
