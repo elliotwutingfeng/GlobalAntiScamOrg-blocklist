@@ -584,6 +584,7 @@
 *://*.6868275.com/*
 *://*.68688y.com/*
 *://*.688528.cfd/*
+*://*.68umq.com/*
 *://*.6955625.com/*
 *://*.6bithumd.com/*
 *://*.6bitmex.com/*
@@ -1936,6 +1937,7 @@
 *://*.althernativeminers.com/*
 *://*.altimatelivetrade.com/*
 *://*.altimatetradeworld.com/*
+*://*.altimaverses.com/*
 *://*.altive.net/*
 *://*.altman-inc.com/*
 *://*.altminingtrade.com/*
@@ -6420,6 +6422,7 @@
 *://*.bitopproi.com/*
 *://*.bitopproq.com/*
 *://*.bitoppror.com/*
+*://*.bitopro-trade.com/*
 *://*.bitopro-vip.com/*
 *://*.bitopro.co/*
 *://*.bitopro.co.uk/*
@@ -17870,6 +17873,7 @@
 *://*.ewweex.com/*
 *://*.ex-crypto.pro/*
 *://*.ex-cryptos.com/*
+*://*.ex-options.vip/*
 *://*.exabtc.com/*
 *://*.exabytecapitals.com/*
 *://*.exactgoldtrading.com/*
@@ -27833,6 +27837,7 @@
 *://*.minewealth1.com/*
 *://*.minexcoin.cloud/*
 *://*.mingethn.top/*
+*://*.mingjiabm.com/*
 *://*.mingliuweb.xyz/*
 *://*.minhchienfx.com/*
 *://*.minhongkejilive.com/*
@@ -30214,6 +30219,7 @@
 *://*.pacific-trade.org/*
 *://*.pacificgn.tech/*
 *://*.pacificsfinance.com/*
+*://*.pacifictradeinvestment.com/*
 *://*.padx.top/*
 *://*.paecontrade.com/*
 *://*.pagank.com/*
@@ -37710,6 +37716,7 @@
 *://*.usdtexchange.online/*
 *://*.usdtfan.com/*
 *://*.usdtfarm.online/*
+*://*.usdtfhl.com/*
 *://*.usdtforextrading.com/*
 *://*.usdtfusion.com/*
 *://*.usdtglob.com/*

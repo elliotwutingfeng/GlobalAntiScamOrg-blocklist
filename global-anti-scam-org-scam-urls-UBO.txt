@@ -555,6 +555,7 @@
 ||67453t.com^$all
 ||6868275.com^$all
 ||68688y.com^$all
+||68umq.com^$all
 ||6900203.jswhqf.com^$all
 ||6955625.com^$all
 ||6bithumd.com^$all
@@ -1917,6 +1918,7 @@
 ||althernativeminers.com^$all
 ||altimatelivetrade.com^$all
 ||altimatetradeworld.com^$all
+||altimaverses.com^$all
 ||altitude.hwaxn.com^$all
 ||altman-inc.com^$all
 ||altminingtrade.com^$all
@@ -6732,6 +6734,7 @@
 ||bitopproi.com^$all
 ||bitopproq.com^$all
 ||bitoppror.com^$all
+||bitopro-trade.com^$all
 ||bitopro.co^$all
 ||bitopro.co.uk^$all
 ||bitopro.trade^$all
@@ -18010,6 +18013,7 @@
 ||ex-crypto.pro^$all
 ||ex-cryptos.com^$all
 ||ex-m.cashbtc.app^$all
+||ex-options.vip^$all
 ||ex.riseex.com^$all
 ||ex.risevv.com^$all
 ||exabtc.com^$all
@@ -28216,6 +28220,7 @@
 ||minewealth1.com^$all
 ||minexcoin.cloud^$all
 ||mingethn.top^$all
+||mingjiabm.com^$all
 ||minhchienfx.com^$all
 ||mini-crypto.com^$all
 ||miniarbi.com^$all
@@ -30491,6 +30496,7 @@
 ||p8fxs.com^$all
 ||pacific-trade.org^$all
 ||pacificsfinance.com^$all
+||pacifictradeinvestment.com^$all
 ||padx.top^$all
 ||paecontrade.com^$all
 ||pagank.com^$all
@@ -37669,6 +37675,7 @@
 ||usdtexchange.online^$all
 ||usdtfan.com^$all
 ||usdtfarm.online^$all
+||usdtfhl.com^$all
 ||usdtforextrading.com^$all
 ||usdtfusion.com^$all
 ||usdtglob.com^$all
