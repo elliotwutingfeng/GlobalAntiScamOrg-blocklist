@@ -22373,6 +22373,7 @@
 *://*.gumarkets.com/*
 *://*.guniswap.top/*
 *://*.gunonq.top/*
+*://*.guoffhos.com/*
 *://*.guoliyun.com/*
 *://*.guostw.com/*
 *://*.guotaiapp.vip/*
@@ -38046,6 +38047,7 @@
 *://*.velem-trade.com/*
 *://*.velesfinance.online/*
 *://*.velo-funds.com/*
+*://*.velodsih.com/*
 *://*.velosfund.com/*
 *://*.veloxtrades.net/*
 *://*.veluxcorporationlimited.com/*

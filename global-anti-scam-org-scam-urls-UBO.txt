@@ -8270,6 +8270,7 @@
 ||brand-wkbit.com^$all
 ||brand-zbit.com^$all
 ||brandbitex.com^$all
+||brandoff.guoffhos.com^$all
 ||brandoinvestment.com^$all
 ||brandontrades.com^$all
 ||brasaotus.com^$all
@@ -38067,6 +38068,7 @@
 ||velocity.nyseurex.com^$all
 ||velocity.quicv.com^$all
 ||velocity.topfim.com^$all
+||velodsih.com^$all
 ||velosfund.com^$all
 ||veloxtrades.net^$all
 ||veluxcorporationlimited.com^$all
