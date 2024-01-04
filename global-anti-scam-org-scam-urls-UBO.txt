@@ -3759,6 +3759,7 @@
 ||awesometrademark.com^$all
 ||awfxbank.com^$all
 ||awisecryptnord.online^$all
+||awishstore.shop^$all
 ||awk92.com^$all
 ||awp.deervlyon.com^$all
 ||awp.zwndvd.com^$all
@@ -17918,6 +17919,7 @@
 ||etwcoin.com^$all
 ||etwdss.com^$all
 ||etxaustc.top^$all
+||etxcapitalibr.com^$all
 ||etxcapitaltw.com^$all
 ||etxusa.com^$all
 ||etycoin.xyz^$all
@@ -18001,6 +18003,7 @@
 ||eve.huiycs.com^$all
 ||eve.kinrosscoldts.com^$all
 ||eve.wheatoniu.com^$all
+||evelup.com^$all
 ||eventmsc.com^$all
 ||everbit-coin.com^$all
 ||everdomex.online^$all
@@ -31602,6 +31605,7 @@
 ||prosbits.com^$all
 ||proshares.cyou^$all
 ||proshares.top^$all
+||prosinex.com^$all
 ||prosmarkets.com^$all
 ||prosmartcrypto.com^$all
 ||prosperi.io^$all
@@ -38160,6 +38164,7 @@
 ||vecentservice.com^$all
 ||vecentservicei.com^$all
 ||vechaindex.xyz^$all
+||vechains.co^$all
 ||vechains.net^$all
 ||vechainsfx.com^$all
 ||vecqmall.com^$all
