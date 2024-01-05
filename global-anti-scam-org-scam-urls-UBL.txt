@@ -26648,6 +26648,7 @@
 *://*.lmtokenn.store/*
 *://*.lmtw886.com/*
 *://*.lnfexoption.com/*
+*://*.lnterac-canadaalert-securedeposit.com/*
 *://*.lo2e.xyz/*
 *://*.loan-tw.org/*
 *://*.loansforcredit.com/*
@@ -30508,6 +30509,7 @@
 *://*.payironn.com/*
 *://*.paykt.buzz/*
 *://*.paymall.live/*
+*://*.payments-407etr.com/*
 *://*.paymium23.buzz/*
 *://*.paymium6.buzz/*
 *://*.paymium8.buzz/*
