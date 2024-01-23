@@ -2,12 +2,14 @@
 and write them to a .txt blocklist
 """
 from __future__ import annotations
+
 import ipaddress
 import itertools
 import json
 import logging
 import re
 import socket
+import time
 from datetime import datetime
 
 import requests
@@ -61,9 +63,9 @@ def get_sv_session() -> str | None:
 
     try:
         browser.get("https://www.globalantiscam.org/scam-websites")
+        time.sleep(15)
     except TimeoutException:
         return None
-
     cookie = browser.get_cookie("svSession")
     if cookie:
         return str(cookie["value"])
