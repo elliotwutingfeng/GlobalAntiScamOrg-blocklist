@@ -35476,6 +35476,7 @@
 *://*.tdmcoins.com/*
 *://*.tdqvril.com/*
 *://*.tdrk1.com/*
+*://*.tdrsavings.com/*
 *://*.tdtrade.center/*
 *://*.tdtradingvip.online/*
 *://*.tea-pin.com/*

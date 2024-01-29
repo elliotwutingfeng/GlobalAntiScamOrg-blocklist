@@ -35412,6 +35412,7 @@
 ||tdmcoins.com^$all
 ||tdqvril.com^$all
 ||tdrk1.com^$all
+||tdrsavings.com^$all
 ||tdtrade.center^$all
 ||tdtradingvip.online^$all
 ||tea-pin.com^$all
@@ -40825,6 +40826,7 @@
 ||www.tokpiedcd.com^$all
 ||www.tokpienig.com^$all
 ||www.tomnucostco.com^$all
+||www.tourbase.online^$all
 ||www.tradenationu.tw^$all
 ||www.tradeopi.com^$all
 ||www.trcoexg.com^$all
