@@ -8175,6 +8175,7 @@
 *://*.bqsfbk.com/*
 *://*.br-stone.net/*
 *://*.braiinsmining.pro/*
+*://*.brain-boost.academy/*
 *://*.brainfield-investment.com/*
 *://*.brainsstockfx.com/*
 *://*.brainstorm-trade.ltd/*
@@ -10434,6 +10435,7 @@
 *://*.cmeusa.pw/*
 *://*.cmeutm-xy.com/*
 *://*.cmeuwq.com/*
+*://*.cmeweb.info/*
 *://*.cmexbit.com/*
 *://*.cmfdwz.com/*
 *://*.cmfro.com/*
@@ -15042,6 +15044,7 @@
 *://*.decointrade.com/*
 *://*.deconinvestments.net/*
 *://*.decred-usdt.com/*
+*://*.decredke.com/*
 *://*.decryptor-boost.com/*
 *://*.decurretbit.com/*
 *://*.decurretpro.com/*
@@ -20428,6 +20431,7 @@
 *://*.fx-options24.online/*
 *://*.fx-pandora.com/*
 *://*.fx-payu.com/*
+*://*.fx-pro.bond/*
 *://*.fx-profitextradings.com/*
 *://*.fx-protrading.com/*
 *://*.fx-rogue.com/*
@@ -23303,6 +23307,7 @@
 *://*.higoorderr6.com/*
 *://*.higoorderr8.com/*
 *://*.higoorderr9.com/*
+*://*.higot-pro.com/*
 *://*.hihe25.com/*
 *://*.hikekelending.com/*
 *://*.hiketang.cn/*
@@ -28187,6 +28192,7 @@
 *://*.mexcuzo.com/*
 *://*.mexcvip-coin.com/*
 *://*.mexcvip01.com/*
+*://*.mexczx.icu/*
 *://*.mexd4.com/*
 *://*.mexglobal.pro/*
 *://*.mexglobal.top/*
@@ -29875,6 +29881,7 @@
 *://*.novinvestmentcrypto.com/*
 *://*.now-bit.com/*
 *://*.nowmycrypto.com/*
+*://*.np2hx.biz/*
 *://*.npbopv.xyz/*
 *://*.npc-ty01.com/*
 *://*.npk3.cn/*
@@ -35141,6 +35148,7 @@
 *://*.superbullcoin.org/*
 *://*.supercapitalfx.com/*
 *://*.superciit.com/*
+*://*.superdelivery.com.co/*
 *://*.superepd.com/*
 *://*.superfinancx.com/*
 *://*.superflyinvestment.com/*
@@ -35322,6 +35330,7 @@
 *://*.swiftcreditpro.com/*
 *://*.swiftcryptotrade.net/*
 *://*.swiftexlogistics.com/*
+*://*.swiftexpresslc.us/*
 *://*.swiftfinances.org/*
 *://*.swiftfxcapitals.com/*
 *://*.swiftfxgloba.com/*
@@ -37402,6 +37411,7 @@
 *://*.trust-trade.biz/*
 *://*.trust-usdt.vip/*
 *://*.trust-venture.com/*
+*://*.trust-wallet.xyz/*
 *://*.trust-wallext.xyz/*
 *://*.trust226.com/*
 *://*.trust266.com/*
@@ -39713,6 +39723,7 @@
 *://*.wealthextremeguide.live/*
 *://*.wealthfacefunds.online/*
 *://*.wealthfcmt.com/*
+*://*.wealthfrontbrokerageex.com/*
 *://*.wealthfrontexchange.com/*
 *://*.wealthfrontintl.com/*
 *://*.wealthfrontts.com/*
