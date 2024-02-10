@@ -242,6 +242,7 @@
 ||247antminingtrade.com^$all
 ||247autocryptotrade.org^$all
 ||247binaryfxtrading.online^$all
+||247bitcointrading.com^$all
 ||247coinifytradingbolt.com^$all
 ||247coint.com^$all
 ||247cointrading.com^$all
@@ -26793,6 +26794,7 @@
 ||livecrypto-option.net^$all
 ||liveexchange.us^$all
 ||liveexhanget.xyz^$all
+||liveforextrading.xyz^$all
 ||livefxcoinpro.com^$all
 ||livefxtraders.online^$all
 ||livemarketpro.com^$all
