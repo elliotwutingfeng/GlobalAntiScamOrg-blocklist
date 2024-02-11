@@ -14628,6 +14628,7 @@
 ||cwxibzs.com^$all
 ||cxex.com^$all
 ||cxfxmarkets.com^$all
+||cxmdircet.com^$all
 ||cxmtrad.com^$all
 ||cxmtradft.com^$all
 ||cxmtradingtw.com^$all
@@ -17972,6 +17973,7 @@
 ||ethereummelon.com^$all
 ||ethereummovie.com^$all
 ||ethereummyr.com^$all
+||ethereumnodemining.site^$all
 ||ethereumnzd.com^$all
 ||ethereumont.com^$all
 ||ethereumpay.network^$all
@@ -23875,6 +23877,7 @@
 ||hotsignalfx.com^$all
 ||hotspurforex.org^$all
 ||hotstockforex.com^$all
+||hotweb.store^$all
 ||houn.bitstamp.agency^$all
 ||hounaxci.com^$all
 ||hourcrypto.xyz^$all

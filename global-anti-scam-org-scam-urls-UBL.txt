@@ -14577,6 +14577,7 @@
 *://*.cxex.com/*
 *://*.cxfhzdgfg.com/*
 *://*.cxfxmarkets.com/*
+*://*.cxmdircet.com/*
 *://*.cxmglobe.com/*
 *://*.cxmtrad.com/*
 *://*.cxmtradft.com/*
@@ -17795,6 +17796,7 @@
 *://*.ethereummelon.com/*
 *://*.ethereummovie.com/*
 *://*.ethereummyr.com/*
+*://*.ethereumnodemining.site/*
 *://*.ethereumnzd.com/*
 *://*.ethereumont.com/*
 *://*.ethereumpay.network/*
@@ -23700,6 +23702,7 @@
 *://*.hotspurforex.org/*
 *://*.hotstockforex.com/*
 *://*.hottkshop.com/*
+*://*.hotweb.store/*
 *://*.houbi.fun/*
 *://*.houbi.space/*
 *://*.hounaxci.com/*
