@@ -36373,6 +36373,7 @@
 ||topleveragetrade.com^$all
 ||topmacro.pro^$all
 ||topmall.life^$all
+||topmall.shopping^$all
 ||topmallcross.com^$all
 ||topmalscross.com^$all
 ||topmarketcointrade.com^$all
@@ -36879,6 +36880,7 @@
 ||tradesoft.ltd^$all
 ||tradesoptionpro.com^$all
 ||tradespace.live^$all
+||tradespacecapital.ltd^$all
 ||tradesparkle.org^$all
 ||tradespip.live^$all
 ||tradesprime.net^$all
@@ -42118,6 +42120,7 @@
 ||zealglobalcoin.com^$all
 ||zealmarketfx.com^$all
 ||zealminers-trade.com^$all
+||zealminers.com^$all
 ||zealminerstrade.com^$all
 ||zealotfinacialincome.net^$all
 ||zealotinvestment.com^$all

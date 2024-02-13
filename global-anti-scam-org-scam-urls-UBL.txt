@@ -36526,6 +36526,7 @@
 *://*.toplkc.com/*
 *://*.topmacro.pro/*
 *://*.topmall.life/*
+*://*.topmall.shopping/*
 *://*.topmallcross.com/*
 *://*.topmalscross.com/*
 *://*.topmarketcointrade.com/*
@@ -37021,6 +37022,7 @@
 *://*.tradesoft.ltd/*
 *://*.tradesoptionpro.com/*
 *://*.tradespace.live/*
+*://*.tradespacecapital.ltd/*
 *://*.tradesparkle.org/*
 *://*.tradespip.live/*
 *://*.tradesprime.net/*
@@ -41432,6 +41434,7 @@
 *://*.zealglobalcoin.com/*
 *://*.zealmarketfx.com/*
 *://*.zealminers-trade.com/*
+*://*.zealminers.com/*
 *://*.zealminerstrade.com/*
 *://*.zealotfinacialincome.net/*
 *://*.zealotinvestment.com/*
