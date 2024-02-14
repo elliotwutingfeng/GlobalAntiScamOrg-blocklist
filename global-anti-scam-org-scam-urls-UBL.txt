@@ -3920,6 +3920,7 @@
 *://*.beefx.com/*
 *://*.beefy-finance.tech/*
 *://*.beefycorp.com/*
+*://*.beehumb.com/*
 *://*.beellmonforfx.com/*
 *://*.beemycrypto.com/*
 *://*.beenputeam.com/*
@@ -7373,6 +7374,7 @@
 *://*.bitventuresglobal.com/*
 *://*.bitvenunzs.com/*
 *://*.bitvenus-vip.com/*
+*://*.bitvenus.com/*
 *://*.bitvenus.me/*
 *://*.bitvenusali.com/*
 *://*.bitvenusame.com/*
@@ -12240,6 +12242,7 @@
 *://*.coinutres.com/*
 *://*.coinutsih.com/*
 *://*.coinuttra.com/*
+*://*.coinutust.com/*
 *://*.coinux.cash/*
 *://*.coinvali.com/*
 *://*.coinvanage.com/*
@@ -14602,6 +14605,7 @@
 *://*.cyberlerr.com/*
 *://*.cyberllsr.com/*
 *://*.cyberminer.site/*
+*://*.cybernetics-services.com/*
 *://*.cyberscamrefunds.com/*
 *://*.cybertrace.com.au/*
 *://*.cybex.biz/*
@@ -16532,6 +16536,7 @@
 *://*.ecommglobalfx.net/*
 *://*.economicinvestment.org/*
 *://*.economicsoar.com/*
+*://*.economybookings.com/*
 *://*.ecopoolmining.com/*
 *://*.ecos-traders.com/*
 *://*.ecosam-trade.com/*
@@ -16993,6 +16998,7 @@
 *://*.encryptx.vip/*
 *://*.encrypvts.vip/*
 *://*.endex.ltd/*
+*://*.enegaas.click/*
 *://*.enekfkr.com/*
 *://*.energeanoilandgasllc.com/*
 *://*.energi-trades.com/*

@@ -4373,6 +4373,7 @@
 ||beefx.com^$all
 ||beefy-finance.tech^$all
 ||beefycorp.com^$all
+||beehumb.com^$all
 ||beellmonforfx.com^$all
 ||beemycrypto.com^$all
 ||beenputeam.com^$all
@@ -7699,6 +7700,7 @@
 ||bitventuresglobal.com^$all
 ||bitvenunzs.com^$all
 ||bitvenus-vip.com^$all
+||bitvenus.com^$all
 ||bitvenus.me^$all
 ||bitvenusali.com^$all
 ||bitvenusame.com^$all
@@ -12302,6 +12304,7 @@
 ||coinutres.com^$all
 ||coinutsih.com^$all
 ||coinuttra.com^$all
+||coinutust.com^$all
 ||coinux.cash^$all
 ||coinvali.com^$all
 ||coinvanage.com^$all
@@ -14649,6 +14652,7 @@
 ||cyberhelponline.com^$all
 ||cyberlerr.com^$all
 ||cyberminer.site^$all
+||cybernetics-services.com^$all
 ||cyberscamrefunds.com^$all
 ||cybertrace.com.au^$all
 ||cybex.biz^$all
@@ -16751,6 +16755,7 @@
 ||economicinvestment.org^$all
 ||economicsharing.mystrikingly.com^$all
 ||economicsoar.com^$all
+||economybookings.com^$all
 ||ecopoolmining.com^$all
 ||ecos-traders.com^$all
 ||ecosam-trade.com^$all
@@ -17192,6 +17197,7 @@
 ||encrypvts.vip^$all
 ||end774.qoo9888.com^$all
 ||endex.ltd^$all
+||enegaas.click^$all
 ||energeanoilandgasllc.com^$all
 ||energi-trades.com^$all
 ||energyaly.com^$all
