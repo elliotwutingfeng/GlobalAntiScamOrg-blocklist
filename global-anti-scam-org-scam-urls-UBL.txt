@@ -8463,6 +8463,7 @@
 *://*.btc2pay.org/*
 *://*.btc2plebs.com/*
 *://*.btc4004.com/*
+*://*.btc4free.online/*
 *://*.btc4pro.com/*
 *://*.btc5005.com/*
 *://*.btc5115.com/*
@@ -15050,6 +15051,7 @@
 *://*.decointrade.com/*
 *://*.deconinvestments.net/*
 *://*.decred-usdt.com/*
+*://*.decred.org/*
 *://*.decredke.com/*
 *://*.decryptor-boost.com/*
 *://*.decurretbit.com/*
@@ -26315,6 +26317,7 @@
 *://*.kucokp.cc/*
 *://*.kuconvt.vip/*
 *://*.kucotrain.com/*
+*://*.kudibit.com/*
 *://*.kudj.tw/*
 *://*.kudx.com/*
 *://*.kufxm.com/*

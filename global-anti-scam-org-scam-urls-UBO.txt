@@ -8722,6 +8722,7 @@
 ||btc2pay.org^$all
 ||btc2plebs.com^$all
 ||btc4004.com^$all
+||btc4free.online^$all
 ||btc4pro.com^$all
 ||btc5005.com^$all
 ||btc5115.com^$all
@@ -15214,6 +15215,7 @@
 ||decointrade.com^$all
 ||deconinvestments.net^$all
 ||decred-usdt.com^$all
+||decred.org^$all
 ||decredke.com^$all
 ||decryptor-boost.com^$all
 ||decurretbit.com^$all
@@ -26166,6 +26168,7 @@
 ||kucoinwork.work^$all
 ||kucokp.cc^$all
 ||kuconvt.vip^$all
+||kudibit.com^$all
 ||kudx.com^$all
 ||kufxm.com^$all
 ||kunst2.top^$all
