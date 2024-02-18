@@ -10836,6 +10836,7 @@
 *://*.coinbase15.com/*
 *://*.coinbase150.com/*
 *://*.coinbase152.com/*
+*://*.coinbase2024.com/*
 *://*.coinbase23.com/*
 *://*.coinbase23.xyz/*
 *://*.coinbase27.com/*

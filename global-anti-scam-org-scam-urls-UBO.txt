@@ -10978,6 +10978,7 @@
 ||coinbase15.com^$all
 ||coinbase150.com^$all
 ||coinbase152.com^$all
+||coinbase2024.com^$all
 ||coinbase23.com^$all
 ||coinbase27.com^$all
 ||coinbase28.com^$all
