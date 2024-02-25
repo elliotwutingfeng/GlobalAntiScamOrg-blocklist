@@ -2313,6 +2313,7 @@
 ||antiminer.org^$all
 ||antiminerconnect.com^$all
 ||antinvestiment.com^$all
+||antiscamworldwide.org^$all
 ||antminercryptrade.com^$all
 ||antminersharing.com^$all
 ||anto789com.com^$all
@@ -12034,6 +12035,7 @@
 ||coinrickie.com^$all
 ||coinricy.com^$all
 ||coinrise.ca^$all
+||coinrisen.com^$all
 ||coinrix24.com^$all
 ||coinrobe235.com^$all
 ||coinrocket.app^$all
@@ -12973,6 +12975,7 @@
 ||crm.vipgtrader.com^$all
 ||crm.vipmfx.com^$all
 ||crm.vipotor.com.tw^$all
+||crm.yangohk-fx.com^$all
 ||crm.zoro-forex.com^$all
 ||crm4.fx-vip.com^$all
 ||crm6.vipotorfx.com.tw^$all
@@ -15989,6 +15992,7 @@
 ||dimetradelimited.com^$all
 ||dimondcoins.com^$all
 ||dimsfx.com^$all
+||dinbox.tv^$all
 ||dinerocapital-trade.com^$all
 ||dinghui.me^$all
 ||dinghuideal.com^$all
@@ -16398,6 +16402,7 @@
 ||dps-cybersecurity.com^$all
 ||dpstradepro.com^$all
 ||dptinvest.com^$all
+||dq7xcl1h00dst.cloudfront.net^$all
 ||dqsh2trade.com^$all
 ||dracoforex.com^$all
 ||dragon.pictetky.com^$all
@@ -18791,6 +18796,7 @@
 ||experttrades.biz^$all
 ||experttrades.online^$all
 ||experttradingpro.com^$all
+||experttradings.com^$all
 ||expertuniontrade.com^$all
 ||expfx.club^$all
 ||explicit-trading.com^$all
@@ -22822,6 +22828,7 @@
 ||guanaco.com^$all
 ||guangfa226.com^$all
 ||guangyao199.cloud^$all
+||guanxin-law.com^$all
 ||guanyugt.xyz^$all
 ||guapatrade.com^$all
 ||guarantee-trustinvest.com^$all
@@ -23434,6 +23441,7 @@
 ||hashtrading2.com^$all
 ||hashtrading4.com^$all
 ||hashtradings.com^$all
+||hasomi.net^$all
 ||hatchcrypto.net^$all
 ||hatrstonline.com^$all
 ||haugomart.com^$all
@@ -29646,6 +29654,7 @@
 ||mtkhce.store^$all
 ||mtklgj.com^$all
 ||mtkrjr.com^$all
+||mtlofhlfg.com^$all
 ||mtmcp0tw.vip^$all
 ||mtokenweb68.com^$all
 ||mtoll.com^$all
@@ -30211,6 +30220,7 @@
 ||newmontinvestapp.com^$all
 ||newmountmines.com^$all
 ||newpath-investment.co.uk^$all
+||newpc-hk.com^$all
 ||newpchomeshopp.com^$all
 ||newriverco.com^$all
 ||newrocostco.com^$all
@@ -33268,6 +33278,7 @@
 ||roeses.yasenfinancial.xyz^$all
 ||roifx.uk^$all
 ||roifxtrade.uk^$all
+||roitronix.com^$all
 ||rokingltd.com^$all
 ||rol.xlannja98.me^$all
 ||rolecoinfx.com^$all
@@ -35093,6 +35104,7 @@
 ||starkdex.finance^$all
 ||starkwealth.com^$all
 ||starlinkspro.com^$all
+||starlinktw.com^$all
 ||starlivec.com^$all
 ||starmetafarm.com^$all
 ||starnetwork.io^$all
@@ -35868,6 +35880,7 @@
 ||tcadstations.com^$all
 ||tcadvirtual.com^$all
 ||tcatrezor.com^$all
+||tcatrezor.xyz^$all
 ||tcbahdaw.com^$all
 ||tcbit.top^$all
 ||tcexweb68.com^$all
@@ -42027,6 +42040,7 @@
 ||yandexbest.com^$all
 ||yangde9.net^$all
 ||yangmatou.us^$all
+||yangohk.com^$all
 ||yao14.yao988.com^$all
 ||yas168168.com^$all
 ||yashengcc.com^$all

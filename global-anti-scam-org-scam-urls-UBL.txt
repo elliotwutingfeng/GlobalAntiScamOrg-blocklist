@@ -2371,6 +2371,7 @@
 *://*.antiminerconnect.com/*
 *://*.antinss.com/*
 *://*.antinvestiment.com/*
+*://*.antiscamworldwide.org/*
 *://*.antminercryptrade.com/*
 *://*.antminersharing.com/*
 *://*.anto789com.com/*
@@ -10394,6 +10395,7 @@
 *://*.cloudcoins24.com/*
 *://*.cloudexchange.pro/*
 *://*.cloudexchanges.net/*
+*://*.cloudfront.net/*
 *://*.cloudfx.online/*
 *://*.cloudfxcoin.com/*
 *://*.cloudfxmarket.com/*
@@ -11938,6 +11940,7 @@
 *://*.coinrickie.com/*
 *://*.coinricy.com/*
 *://*.coinrise.ca/*
+*://*.coinrisen.com/*
 *://*.coinrix24.com/*
 *://*.coinrobe235.com/*
 *://*.coinrocket.app/*
@@ -15816,6 +15819,7 @@
 *://*.dimetradelimited.com/*
 *://*.dimondcoins.com/*
 *://*.dimsfx.com/*
+*://*.dinbox.tv/*
 *://*.dinerocapital-trade.com/*
 *://*.dinghui.me/*
 *://*.dinghuideal.com/*
@@ -18625,6 +18629,7 @@
 *://*.experttrades.biz/*
 *://*.experttrades.online/*
 *://*.experttradingpro.com/*
+*://*.experttradings.com/*
 *://*.expertuniontrade.com/*
 *://*.expforex.net/*
 *://*.expfx.club/*
@@ -22921,6 +22926,7 @@
 *://*.guanaco.com/*
 *://*.guangfa226.com/*
 *://*.guangyao199.cloud/*
+*://*.guanxin-law.com/*
 *://*.guanyugt.xyz/*
 *://*.guapatrade.com/*
 *://*.guarantee-trustinvest.com/*
@@ -23135,6 +23141,7 @@
 *://*.hashtrading2.com/*
 *://*.hashtrading4.com/*
 *://*.hashtradings.com/*
+*://*.hasomi.net/*
 *://*.hatchcrypto.net/*
 *://*.hatrstonline.com/*
 *://*.haugomart.com/*
@@ -29264,6 +29271,7 @@
 *://*.mtkhce.store/*
 *://*.mtklgj.com/*
 *://*.mtkrjr.com/*
+*://*.mtlofhlfg.com/*
 *://*.mtmcp0tw.vip/*
 *://*.mtokenweb68.com/*
 *://*.mtoll.com/*
@@ -29825,6 +29833,7 @@
 *://*.newmontinvestapp.com/*
 *://*.newmountmines.com/*
 *://*.newpath-investment.co.uk/*
+*://*.newpc-hk.com/*
 *://*.newpchomeshopp.com/*
 *://*.newpro.club/*
 *://*.newredred.cc/*
@@ -33127,6 +33136,7 @@
 *://*.rodwelltrading.com/*
 *://*.roifx.uk/*
 *://*.roifxtrade.uk/*
+*://*.roitronix.com/*
 *://*.rokingltd.com/*
 *://*.rolecoinfx.com/*
 *://*.rolex888.cc/*
@@ -35090,6 +35100,7 @@
 *://*.starkwap.vip/*
 *://*.starkwealth.com/*
 *://*.starlinkspro.com/*
+*://*.starlinktw.com/*
 *://*.starlivec.com/*
 *://*.starlux.beauty/*
 *://*.starlux.design/*
@@ -35910,6 +35921,7 @@
 *://*.tcadstations.com/*
 *://*.tcadvirtual.com/*
 *://*.tcatrezor.com/*
+*://*.tcatrezor.xyz/*
 *://*.tcbahdaw.com/*
 *://*.tcbit.top/*
 *://*.tcexweb68.com/*
@@ -41224,6 +41236,8 @@
 *://*.yandexbest.com/*
 *://*.yangde9.net/*
 *://*.yangmatou.us/*
+*://*.yangohk-fx.com/*
+*://*.yangohk.com/*
 *://*.yanma888.com/*
 *://*.yanseapps.com/*
 *://*.yao988.com/*
