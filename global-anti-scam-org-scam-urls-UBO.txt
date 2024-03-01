@@ -24294,6 +24294,7 @@
 ||httpshighforextw.com^$all
 ||httw8.cyou^$all
 ||htx.com.bi^$all
+||huaa.mystrikingly.com^$all
 ||huaguans.com^$all
 ||huahtw.com^$all
 ||huajiaoqingshi.com^$all
@@ -24460,6 +24461,7 @@
 ||hybiomarket.com^$all
 ||hybregen.com^$all
 ||hybrid-fxcrypto.com^$all
+||hybridmalaysia.store^$all
 ||hycmtw.com^$all
 ||hyct566.com^$all
 ||hydaxfirm.com^$all

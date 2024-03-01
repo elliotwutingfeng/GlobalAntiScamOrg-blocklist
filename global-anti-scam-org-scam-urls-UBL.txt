@@ -24272,6 +24272,7 @@
 *://*.hybiomarket.com/*
 *://*.hybregen.com/*
 *://*.hybrid-fxcrypto.com/*
+*://*.hybridmalaysia.store/*
 *://*.hycmtw.com/*
 *://*.hyct566.com/*
 *://*.hydaxfirm.com/*
