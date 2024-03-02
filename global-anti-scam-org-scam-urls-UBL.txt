@@ -9104,6 +9104,7 @@
 *://*.buxasia.live/*
 *://*.buxasia.top/*
 *://*.buxglobalfx.com/*
+*://*.buxmapps.com/*
 *://*.buxmarkets.top/*
 *://*.buxmarkets.vip/*
 *://*.buxmining.com/*
@@ -15198,6 +15199,7 @@
 *://*.decurretbit.com/*
 *://*.decurretpro.com/*
 *://*.decurretproi.xyz/*
+*://*.decxauait.com/*
 *://*.dedobit.com/*
 *://*.dedwow.com/*
 *://*.dedwowo.com/*
@@ -17026,6 +17028,7 @@
 *://*.emeem.vip/*
 *://*.emeralddex.com/*
 *://*.emexap.vip/*
+*://*.emexspro.com/*
 *://*.emftrades.online/*
 *://*.emgc.xyz/*
 *://*.emgd.xyz/*
@@ -18750,6 +18753,7 @@
 *://*.expsignalfxmkt.com/*
 *://*.exquisite-trade.live/*
 *://*.exquisitebit.com/*
+*://*.exquisitees.shop/*
 *://*.exquisitetecoinpro.com/*
 *://*.exrs.net/*
 *://*.exs-bitcoins.com/*
@@ -24632,6 +24636,7 @@
 *://*.iltptrade.net/*
 *://*.im.academy/*
 *://*.imTokentws.com/*
+*://*.imageplus-work.com/*
 *://*.imarketoptiontrade.com/*
 *://*.imarketsliveinvest.com/*
 *://*.imb.com.tw/*
@@ -26659,6 +26664,7 @@
 *://*.l1g4lexxus.com/*
 *://*.l1g4lexxus.net/*
 *://*.la-jiyu-sheng.men/*
+*://*.la-zadasg.xyz/*
 *://*.labbaikcoin.com/*
 *://*.labebe.net/*
 *://*.labs-bit.com/*
@@ -27610,6 +27616,7 @@
 *://*.luxuryshop.ltd/*
 *://*.luxurytradeunionpro.com/*
 *://*.lvcqot.xyz/*
+*://*.lvdudo.com/*
 *://*.lvmaa.com/*
 *://*.lvpro.io/*
 *://*.lvshop.com.tw/*
@@ -31846,6 +31853,7 @@
 *://*.poipexcrm.net/*
 *://*.poipexcrm.xyz/*
 *://*.poisition-exchange.us/*
+*://*.poisybit.com/*
 *://*.poitoponeex.com/*
 *://*.poiviponeex.com/*
 *://*.pojia.site/*
@@ -32994,6 +33002,7 @@
 *://*.register-mayotrade.com/*
 *://*.regs-exchange.com/*
 *://*.regsite.info/*
+*://*.regtrge.cn/*
 *://*.reitrailrunning.shop/*
 *://*.relativefxmarket.com/*
 *://*.relforex3650.com/*
@@ -33853,6 +33862,7 @@
 *://*.secommonft88.com/*
 *://*.secondarymarket.top/*
 *://*.secsilver.com/*
+*://*.secufexu.com/*
 *://*.securecryptocube.com/*
 *://*.securecryptofinance.net/*
 *://*.securecryptominex.org/*

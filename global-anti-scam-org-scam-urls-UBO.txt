@@ -2961,6 +2961,7 @@
 ||app.sbcpw.top^$all
 ||app.sdffcsdc.com^$all
 ||app.sdsdfdf.com^$all
+||app.secufexu.com^$all
 ||app.ses-global.club^$all
 ||app.sficx.com^$all
 ||app.sfopgn.com^$all
@@ -9341,6 +9342,7 @@
 ||buxasia.com^$all
 ||buxasia.live^$all
 ||buxasia.top^$all
+||buxmapps.com^$all
 ||buxmarkets.top^$all
 ||buxmining.com^$all
 ||buxs-exchange.org^$all
@@ -15380,6 +15382,7 @@
 ||decredke.com^$all
 ||decryptor-boost.com^$all
 ||decurretbit.com^$all
+||decxauait.com^$all
 ||dedobit.com^$all
 ||dedwow.com^$all
 ||dedwowo.com^$all
@@ -17252,6 +17255,7 @@
 ||emeem.vip^$all
 ||emeralddex.com^$all
 ||emexap.vip^$all
+||emexspro.com^$all
 ||emftrades.online^$all
 ||emgc.xyz^$all
 ||emgd.xyz^$all
@@ -18916,6 +18920,7 @@
 ||expsignalfxmkt.com^$all
 ||exquisite-trade.live^$all
 ||exquisitebit.com^$all
+||exquisitees.shop^$all
 ||exquisitetecoinpro.com^$all
 ||exrs.net^$all
 ||exs-bitcoins.com^$all
@@ -24777,6 +24782,7 @@
 ||iltptrade.net^$all
 ||im.academy^$all
 ||im.jinyun.io^$all
+||imageplus-work.com^$all
 ||imarketoptiontrade.com^$all
 ||imarketsliveinvest.com^$all
 ||imb.com.tw^$all
@@ -26524,6 +26530,7 @@
 ||l1g4lexxus.com^$all
 ||l1g4lexxus.net^$all
 ||la-jiyu-sheng.men^$all
+||la-zadasg.xyz^$all
 ||labbaikcoin.com^$all
 ||labebe.net^$all
 ||labs-bit.com^$all
@@ -27371,6 +27378,7 @@
 ||lv.monexgroupsx.com^$all
 ||lv.tocom.com.tw^$all
 ||lv16888.vip-mexa.website^$all
+||lvdudo.com^$all
 ||lvmaa.com^$all
 ||lvshop.com.tw^$all
 ||lvy.qianying.co^$all
@@ -32115,6 +32123,7 @@
 ||poipexcrm.net^$all
 ||poipexcrm.xyz^$all
 ||poisition-exchange.us^$all
+||poisybit.com^$all
 ||poitoponeex.com^$all
 ||poiviponeex.com^$all
 ||pojia.site^$all
@@ -33162,6 +33171,7 @@
 ||register.nbcchain.com^$all
 ||regs-exchange.com^$all
 ||regsite.info^$all
+||regtrge.cn^$all
 ||reitrailrunning.shop^$all
 ||relativefxmarket.com^$all
 ||relforex3650.com^$all
