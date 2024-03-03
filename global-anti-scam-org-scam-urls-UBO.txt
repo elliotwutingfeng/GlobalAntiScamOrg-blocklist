@@ -4733,6 +4733,14 @@
 ||bh90909.com^$all
 ||bhbmining.com^$all
 ||bhdsbghf.com^$all
+||bhg.world^$all
+||bhg.xyz^$all
+||bhgbaseex.com^$all
+||bhgbasein.com^$all
+||bhgbaseit.com^$all
+||bhgbasepro.com^$all
+||bhgdw.com^$all
+||bhgji.com^$all
 ||bhilbc.com^$all
 ||bhilfg.com^$all
 ||bhilga.com^$all

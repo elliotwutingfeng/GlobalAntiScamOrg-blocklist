@@ -4278,6 +4278,14 @@
 *://*.bh90909.com/*
 *://*.bhbmining.com/*
 *://*.bhdsbghf.com/*
+*://*.bhg.world/*
+*://*.bhg.xyz/*
+*://*.bhgbaseex.com/*
+*://*.bhgbasein.com/*
+*://*.bhgbaseit.com/*
+*://*.bhgbasepro.com/*
+*://*.bhgdw.com/*
+*://*.bhgji.com/*
 *://*.bhhyhsds.com/*
 *://*.bhilbc.com/*
 *://*.bhilfg.com/*
