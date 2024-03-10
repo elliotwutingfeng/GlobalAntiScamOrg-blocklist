@@ -1568,6 +1568,7 @@
 *://*.aicoin.today/*
 *://*.aicoines.xyz/*
 *://*.aiconspiracyeth.com/*
+*://*.aicontract.info/*
 *://*.aicrypto.trade/*
 *://*.aicryptotokens.com/*
 *://*.aicryptotradings.com/*
@@ -6464,6 +6465,7 @@
 *://*.bitmexx.org/*
 *://*.bitmexx02.com/*
 *://*.bitmexx03.com/*
+*://*.bitmhf8e.com/*
 *://*.bitmic888.com/*
 *://*.bitmicroethnode.com/*
 *://*.bitmillion.app/*
@@ -31247,6 +31249,7 @@
 *://*.ouj.cc/*
 *://*.oulianfx.com/*
 *://*.oumvcoqzqkvtumh.com/*
+*://*.ourbit.vip/*
 *://*.ourmomo.com/*
 *://*.ourohh.com/*
 *://*.ourteashow.com/*
@@ -33751,6 +33754,7 @@
 *://*.sanliglobalsl.com/*
 *://*.sanliglow.com/*
 *://*.sanlondonex.com/*
+*://*.sannjing3c.com/*
 *://*.sanqiing.com/*
 *://*.sanquanhr.cn/*
 *://*.sansuoli8.xyz/*

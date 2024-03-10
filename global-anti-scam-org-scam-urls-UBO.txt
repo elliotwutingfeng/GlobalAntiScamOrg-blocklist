@@ -6850,6 +6850,7 @@
 ||bitmexpros.com^$all
 ||bitmextrade.ltd^$all
 ||bitmexx.org^$all
+||bitmhf8e.com^$all
 ||bitmic888.com^$all
 ||bitmicroethnode.com^$all
 ||bitmillion.app^$all
@@ -27908,6 +27909,7 @@
 ||m.oneshop.tw^$all
 ||m.ookvip.com^$all
 ||m.otcbec.com^$all
+||m.ourbit.vip^$all
 ||m.pangaea-global.com^$all
 ||m.paxpro.vip^$all
 ||m.plasmaoracleglobal.com^$all
@@ -33882,6 +33884,7 @@
 ||sanliglobalsl.com^$all
 ||sanliglow.com^$all
 ||sanlondonex.com^$all
+||sannjing3c.com^$all
 ||sanquanhr.cn^$all
 ||sansuoli8.xyz^$all
 ||santatrade.top^$all
@@ -39414,6 +39417,7 @@
 ||v6shop.vip^$all
 ||v7.amm-crypto.store^$all
 ||v7.bxcswap.cc^$all
+||v8.aicontract.info^$all
 ||v9.smartblockai.com^$all
 ||v9.webteeswap.com^$all
 ||va.kj20.top^$all
