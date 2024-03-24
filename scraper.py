@@ -3,6 +3,7 @@ and write them to a .txt blocklist
 """
 from __future__ import annotations
 
+import datetime
 import ipaddress
 import itertools
 import json
@@ -10,7 +11,6 @@ import logging
 import re
 import socket
 import time
-from datetime import datetime
 
 import requests
 import tldextract
@@ -28,7 +28,7 @@ def current_datetime_str() -> str:
     Returns:
         str: Timestamp in strftime format "%d_%b_%Y_%H_%M_%S-UTC".
     """
-    return datetime.utcnow().strftime("%d_%b_%Y_%H_%M_%S-UTC")
+    return datetime.datetime.now(datetime.UTC).strftime("%d_%b_%Y_%H_%M_%S-UTC")
 
 
 def clean_url(url: str) -> str:
