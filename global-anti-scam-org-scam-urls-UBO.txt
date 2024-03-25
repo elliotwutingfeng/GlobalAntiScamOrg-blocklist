@@ -4887,6 +4887,7 @@
 ||bicoinsuisses.com^$all
 ||bicointweb68.com^$all
 ||biconombs.vip^$all
+||biconomy.me^$all
 ||biconomys.vip^$all
 ||biconomytrade.com^$all
 ||bicontpro.com^$all
@@ -15486,6 +15487,7 @@
 ||dcoinfast.com^$all
 ||dcoinfast9.com^$all
 ||dcoinfx.com^$all
+||dcoinfx.fortunet.online^$all
 ||dcoingo.com^$all
 ||dcoinpro.net^$all
 ||dcoinpro.top^$all
@@ -28421,6 +28423,7 @@
 ||m.wwruag.top^$all
 ||m.wyney88.cc^$all
 ||m.wyney88.vip^$all
+||m.x4x07i3.com^$all
 ||m.xbcap.top^$all
 ||m.xd5521.cn^$all
 ||m.xdf9960.com^$all
@@ -29664,6 +29667,7 @@
 ||miningcoing777.com^$all
 ||miningcoint.org^$all
 ||miningcryptouniverse.online^$all
+||miningdeifiapp.com^$all
 ||miningdesk.net^$all
 ||miningdisrupt.net^$all
 ||miningefh.com^$all
@@ -31917,6 +31921,8 @@
 ||overlord.agugm.com^$all
 ||overtcryptomarket.com^$all
 ||overviewfinancialservice.com^$all
+||ovolie.click^$all
+||ovolie.online^$all
 ||owan.xyz^$all
 ||owaoigfh.com^$all
 ||owbit.pro^$all

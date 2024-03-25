@@ -4398,6 +4398,7 @@
 *://*.bicoinsuisses.com/*
 *://*.bicointweb68.com/*
 *://*.biconombs.vip/*
+*://*.biconomy.me/*
 *://*.biconomys.vip/*
 *://*.biconomytrade.com/*
 *://*.bicontpro.com/*
@@ -20306,6 +20307,7 @@
 *://*.fortuneranches.com/*
 *://*.fortunesecuritles.com/*
 *://*.fortunesettlements.com/*
+*://*.fortunet.online/*
 *://*.fortunetrading.ltd/*
 *://*.fortupath.com/*
 *://*.forusdteth.com/*
@@ -29255,6 +29257,7 @@
 *://*.miningcoing777.com/*
 *://*.miningcoint.org/*
 *://*.miningcryptouniverse.online/*
+*://*.miningdeifiapp.com/*
 *://*.miningdesk.net/*
 *://*.miningdisrupt.net/*
 *://*.miningefh.com/*
@@ -31613,6 +31616,8 @@
 *://*.overex.link/*
 *://*.overtcryptomarket.com/*
 *://*.overviewfinancialservice.com/*
+*://*.ovolie.click/*
+*://*.ovolie.online/*
 *://*.owan.xyz/*
 *://*.owaoigfh.com/*
 *://*.owbit.pro/*
@@ -41545,6 +41550,7 @@
 *://*.x2bitcoins.net/*
 *://*.x2btcs.com/*
 *://*.x2coinbase.org/*
+*://*.x4x07i3.com/*
 *://*.xa852.com/*
 *://*.xabatex-coin.ltd/*
 *://*.xafexbit.com/*
