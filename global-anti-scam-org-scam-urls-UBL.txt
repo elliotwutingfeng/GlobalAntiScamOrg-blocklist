@@ -13430,6 +13430,7 @@
 *://*.crypto-token.vip/*
 *://*.crypto-trade.finance/*
 *://*.crypto-tradesolutions.com/*
+*://*.crypto-tradings.top/*
 *://*.crypto-tranfer.co/*
 *://*.crypto-trustpadx.com/*
 *://*.crypto-trx.site/*
@@ -18682,6 +18683,7 @@
 *://*.exchangehedge.com/*
 *://*.exchangehex.com/*
 *://*.exchangeie.com/*
+*://*.exchangeig.com/*
 *://*.exchangeincome.net/*
 *://*.exchangelmax.vip/*
 *://*.exchangemdn.com/*
@@ -19812,6 +19814,7 @@
 *://*.firstcryptomineoption.online/*
 *://*.firstcryptominingoption.online/*
 *://*.firstexchangelcd.com/*
+*://*.firstexdevse.com/*
 *://*.firstexpresscourierservices.com/*
 *://*.firstexpresstrade.com/*
 *://*.firstglambayfx.com/*
@@ -23161,6 +23164,7 @@
 *://*.groupfxpro.com/*
 *://*.groupfxproltd.com/*
 *://*.grouphbapp.com/*
+*://*.groupig.org/*
 *://*.groupontrade.live/*
 *://*.groupproltd.com/*
 *://*.groupsifx.com/*
@@ -25716,6 +25720,7 @@
 *://*.jdvips.shop/*
 *://*.jdvvip.shop/*
 *://*.je4mka.shop/*
+*://*.jeerortw.com/*
 *://*.jefferies8.com/*
 *://*.jejinvestment.com/*
 *://*.jelitrade.com/*
@@ -28637,6 +28642,7 @@
 *://*.megavex-trade.com/*
 *://*.megmgulk.vip/*
 *://*.meibiex.net/*
+*://*.meinba.com/*
 *://*.meiqia.com/*
 *://*.meiqiao.xyz/*
 *://*.meiqiaotw.xyz/*
@@ -36715,6 +36721,7 @@
 *://*.technology-coin.com/*
 *://*.technology-coin.org/*
 *://*.technology-coin.top/*
+*://*.techskymarket.online/*
 *://*.techtrusttool.com/*
 *://*.tecmactrade.com/*
 *://*.tecmactrade.live/*
@@ -42191,6 +42198,7 @@
 *://*.yfeiw.com/*
 *://*.yfglobals.com/*
 *://*.yfhkjr.com/*
+*://*.yfiapp.com/*
 *://*.yfiwn.top/*
 *://*.yfjrhk.com/*
 *://*.yfjthk.com/*

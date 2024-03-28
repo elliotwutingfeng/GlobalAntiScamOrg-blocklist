@@ -13528,6 +13528,7 @@
 ||crypto-token.vip^$all
 ||crypto-trade.finance^$all
 ||crypto-tradesolutions.com^$all
+||crypto-tradings.top^$all
 ||crypto-tranfer.co^$all
 ||crypto-trustpadx.com^$all
 ||crypto-trx.site^$all
@@ -18887,6 +18888,7 @@
 ||exchangehedge.com^$all
 ||exchangehex.com^$all
 ||exchangeie.com^$all
+||exchangeig.com^$all
 ||exchangeincome.net^$all
 ||exchangelmax.vip^$all
 ||exchangemdn.com^$all
@@ -19987,6 +19989,7 @@
 ||firstcryptomineoption.online^$all
 ||firstcryptominingoption.online^$all
 ||firstexchangelcd.com^$all
+||firstexdevse.com^$all
 ||firstexpresscourierservices.com^$all
 ||firstexpresstrade.com^$all
 ||firstglambayfx.com^$all
@@ -23086,6 +23089,7 @@
 ||groupfxpro.com^$all
 ||groupfxproltd.com^$all
 ||grouphbapp.com^$all
+||groupig.org^$all
 ||groupontrade.live^$all
 ||groupproltd.com^$all
 ||grovpon.xyz^$all
@@ -25819,6 +25823,7 @@
 ||jdvip1.shop^$all
 ||jdvips.shop^$all
 ||jdvvip.shop^$all
+||jeerortw.com^$all
 ||jefferies8.com^$all
 ||jejinvestment.com^$all
 ||jelitrade.com^$all
@@ -29036,6 +29041,7 @@
 ||megausdt.com^$all
 ||megavex-trade.com^$all
 ||meibiex.net^$all
+||meinba.com^$all
 ||meiqia.com^$all
 ||meiqiao.xyz^$all
 ||meiqiaotw.xyz^$all
@@ -36684,6 +36690,7 @@
 ||technology-coin.com^$all
 ||technology-coin.org^$all
 ||technology-coin.top^$all
+||techskymarket.online^$all
 ||techtrusttool.com^$all
 ||tecmactrade.com^$all
 ||tecmactrade.live^$all
@@ -42985,6 +42992,7 @@
 ||yfeiw.com^$all
 ||yfglobals.com^$all
 ||yfhkjr.com^$all
+||yfiapp.com^$all
 ||yfjrhk.com^$all
 ||ygobalcoin.com^$all
 ||ygoshps.com^$all
