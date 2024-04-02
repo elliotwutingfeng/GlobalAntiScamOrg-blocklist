@@ -2696,6 +2696,7 @@
 *://*.apptweak.shop/*
 *://*.appukex.com/*
 *://*.appxz2.xyz/*
+*://*.appywey.com/*
 *://*.appzgate-rands.com/*
 *://*.apqca.top/*
 *://*.aprilbit.com/*
@@ -4536,6 +4537,7 @@
 *://*.biki1411.com/*
 *://*.biki365.com/*
 *://*.biking.vip/*
+*://*.biking88.com/*
 *://*.bikingart.com/*
 *://*.bikingcer.com/*
 *://*.bikinge.vip/*
@@ -8339,6 +8341,7 @@
 *://*.botprofitcoin.com/*
 *://*.botprotrade.com/*
 *://*.botstrades.com/*
+*://*.bottlenosewhale.com/*
 *://*.bottradehoon.com/*
 *://*.boumbit.com/*
 *://*.bountifulgrowthfinance.com/*
@@ -8920,6 +8923,7 @@
 *://*.btcpro999.vip/*
 *://*.btcprocm.com/*
 *://*.btcprox.net/*
+*://*.btcpurse.top/*
 *://*.btcqwea.com/*
 *://*.btcrandomizer.com/*
 *://*.btcreboundtrade.com/*
@@ -14362,6 +14366,7 @@
 *://*.cryptosamy.com/*
 *://*.cryptosaur.uk/*
 *://*.cryptosavemore.com/*
+*://*.cryptosc.top/*
 *://*.cryptoscapita.com/*
 *://*.cryptoscapmarkets.com/*
 *://*.cryptoschool.pro/*
@@ -14805,6 +14810,7 @@
 *://*.cturkp.vip/*
 *://*.ctxijly.com/*
 *://*.ctyptotopools.com/*
+*://*.cu-cfc.com/*
 *://*.cu8lawn.top/*
 *://*.cuanthebcr.com/*
 *://*.cuaythebcr.com/*
@@ -23398,6 +23404,7 @@
 *://*.haitaovmt.com/*
 *://*.haitaovox.com/*
 *://*.haitaovum.com/*
+*://*.haitaovutw.com/*
 *://*.haitaowmk.com/*
 *://*.haitong-capitals.com/*
 *://*.haitongtw.com/*
@@ -26062,6 +26069,7 @@
 *://*.jsdfugd.com/*
 *://*.jse589.co/*
 *://*.jseiud.com/*
+*://*.jseobf.com/*
 *://*.jsf28.com/*
 *://*.jsforex21.com/*
 *://*.jsforex25.com/*
@@ -26947,6 +26955,7 @@
 *://*.kucoinpro.cn/*
 *://*.kucoinpro.online/*
 *://*.kucoinpro88.top/*
+*://*.kucoinpromax.online/*
 *://*.kucoinpros.cc/*
 *://*.kucoinpros.xyz/*
 *://*.kucoinrx.com/*
@@ -33449,6 +33458,7 @@
 *://*.recovery-global.com/*
 *://*.recoverycircuit.com/*
 *://*.recoveryfundinggroup.com/*
+*://*.recoverygrid.net/*
 *://*.recoverylone.com/*
 *://*.rectifypro.net/*
 *://*.red-mall.shop/*
@@ -38769,6 +38779,7 @@
 *://*.tw8888.cc/*
 *://*.tw9008.vip/*
 *://*.tw9338.top/*
+*://*.tw9636.top/*
 *://*.tw999.cc/*
 *://*.twaberd.com/*
 *://*.twacces.com/*
