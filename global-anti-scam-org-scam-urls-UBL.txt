@@ -1849,6 +1849,7 @@
 *://*.aliexp-app.com/*
 *://*.aliexp-app.vip/*
 *://*.aliexp-shop.com/*
+*://*.aliexp-shop.shop/*
 *://*.aliexp-shop.vip/*
 *://*.aliexpress-shop.vip/*
 *://*.aliexpressmxz.vip/*
@@ -36366,6 +36367,7 @@
 *://*.swiftsources.com/*
 *://*.swifttrade-option.com/*
 *://*.swifttrade247.com/*
+*://*.swifttradeaccess.com/*
 *://*.swifttradeoption.org/*
 *://*.swifttradersfx.online/*
 *://*.swifttradingbitx.pro/*

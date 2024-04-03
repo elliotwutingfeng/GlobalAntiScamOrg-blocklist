@@ -36367,6 +36367,7 @@
 ||swiftsources.com^$all
 ||swifttrade-option.com^$all
 ||swifttrade247.com^$all
+||swifttradeaccess.com^$all
 ||swifttradeoption.org^$all
 ||swifttradersfx.online^$all
 ||swifttradingbitx.pro^$all
@@ -43508,6 +43509,7 @@
 ||zh.aliexp-app.com^$all
 ||zh.aliexp-app.vip^$all
 ||zh.aliexp-shop.com^$all
+||zh.aliexp-shop.shop^$all
 ||zh.aliexp-shop.vip^$all
 ||zh.molefx.com^$all
 ||zh10.vip^$all
