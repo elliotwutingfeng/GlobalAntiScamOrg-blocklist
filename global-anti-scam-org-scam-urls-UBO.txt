@@ -1635,6 +1635,7 @@
 ||ainoce.live^$all
 ||ainoce.xyz^$all
 ||ainose.club^$all
+||ainusp.online^$all
 ||aioliaregulus.cn^$all
 ||aiontrader.com^$all
 ||aiopen.biz^$all
@@ -12031,6 +12032,7 @@
 ||coinmarkettrading.online^$all
 ||coinmarketxchange.com^$all
 ||coinmarketzap.com^$all
+||coinmarkupp.com^$all
 ||coinmarlketcap.com^$all
 ||coinmaster88.biz^$all
 ||coinmaster88.cam^$all

@@ -1642,6 +1642,7 @@
 *://*.ainose.club/*
 *://*.ainose.live/*
 *://*.ainose.xyz/*
+*://*.ainusp.online/*
 *://*.aioliaregulus.cn/*
 *://*.aiontrader.com/*
 *://*.aiopen.biz/*
@@ -11899,6 +11900,7 @@
 *://*.coinmarkettrading.online/*
 *://*.coinmarketxchange.com/*
 *://*.coinmarketzap.com/*
+*://*.coinmarkupp.com/*
 *://*.coinmarlketcap.com/*
 *://*.coinmaster88.biz/*
 *://*.coinmaster88.cam/*
