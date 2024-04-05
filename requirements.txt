@@ -6,4 +6,4 @@ pylint==3.1.0
 requests==2.31.0
 selenium==4.19.0
 tldextract==5.1.2
-typing-extensions==4.10.0
+typing-extensions==4.11.0
