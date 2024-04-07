@@ -54,6 +54,7 @@
 *://*.11streetshope.com/*
 *://*.11streetth.com/*
 *://*.11streetthn.com/*
+*://*.11streetthu.com/*
 *://*.11streetthy.com/*
 *://*.11sts.shop/*
 *://*.11stw.com/*
@@ -142,8 +143,10 @@
 *://*.1ghsminingfarm.com/*
 *://*.1hdinstall.com/*
 *://*.1hdmall.com/*
+*://*.1hdshopmall.com/*
 *://*.1hdstoretw.com/*
 *://*.1hdtwdown.com/*
+*://*.1hdtwinstall.com/*
 *://*.1isdnqnebajw.com/*
 *://*.1n1cib.com/*
 *://*.1peeeej.cn/*
@@ -288,6 +291,7 @@
 *://*.247trademax.com/*
 *://*.247tradewise.com/*
 *://*.247tradinggrowths.com/*
+*://*.247vipexperttrade.com/*
 *://*.249877.space/*
 *://*.24arbitrage.com/*
 *://*.24bitchainmining.com/*
@@ -356,6 +360,7 @@
 *://*.296t.com/*
 *://*.29702.top/*
 *://*.2aa7.site/*
+*://*.2axm.top/*
 *://*.2bitcrypto.co.uk/*
 *://*.2bithumd.com/*
 *://*.2bitstamp.com/*
@@ -369,6 +374,7 @@
 *://*.2okextw.com/*
 *://*.2okextw.net/*
 *://*.2okextw.site/*
+*://*.2pj1crw7iy.xyz/*
 *://*.2sehk.top/*
 *://*.2vcoin.com/*
 *://*.2xelonbtc.com/*
@@ -643,6 +649,7 @@
 *://*.758563.top/*
 *://*.7587758.com/*
 *://*.765889.com/*
+*://*.7682337.vip/*
 *://*.76881j.xyz/*
 *://*.77711.eu/*
 *://*.7773771.com/*
@@ -839,6 +846,7 @@
 *://*.9y.com/*
 *://*.9ycrypto.com/*
 *://*.AF-index.com/*
+*://*.Axcopinvest.com/*
 *://*.Bcpgroupltd.com/*
 *://*.Bitaifund.org/*
 *://*.BlockFolio8.top/*
@@ -854,6 +862,7 @@
 *://*.FALCOM.COM/*
 *://*.Flyswap.vip/*
 *://*.Foxwallet.top/*
+*://*.Fxwealth.co/*
 *://*.Grandvaults.com/*
 *://*.HUNFX.COM/*
 *://*.Imcyp.com/*
@@ -868,6 +877,7 @@
 *://*.Rawkchain.com/*
 *://*.Scfchain.io/*
 *://*.Sdxge.com/*
+*://*.Sharklenders.uk/*
 *://*.StudyBT199.com/*
 *://*.Swiftsecure.net/*
 *://*.Tanwan88.cn/*
@@ -1082,6 +1092,7 @@
 *://*.able-condrotroller.com/*
 *://*.able-controller.com/*
 *://*.ablewayinvestmentsltd.com/*
+*://*.abnbitfx.com/*
 *://*.abolsos.com/*
 *://*.aboutsp.com/*
 *://*.abrabtctrading.com/*
@@ -1100,6 +1111,7 @@
 *://*.abustaxinvestment.org/*
 *://*.abwhqnjandsaj.com/*
 *://*.abxexchange.com/*
+*://*.abyss-world-asset.com/*
 *://*.ac-markets.net/*
 *://*.ac3t41ct9.com/*
 *://*.acabtc.com/*
@@ -1347,6 +1359,7 @@
 *://*.adminralmineotrades.com/*
 *://*.admiralmine.com/*
 *://*.admiraltytradingrocket.com/*
+*://*.admirria.tech/*
 *://*.admtrades.com/*
 *://*.admvkgld.com/*
 *://*.adoptionadog.site/*
@@ -1404,6 +1417,7 @@
 *://*.aemilius-cupero.com/*
 *://*.aeonbbb.top/*
 *://*.aeonminingltd.com/*
+*://*.aeonsers.com/*
 *://*.aeonzd.com/*
 *://*.aepex.co.uk/*
 *://*.aeqq.tw/*
@@ -1468,6 +1482,7 @@
 *://*.afkty.xyz/*
 *://*.aflactrade.com/*
 *://*.afluentiqtrade.com/*
+*://*.afmoney.tw/*
 *://*.africoinex.com/*
 *://*.afrigoldmines.com/*
 *://*.afriqarbitrageecosystem.com/*
@@ -1513,6 +1528,7 @@
 *://*.aglvip.com/*
 *://*.agmtcoin.com/*
 *://*.agntfx.com/*
+*://*.agogomall.shop/*
 *://*.agoldmines.com/*
 *://*.agoodcoin.com/*
 *://*.agoodcoin.net/*
@@ -1606,6 +1622,7 @@
 *://*.aifxholding.com/*
 *://*.aigrid.site/*
 *://*.aigridco.com/*
+*://*.aigridmax.com/*
 *://*.aigridpro.com/*
 *://*.aigridtop.com/*
 *://*.aigridw.com/*
@@ -1628,6 +1645,7 @@
 *://*.aims159.com/*
 *://*.ainesenb.com/*
 *://*.ainesenbs.com/*
+*://*.ainesgfd.com/*
 *://*.ainetmnb.com/*
 *://*.ainetwk.com/*
 *://*.ainetwkes.com/*
@@ -1666,6 +1684,7 @@
 *://*.airhawk-exchange.com/*
 *://*.airobotrade.com/*
 *://*.airobots1.com/*
+*://*.airobottoday.xyz/*
 *://*.airtraderoptions.com/*
 *://*.airvintex.org/*
 *://*.airways-courier.com/*
@@ -1701,6 +1720,7 @@
 *://*.aitefx.com/*
 *://*.aitensorcoin.com/*
 *://*.aitoapp.com/*
+*://*.aitop.com/*
 *://*.aitopit.com/*
 *://*.aitradepros.com/*
 *://*.aitradeview.com/*
@@ -1717,6 +1737,7 @@
 *://*.aiyfpromg.com/*
 *://*.aiyfpror.com/*
 *://*.aiyfprou.com/*
+*://*.aiyfproy.com/*
 *://*.aiyoubet1435.com/*
 *://*.aizhiluo.com/*
 *://*.ajaytrades.com/*
@@ -1764,6 +1785,7 @@
 *://*.albb16881688.com/*
 *://*.albb771.com/*
 *://*.albb7815.vip/*
+*://*.albb8324.vip/*
 *://*.albbsh19.xyz/*
 *://*.albbsh311.com/*
 *://*.albit-earn.gold/*
@@ -1996,6 +2018,7 @@
 *://*.alphatradefx.org/*
 *://*.alphatrademarkets.com/*
 *://*.alphatradeoptionx.com/*
+*://*.alphatradeproltd.com/*
 *://*.alphatradersequites.com/*
 *://*.alphatradersmarket.com/*
 *://*.alphatradinghub.org/*
@@ -2011,6 +2034,7 @@
 *://*.alpinef1-investment.com/*
 *://*.alpinetrade.live/*
 *://*.alprosecoin.network/*
+*://*.alquitytrade.com/*
 *://*.alqvimix.finance/*
 *://*.alrcoin.com/*
 *://*.alrichscoinss.com/*
@@ -2085,6 +2109,7 @@
 *://*.am89.xyz/*
 *://*.ama-uni.com/*
 *://*.amabionzshhell.com/*
+*://*.amaiia8.com/*
 *://*.amaks-invest.site/*
 *://*.amana-exchange.com/*
 *://*.amanayvd.com/*
@@ -2680,6 +2705,7 @@
 *://*.appk21030.top/*
 *://*.appk31245.xyz/*
 *://*.appk56728.xyz/*
+*://*.apple.com/*
 *://*.applecryptocoinexchange.com/*
 *://*.appleotws.com/*
 *://*.applettwts.com/*
@@ -2708,8 +2734,10 @@
 *://*.aptao.cc/*
 *://*.apten.life/*
 *://*.apten.live/*
+*://*.aptosfinance.co.uk/*
 *://*.aptosprimefx.com/*
 *://*.apustrades.com/*
+*://*.apxlink.com/*
 *://*.apxnow.com/*
 *://*.aq574.com/*
 *://*.aqdav.com/*
@@ -2810,8 +2838,10 @@
 *://*.aredefid.com/*
 *://*.aredefie.com/*
 *://*.areocrypt.com/*
+*://*.ares-capital.co.uk/*
 *://*.aresebuy.com/*
 *://*.aresknes.com/*
+*://*.aresknesb.com/*
 *://*.arestn.com/*
 *://*.arestnes.com/*
 *://*.aresxios.com/*
@@ -3016,6 +3046,7 @@
 *://*.assetfxhub.com/*
 *://*.asseticimfx.com/*
 *://*.asseticism-investments.com/*
+*://*.assetoptionsgp.com/*
 *://*.assets-coin.com/*
 *://*.assets-miners.com/*
 *://*.assets-miners.ltd/*
@@ -3136,8 +3167,10 @@
 *://*.atfker.com/*
 *://*.atfker.me/*
 *://*.atfkknp.com/*
+*://*.atfkmfg.com/*
 *://*.atfkmfn.com/*
 *://*.atfkmwr.com/*
+*://*.atfkpkh.com/*
 *://*.atfx-gm.com/*
 *://*.atfx-kaihu.com/*
 *://*.atfx-trading.com/*
@@ -3195,6 +3228,7 @@
 *://*.atomcryptoearn.com/*
 *://*.atomex-defi.com/*
 *://*.atomiccoinventure.ltd/*
+*://*.atomicfxonline.com/*
 *://*.atomichubpro.com/*
 *://*.atomicwallet.trade/*
 *://*.atomx.club/*
@@ -3363,6 +3397,7 @@
 *://*.avadtrading.com/*
 *://*.avaetfbobtc.com/*
 *://*.avaetmaxbtc.com/*
+*://*.avaetorec.com/*
 *://*.avafinancial-trading.com/*
 *://*.avaforexcryptos.vip/*
 *://*.avafxmarket247.com/*
@@ -3426,6 +3461,7 @@
 *://*.avatraderal.com/*
 *://*.avatradetwai.com/*
 *://*.avatradeworld.com/*
+*://*.avatradingpro.com/*
 *://*.avatrofintrade.com/*
 *://*.avauur.com/*
 *://*.avax-financemax.com/*
@@ -3556,6 +3592,7 @@
 *://*.ayhgj.net/*
 *://*.ayju.tw/*
 *://*.ayoxtrade10.com/*
+*://*.ayyamo.com/*
 *://*.azadextrading.com/*
 *://*.azamanfx.com/*
 *://*.azambuy.com/*
@@ -3673,6 +3710,7 @@
 *://*.baicoins.com/*
 *://*.baidufx.com/*
 *://*.baile6688vip.com/*
+*://*.bailigong01.top/*
 *://*.bailigonggo.top/*
 *://*.bailm.cc/*
 *://*.bailm.co/*
@@ -3810,6 +3848,7 @@
 *://*.batetiu.com/*
 *://*.batetu.com/*
 *://*.batgold.uk/*
+*://*.batonexuid.com/*
 *://*.battistradingcompany.com/*
 *://*.batwosecion.xyz/*
 *://*.bavariamarkets.com/*
@@ -4045,6 +4084,7 @@
 *://*.bejgnrk.top/*
 *://*.beklktwrd.com/*
 *://*.beko688.com/*
+*://*.belavip.vip/*
 *://*.belcherinvestment.com/*
 *://*.belebey.com/*
 *://*.belgemgiaes.com/*
@@ -4064,6 +4104,7 @@
 *://*.bellmonforex.com/*
 *://*.bellmonfx.com/*
 *://*.bellmontforex.com/*
+*://*.bellsmall.cc/*
 *://*.bellsmall.shop/*
 *://*.bellsmall.top/*
 *://*.belovedate.com/*
@@ -4259,6 +4300,7 @@
 *://*.bfkhj.buzz/*
 *://*.bfkhj.fyi/*
 *://*.bfkhj.life/*
+*://*.bflcxyy.com/*
 *://*.bflex.online/*
 *://*.bflixce.vip/*
 *://*.bflyit.com/*
@@ -4362,6 +4404,7 @@
 *://*.bhwjs158.com/*
 *://*.bhwjs258.com/*
 *://*.bhwjs668.com/*
+*://*.bhwjs998.com/*
 *://*.bhx2.xyz/*
 *://*.bhystn.com/*
 *://*.bi-boxcoin.com/*
@@ -4394,12 +4437,14 @@
 *://*.bicapdex.com/*
 *://*.bicasconsultan.com/*
 *://*.bicc66.com/*
+*://*.bicecapitalltd.info/*
 *://*.bicfawallets.com/*
 *://*.bichengex.com/*
 *://*.bick.vip/*
 *://*.bicoinexup.com/*
 *://*.bicoinsuisses.com/*
 *://*.bicointweb68.com/*
+*://*.biconomas.vip/*
 *://*.biconombs.vip/*
 *://*.biconomy.me/*
 *://*.biconomys.vip/*
@@ -4419,8 +4464,10 @@
 *://*.bidshopnet.com/*
 *://*.biebstmex.com/*
 *://*.biemexdfk9.top/*
+*://*.biemexf9eb.top/*
 *://*.biemexgkkof.top/*
 *://*.bience-ex.cc/*
+*://*.bienceex.cc/*
 *://*.biestdxq.top/*
 *://*.biestkoj.com/*
 *://*.bietfok.com/*
@@ -4606,6 +4653,7 @@
 *://*.binakfx.com/*
 *://*.binakk.com/*
 *://*.binam2link.top/*
+*://*.binam2link.xyz/*
 *://*.binamaxfx.com/*
 *://*.binampro.com/*
 *://*.binanae.top/*
@@ -4764,6 +4812,7 @@
 *://*.bircoin.website/*
 *://*.birdies.top/*
 *://*.birextrade.com/*
+*://*.biruiap.vip/*
 *://*.biruias.vip/*
 *://*.biruibs.vip/*
 *://*.bisa8.com/*
@@ -4877,6 +4926,7 @@
 *://*.bit-increase.live/*
 *://*.bit-index-ai.co.uk/*
 *://*.bit-inst.xyz/*
+*://*.bit-invest.org/*
 *://*.bit-investcapitalfx.com/*
 *://*.bit-iplex-codes.com/*
 *://*.bit-korea.com/*
@@ -5998,6 +6048,7 @@
 *://*.bitfxonlinetrade.com/*
 *://*.bitfxpro.info/*
 *://*.bitfxpro.online/*
+*://*.bitfxpro.us/*
 *://*.bitfxrockets.com/*
 *://*.bitfxsavers.com/*
 *://*.bitfxsolutions.com/*
@@ -6025,6 +6076,7 @@
 *://*.bitgert-brise.live/*
 *://*.bitgert.vip/*
 *://*.bitget-app.vip/*
+*://*.bitget-diary.org/*
 *://*.bitget-ex.com/*
 *://*.bitget-join.asia/*
 *://*.bitget-kor.vip/*
@@ -6607,6 +6659,7 @@
 *://*.bitnaxcfd.online/*
 *://*.bitnay.com/*
 *://*.bitnbotc.com/*
+*://*.bitndf.com/*
 *://*.bitneit.tech/*
 *://*.bitnels.com/*
 *://*.bitnence.com/*
@@ -6694,6 +6747,7 @@
 *://*.bitopinc.buzz/*
 *://*.bitopinc.today/*
 *://*.bitopkda.com/*
+*://*.bitopking.com/*
 *://*.bitopmaket.com/*
 *://*.bitopmakt.com/*
 *://*.bitopmin.com/*
@@ -6704,6 +6758,7 @@
 *://*.bitopro-vip.com/*
 *://*.bitopro.co/*
 *://*.bitopro.co.uk/*
+*://*.bitopro.org/*
 *://*.bitopro.trade/*
 *://*.bitopro.us/*
 *://*.bitopro.wiki/*
@@ -7049,11 +7104,13 @@
 *://*.bitrueinvest.com/*
 *://*.bitruekqcf.com/*
 *://*.bitruely.com/*
+*://*.bitrueotsc.com/*
 *://*.bitruepros.com/*
 *://*.bitrues.com/*
 *://*.bitruetal.com/*
 *://*.bitruetrade.com/*
 *://*.bitruettue.com/*
+*://*.bitrueviews.com/*
 *://*.bitruexyz.com/*
 *://*.bitrum24.com/*
 *://*.bitruncoin.com/*
@@ -7194,6 +7251,7 @@
 *://*.bitsnseh.com/*
 *://*.bitso.lol/*
 *://*.bitso.trade/*
+*://*.bitsobae.com/*
 *://*.bitsocoinsbr.com/*
 *://*.bitsocoinser.com/*
 *://*.bitsoda.club/*
@@ -7412,6 +7470,7 @@
 *://*.bittorodvo.com/*
 *://*.bittoronx.com/*
 *://*.bittorore.com/*
+*://*.bittororvr.com/*
 *://*.bittorotbj.com/*
 *://*.bittorotnb.com/*
 *://*.bittorowox.com/*
@@ -7536,6 +7595,7 @@
 *://*.bitvavvcre.com/*
 *://*.bitvavvmok.com/*
 *://*.bitvce.com/*
+*://*.bitvcoin.cc/*
 *://*.bitvecent.one/*
 *://*.bitved.com/*
 *://*.bitveh.com/*
@@ -7849,6 +7909,7 @@
 *://*.blackstonesinvest.org/*
 *://*.blackstonesmax.com/*
 *://*.blacktex.click/*
+*://*.blacktowerfmg-cfd.com/*
 *://*.blacktrade.live/*
 *://*.blanchtrading.com/*
 *://*.blanqchequezexchange.com/*
@@ -7874,9 +7935,11 @@
 *://*.blifetrade.com/*
 *://*.blingstar168.com/*
 *://*.blionex.com/*
+*://*.blishba.com/*
 *://*.blishbp.com/*
 *://*.blishp.com/*
 *://*.blishs.com/*
+*://*.blisht.com/*
 *://*.bliss-forex.com/*
 *://*.blissforex.ltd/*
 *://*.blissinvests.net/*
@@ -7903,6 +7966,7 @@
 *://*.blockcapfx.com/*
 *://*.blockcertsfx.com/*
 *://*.blockchain-antiminer.com/*
+*://*.blockchain-insurance-europe.com/*
 *://*.blockchain-miners.org/*
 *://*.blockchain-traders.uk/*
 *://*.blockchainantiminer.com/*
@@ -7971,6 +8035,7 @@
 *://*.blocugold.com/*
 *://*.blofindex.pro/*
 *://*.blogkkewije.com/*
+*://*.bloisp.com/*
 *://*.blokchainology.com/*
 *://*.blokchainr.com/*
 *://*.blokcoins.com/*
@@ -8017,6 +8082,7 @@
 *://*.bluelephantexpress.site/*
 *://*.bluelitexpress.com/*
 *://*.bluenextmining.online/*
+*://*.blueoceancapitalmanagementllc.com/*
 *://*.blueoceantrades.com/*
 *://*.blueoxfinance.com/*
 *://*.blueparagonfinancial.com/*
@@ -8035,6 +8101,7 @@
 *://*.bluetradnow.com/*
 *://*.bluewatergroup.ai/*
 *://*.bluewatergroup.co/*
+*://*.blueworldacqcorp.com/*
 *://*.bluexmarketing.com/*
 *://*.blueyard-btc.com/*
 *://*.bluezfxtraders.com/*
@@ -8145,6 +8212,7 @@
 *://*.bnryexpertcomp.com/*
 *://*.bnsdnbknqwe.com/*
 *://*.bnsreg.xyz/*
+*://*.bntradebxs.com/*
 *://*.bntradehub.com/*
 *://*.bntradetbh.com/*
 *://*.bntradeute.com/*
@@ -8155,12 +8223,14 @@
 *://*.bnwredergr.com/*
 *://*.bnwrederkl.com/*
 *://*.bnwreuscjs.com/*
+*://*.bnwreuserrv.com/*
 *://*.bnwreusijf.com/*
 *://*.bnwreusixf.com/*
 *://*.bnwreusjbf.com/*
 *://*.bnwreusrbr.com/*
 *://*.bnwreusuvu.com/*
 *://*.boa-finance.online/*
+*://*.boaak.site/*
 *://*.boanuflt.trade/*
 *://*.boanufx.com/*
 *://*.boba.network/*
@@ -8213,6 +8283,7 @@
 *://*.bojin16888.cn/*
 *://*.bok-htel.com/*
 *://*.bok168.net/*
+*://*.bokhi.online/*
 *://*.bokhi.shop/*
 *://*.bokhi.xyz/*
 *://*.bokie.bond/*
@@ -8275,6 +8346,7 @@
 *://*.boofcoin.info/*
 *://*.bookfxpro.com/*
 *://*.booking-hk.com/*
+*://*.booking-hk.shop/*
 *://*.books-compy.com/*
 *://*.books-ltd.com/*
 *://*.books-shopcenter.com/*
@@ -8325,6 +8397,7 @@
 *://*.borsa-tradings.com/*
 *://*.borsaint.com/*
 *://*.bortnetcryptoltd.com/*
+*://*.borton-ackerman.com/*
 *://*.bosijl.com/*
 *://*.bosndy.com/*
 *://*.bosrtti.com/*
@@ -8332,6 +8405,7 @@
 *://*.bossewes.com/*
 *://*.bossinvestimentos.com/*
 *://*.bossxw.com/*
+*://*.boston-capital.org/*
 *://*.bostsa.com/*
 *://*.botccoin.xyz/*
 *://*.botcrypto.app/*
@@ -8357,6 +8431,7 @@
 *://*.boxboxx666.top/*
 *://*.boxbx888.top/*
 *://*.boxcfx.com/*
+*://*.boxchainfx.ltd/*
 *://*.boxcoin.space/*
 *://*.boxdefi.net/*
 *://*.boxexchanges.com/*
@@ -8385,12 +8460,15 @@
 *://*.bqbwap.xyz/*
 *://*.bqcity168.net/*
 *://*.bqcity1689.com/*
+*://*.bqcity5888.net/*
 *://*.bqcity668.com/*
+*://*.bqcity8889.net/*
 *://*.bqcity889.com/*
 *://*.bqcity988.net/*
 *://*.bqdco.top/*
 *://*.bqsfbk.com/*
 *://*.br-stone.net/*
+*://*.bradleywoodsandassociatesllc.com/*
 *://*.braiinsmining.pro/*
 *://*.brain-boost.academy/*
 *://*.brainfield-investment.com/*
@@ -8443,6 +8521,7 @@
 *://*.brentocu.com/*
 *://*.brentround.top/*
 *://*.brfui.life/*
+*://*.brfxpro.com/*
 *://*.brgsd.live/*
 *://*.brgsd.world/*
 *://*.brich.cyou/*
@@ -8490,6 +8569,7 @@
 *://*.britswifttrade.com/*
 *://*.brittofinanceco.com/*
 *://*.brittradefx.com/*
+*://*.britwealthcapitaletf.com/*
 *://*.brixinvestment.net/*
 *://*.brixminingexchange.com/*
 *://*.brixtraders.net/*
@@ -8591,8 +8671,10 @@
 *://*.bstmadasutd.com/*
 *://*.bstmarkusdt.com/*
 *://*.bstmaxusdt.com/*
+*://*.bstmnbcotp.com/*
 *://*.bstobcsmart.com/*
 *://*.bstocgsmart.com/*
+*://*.bstogbcsmart.com/*
 *://*.bstokens.live/*
 *://*.bstopapp.com/*
 *://*.bstorcsmart.com/*
@@ -8779,6 +8861,7 @@
 *://*.btcbxre.com/*
 *://*.btcbxsk.com/*
 *://*.btcbxwi.com/*
+*://*.btcc-mall.com/*
 *://*.btcc-otc.com/*
 *://*.btcc.academy/*
 *://*.btcc.cloud/*
@@ -8819,6 +8902,7 @@
 *://*.btcex8.xyz/*
 *://*.btcexaps.com/*
 *://*.btcexcfx.com/*
+*://*.btcexchange.ink/*
 *://*.btcexchange.vip/*
 *://*.btcexcoin.com/*
 *://*.btcexep.com/*
@@ -9044,6 +9128,8 @@
 *://*.bthcoinbase.cc/*
 *://*.bthcoinbases.cc/*
 *://*.bthexb.com/*
+*://*.bticoin.top/*
+*://*.btig86.top/*
 *://*.btig886.top/*
 *://*.btinkis.com/*
 *://*.btions.com/*
@@ -9149,6 +9235,7 @@
 *://*.bullfxmarket.org/*
 *://*.bullfxprime.online/*
 *://*.bullfxtraining.com/*
+*://*.bullinvest.trade/*
 *://*.bullinvests.com/*
 *://*.bullinvestzone.com/*
 *://*.bullinvestzones.com/*
@@ -9265,6 +9352,7 @@
 *://*.buyer-work.click/*
 *://*.buyer-work.cyou/*
 *://*.buyer-work.life/*
+*://*.buyer-work.one/*
 *://*.buyergomomo.com/*
 *://*.buyermomo.com/*
 *://*.buyeuro-ex.com/*
@@ -9282,6 +9370,7 @@
 *://*.buyx33.today/*
 *://*.buzatraders.com/*
 *://*.bv66.net/*
+*://*.bvastassets.com/*
 *://*.bvbfdbg.com/*
 *://*.bvchjxghui.com/*
 *://*.bvchtfy.xyz/*
@@ -9297,6 +9386,7 @@
 *://*.bvxgat.com/*
 *://*.bvyck.life/*
 *://*.bvyck.space/*
+*://*.bvyck.xyz/*
 *://*.bw-fx.com/*
 *://*.bwap.vip/*
 *://*.bwbss.vip/*
@@ -9329,6 +9419,7 @@
 *://*.by-bit.me/*
 *://*.by-bitbtc.com/*
 *://*.by-bitcoins.com/*
+*://*.by-defi.pro/*
 *://*.by6588.com/*
 *://*.by7655.com/*
 *://*.by7866.com/*
@@ -9483,6 +9574,7 @@
 *://*.cakeex.global/*
 *://*.cali1356a.net/*
 *://*.cali1356b.net/*
+*://*.cali333.net/*
 *://*.cali555.net/*
 *://*.cali777.net/*
 *://*.cali818.net/*
@@ -9505,6 +9597,8 @@
 *://*.camelhyer.com/*
 *://*.cameliureww.com/*
 *://*.camellpov.com/*
+*://*.camelppb.com/*
+*://*.camelysd.com/*
 *://*.camelyst.com/*
 *://*.cameronrfxl.com/*
 *://*.campcarol.com/*
@@ -9517,6 +9611,7 @@
 *://*.canada-franfinance.com/*
 *://*.canadacryptohost.com/*
 *://*.canadianarabianinvest.com/*
+*://*.candletrade.win/*
 *://*.candycrush.fun/*
 *://*.candyswap.network/*
 *://*.canfex.com/*
@@ -9607,6 +9702,7 @@
 *://*.capital365.fm/*
 *://*.capital588.com/*
 *://*.capitaladvertisingtradecompany.com/*
+*://*.capitaladvisoryltd.com/*
 *://*.capitalapextrading.com/*
 *://*.capitalassestinvest.com/*
 *://*.capitalassetfx.com/*
@@ -9631,10 +9727,12 @@
 *://*.capitaleverpro.com/*
 *://*.capitalex.org/*
 *://*.capitalex24.com/*
+*://*.capitalexpro.io/*
 *://*.capitalfieldmine.com/*
 *://*.capitalfinacebank.com/*
 *://*.capitalfinance-group.com/*
 *://*.capitalfinance-services.com/*
+*://*.capitalfinanceandlegal.com/*
 *://*.capitalfinancebk.com/*
 *://*.capitalfinancepoint.com/*
 *://*.capitalfinanceprofit.com/*
@@ -9643,6 +9741,7 @@
 *://*.capitalfinancingacademy.com/*
 *://*.capitalflex.org/*
 *://*.capitalforextws.com/*
+*://*.capitalfundassets.com/*
 *://*.capitalfundfx.com/*
 *://*.capitalfx.ltd/*
 *://*.capitalfxfinance.org/*
@@ -9666,6 +9765,7 @@
 *://*.capitalgroupweb.com/*
 *://*.capitalgrowthinvest.net/*
 *://*.capitalhotcryptomines.com/*
+*://*.capitalimlimited.cc/*
 *://*.capitalimlimited.com/*
 *://*.capitalincome.ltd/*
 *://*.capitalindex.pro/*
@@ -9875,6 +9975,7 @@
 *://*.cball365.com/*
 *://*.cbb.vip/*
 *://*.cbbb.net/*
+*://*.cbbc0428.com/*
 *://*.cbbw6t.cn/*
 *://*.cbccyap.vip/*
 *://*.cbccyos.vip/*
@@ -10039,6 +10140,7 @@
 *://*.celdexassets.com/*
 *://*.celebriticryptoftrade.com/*
 *://*.celebritycoin.net/*
+*://*.celerafxl.com/*
 *://*.celerafxlt.com/*
 *://*.celestialfin.com/*
 *://*.celestialinv.com/*
@@ -10077,6 +10179,7 @@
 *://*.centralgoldmining.com/*
 *://*.centralizedweb3exchange.pro/*
 *://*.centralmargins.com/*
+*://*.centralplusfinance.com/*
 *://*.centralshoping.com/*
 *://*.centralshoping.top/*
 *://*.centralworldlands.com/*
@@ -10314,6 +10417,7 @@
 *://*.chenxiaodao.com/*
 *://*.cherries.vip/*
 *://*.chescocoinmining.net/*
+*://*.chesterfinancials.uk/*
 *://*.cheugycoin.com/*
 *://*.chevcoin-invest.net/*
 *://*.chevrontexacoae.com/*
@@ -10348,8 +10452,10 @@
 *://*.chorderxi.com/*
 *://*.chosenone.io/*
 *://*.choshop.net/*
+*://*.choudajiang.top/*
 *://*.chrimafx.com/*
 *://*.chrombits.com/*
+*://*.chronovalor.com/*
 *://*.chssgy.net/*
 *://*.chtwactivity.com/*
 *://*.chubbd.com/*
@@ -10358,6 +10464,7 @@
 *://*.chunkycoins.com/*
 *://*.chvuke.top/*
 *://*.chwprocoin.uk/*
+*://*.chxduj.top/*
 *://*.chxgjg.com/*
 *://*.chyhbn.com/*
 *://*.chywealth.com/*
@@ -10403,6 +10510,7 @@
 *://*.ciopd.top/*
 *://*.cip2u.com/*
 *://*.ciphercryptomining.com/*
+*://*.cipherxinvest.com/*
 *://*.ciqwwr.top/*
 *://*.circce.top/*
 *://*.cirnjgrg.top/*
@@ -10481,6 +10589,7 @@
 *://*.ckcoin.xyz/*
 *://*.ckcoinin.com/*
 *://*.ckcoins.vip/*
+*://*.ckei33.com/*
 *://*.cklisie.com/*
 *://*.cklosi.com/*
 *://*.ckoilo.com/*
@@ -10565,6 +10674,7 @@
 *://*.cloexbitts.com/*
 *://*.cloiisl.com/*
 *://*.cloinmarkecap.com/*
+*://*.cloiro.com/*
 *://*.clomc.com/*
 *://*.clorixbit.com/*
 *://*.cloud-bit.me/*
@@ -10726,12 +10836,14 @@
 *://*.cmmm0933.com/*
 *://*.cmouks.com/*
 *://*.cmsbita.com/*
+*://*.cmtdigitaltradingfx.net/*
 *://*.cmtt8.com/*
 *://*.cmuspro.com/*
 *://*.cmuspros.com/*
 *://*.cmvtradecoins.com/*
 *://*.cmw2021.com/*
 *://*.cmxtraders.online/*
+*://*.cmyyep.cfd/*
 *://*.cn-fxtis.com/*
 *://*.cn.com/*
 *://*.cn456999711627280534.app/*
@@ -10767,6 +10879,7 @@
 *://*.cnlsa.store/*
 *://*.cnlsa.xyz/*
 *://*.cnncoin.pro/*
+*://*.cnoisxl.com/*
 *://*.cnouyi.expert/*
 *://*.cnqjd982.co/*
 *://*.cnqjdgt.com/*
@@ -11292,6 +11405,7 @@
 *://*.coinbitwd.com/*
 *://*.coinbitwd.net/*
 *://*.coinblax.com/*
+*://*.coinblaze-intel.ltd/*
 *://*.coinblines.com/*
 *://*.coinbloxglobal.com/*
 *://*.coinbmate.com/*
@@ -11808,6 +11922,7 @@
 *://*.coinkale.com/*
 *://*.coinkay.online/*
 *://*.coinkazan.org/*
+*://*.coinkeyus.com/*
 *://*.coinking88.com/*
 *://*.coinkool.io/*
 *://*.coinkrat.com/*
@@ -12696,6 +12811,7 @@
 *://*.coinzoomvh.com/*
 *://*.coinzoomwe.com/*
 *://*.coinzsack.com/*
+*://*.coinztrades.com/*
 *://*.coinzus.com/*
 *://*.coiowere.com/*
 *://*.coipax.com/*
@@ -12811,6 +12927,7 @@
 *://*.connectikfx.online/*
 *://*.connexcoins.online/*
 *://*.conocecrypto.com/*
+*://*.consciouscrypt.com/*
 *://*.consensystrade.online/*
 *://*.consolidatefinance.org/*
 *://*.consolidatetradefinance.com/*
@@ -12836,6 +12953,7 @@
 *://*.contractwe.com/*
 *://*.contractxz.com/*
 *://*.contradingfx.com/*
+*://*.conupeng.com/*
 *://*.conuplings.com/*
 *://*.converafx.live/*
 *://*.convertop.art/*
@@ -12930,12 +13048,15 @@
 *://*.corporatemines.org/*
 *://*.corporatetraderslimited.com/*
 *://*.correlate198.xyz/*
+*://*.corsonbest.ltd/*
 *://*.corttsmonie.com/*
 *://*.coseagspyr.cn/*
 *://*.coshop.club/*
 *://*.cosmic-miner.com/*
 *://*.cosmocrypt.space/*
 *://*.cosmoscoinflip.com/*
+*://*.cossdex.cc/*
+*://*.cossdex.com/*
 *://*.costco-sxo.net/*
 *://*.costcoclock.com/*
 *://*.costcocolor.com/*
@@ -12972,6 +13093,7 @@
 *://*.covaxorg.net/*
 *://*.covenantpropertyinvestments.com/*
 *://*.coverallexpressdelivery.com/*
+*://*.coverfast.org/*
 *://*.covermall.tw/*
 *://*.covey-fx.com/*
 *://*.cow4stock.com/*
@@ -13074,9 +13196,11 @@
 *://*.creditglobalfinance.com/*
 *://*.creditidcv.com/*
 *://*.creditinvestmentunion.com/*
+*://*.creditjig.com/*
 *://*.creditlinkfinancialservice.com/*
 *://*.creditmarketcoins.com/*
 *://*.creditrapidefinance.com/*
+*://*.creditybf.com/*
 *://*.credminer.cc/*
 *://*.credotradeks.com/*
 *://*.creekminer.com/*
@@ -13133,6 +13257,7 @@
 *://*.crmfasonla.net/*
 *://*.crmfasonlaer.com/*
 *://*.crmipoopactw.com/*
+*://*.crmjafcoasia.com/*
 *://*.crmqointechexa.com/*
 *://*.crmqointechexg.com/*
 *://*.crmtofasonla.com/*
@@ -13147,6 +13272,8 @@
 *://*.cronosca.com/*
 *://*.cronosmm.finance/*
 *://*.cronosudt.com/*
+*://*.cronosujt.com/*
+*://*.cronoswrd.com/*
 *://*.cropty.app/*
 *://*.cross.investments/*
 *://*.crossborder.world/*
@@ -13189,6 +13316,7 @@
 *://*.crybit.top/*
 *://*.crybitus.com/*
 *://*.cryfxcmprobitcored16.com/*
+*://*.cryiptguent.com/*
 *://*.cryp-vestfx.com/*
 *://*.crypacific.com/*
 *://*.crypacific.vip/*
@@ -13201,6 +13329,7 @@
 *://*.crypexholdingsltd.com/*
 *://*.crypfxminninng.org/*
 *://*.crypinvestment.com/*
+*://*.cryplate.com/*
 *://*.cryplightmining.com/*
 *://*.crypmetafx.com/*
 *://*.crypmines.com/*
@@ -13370,6 +13499,7 @@
 *://*.crypto-globalheritage.com/*
 *://*.crypto-globall.net/*
 *://*.crypto-glofund.com/*
+*://*.crypto-goldtrust.com/*
 *://*.crypto-group.biz/*
 *://*.crypto-harvest.xyz/*
 *://*.crypto-hero.xyz/*
@@ -13599,6 +13729,7 @@
 *://*.cryptocaf.club/*
 *://*.cryptocao.site/*
 *://*.cryptocap-invest.com/*
+*://*.cryptocapital-invest.uk/*
 *://*.cryptocapital-limited.com/*
 *://*.cryptocapital-max.com/*
 *://*.cryptocapitals.cloud/*
@@ -14120,6 +14251,7 @@
 *://*.cryptominer24.com/*
 *://*.cryptominernorm.com/*
 *://*.cryptominers-trading.com/*
+*://*.cryptominers.ltd/*
 *://*.cryptominersandfxtraders.com/*
 *://*.cryptominersdepot.com/*
 *://*.cryptominersfx.online/*
@@ -14280,6 +14412,7 @@
 *://*.cryptoprimsfx.online/*
 *://*.cryptopro-trade.com/*
 *://*.cryptopro.ltd/*
+*://*.cryptopro1.com/*
 *://*.cryptoproapp.vip/*
 *://*.cryptoprofessional.trade/*
 *://*.cryptoprofit-trading.com/*
@@ -14744,6 +14877,7 @@
 *://*.crzyfinance.com/*
 *://*.cs-bit.com/*
 *://*.csaedes.cc/*
+*://*.csaiuifh.com/*
 *://*.csased.cc/*
 *://*.csasee.cc/*
 *://*.csbkvip.cn/*
@@ -14814,6 +14948,7 @@
 *://*.ctxijly.com/*
 *://*.ctyptotopools.com/*
 *://*.cu-cfc.com/*
+*://*.cu-cfcb.com/*
 *://*.cu8lawn.top/*
 *://*.cuanthebcr.com/*
 *://*.cuaythebcr.com/*
@@ -14841,6 +14976,7 @@
 *://*.culturesfx.com/*
 *://*.cumberland.monster/*
 *://*.cunthebcr.com/*
+*://*.cunyaotrade.store/*
 *://*.cuoso.cc/*
 *://*.cupcoinex.com/*
 *://*.cupets.website/*
@@ -14878,6 +15014,7 @@
 *://*.cvbmm8569.top/*
 *://*.cvemp.com/*
 *://*.cvfxtv.com/*
+*://*.cvhunzw.buzz/*
 *://*.cvjhz.com/*
 *://*.cvjjqosheak.com/*
 *://*.cvkse.com/*
@@ -14901,6 +15038,7 @@
 *://*.cwl.gov.cn/*
 *://*.cwmining.biz/*
 *://*.cwmining.com/*
+*://*.cwprois.vip/*
 *://*.cwprotrade.com/*
 *://*.cwsj678.net/*
 *://*.cwusdt.com/*
@@ -15110,6 +15248,7 @@
 *://*.daolaunchpad.io/*
 *://*.daoraiaus.com/*
 *://*.daoraus.com/*
+*://*.daoversal.com/*
 *://*.dapp-airdrop.com/*
 *://*.dapp-dexo.online/*
 *://*.dapp-dexo.tech/*
@@ -15253,6 +15392,7 @@
 *://*.dbyl1868.com/*
 *://*.dbyl1878.com/*
 *://*.dbyl1886.com/*
+*://*.dbyl1978.com/*
 *://*.dc-bit.com/*
 *://*.dc-token.com/*
 *://*.dcacriptofinance.com/*
@@ -15334,6 +15474,7 @@
 *://*.ddosdasi.com/*
 *://*.ddoxjil.com/*
 *://*.ddpj7.xyz/*
+*://*.ddse.com/*
 *://*.ddttss.com/*
 *://*.ddvjdjvn.com/*
 *://*.ddyc1266.com/*
@@ -15814,6 +15955,7 @@
 *://*.dfmt5.net/*
 *://*.dfnpebau.buzz/*
 *://*.dforeceabe.com/*
+*://*.dforeceabg.com/*
 *://*.dforecepka.com/*
 *://*.dforecepre.com/*
 *://*.dforeceprq.com/*
@@ -16064,6 +16206,7 @@
 *://*.digitradeasset.com/*
 *://*.digitradedepot.com/*
 *://*.digitrades.org/*
+*://*.digitrades.uk/*
 *://*.digitrone.site/*
 *://*.digivate-advance.com/*
 *://*.digivestfx.com/*
@@ -16071,6 +16214,7 @@
 *://*.diguoapp.com/*
 *://*.dijdcdvdk.com/*
 *://*.dik56rt.xyz/*
+*://*.dillardsim.com/*
 *://*.dimetradelimited.com/*
 *://*.dimondcoins.com/*
 *://*.dimsfx.com/*
@@ -16275,6 +16419,7 @@
 *://*.dongarfex.com/*
 *://*.dongboziben.com/*
 *://*.donglivip.vip/*
+*://*.dongri8.com/*
 *://*.dongsenip.com/*
 *://*.dongsenvp.com/*
 *://*.dongsenylw.com/*
@@ -16334,6 +16479,7 @@
 *://*.doubleminingday.com/*
 *://*.doubleutrading.com/*
 *://*.douglas-forex.com/*
+*://*.douyin598.com/*
 *://*.douyin68.com/*
 *://*.douyin8798.com/*
 *://*.douyin89.com/*
@@ -16415,6 +16561,7 @@
 *://*.dreourbit.com/*
 *://*.dreourcoin.com/*
 *://*.drepex.com/*
+*://*.drhvadeu.top/*
 *://*.driftfxtm.com/*
 *://*.drillexforex.com/*
 *://*.dristowinvestment.net/*
@@ -16541,6 +16688,7 @@
 *://*.dwgj8888.com/*
 *://*.dwinportfolio.com/*
 *://*.dwofk987.top/*
+*://*.dwqtsm.top/*
 *://*.dws167.com/*
 *://*.dws66.com/*
 *://*.dwshuoc.com/*
@@ -16552,6 +16700,7 @@
 *://*.dx9138.com/*
 *://*.dx986.cn/*
 *://*.dxcoin.com/*
+*://*.dxdaoplh.com/*
 *://*.dxddnb.vip/*
 *://*.dxddnc.vip/*
 *://*.dxddus.vip/*
@@ -16728,10 +16877,12 @@
 *://*.earntmfx.info/*
 *://*.earnusdt.online/*
 *://*.earnwagefx.com/*
+*://*.earnwealthfx.com/*
 *://*.earnwise.trade/*
 *://*.eartbitcoin.com/*
 *://*.earth-shoreinvest.com/*
 *://*.earthexchangecoin.com/*
+*://*.eartholeumvest.com/*
 *://*.easecryptoprimier.com/*
 *://*.easmines.com/*
 *://*.east-century.com/*
@@ -16739,6 +16890,7 @@
 *://*.east-shop.shop/*
 *://*.east-shop.top/*
 *://*.eastasiannft.com/*
+*://*.eastmidlandfinservicesltd.co.uk/*
 *://*.eastpac.live/*
 *://*.easttd.com/*
 *://*.easy-bitcoin.online/*
@@ -16839,10 +16991,12 @@
 *://*.ebay-commerce.com/*
 *://*.ebay-commerces.com/*
 *://*.ebay-commercialer.com/*
+*://*.ebay-gjds.com/*
 *://*.ebay-globalwhsle.com/*
 *://*.ebay-home.com/*
 *://*.ebay-nicegoods.com/*
 *://*.ebay-offi-cial.com/*
+*://*.ebay-official.com/*
 *://*.ebay-official.top/*
 *://*.ebay-tw.buzz/*
 *://*.ebay-tw.click/*
@@ -16953,6 +17107,7 @@
 *://*.eddglobalmining.com/*
 *://*.eddid.com.hk/*
 *://*.edeninvestlimited.com/*
+*://*.edgeax.com/*
 *://*.edgebroker.online/*
 *://*.edgebureautrades.com/*
 *://*.edgecrypto-v.com/*
@@ -17026,6 +17181,7 @@
 *://*.eg66.life/*
 *://*.egaex.com/*
 *://*.egamax.com/*
+*://*.egame.lol/*
 *://*.egamxs.com/*
 *://*.egaxm.com/*
 *://*.egcoinkj.com/*
@@ -17039,6 +17195,7 @@
 *://*.egmforex.vip/*
 *://*.egoamadgo.com/*
 *://*.egolden.vip/*
+*://*.egpot88.com/*
 *://*.egrcoinbase.com/*
 *://*.egrrlv.top/*
 *://*.egscenter.top/*
@@ -17077,6 +17234,7 @@
 *://*.eim-capitaltrades.online/*
 *://*.einfacher-investieren.com/*
 *://*.einvest.vip/*
+*://*.einvestmentsllc.com/*
 *://*.eionbrjf.top/*
 *://*.eiotoken.com/*
 *://*.eirngpsf.top/*
@@ -17103,6 +17261,7 @@
 *://*.electriccoins.net/*
 *://*.electrumxfx.org/*
 *://*.electsbit.com/*
+*://*.elegancepicks.com/*
 *://*.elementarystocks101.com/*
 *://*.elementfxvip.com/*
 *://*.elementminer.com/*
@@ -17216,6 +17375,7 @@
 *://*.elitiuminvest.uk/*
 *://*.elixirfunding.com/*
 *://*.elixitcripminer.com/*
+*://*.elizacosmeticsvviptraining.com/*
 *://*.elizcryptofx.com/*
 *://*.elkefx.online/*
 *://*.ellandroadcapital.capital/*
@@ -17228,6 +17388,7 @@
 *://*.ellisandburlington.com/*
 *://*.ellite-coinbolt.com/*
 *://*.ellitefunds.com/*
+*://*.elltradesltd.net/*
 *://*.elmagodeltrading.com/*
 *://*.elmascoin.com/*
 *://*.elntradinghubs.com/*
@@ -17364,10 +17525,12 @@
 *://*.emwz.xyz/*
 *://*.emzem.xyz/*
 *://*.enamrs.com/*
+*://*.enbordersa.com/*
 *://*.enbot.online/*
 *://*.encemarketingax.top/*
 *://*.enciof.com/*
 *://*.enciuf.com/*
+*://*.encjik.com/*
 *://*.enclavefxau.com/*
 *://*.enclavetrade.org/*
 *://*.encoreglobaltrade.com/*
@@ -17411,6 +17574,7 @@
 *://*.energystartrust.com/*
 *://*.energyvsv.com/*
 *://*.energyzpe.com/*
+*://*.engbbvr.com/*
 *://*.engbkov.com/*
 *://*.engine6tw.com/*
 *://*.engine6tw.net/*
@@ -17418,11 +17582,13 @@
 *://*.enginetrade.motorcycles/*
 *://*.engkp.com/*
 *://*.engxin22.com/*
+*://*.enhanceasc.com/*
 *://*.enhancebytetradex.com/*
 *://*.enhancedcryptmines.com/*
 *://*.enhancedcryptmining.com/*
 *://*.enhancejef.com/*
 *://*.enhancenmu.com/*
+*://*.enhancesf.com/*
 *://*.enibit.ltd/*
 *://*.enkryptfinance.com/*
 *://*.enlaceassets.com/*
@@ -17451,7 +17617,10 @@
 *://*.envrch.com/*
 *://*.enyabo.com/*
 *://*.eocfx.com/*
+*://*.eoiosiwb.com/*
 *://*.eoisoiji.com/*
+*://*.eoisomfj.com/*
+*://*.eoitrujg.com/*
 *://*.eonmir.cc/*
 *://*.eonpower.club/*
 *://*.eos-trade.ltd/*
@@ -17461,6 +17630,7 @@
 *://*.eosibme.com/*
 *://*.eosioapiidc.com/*
 *://*.eosioapirce.com/*
+*://*.eosnci.com/*
 *://*.eosnrun.top/*
 *://*.eosobc.com/*
 *://*.eosrn.com/*
@@ -17474,6 +17644,7 @@
 *://*.epgn.top/*
 *://*.epicinvest.ltd/*
 *://*.epictrade.live/*
+*://*.epictrades.uk/*
 *://*.epicxcoin.com/*
 *://*.epiqcoin.com/*
 *://*.epitomemining.com/*
@@ -17563,6 +17734,7 @@
 *://*.escocrypt.com/*
 *://*.escofntex.com/*
 *://*.escoprime.io/*
+*://*.escortprox.com/*
 *://*.escro-mining.com/*
 *://*.escromining.com/*
 *://*.escrow-chain.com/*
@@ -18331,6 +18503,7 @@
 *://*.ethmine-detection.com/*
 *://*.ethmine-quotes.com/*
 *://*.ethmine-shine.com/*
+*://*.ethmine.vip/*
 *://*.ethmine.xyz/*
 *://*.ethmine1.com/*
 *://*.ethminequotes.com/*
@@ -18377,6 +18550,7 @@
 *://*.ethpood.com/*
 *://*.ethpool.live/*
 *://*.ethpools.me/*
+*://*.ethpools.xyz/*
 *://*.ethpools365-eth.net/*
 *://*.ethpools365.net/*
 *://*.ethprofits.com/*
@@ -18427,6 +18601,7 @@
 *://*.etliforo.com/*
 *://*.eto-stack.com/*
 *://*.eto.cash/*
+*://*.etokumall.com/*
 *://*.etomapps.com/*
 *://*.etorackcter.com/*
 *://*.etorackctory.com/*
@@ -18551,6 +18726,7 @@
 *://*.eusdt.site/*
 *://*.eusm.io/*
 *://*.eusm.vip/*
+*://*.eutradex.com/*
 *://*.euxtoken.com/*
 *://*.euxx2.com/*
 *://*.euycoin.com/*
@@ -18591,6 +18767,7 @@
 *://*.evfxgroup.com/*
 *://*.evgjb.com/*
 *://*.evibit.com/*
+*://*.evlmvev.com/*
 *://*.evo-defi.online/*
 *://*.evocoin.top/*
 *://*.evocrypto.net/*
@@ -18694,6 +18871,7 @@
 *://*.exchangeie.com/*
 *://*.exchangeig.com/*
 *://*.exchangeincome.net/*
+*://*.exchangeiv.com/*
 *://*.exchangelmax.vip/*
 *://*.exchangemdn.com/*
 *://*.exchangemeta247.com/*
@@ -18770,6 +18948,7 @@
 *://*.exkq.net/*
 *://*.exlbnk.com/*
 *://*.exlu.net/*
+*://*.exmarkets.com/*
 *://*.exmarketsfx.com/*
 *://*.exmartpros.com/*
 *://*.exmartrealtime.com/*
@@ -18781,6 +18960,7 @@
 *://*.exmobit.ru/*
 *://*.exmobit.space/*
 *://*.exmocoins.com/*
+*://*.exmodex.pro/*
 *://*.exmoer.com/*
 *://*.exmoexchange.com/*
 *://*.exmoexchangecoin.com/*
@@ -18810,6 +18990,7 @@
 *://*.exnesscoin.vip/*
 *://*.exnesscpa.com/*
 *://*.exnessdsjf.com/*
+*://*.exnessgdj.com/*
 *://*.exnessgloballtd.com/*
 *://*.exnessindex.com/*
 *://*.exnessprofx.online/*
@@ -18872,6 +19053,7 @@
 *://*.experiencetraders.com/*
 *://*.expert-glob.net/*
 *://*.expert-income.ltd/*
+*://*.expert-iqtradefx.com/*
 *://*.expert-miner.com/*
 *://*.expert-miners.net/*
 *://*.expert-mining.pro/*
@@ -18906,6 +19088,8 @@
 *://*.expertfinancesystem.com/*
 *://*.expertfreights.com/*
 *://*.expertfunds.org/*
+*://*.expertfxfasttrade.com/*
+*://*.expertfxmegatrade.com/*
 *://*.expertfxmining.com/*
 *://*.expertfxoption.com/*
 *://*.expertfxstocks.com/*
@@ -19071,6 +19255,7 @@
 *://*.ezsoho.store/*
 *://*.ezsoho.xyz/*
 *://*.ezsoholl.online/*
+*://*.ezsoholl.shop/*
 *://*.ezsoholl.site/*
 *://*.ezsoholl.store/*
 *://*.ezsohomax.live/*
@@ -19107,6 +19292,7 @@
 *://*.facoinplus.com/*
 *://*.facstoken.com/*
 *://*.faebee.shop/*
+*://*.fafa8569.cyou/*
 *://*.faftsua.site/*
 *://*.fafubu.mobi/*
 *://*.fafx.cc/*
@@ -19149,6 +19335,7 @@
 *://*.fameexwlc.com/*
 *://*.familyboost.online/*
 *://*.familymart-tw1.website/*
+*://*.familyshopapp.com/*
 *://*.fanbtctw.com/*
 *://*.fanbtctw.net/*
 *://*.fanbtctw.org/*
@@ -19214,6 +19401,7 @@
 *://*.fast-coin.xyz/*
 *://*.fast-tradecoin.com/*
 *://*.fast-trades.ltd/*
+*://*.fast-tradesfx.net/*
 *://*.fast-trading.cfd/*
 *://*.fast-usdt.net/*
 *://*.fastairdelivery.com/*
@@ -19601,9 +19789,11 @@
 *://*.filpkart.life/*
 *://*.filpool.store/*
 *://*.fimco.cn/*
+*://*.finaceirotrader.com/*
 *://*.finacoins.online/*
 *://*.finalplus.net/*
 *://*.finalplusax.com/*
+*://*.finaltoltd.com/*
 *://*.finanbelt.com/*
 *://*.financcre.com/*
 *://*.finance-assurance-pret.com/*
@@ -19754,6 +19944,7 @@
 *://*.finix-trade.ltd/*
 *://*.finixminer.com/*
 *://*.finmaxtw.com/*
+*://*.finnexbot.com/*
 *://*.finnmaxxfxl.com/*
 *://*.finnvoltrading.com/*
 *://*.finomentrade.com/*
@@ -19856,6 +20047,7 @@
 *://*.fiscalsmartexchange.com/*
 *://*.fiscoglobal.com/*
 *://*.fisheyebit.com/*
+*://*.fishfounda.com/*
 *://*.fit3650.com/*
 *://*.fitbela.com/*
 *://*.fitbela.uk/*
@@ -19867,6 +20059,7 @@
 *://*.fitbelaeproer.com/*
 *://*.fitbelaerprofx.com/*
 *://*.fitcoin.info/*
+*://*.fitcoin.site/*
 *://*.fitcoinn.live/*
 *://*.fitexdmcc.com/*
 *://*.fitradekcoin.com/*
@@ -19975,9 +20168,11 @@
 *://*.fljr-tw.com/*
 *://*.fljzdb.com/*
 *://*.flllkart7.xyz/*
+*://*.floioc.com/*
 *://*.flokifx.net/*
 *://*.floppy.trade/*
 *://*.flosicv.com/*
+*://*.flosirr.com/*
 *://*.flossfx.com/*
 *://*.flourish-financial.org/*
 *://*.flourisifx.com/*
@@ -19996,6 +20191,7 @@
 *://*.flp521.cn/*
 *://*.flpokol.com/*
 *://*.flqogr.top/*
+*://*.flsocv.com/*
 *://*.fluerdecoin.com/*
 *://*.flutter-ball.com/*
 *://*.fluttertraderspro.com/*
@@ -20030,6 +20226,7 @@
 *://*.fmallshoping.com/*
 *://*.fmallshopping.one/*
 *://*.fmarkusa.com/*
+*://*.fmcpaydri.com/*
 *://*.fmdqc.xyz/*
 *://*.fmfeig.com/*
 *://*.fmfwcdv.com/*
@@ -20046,6 +20243,7 @@
 *://*.fnebbeqnca.com/*
 *://*.fng-x.com/*
 *://*.fnglc.com/*
+*://*.fnoie.com/*
 *://*.fnostories.com/*
 *://*.fntm.app/*
 *://*.fntzq.com/*
@@ -20064,7 +20262,9 @@
 *://*.focus-kucoinhub.com/*
 *://*.focusassetmining.com/*
 *://*.focusbfyy.com/*
+*://*.focusbjv.com/*
 *://*.focuscapitalgroup.net/*
+*://*.focusjib.com/*
 *://*.focuss99.com/*
 *://*.fodesrvnet.info/*
 *://*.fodesrvnet.live/*
@@ -20099,6 +20299,7 @@
 *://*.fonextrade.com/*
 *://*.fonixbits.com/*
 *://*.fontune.com/*
+*://*.foopss.com/*
 *://*.fopesc.com/*
 *://*.fopfp.com/*
 *://*.fopicvz.com/*
@@ -20150,6 +20351,7 @@
 *://*.forex-jsjt.com/*
 *://*.forex-lawyer.online/*
 *://*.forex-leaks.com/*
+*://*.forex-mastermind.com/*
 *://*.forex-mill.com/*
 *://*.forex-nedir-global.com/*
 *://*.forex-robot.net/*
@@ -20289,6 +20491,7 @@
 *://*.forocb.com/*
 *://*.forshopmomo.com/*
 *://*.forstockfxmarket.com/*
+*://*.forte-fx.com/*
 *://*.fortegrandinvest.com/*
 *://*.fortestings.ru/*
 *://*.forthbekk.com/*
@@ -20300,6 +20503,7 @@
 *://*.fortrade.live/*
 *://*.fortradegroup.com/*
 *://*.fortradings.com/*
+*://*.fortressn.com/*
 *://*.fortunateminer.com/*
 *://*.fortune-miners.com/*
 *://*.fortunecapital.ch/*
@@ -20316,12 +20520,14 @@
 *://*.fortuneever-gl.com/*
 *://*.fortunefx.com/*
 *://*.fortuneglobaltrade.net/*
+*://*.fortuneprimeglobal.com/*
 *://*.fortuneranches.com/*
 *://*.fortunesecuritles.com/*
 *://*.fortunesettlements.com/*
 *://*.fortunet.online/*
 *://*.fortunetrading.ltd/*
 *://*.fortupath.com/*
+*://*.forumfinance.site/*
 *://*.forusdteth.com/*
 *://*.forxcryptonet.com/*
 *://*.forxetw.com/*
@@ -20376,9 +20582,12 @@
 *://*.foxtrade11.com/*
 *://*.foxtradeoption.com/*
 *://*.foxtradings.com/*
+*://*.foxtwd.com/*
 *://*.fp66-fx.com/*
 *://*.fp66-fx.net/*
 *://*.fpfx-capitaltrades.online/*
+*://*.fpgcoinltd.com/*
+*://*.fpismt.com/*
 *://*.fpmarketes.com/*
 *://*.fpmarketest.com/*
 *://*.fpmarkets.com/*
@@ -20447,6 +20656,7 @@
 *://*.freefaucetcrypto.xyz/*
 *://*.freeforexfunds.com/*
 *://*.freemmogames.net/*
+*://*.freepomcn.com/*
 *://*.freeportmtr.com/*
 *://*.freepumpbitc.com/*
 *://*.freescanon.com/*
@@ -20623,7 +20833,9 @@
 *://*.fu-fa168.com/*
 *://*.fu2225.xyz/*
 *://*.fubaba.online/*
+*://*.fubang862.top/*
 *://*.fubon.net/*
+*://*.fubthk.com/*
 *://*.fubxinnet.com/*
 *://*.fuck-you-coin.com/*
 *://*.fucsfx.com/*
@@ -20659,6 +20871,7 @@
 *://*.fujibullion.net/*
 *://*.fujibullion.top/*
 *://*.fujibullion.vip/*
+*://*.fujibullionzh.xyz/*
 *://*.fujitetrade.com/*
 *://*.fullerneiuo.com/*
 *://*.fullersds.com/*
@@ -20861,6 +21074,7 @@
 *://*.fweqsnu.top/*
 *://*.fwfxidn.com/*
 *://*.fwfxidn.net/*
+*://*.fwmcp.com/*
 *://*.fwmtrade.com/*
 *://*.fwtjfu.xyz/*
 *://*.fx-123.com/*
@@ -20938,10 +21152,12 @@
 *://*.fx247traders.net/*
 *://*.fx2minforest.site/*
 *://*.fx6.xyz/*
+*://*.fx7options.com/*
 *://*.fx822.com/*
 *://*.fxace.com/*
 *://*.fxadditionalhubtrade.com/*
 *://*.fxadvancecrypto.org/*
+*://*.fxalchemy-innovationmarket.online/*
 *://*.fxalg.com/*
 *://*.fxathaplace.com/*
 *://*.fxathena.com/*
@@ -20953,6 +21169,7 @@
 *://*.fxautotrade.net/*
 *://*.fxauu.com/*
 *://*.fxaxiory.com/*
+*://*.fxballance.com/*
 *://*.fxbdg.com/*
 *://*.fxbeam.com/*
 *://*.fxbellemont.com/*
@@ -20994,6 +21211,7 @@
 *://*.fxcap889.com/*
 *://*.fxcap97.com/*
 *://*.fxcap99.com/*
+*://*.fxcape.net/*
 *://*.fxcapinve.com/*
 *://*.fxcapitalex.com/*
 *://*.fxcapitalmarkettrading.com/*
@@ -21027,6 +21245,7 @@
 *://*.fxcm6.com/*
 *://*.fxcmadm.com/*
 *://*.fxcmand.com/*
+*://*.fxcmb.com/*
 *://*.fxcmbullion.com/*
 *://*.fxcmcapital.com/*
 *://*.fxcmcenter.com/*
@@ -21081,6 +21300,7 @@
 *://*.fxcryptoinvestment.online/*
 *://*.fxcryptoland.com/*
 *://*.fxcryptominexplore.net/*
+*://*.fxcryptopayers.com/*
 *://*.fxcryptoregain.com/*
 *://*.fxcryptosrepublicans.com/*
 *://*.fxcryptotradingmarket.com/*
@@ -21139,6 +21359,7 @@
 *://*.fxglitter.com/*
 *://*.fxglobalchain.com/*
 *://*.fxgloballite.com/*
+*://*.fxglobalmarket.com/*
 *://*.fxglobals.org/*
 *://*.fxglobalscouts.com/*
 *://*.fxglobaltradesmarket.com/*
@@ -21356,6 +21577,7 @@
 *://*.fxstandart.com/*
 *://*.fxstep.net/*
 *://*.fxstockchart.com/*
+*://*.fxstockcorp.com/*
 *://*.fxstocking.com/*
 *://*.fxstockinterswitch.org/*
 *://*.fxstockpredtion.live/*
@@ -21488,6 +21710,7 @@
 *://*.fxtru.com/*
 *://*.fxtrust-cryptos.com/*
 *://*.fxtrustmarketing.com/*
+*://*.fxtruve.com/*
 *://*.fxtsoi.com/*
 *://*.fxttd.com/*
 *://*.fxturningpoint.net/*
@@ -21504,6 +21727,7 @@
 *://*.fxunlocked.com/*
 *://*.fxusfx.com/*
 *://*.fxv587.tw/*
+*://*.fxverifiedtrades.com/*
 *://*.fxversity.com/*
 *://*.fxvghdgxc.com/*
 *://*.fxviacrypto.com/*
@@ -21519,6 +21743,7 @@
 *://*.fxvzr.com/*
 *://*.fxwage.com/*
 *://*.fxwealth-trade.com/*
+*://*.fxwealth.co.uk/*
 *://*.fxwealthtradings.com/*
 *://*.fxwin.live/*
 *://*.fxwings.com/*
@@ -21529,6 +21754,7 @@
 *://*.fxxminings.com/*
 *://*.fxxpproxy.com/*
 *://*.fxxpro8.com/*
+*://*.fxxpro8x.com/*
 *://*.fxye.net/*
 *://*.fxyhzs.com/*
 *://*.fxzank.com/*
@@ -21590,6 +21816,7 @@
 *://*.galabitc.com/*
 *://*.galacticinvestex.com/*
 *://*.galaloveokey.com/*
+*://*.galaxy-24.top/*
 *://*.galaxy-coin.top/*
 *://*.galaxy-defi.com/*
 *://*.galaxy-defipro.com/*
@@ -21711,6 +21938,7 @@
 *://*.gateiopromax-trade.com/*
 *://*.gateiopromaxtrade.com/*
 *://*.gateioprotrade.com/*
+*://*.gateioxxzw.com/*
 *://*.gateks.cc/*
 *://*.gatelex.com/*
 *://*.gateminers.com/*
@@ -21751,6 +21979,7 @@
 *://*.gbeforex.com/*
 *://*.gbex.io/*
 *://*.gbexfreight.com/*
+*://*.gbfx-intl.com/*
 *://*.gbitfex.com/*
 *://*.gbjtl.xyz/*
 *://*.gbjtnnabhof.com/*
@@ -21777,6 +22006,8 @@
 *://*.gbxorg.com/*
 *://*.gcap-forex.net/*
 *://*.gcaumks.com/*
+*://*.gccasect.com/*
+*://*.gccasess.com/*
 *://*.gccbit.life/*
 *://*.gccbit.top/*
 *://*.gccbyte.top/*
@@ -21799,6 +22030,7 @@
 *://*.gd-dex.com/*
 *://*.gdac50.com/*
 *://*.gdaceexx.com/*
+*://*.gdaceexxx.com/*
 *://*.gdacexx.com/*
 *://*.gdacgk.top/*
 *://*.gdacvip.com/*
@@ -21877,6 +22109,7 @@
 *://*.geminone.com/*
 *://*.gemirafxpro.com/*
 *://*.gemis.buzz/*
+*://*.gemliteassetsltd.org/*
 *://*.gemoini.co/*
 *://*.gemtrades.ltd/*
 *://*.genbitcoinex.live/*
@@ -21955,6 +22188,7 @@
 *://*.geosolah.buzz/*
 *://*.geotic-trades.com/*
 *://*.geotrade.one/*
+*://*.geqianxz306.xyz/*
 *://*.geraldexchange.com/*
 *://*.germainfx.com/*
 *://*.geroinv.com/*
@@ -22031,6 +22265,7 @@
 *://*.gftmarketrade.com/*
 *://*.gfweu.shop/*
 *://*.gfwyauty.com/*
+*://*.gfxprofithome.com/*
 *://*.gg16.vip/*
 *://*.gg68.vip/*
 *://*.ggbgg.xyz/*
@@ -22109,6 +22344,7 @@
 *://*.gigant.icu/*
 *://*.gigawattwallet.com/*
 *://*.gigz-miners.com/*
+*://*.giklo.com/*
 *://*.giktkhudretzub.com/*
 *://*.gilasexpress.com/*
 *://*.gilbanetrade.com/*
@@ -22130,9 +22366,11 @@
 *://*.giofxgain.net/*
 *://*.giorex.com/*
 *://*.giotradex.com/*
+*://*.giptrades.io/*
 *://*.girdcoffee.com/*
 *://*.gistex.top/*
 *://*.gisuoa.com/*
+*://*.gitainvestments.uk/*
 *://*.gitcoincs.com/*
 *://*.gitexbit.com/*
 *://*.github-finance.com/*
@@ -22146,6 +22384,7 @@
 *://*.gixcoinbit.com/*
 *://*.gj2006.com.cn/*
 *://*.gj2008.com.cn/*
+*://*.gjcfhui.com/*
 *://*.gjczpt.com/*
 *://*.gjfc133.com/*
 *://*.gjfc633.com/*
@@ -22227,6 +22466,7 @@
 *://*.global-2014.com/*
 *://*.global-activefx.com/*
 *://*.global-alphatrade.com/*
+*://*.global-asset.ltd/*
 *://*.global-asset.trade/*
 *://*.global-assetminers.com/*
 *://*.global-bitrade.com/*
@@ -22258,6 +22498,7 @@
 *://*.global-mining.ltd/*
 *://*.global-nftcoin.com/*
 *://*.global-shop-wd.com/*
+*://*.global-shopping.buzz/*
 *://*.global-shops.net/*
 *://*.global-trademax.net/*
 *://*.global-traders.ltd/*
@@ -22266,6 +22507,7 @@
 *://*.global-trdemax.com/*
 *://*.global-trx-finances.org/*
 *://*.global-ub02.com/*
+*://*.global-ub05.com/*
 *://*.global-vastex.com/*
 *://*.global0913.com/*
 *://*.globalaccesstrades.org/*
@@ -22275,6 +22517,8 @@
 *://*.globalantiminer.com/*
 *://*.globalantminermachine.online/*
 *://*.globalapexinvestment.com/*
+*://*.globalassetlimited.com/*
+*://*.globalassetltd.co.uk/*
 *://*.globalassetminers.com/*
 *://*.globalassetraders.com/*
 *://*.globalassetrades.com/*
@@ -22450,6 +22694,7 @@
 *://*.globalpayout.net/*
 *://*.globalpipstrade.com/*
 *://*.globalpoptrade.com/*
+*://*.globalpower.ltd/*
 *://*.globalprecisiontrades.com/*
 *://*.globalprimebitcoinhub.com/*
 *://*.globalprimeexchange.com/*
@@ -22517,6 +22762,7 @@
 *://*.globaltradingrobot.com/*
 *://*.globaltradingservices.ltd/*
 *://*.globaltradsfx.com/*
+*://*.globaltren.com/*
 *://*.globaltronfund.com/*
 *://*.globaltrust.top/*
 *://*.globaltrustcoins.com/*
@@ -22678,6 +22924,7 @@
 *://*.gnrhhqjwekj.com/*
 *://*.gntiesd.com/*
 *://*.gntnhing.com/*
+*://*.gnxce.com/*
 *://*.gnycoin.com/*
 *://*.go-dcep.com/*
 *://*.go-ebay.com/*
@@ -22803,6 +23050,7 @@
 *://*.goldencoinsltd.com/*
 *://*.goldencoinxchange.ltd/*
 *://*.goldencryptoinvestment.com/*
+*://*.goldencurrencies.trade/*
 *://*.goldeneagleinvestmentlimited.com/*
 *://*.goldenearningsfx.com/*
 *://*.goldenfalconfunds.com/*
@@ -22815,6 +23063,7 @@
 *://*.goldenfxopt.online/*
 *://*.goldenfxoption.com/*
 *://*.goldenfxprime.com/*
+*://*.goldengate.ltd/*
 *://*.goldengatefx.com/*
 *://*.goldengb.com/*
 *://*.goldenmeta.top/*
@@ -22929,10 +23178,12 @@
 *://*.gominerx.com/*
 *://*.gomining.biz/*
 *://*.gomkinvest.site/*
+*://*.gomkinvest.vip/*
 *://*.gomncyo.cn/*
 *://*.gomontecryptos8.com/*
 *://*.gonaket.com/*
 *://*.gonsin.vip/*
+*://*.goodbitgreat.com/*
 *://*.goodenergytrade.ltd/*
 *://*.goodentrytraders.com/*
 *://*.goodgrowthfinance.com/*
@@ -22993,6 +23244,7 @@
 *://*.goxzweb.com/*
 *://*.gp866.cn/*
 *://*.gpcbit.com/*
+*://*.gpcchain.online/*
 *://*.gpfx.space/*
 *://*.gpnrhq.com/*
 *://*.gposil.com/*
@@ -23034,6 +23286,7 @@
 *://*.graext.com/*
 *://*.grafiexchange.com/*
 *://*.gramforexminer.com/*
+*://*.gramtechclub.com/*
 *://*.grand-fx.ltd/*
 *://*.grandblue-forex.com/*
 *://*.grandcang.com/*
@@ -23108,6 +23361,7 @@
 *://*.greencointone.site/*
 *://*.greencorpinvestment.com/*
 *://*.greencryptotrades.com/*
+*://*.greencryptotrades.net/*
 *://*.greenecoinroyales.com/*
 *://*.greenenergytrade.ltd/*
 *://*.greenenergytrade.top/*
@@ -23274,6 +23528,7 @@
 *://*.gtjypro.com/*
 *://*.gtmarketint.buzz/*
 *://*.gtmarketluy.com/*
+*://*.gtmohzv.top/*
 *://*.gtnnsjqekh.com/*
 *://*.gtrfox.com/*
 *://*.gts999666.com/*
@@ -23395,12 +23650,14 @@
 *://*.haimaibuying.com/*
 *://*.hainaexpress.com/*
 *://*.hainanfenfencai.com/*
+*://*.haipaiyived.com/*
 *://*.haipexfxcrypto.online/*
 *://*.haisheng188-ex.com/*
 *://*.haitaoglobal.tw/*
 *://*.haitaogoua.vip/*
 *://*.haitaohdko.com/*
 *://*.haitaomsx.com/*
+*://*.haitaopsa.com/*
 *://*.haitaosutw.com/*
 *://*.haitaovet.com/*
 *://*.haitaovkz.com/*
@@ -23419,6 +23676,7 @@
 *://*.haiyuex.com/*
 *://*.haiyuex.net/*
 *://*.halalislamiccoinminers.com/*
+*://*.halcyon.com.hk/*
 *://*.haldefi.com/*
 *://*.halead-trade.org/*
 *://*.halexbit.com/*
@@ -23608,6 +23866,7 @@
 *://*.hecocoin.net/*
 *://*.hecoinfo.com/*
 *://*.hedge-trade.net/*
+*://*.hedgefunds.website/*
 *://*.hedgefundsbcd.com/*
 *://*.hedgesbullcommercialfinancelimited.com/*
 *://*.hedgespafx.net/*
@@ -23638,6 +23897,7 @@
 *://*.heliojexchanggepro.com/*
 *://*.heliojexchangges.com/*
 *://*.heliojexchangget.com/*
+*://*.heliojexmax.com/*
 *://*.heliojpro.com/*
 *://*.heliojus.com/*
 *://*.helium100boostfx.com/*
@@ -23680,6 +23940,7 @@
 *://*.henriex.com/*
 *://*.henrybarkerinvestor.com/*
 *://*.heny9.com/*
+*://*.henyepcapitalmarket.com/*
 *://*.hepojx-coin.com/*
 *://*.hepsibu.cc/*
 *://*.herculescapitaldavxyual.com/*
@@ -23687,6 +23948,7 @@
 *://*.herculesfxtrade.com/*
 *://*.herfond.com/*
 *://*.herfons.com/*
+*://*.heritagecoinsfx.com/*
 *://*.heritagecryptoinvestltd.com/*
 *://*.heritagetradefinance.com/*
 *://*.herm95.com/*
@@ -23704,6 +23966,7 @@
 *://*.hertfordcap.com/*
 *://*.hertfordfx.com/*
 *://*.hervesttrading.com/*
+*://*.hewkf.info/*
 *://*.hex-e.net/*
 *://*.hexaaii.com/*
 *://*.hexagonlogisticsexpress.com/*
@@ -23730,6 +23993,7 @@
 *://*.hfgrac.com/*
 *://*.hfh9988.com/*
 *://*.hfhqsourceltd.com/*
+*://*.hfinvest.net/*
 *://*.hfitur.top/*
 *://*.hfjr-tw.com/*
 *://*.hfjrtw.com/*
@@ -23782,6 +24046,7 @@
 *://*.hhhtta.info/*
 *://*.hhj5557.com/*
 *://*.hhjjkf.com/*
+*://*.hhjuv.site/*
 *://*.hhkl6868.com/*
 *://*.hhok.mx/*
 *://*.hhsy.cc/*
@@ -23896,6 +24161,7 @@
 *://*.hirebitcoinbountyhunters.com/*
 *://*.hirkc.com/*
 *://*.hirosetws.wiki/*
+*://*.hirox.uk/*
 *://*.his9603.cc/*
 *://*.hisensecoinzs.live/*
 *://*.hiskoi.com/*
@@ -23952,6 +24218,7 @@
 *://*.hjkdhfkj.xyz/*
 *://*.hjksfdhg.com/*
 *://*.hjmn563.com/*
+*://*.hjmn963.com/*
 *://*.hjqwer.com/*
 *://*.hjrxxjkj.com/*
 *://*.hjsjfloor.com/*
@@ -23982,6 +24249,7 @@
 *://*.hkcpma.top/*
 *://*.hkcwlot.com/*
 *://*.hkd1668-t.xyz/*
+*://*.hkdao.info/*
 *://*.hkdbsuper.com/*
 *://*.hkdbsystem.com/*
 *://*.hkdclogistics.com/*
@@ -23993,6 +24261,7 @@
 *://*.hkdszjyw.com/*
 *://*.hkdworldbit.com/*
 *://*.hkdyrsq.top/*
+*://*.hkeths.com/*
 *://*.hkex.fun/*
 *://*.hkex.rest/*
 *://*.hkex.ws/*
@@ -24027,6 +24296,7 @@
 *://*.hkmbctrade.com/*
 *://*.hkmssmsab.com/*
 *://*.hkobdbank.com/*
+*://*.hkprn.me/*
 *://*.hkredcross.top/*
 *://*.hkrxjr.com/*
 *://*.hksccbrj.com/*
@@ -24075,6 +24345,7 @@
 *://*.hmexru.vip/*
 *://*.hmexs.com/*
 *://*.hmexwallet.com/*
+*://*.hmjuv.info/*
 *://*.hmlsfx.com/*
 *://*.hmltop.com/*
 *://*.hmmnw.top/*
@@ -24200,6 +24471,7 @@
 *://*.horizon-crypto.ltd/*
 *://*.horizon-crypto.org/*
 *://*.horizonbitfx.com/*
+*://*.horizoncmuk.co.uk/*
 *://*.horizonmining.net/*
 *://*.horizonnft.net/*
 *://*.horizontradefx.com/*
@@ -24211,6 +24483,7 @@
 *://*.hotacoin.com/*
 *://*.hotaex.net/*
 *://*.hotaex.xyz/*
+*://*.hotbgl.io/*
 *://*.hotbit.buzz/*
 *://*.hotbit.cloud/*
 *://*.hotbit.io/*
@@ -24374,6 +24647,7 @@
 *://*.htcrfund.com/*
 *://*.htechn.com/*
 *://*.htechnab.com/*
+*://*.htechned.com/*
 *://*.htfox.hk/*
 *://*.htfx-forex.com/*
 *://*.htfx-forexs.com/*
@@ -24453,6 +24727,7 @@
 *://*.hugetradex.com/*
 *://*.hugfkjoing.com/*
 *://*.hugowayfx.com/*
+*://*.hugyougo.com/*
 *://*.huibaiyouxuan.com/*
 *://*.huibetd.com/*
 *://*.huidaedh.com/*
@@ -24564,6 +24839,7 @@
 *://*.hutweb01.com/*
 *://*.hutwebs.com/*
 *://*.huwebpus.com/*
+*://*.huwkf.info/*
 *://*.huxcoin.live/*
 *://*.huxikuanefslaegsj.com/*
 *://*.huytranpro.online/*
@@ -24628,8 +24904,11 @@
 *://*.hyiiup.com/*
 *://*.hyipbtcpro.com/*
 *://*.hymhui692.top/*
+*://*.hypefxlive.com/*
 *://*.hyper-crypto.com/*
 *://*.hyperchainfx.com/*
+*://*.hypercommunity.link/*
+*://*.hypernative.io/*
 *://*.hypertrade.club/*
 *://*.hypertrade.pro/*
 *://*.hypetradinghub.com/*
@@ -24644,6 +24923,7 @@
 *://*.hyyyh681.com/*
 *://*.hzeusf.com/*
 *://*.hzforyou.com/*
+*://*.hzkeji1688.com/*
 *://*.hzlcoin.com/*
 *://*.hznfjc.top/*
 *://*.hzvip66.com/*
@@ -24683,6 +24963,7 @@
 *://*.ibbs168.net/*
 *://*.ibbs168.top/*
 *://*.ibbs168.xyz/*
+*://*.ibdgja.top/*
 *://*.ibelinktrade.com/*
 *://*.ibestrading.com/*
 *://*.ibextrust.com/*
@@ -24716,6 +24997,7 @@
 *://*.icanlearnautotrade.com/*
 *://*.icapitalglobfx.com/*
 *://*.icapitalmining.net/*
+*://*.icapitalsfx.com/*
 *://*.icb-trading.com/*
 *://*.ice-bitt.com/*
 *://*.ice-snowmall.com/*
@@ -24789,6 +25071,7 @@
 *://*.icrowntradecentertw.top/*
 *://*.icrowntradetwcenter.top/*
 *://*.icrowntradingmixed.top/*
+*://*.icrypexgrh.com/*
 *://*.icrypexkdv.com/*
 *://*.icrypexlcs.com/*
 *://*.icryptofastexpert.online/*
@@ -24880,6 +25163,7 @@
 *://*.ifmbitex.com/*
 *://*.ifmctrade.com/*
 *://*.iforex.com/*
+*://*.iforexoption24.com/*
 *://*.ifsmarkesstw.com/*
 *://*.ifsmarkets.com/*
 *://*.ifsmarkets.is/*
@@ -25155,6 +25439,7 @@
 *://*.infinityglobalfx.com/*
 *://*.infinityglobaltrade.com/*
 *://*.infinityglobaltraders.com/*
+*://*.infinityorbitinvest.com/*
 *://*.infinityslotsfreecoins.icu/*
 *://*.infinitystakechain.com/*
 *://*.infinitytradingbit.top/*
@@ -25188,9 +25473,11 @@
 *://*.instabankcoin.com/*
 *://*.instabankcoins.com/*
 *://*.instabankgoc.com/*
+*://*.instabankgou.com/*
 *://*.instabankmata.com/*
 *://*.instabankmvp.com/*
 *://*.instabankpro.com/*
+*://*.instabankpug.com/*
 *://*.instabankvip.com/*
 *://*.instabankwbc.com/*
 *://*.instabankxbit.com/*
@@ -25202,6 +25489,7 @@
 *://*.instamine.biz/*
 *://*.instaminingfarm.com/*
 *://*.instancd-vip.com/*
+*://*.instancy-capital.com/*
 *://*.instant-coin.com/*
 *://*.instant-otc.com/*
 *://*.instantbanktransfercasino.com/*
@@ -25270,6 +25558,8 @@
 *://*.interfx.online/*
 *://*.intergraweb.com/*
 *://*.internal-blockchain.com/*
+*://*.internatioal-elements-aeds.com/*
+*://*.international-elements-asd.com/*
 *://*.international-forex.net/*
 *://*.international-forex.vip/*
 *://*.international-fx.net/*
@@ -25303,6 +25593,7 @@
 *://*.intlbaltd.com/*
 *://*.intlcointrades.com/*
 *://*.intlprimetrades.com/*
+*://*.intoforge.com/*
 *://*.intra-trading.com/*
 *://*.intradaytrading.app/*
 *://*.intramirror-023.top/*
@@ -25310,6 +25601,7 @@
 *://*.intramirror-047.top/*
 *://*.intramirror-061.top/*
 *://*.intramirror-068.top/*
+*://*.intrestexchange.com/*
 *://*.intrexcapitalfx.com/*
 *://*.introcapitaltrade.com/*
 *://*.introcoin.biz/*
@@ -25370,6 +25662,7 @@
 *://*.investingnx.com/*
 *://*.investingviews.net/*
 *://*.investingviews.org/*
+*://*.investipro.live/*
 *://*.investircryptofinancier.com/*
 *://*.investmarkets.com/*
 *://*.investme999.com/*
@@ -25380,6 +25673,7 @@
 *://*.investment-thirstya.com/*
 *://*.investment-whichs.com/*
 *://*.investmentaffinity.com/*
+*://*.investmentcex.com/*
 *://*.investmentforex.fun/*
 *://*.investmentgroup.pro/*
 *://*.investmentindia.tech/*
@@ -25533,6 +25827,7 @@
 *://*.isksksjfn.com/*
 *://*.islamiccoin.info/*
 *://*.isonlinebank.com/*
+*://*.isopji.com/*
 *://*.isphshop.com/*
 *://*.istocktrade.org/*
 *://*.istripper.top/*
@@ -25575,6 +25870,7 @@
 *://*.itfx.in/*
 *://*.itinvest.ltd/*
 *://*.itk-ex.com/*
+*://*.itlopcb.com/*
 *://*.itmaadgold.com/*
 *://*.itmscoin.org/*
 *://*.itpcrypto.com/*
@@ -25611,8 +25907,11 @@
 *://*.ivdhhg.top/*
 *://*.ivhtpe.top/*
 *://*.ividim.top/*
+*://*.ivisionmarket.com/*
+*://*.ivisionmarketfx.com/*
 *://*.ivjuiujiuqw.com/*
 *://*.ivmine.com/*
+*://*.ivokbcoin.com/*
 *://*.ivorymining.net/*
 *://*.ivoryoption.com/*
 *://*.ivqly.top/*
@@ -25623,6 +25922,7 @@
 *://*.iwoffq.top/*
 *://*.iwqewjqwes.com/*
 *://*.iwuaigh.com/*
+*://*.iwyusfhk.com/*
 *://*.ix20.xyz/*
 *://*.ixe669.com/*
 *://*.ixforex.com/*
@@ -25630,6 +25930,7 @@
 *://*.ixtraders.com/*
 *://*.ixxbtc.com/*
 *://*.iyoblnkgjr.com/*
+*://*.izeaofficial.com/*
 *://*.izicrypt.com/*
 *://*.izsfdss.com/*
 *://*.j-onetrader.ltd/*
@@ -25643,6 +25944,7 @@
 *://*.jackpot-crypto.net/*
 *://*.jackpotcoinpusher.icu/*
 *://*.jaco-mining.com/*
+*://*.jadeauction.online/*
 *://*.jaguarforex.com/*
 *://*.jalexbit.com/*
 *://*.jalextrade.com/*
@@ -25659,12 +25961,15 @@
 *://*.jarlycoin.com/*
 *://*.jarno2015.com/*
 *://*.jarvisbue.com/*
+*://*.jarvisivu.com/*
+*://*.jarviskeu.com/*
 *://*.jas6aga2.xyz/*
 *://*.jasboy.com/*
 *://*.jasdecceh.com/*
 *://*.jasdecdon.com/*
 *://*.jasdeceate.com/*
 *://*.jasdechtw.com/*
+*://*.jasdecttb.com/*
 *://*.jasdecudv.com/*
 *://*.jasdecxi.com/*
 *://*.jasdecy.com/*
@@ -25702,6 +26007,7 @@
 *://*.jd55.net/*
 *://*.jd9899.com/*
 *://*.jd9999.net/*
+*://*.jdagtle.com/*
 *://*.jdagty.com/*
 *://*.jdbvv.cn/*
 *://*.jdc2c.com/*
@@ -25771,6 +26077,8 @@
 *://*.jewelrydm.com/*
 *://*.jewelrydsx.com/*
 *://*.jewelryssq.com/*
+*://*.jewelryubj.com/*
+*://*.jewelryuvr.com/*
 *://*.jf68.net/*
 *://*.jf8582.top/*
 *://*.jfbbi.com/*
@@ -25781,12 +26089,14 @@
 *://*.jfdbro.com/*
 *://*.jfdhq.xyz/*
 *://*.jfhjdjbbdjb.com/*
+*://*.jfhnbg.xyz/*
 *://*.jfijkouj.com/*
 *://*.jfkskxciljvd.vip/*
 *://*.jfmolw.top/*
 *://*.jfn688.net/*
 *://*.jfygshop.com/*
 *://*.jgbwdn.top/*
+*://*.jggwbv.top/*
 *://*.jghhshqux.com/*
 *://*.jgnfjkfnvk.com/*
 *://*.jgrqweaada.com/*
@@ -25823,6 +26133,7 @@
 *://*.jiklwj.buzz/*
 *://*.jilicoin.com/*
 *://*.jilinkuai3s.com/*
+*://*.jimmali.com/*
 *://*.jimmyconniebuuks.one/*
 *://*.jin-tai.co/*
 *://*.jin3368un.com/*
@@ -25872,6 +26183,7 @@
 *://*.jiofxt.com/*
 *://*.jiopss.com/*
 *://*.jiopwt.com/*
+*://*.jiosie.com/*
 *://*.jiosx.com/*
 *://*.jiotin.com/*
 *://*.jirbreakerl888.top/*
@@ -25879,6 +26191,7 @@
 *://*.jisklsf.com/*
 *://*.jisklsfab.com/*
 *://*.jisngs.com/*
+*://*.jisoei.com/*
 *://*.jisofuodi.com/*
 *://*.jisondf.com/*
 *://*.jisonshs.com/*
@@ -25891,6 +26204,7 @@
 *://*.jiutaiyp.com/*
 *://*.jiutongjr.vip/*
 *://*.jivex.ltd/*
+*://*.jixinjvr.com/*
 *://*.jiyiiusi.com/*
 *://*.jjeez.com/*
 *://*.jjjjnn.com/*
@@ -25916,6 +26230,7 @@
 *://*.jl59999.xyz/*
 *://*.jlgc.pk/*
 *://*.jlqldb.cn/*
+*://*.jlrexin.com/*
 *://*.jlrexpro.com/*
 *://*.jmdreamya.com/*
 *://*.jmebithsc008.com/*
@@ -26015,6 +26330,7 @@
 *://*.jpexweb.com/*
 *://*.jpgoonet.com/*
 *://*.jpgoonetc.com/*
+*://*.jpgoonets.com/*
 *://*.jpipshop.com/*
 *://*.jpm-base.xyz/*
 *://*.jpmchase.tw/*
@@ -26045,6 +26361,7 @@
 *://*.jrjr178.com/*
 *://*.jrjr1888.com/*
 *://*.jrjys58.co.im/*
+*://*.jrothschild.org/*
 *://*.jrqbndnqn.com/*
 *://*.jrs1088.com/*
 *://*.jrs1188.com/*
@@ -26059,6 +26376,7 @@
 *://*.js166688.com/*
 *://*.js166888.com/*
 *://*.js16888.com/*
+*://*.js42219.com/*
 *://*.js57264.com/*
 *://*.js6789.cc/*
 *://*.js75051.com/*
@@ -26073,6 +26391,7 @@
 *://*.jse589.co/*
 *://*.jseiud.com/*
 *://*.jseobf.com/*
+*://*.jsesqe.com/*
 *://*.jsf28.com/*
 *://*.jsforex21.com/*
 *://*.jsforex25.com/*
@@ -26089,6 +26408,8 @@
 *://*.jsgjwftw.com/*
 *://*.jsholdings.com.tw/*
 *://*.jsii45.xyz/*
+*://*.jsiiief.com/*
+*://*.jsioiek.xyz/*
 *://*.jsjekus.net/*
 *://*.jsjrforextw.com/*
 *://*.jsjs2763jsjs8282as7app.com/*
@@ -26264,6 +26585,7 @@
 *://*.kadylp.top/*
 *://*.kagicrypto.xyz/*
 *://*.kahootex.com/*
+*://*.kaibangbrv.com/*
 *://*.kaibangcvx.com/*
 *://*.kaidexcbd.top/*
 *://*.kaidexcoin.top/*
@@ -26407,6 +26729,7 @@
 *://*.kdltoken.top/*
 *://*.kdltoken.xyz/*
 *://*.kdoix.com/*
+*://*.kdpou.com/*
 *://*.kds55.com/*
 *://*.kdxexchangeinvestment.com/*
 *://*.kdyr.online/*
@@ -26436,6 +26759,7 @@
 *://*.kenkecapital-mt4.com/*
 *://*.kensingtoncapital.co/*
 *://*.kent6.com/*
+*://*.kentodefe.com/*
 *://*.kenzayee.xyz/*
 *://*.keonrbcu.tw/*
 *://*.keontoken.com/*
@@ -26451,6 +26775,7 @@
 *://*.kereros.com/*
 *://*.kerneldearn.com/*
 *://*.kerneldearndefi.com/*
+*://*.kerryhe.buzz/*
 *://*.kerrysexchange.com/*
 *://*.kerxi.net/*
 *://*.kes168.net/*
@@ -26632,6 +26957,7 @@
 *://*.kjerkjef.club/*
 *://*.kjfjekjeqhw.com/*
 *://*.kjghll.com/*
+*://*.kjkshf.com/*
 *://*.kjsjjdbqweva.com/*
 *://*.kjtyi.top/*
 *://*.kk00.tk/*
@@ -26697,6 +27023,7 @@
 *://*.kncoineglobal.com/*
 *://*.knhj.store/*
 *://*.knight-trade.com/*
+*://*.knighteenarls.com/*
 *://*.knightmnill.com/*
 *://*.knk-crypto.com/*
 *://*.knk-crypto.net/*
@@ -26754,6 +27081,7 @@
 *://*.koiwlsc.com/*
 *://*.kok-chain.io/*
 *://*.kokencoin.com/*
+*://*.kokocan.vip/*
 *://*.kokocap.vip/*
 *://*.kokouas.vip/*
 *://*.kokoubp.vip/*
@@ -26809,6 +27137,7 @@
 *://*.kpjauctions.co/*
 *://*.kpnhp.com/*
 *://*.kprcoins.com/*
+*://*.kpyr.pro/*
 *://*.kqfiln.md.ci/*
 *://*.kqger.top/*
 *://*.kqxs323.xyz/*
@@ -26824,6 +27153,7 @@
 *://*.kraemvip.com/*
 *://*.kraetrader.com/*
 *://*.kraewd.com/*
+*://*.krakecre.com/*
 *://*.kraken-cc.com/*
 *://*.kraken-coin.top/*
 *://*.kraken-ex.com/*
@@ -26878,6 +27208,7 @@
 *://*.krokcoin.com/*
 *://*.kronen-usdt.com/*
 *://*.krpbitc.com/*
+*://*.krpbitf.com/*
 *://*.krqnasjnda.com/*
 *://*.krychs.com/*
 *://*.kryptocarts.com/*
@@ -26975,6 +27306,7 @@
 *://*.kucoinwork.life/*
 *://*.kucoinwork.work/*
 *://*.kucokp.cc/*
+*://*.kucond.com/*
 *://*.kuconvt.vip/*
 *://*.kucotrain.com/*
 *://*.kudibit.com/*
@@ -27027,8 +27359,10 @@
 *://*.kwslpj.top/*
 *://*.kwsnxwl.tw/*
 *://*.kwszqvod.com/*
+*://*.kwvr.pro/*
 *://*.kwxy08.com/*
 *://*.kx888888.cn/*
+*://*.kxcpjzz.top/*
 *://*.kxg99.com/*
 *://*.kxive.xyz/*
 *://*.kxn2022.com/*
@@ -27050,6 +27384,7 @@
 *://*.kyeiy.com/*
 *://*.kyfx.net/*
 *://*.kylgmx.top/*
+*://*.kyyajr.top/*
 *://*.kzhj.shop/*
 *://*.kzzezm.com/*
 *://*.l-bankex.com/*
@@ -27155,6 +27490,7 @@
 *://*.lbank.info/*
 *://*.lbankbroker.com/*
 *://*.lbankcenter.com/*
+*://*.lbankex.club/*
 *://*.lbankis.com/*
 *://*.lbankmax.com/*
 *://*.lbanktop.com/*
@@ -27465,6 +27801,7 @@
 *://*.libertextrades.com/*
 *://*.liberty-trade.online/*
 *://*.liberty-trades.com/*
+*://*.libertycommercialfin.com/*
 *://*.libertycrypofx.online/*
 *://*.libertycryptotrading.com/*
 *://*.libertyglobaltrademexico.com/*
@@ -27565,6 +27902,7 @@
 *://*.linkchain-copytrading.com/*
 *://*.linkcryptoearn.com/*
 *://*.linkedar.com/*
+*://*.linkfly.to/*
 *://*.linkhuminvestment.com/*
 *://*.linksminingloop.com/*
 *://*.linktradefx.com/*
@@ -27574,6 +27912,7 @@
 *://*.linqnew.com/*
 *://*.linsuxa1.com/*
 *://*.linuxcointrade.com/*
+*://*.liojlo.com/*
 *://*.lion-forex.com/*
 *://*.lion.expert/*
 *://*.lion.institute/*
@@ -27737,6 +28076,7 @@
 *://*.lkfjig.com/*
 *://*.lkhaxs.top/*
 *://*.lkmkihhd.com/*
+*://*.lkooie.com/*
 *://*.lkpwp.com/*
 *://*.lkwnmt.work/*
 *://*.lkzdsj.top/*
@@ -27768,6 +28108,7 @@
 *://*.lme.show/*
 *://*.lmex.top/*
 *://*.lmexa.top/*
+*://*.lmexb.top/*
 *://*.lmexc.xyz/*
 *://*.lmexmin.com/*
 *://*.lmexncv.com/*
@@ -27870,9 +28211,13 @@
 *://*.lopiejse.com/*
 *://*.lopirs.com/*
 *://*.lopjse.com/*
+*://*.lopsid.com/*
 *://*.losslessmint.org/*
+*://*.losspo.com/*
 *://*.lostbutfoundrefund.com/*
+*://*.lostcoinscapital.com/*
 *://*.lostcryptoretrieval.online/*
+*://*.lostfund.pro/*
 *://*.lotiso.com/*
 *://*.lotkgt.host/*
 *://*.lotkgt.shop/*
@@ -27924,6 +28269,7 @@
 *://*.lsdmejnqhn.com/*
 *://*.lsecuritiesltd.com/*
 *://*.lsekeysbatch.com/*
+*://*.lsenation.vip/*
 *://*.lsepbe.com/*
 *://*.lsespots.com/*
 *://*.lseuipot.com/*
@@ -27932,6 +28278,7 @@
 *://*.lsexex.cc/*
 *://*.lsexs.cc/*
 *://*.lshtjtpk6.cc/*
+*://*.lskdog.xyz/*
 *://*.lsknbjgt.com/*
 *://*.lsqan.space/*
 *://*.lsryoc.cn/*
@@ -27963,6 +28310,7 @@
 *://*.ltsly.top/*
 *://*.lubmile.com/*
 *://*.lubomy.com/*
+*://*.lucamada.buzz/*
 *://*.lucid-ex.com/*
 *://*.lucidinvestments.ltd/*
 *://*.lucids-fx.net/*
@@ -27985,6 +28333,7 @@
 *://*.lucrativeindex.com/*
 *://*.lucrocryptos.com/*
 *://*.lucrominefx.com/*
+*://*.lucyhon.buzz/*
 *://*.lukasnovak-crypto.pro/*
 *://*.lumarvee.icu/*
 *://*.lumendex.online/*
@@ -28005,6 +28354,7 @@
 *://*.luno-bit.com/*
 *://*.luno-sg.com/*
 *://*.lunofxtraders.com/*
+*://*.lunohwl.com/*
 *://*.lunoo.vip/*
 *://*.lunotrad.buzz/*
 *://*.lunotrade.buzz/*
@@ -28020,12 +28370,17 @@
 *://*.luxkey.net/*
 *://*.luxury-income.ltd/*
 *://*.luxury51.com/*
+*://*.luxuryglobal-invest.org/*
+*://*.luxurymartplace.com/*
+*://*.luxurymartplace.online/*
 *://*.luxuryshop.ltd/*
 *://*.luxurytradeunionpro.com/*
 *://*.lvcqot.xyz/*
 *://*.lvdudo.com/*
 *://*.lvmaa.com/*
+*://*.lvnkfgj.com/*
 *://*.lvpro.io/*
+*://*.lvshi121.vip/*
 *://*.lvshop.com.tw/*
 *://*.lw-tw.com/*
 *://*.lwcbrxh.xyz/*
@@ -28162,6 +28517,8 @@
 *://*.mall-pg.tw/*
 *://*.malleverything.vip/*
 *://*.mallhelper.org/*
+*://*.mallonlinebooks.com/*
+*://*.mallsfaca.com/*
 *://*.mallshop.tw/*
 *://*.malltesco.com/*
 *://*.maloocoin.com/*
@@ -28236,6 +28593,7 @@
 *://*.marketfxvalue.com/*
 *://*.marketindex-exchange.com/*
 *://*.marketingstockexchange.net/*
+*://*.marketjrv.com/*
 *://*.marketkvc.com/*
 *://*.marketlivetrade.com/*
 *://*.marketmaker.trade/*
@@ -28243,6 +28601,8 @@
 *://*.marketoptionxtrades.com/*
 *://*.marketplacetradefx.com/*
 *://*.marketpro.site/*
+*://*.marketruic.com/*
+*://*.marketruvd.com/*
 *://*.marketrvrf.com/*
 *://*.marketrwq.com/*
 *://*.markets.one/*
@@ -28329,6 +28689,7 @@
 *://*.matrading.online/*
 *://*.matricstrader.com/*
 *://*.matritrade.com/*
+*://*.matrix-tradecorp.com/*
 *://*.matrixcrypto.net/*
 *://*.matrixdigitaltrade.ltd/*
 *://*.matrixexe.com/*
@@ -28358,6 +28719,7 @@
 *://*.max-profitinvestment.co/*
 *://*.max-tetherusdt.com/*
 *://*.max-trade.vip/*
+*://*.max-xchange.com/*
 *://*.max111.com/*
 *://*.max1717.com/*
 *://*.max222.com/*
@@ -28462,6 +28824,7 @@
 *://*.mbcoalition.com/*
 *://*.mbdex.app/*
 *://*.mbekgac.xyz/*
+*://*.mbf-limited.com/*
 *://*.mbfinanceplc.com/*
 *://*.mbg-solutions.net/*
 *://*.mbg6688.com/*
@@ -28505,6 +28868,7 @@
 *://*.mchaekvip.shop/*
 *://*.mchtmlh1.com/*
 *://*.mciebitss.com/*
+*://*.mckenziefreycapital.com/*
 *://*.mckez.com/*
 *://*.mclonline.com/*
 *://*.mcnopros.top/*
@@ -28610,6 +28974,7 @@
 *://*.megabity.com/*
 *://*.megacapitalinvestmentltd.com/*
 *://*.megacapitalpros.com/*
+*://*.megacapitals.org/*
 *://*.megachaintrade.com/*
 *://*.megacoindex.com/*
 *://*.megacoinpro.org/*
@@ -28732,6 +29097,7 @@
 *://*.messson.com/*
 *://*.mestta.com/*
 *://*.met-as.online/*
+*://*.met-masktop.com/*
 *://*.meta-crydefi.com/*
 *://*.meta-dailystock.trade/*
 *://*.meta-data.top/*
@@ -28763,6 +29129,7 @@
 *://*.metacoretrade.com/*
 *://*.metacryptoera.com/*
 *://*.metacryptoswap.ai/*
+*://*.metadbtctrade.com/*
 *://*.metadigitaltrade.ltd/*
 *://*.metadsva.com/*
 *://*.metaerct.com/*
@@ -28858,6 +29225,9 @@
 *://*.meteorminer.io/*
 *://*.meteorminer.net/*
 *://*.methanmltd.com/*
+*://*.metisplb.com/*
+*://*.metisplg.com/*
+*://*.metmasktop.com/*
 *://*.metoafa.com/*
 *://*.metopmask.com/*
 *://*.metopmaskex.com/*
@@ -28907,6 +29277,7 @@
 *://*.mexcglobalthe.com/*
 *://*.mexcglobalwlc.com/*
 *://*.mexcglobalxds.com/*
+*://*.mexcitrade.com/*
 *://*.mexclubm.com/*
 *://*.mexcmax.site/*
 *://*.mexcoi.vip/*
@@ -28920,8 +29291,12 @@
 *://*.mexcuzo.com/*
 *://*.mexcvip-coin.com/*
 *://*.mexcvip01.com/*
+*://*.mexcz.icu/*
 *://*.mexczx.cn/*
+*://*.mexczx.co/*
 *://*.mexczx.icu/*
+*://*.mexczx.top/*
+*://*.mexczz.icu/*
 *://*.mexd4.com/*
 *://*.mexglobal.pro/*
 *://*.mexglobal.top/*
@@ -28937,6 +29312,7 @@
 *://*.mf002.com/*
 *://*.mf122.cn/*
 *://*.mfa-fx.com/*
+*://*.mfadvisors.com/*
 *://*.mfcclub.com/*
 *://*.mfcclub.net/*
 *://*.mfcrp.top/*
@@ -28976,6 +29352,7 @@
 *://*.mgjuaw.com/*
 *://*.mgm000006.com/*
 *://*.mgm1.pro/*
+*://*.mgm138.cc/*
 *://*.mgm188.cc/*
 *://*.mgm2058.com.cn/*
 *://*.mgm5161s.com/*
@@ -29020,6 +29397,7 @@
 *://*.microtradebots.com/*
 *://*.microtradingbot.com/*
 *://*.microtradingservice.com/*
+*://*.mid-wide-profit.shop/*
 *://*.midas.investments/*
 *://*.midasama.com/*
 *://*.midasbuy-exchange.info/*
@@ -29456,7 +29834,9 @@
 *://*.mlcgroups.com/*
 *://*.mlcrossltw.com/*
 *://*.mlcsx.com/*
+*://*.mlgshop.shop/*
 *://*.mlit.top/*
+*://*.mlshoping.com/*
 *://*.mlwealthinvestments.com/*
 *://*.mm-5.com/*
 *://*.mma-market.com/*
@@ -29493,6 +29873,7 @@
 *://*.modernfxtrading.net/*
 *://*.moderntradersintl.com/*
 *://*.modsinvestorscby.com/*
+*://*.modulr.ltd/*
 *://*.modvipata.com/*
 *://*.moexchange.app/*
 *://*.moexxec.com/*
@@ -29579,6 +29960,7 @@
 *://*.moneyptjid.com/*
 *://*.moneyptoie.com/*
 *://*.moneyptvf.com/*
+*://*.moneysqurejv.com/*
 *://*.moneystonesinvestment.com/*
 *://*.moneytt.info/*
 *://*.mongolinternationaltrade.com/*
@@ -29747,6 +30129,8 @@
 *://*.msdsaxs.com/*
 *://*.mseccrypto.com/*
 *://*.msejif.com/*
+*://*.mseode.com/*
+*://*.msewiv.com/*
 *://*.msfhql.top/*
 *://*.msgjgloint.com/*
 *://*.mshfurniture.com/*
@@ -30107,6 +30491,7 @@
 *://*.nadexbue.com/*
 *://*.nadexg.com/*
 *://*.nadexm.com/*
+*://*.nadexvdb.com/*
 *://*.nadexvip888.com/*
 *://*.nadqex.com/*
 *://*.nadtt.xyz/*
@@ -30181,6 +30566,7 @@
 *://*.natsle.com/*
 *://*.nattex.top/*
 *://*.naughtword.com/*
+*://*.nautilus-store.xyz/*
 *://*.navcoinholdings.com/*
 *://*.navigatortrades.com/*
 *://*.naxcomexchangeinc.com/*
@@ -30450,6 +30836,7 @@
 *://*.nexustrade.club/*
 *://*.nexustradeclub.com/*
 *://*.nexustradesfxinc.online/*
+*://*.nexustuv.com/*
 *://*.nexusxs.com/*
 *://*.nexwap.vip/*
 *://*.neyassetmanagement.info/*
@@ -30651,6 +31038,7 @@
 *://*.northwaysfxoptions.com/*
 *://*.northwest-coin.com/*
 *://*.northwesterntradings.com/*
+*://*.nosegnt.com/*
 *://*.noswtransaction.com/*
 *://*.notiblog.com/*
 *://*.novadax.plus/*
@@ -30875,11 +31263,13 @@
 *://*.oaklandfx.life/*
 *://*.oaktb1995.com/*
 *://*.oaktokencoin.com/*
+*://*.oakwellcp.com/*
 *://*.oamdi.vip/*
 *://*.oamdi.xyz/*
 *://*.oamdiap.vip/*
 *://*.oamxjnhg.com/*
 *://*.oanda-currencymarket.com/*
+*://*.oanda-tw.net/*
 *://*.oanda.cc/*
 *://*.oanda.com/*
 *://*.oanda.me/*
@@ -30925,6 +31315,7 @@
 *://*.obusdt.uk/*
 *://*.obybit.top/*
 *://*.oc-coin.com/*
+*://*.oc-markets.com/*
 *://*.oca666.xyz/*
 *://*.ocaiwkjemq.com/*
 *://*.ocbdvew.top/*
@@ -30950,6 +31341,7 @@
 *://*.oceantradenowvip.online/*
 *://*.oceantrades.world/*
 *://*.oclhjlo.com/*
+*://*.ocmkcg.top/*
 *://*.ocnecr.top/*
 *://*.ocse.xyz/*
 *://*.octa-globaltrade.com/*
@@ -31294,6 +31686,7 @@
 *://*.onemain.site/*
 *://*.oneofu.work/*
 *://*.onepercent-crypto.com/*
+*://*.oneproglobal.com/*
 *://*.ones66.top/*
 *://*.onesevenplay.com/*
 *://*.onesevenplayy.com/*
@@ -31329,6 +31722,7 @@
 *://*.onlinetrip.info/*
 *://*.only-ind.com/*
 *://*.onlycryptoearner.com/*
+*://*.onlyloveher.com/*
 *://*.onlyourpc24.com/*
 *://*.onlypc24.com/*
 *://*.onlytoppc24.com/*
@@ -31342,6 +31736,7 @@
 *://*.ontimex.xyz/*
 *://*.ontovi.com/*
 *://*.onuvn.top/*
+*://*.onwardtradeoptions.com/*
 *://*.onyx9999.top/*
 *://*.onyxfinance.net/*
 *://*.ooetr.com/*
@@ -31397,6 +31792,9 @@
 *://*.opofx.com/*
 *://*.opplhjunb.com/*
 *://*.opqersw.net/*
+*://*.opsakue.com/*
+*://*.opsalkj.com/*
+*://*.opsavhjs.com/*
 *://*.opsavkuyt.com/*
 *://*.opsontechfa.com/*
 *://*.opsontechfx.com/*
@@ -31455,6 +31853,7 @@
 *://*.optionsminers.net/*
 *://*.optionsminingfx.com/*
 *://*.optionspraymining.com/*
+*://*.optionstrade.online/*
 *://*.optionstradeinsuccess.com/*
 *://*.optionswifttrade.com/*
 *://*.optivertradeoptions.com/*
@@ -31469,6 +31868,7 @@
 *://*.oqp-fx.com/*
 *://*.oracryptsftb.com/*
 *://*.oracven.com/*
+*://*.orakurudefg.com/*
 *://*.orangeglobalinvest.com/*
 *://*.orangeglobalinvestment.com/*
 *://*.orangexa.com/*
@@ -31548,6 +31948,7 @@
 *://*.ortraxinvestment.com/*
 *://*.oryxglobaltraders.com/*
 *://*.os-bitsky.com/*
+*://*.os-juyi.com/*
 *://*.oshincrypfx.com/*
 *://*.osigasgoss.com/*
 *://*.osigiteies.com/*
@@ -31616,6 +32017,7 @@
 *://*.ouj.cc/*
 *://*.oulianfx.com/*
 *://*.oumvcoqzqkvtumh.com/*
+*://*.oupeidebbf.com/*
 *://*.oupeideifb.com/*
 *://*.ourbit.vip/*
 *://*.ourmomo.com/*
@@ -31777,6 +32179,7 @@
 *://*.paradoxfarmsfx.com/*
 *://*.paradoxtrade.net/*
 *://*.parafxmarkets.com/*
+*://*.paramonventures.com/*
 *://*.paramountrade.com/*
 *://*.parashnathfx.com/*
 *://*.paraswap.cloud/*
@@ -31844,6 +32247,7 @@
 *://*.paxosguc.com/*
 *://*.paxosig.com/*
 *://*.paxosirt.com/*
+*://*.paxosius.com/*
 *://*.paxosiys.com/*
 *://*.paxosniy.com/*
 *://*.paxosogt.com/*
@@ -31907,7 +32311,9 @@
 *://*.pc24vip.com/*
 *://*.pc24win.com/*
 *://*.pc24wks.com/*
+*://*.pcashedu.com/*
 *://*.pcasheif.com/*
+*://*.pcashrbc.com/*
 *://*.pcatrading.com/*
 *://*.pccbase.com/*
 *://*.pccwell.com/*
@@ -31942,6 +32348,7 @@
 *://*.peaklegitmining.com/*
 *://*.peakmegalfxm.com/*
 *://*.peakmining.ltd/*
+*://*.peakzones.com/*
 *://*.pearci.com/*
 *://*.pearcnco.com/*
 *://*.pearcoin.net/*
@@ -32025,6 +32432,7 @@
 *://*.personaltrader.net/*
 *://*.persontrad5.site/*
 *://*.persontrad5.top/*
+*://*.persontrad5.website/*
 *://*.persontrad5.xyz/*
 *://*.perstonee.com/*
 *://*.perstoness.com/*
@@ -32043,6 +32451,8 @@
 *://*.pfidcflu.buzz/*
 *://*.pfidcfly.cc/*
 *://*.pfidcret.com/*
+*://*.pfizertaiwan.top/*
+*://*.pfkbd.shop/*
 *://*.pflcoin.com/*
 *://*.pforextrade.com/*
 *://*.pfs-investment.com/*
@@ -32059,6 +32469,7 @@
 *://*.pgmall-asia.tw/*
 *://*.pgmallbuy.com/*
 *://*.pgmallonlinetw.com/*
+*://*.pguie.online/*
 *://*.pguie.shop/*
 *://*.pguie.xyz/*
 *://*.pgule.life/*
@@ -32104,6 +32515,7 @@
 *://*.phoenixed.trade/*
 *://*.phoenixex.cn/*
 *://*.phoenixfinanceltd.com/*
+*://*.phoenixfirefx.net/*
 *://*.phoniexprime.com/*
 *://*.photonfin.online/*
 *://*.phptt.com/*
@@ -32159,6 +32571,7 @@
 *://*.pioneerfx365.com/*
 *://*.pionex.com/*
 *://*.pionexbtn.com/*
+*://*.pionexbtno.com/*
 *://*.pionexo.top/*
 *://*.pionexxcoin.com/*
 *://*.pionmarkets.com/*
@@ -32175,6 +32588,7 @@
 *://*.piscescoin.net/*
 *://*.pishbbaxc.live/*
 *://*.pishghya.com/*
+*://*.pisoyy.xyz/*
 *://*.pitbears.vip/*
 *://*.pitevo.com/*
 *://*.pitradeoinvestmine.com/*
@@ -32221,6 +32635,7 @@
 *://*.plahk-fx.net/*
 *://*.planetex.global/*
 *://*.planetworld.io/*
+*://*.plantshops.top/*
 *://*.plasmagltd.com/*
 *://*.plasmaoracleglobal.com/*
 *://*.plasmaoracleglobals.com/*
@@ -32239,6 +32654,7 @@
 *://*.platinumgoldcrypto.com/*
 *://*.platinumhillinvestinc.com/*
 *://*.platinumprime.org/*
+*://*.platinumstocktrade.com/*
 *://*.platinumtradez.com/*
 *://*.platinumtradezglobal.com/*
 *://*.platinumtradingg.com/*
@@ -32259,12 +32675,14 @@
 *://*.plethoramine.com/*
 *://*.plglobal.co/*
 *://*.plglobals.com/*
+*://*.plocmarket.com/*
 *://*.ploesiw.store/*
 *://*.ploesiw.xyz/*
 *://*.ploexiw.com/*
 *://*.plomtradeltd.com/*
 *://*.ploocoin.com/*
 *://*.plpvipe.com/*
+*://*.plsoef.xyz/*
 *://*.plubit-e.com/*
 *://*.plubit-q.xyz/*
 *://*.plubitex.com/*
@@ -32350,6 +32768,7 @@
 *://*.pokafx-online.com/*
 *://*.pokdkd.com/*
 *://*.polar-coin.com/*
+*://*.polarcapitals.co.uk/*
 *://*.polaripfs.com/*
 *://*.polaris68.xyz/*
 *://*.polarisworldtraders.com/*
@@ -32403,6 +32822,7 @@
 *://*.poolinsfx.com/*
 *://*.pooltether.com/*
 *://*.pooltradingfx.com/*
+*://*.poontpayup.com/*
 *://*.pooocoin.net/*
 *://*.popcoin.online/*
 *://*.popculture-cryptos.com/*
@@ -32458,6 +32878,7 @@
 *://*.ppbbmp.vip/*
 *://*.ppcatalgotrade.com/*
 *://*.ppcoin.top/*
+*://*.ppgaming.site/*
 *://*.pplmarkets.com/*
 *://*.ppoma.space/*
 *://*.ppp6666.tw/*
@@ -32499,6 +32920,7 @@
 *://*.premiumfxbolt.com/*
 *://*.premiumfxinvest.net/*
 *://*.premiumfxnet.com/*
+*://*.premiumglobalhub.org/*
 *://*.premiumhashmining.com/*
 *://*.premiumheritagefinance.com/*
 *://*.premiumminers.world/*
@@ -32628,11 +33050,13 @@
 *://*.primexbtoptions.com/*
 *://*.primmtrades.com/*
 *://*.primofxtrade.com/*
+*://*.primuscapitalltd.com/*
 *://*.principaltrade-mining.com/*
 *://*.prinetradeltd.net/*
 *://*.priortradeoption.com/*
 *://*.private-wallet.net/*
 *://*.privatece.tw/*
+*://*.privatece2.tw/*
 *://*.priviumex.com/*
 *://*.prizmbit.vip/*
 *://*.prmciri.com/*
@@ -32702,6 +33126,8 @@
 *://*.profinancemeans.com/*
 *://*.profintech.live/*
 *://*.profit-365.com/*
+*://*.profit-crunch.com/*
+*://*.profit-flex.world/*
 *://*.profit-forexsignals.com/*
 *://*.profit-funds.com/*
 *://*.profit-mining.com/*
@@ -32715,6 +33141,7 @@
 *://*.profitabletradingllc.com/*
 *://*.profitarysolventbank.com/*
 *://*.profitassetpro.com/*
+*://*.profitclub6988.top/*
 *://*.profitcoincapital.com/*
 *://*.profitcoinx.ltd/*
 *://*.profitcryptoworld.com/*
@@ -32880,6 +33307,7 @@
 *://*.pso4hp.online/*
 *://*.psofi.top/*
 *://*.psstbtc.com/*
+*://*.pstocktrading.co.uk/*
 *://*.pstoneglobal.com/*
 *://*.pstonetrading.com/*
 *://*.pstonetradingintl.com/*
@@ -32940,6 +33368,7 @@
 *://*.pursuitlove.com/*
 *://*.puuee.com/*
 *://*.puuo.me/*
+*://*.puuudu.top/*
 *://*.puyansh.com/*
 *://*.puyz.xyz/*
 *://*.pvhjdty.com/*
@@ -33017,6 +33446,7 @@
 *://*.qevhdchh.com/*
 *://*.qewold.com/*
 *://*.qewoldcoltd.com/*
+*://*.qewquiuiyu.com/*
 *://*.qffgu.top/*
 *://*.qfged.top/*
 *://*.qfgnasdas.top/*
@@ -33047,6 +33477,7 @@
 *://*.qh695.tw/*
 *://*.qh7126.com/*
 *://*.qh758.tw/*
+*://*.qh811.top/*
 *://*.qh8965.com/*
 *://*.qh927.tw/*
 *://*.qh9352.com/*
@@ -33075,6 +33506,7 @@
 *://*.qinfjkt.tw/*
 *://*.qingming-tw.com/*
 *://*.qingsongou.com/*
+*://*.qiools.com/*
 *://*.qisex.com/*
 *://*.qiteqp.com/*
 *://*.qitian.info/*
@@ -33122,6 +33554,7 @@
 *://*.qoopw.xyz/*
 *://*.qormegatrade.com/*
 *://*.qpbapp.com/*
+*://*.qpdke.com/*
 *://*.qproabilefx.com/*
 *://*.qptrx.com/*
 *://*.qq88a.shop/*
@@ -33146,6 +33579,7 @@
 *://*.qsqbbas.vip/*
 *://*.qsqbpoqaotdqxf.com/*
 *://*.qsvprivatefunds.com/*
+*://*.qt7063.xyz/*
 *://*.qtc3658.com/*
 *://*.qtcccoin.com/*
 *://*.qtehg.biz/*
@@ -33161,6 +33595,7 @@
 *://*.quadraticoin360.com/*
 *://*.quadricfxtraders.com/*
 *://*.quadrigasfx.com/*
+*://*.quaerocapital.trade/*
 *://*.qualitydearndefi.com/*
 *://*.quan-tic.com/*
 *://*.quanado.com/*
@@ -33202,6 +33637,7 @@
 *://*.quantumtrades.ltd/*
 *://*.quantumtradingcoin.com/*
 *://*.quantumxtrade.com/*
+*://*.quantvine.com/*
 *://*.quartybit.com/*
 *://*.quatex.online/*
 *://*.quatumminers.com/*
@@ -33254,6 +33690,7 @@
 *://*.quotexinvestment.online/*
 *://*.quotexinvestments.com/*
 *://*.quotfx.com/*
+*://*.quotilkj.com/*
 *://*.qurxbit.com/*
 *://*.quslba.top/*
 *://*.qutcoin.net/*
@@ -33343,6 +33780,7 @@
 *://*.ramacotrading.net/*
 *://*.ramadanfx.com/*
 *://*.rambletoken.com/*
+*://*.ramglobalmine.com/*
 *://*.ramines.biz/*
 *://*.ramjyy.com/*
 *://*.ramonasia.com/*
@@ -33353,6 +33791,7 @@
 *://*.ranabit.com/*
 *://*.randerwavefx.net/*
 *://*.randmine.com/*
+*://*.randomforex.com/*
 *://*.raocn.website/*
 *://*.rapextrade.com/*
 *://*.raphapexecoin.com/*
@@ -33371,10 +33810,12 @@
 *://*.rascocoin.com/*
 *://*.rastcot.com/*
 *://*.ratcrq.com/*
+*://*.ratcry.com/*
 *://*.rated-investing.com/*
 *://*.ratelgame.co/*
 *://*.ratex8.com/*
 *://*.ratsbdi.com/*
+*://*.ratsbudv.com/*
 *://*.ratsuil.com/*
 *://*.ratsyh.com/*
 *://*.ratysi.com/*
@@ -33408,6 +33849,7 @@
 *://*.rbpfds.top/*
 *://*.rbreaker167.xyz/*
 *://*.rbzat.xyz/*
+*://*.rcavbdatinibf.com/*
 *://*.rcbcoin.net/*
 *://*.rcion.vip/*
 *://*.rcln.club/*
@@ -33435,11 +33877,14 @@
 *://*.realistictrade.com/*
 *://*.realizeideal.fun/*
 *://*.realizeideal.online/*
+*://*.realizeideals.shop/*
+*://*.realizeideals.xyz/*
 *://*.realmetatrader4.com/*
 *://*.realrewardscapitals.ltd/*
 *://*.realsource-capital.com/*
 *://*.realstockfx.com/*
 *://*.realtimeforex247.com/*
+*://*.realtorschain.com/*
 *://*.realtrade24.com/*
 *://*.realtraderfx.online/*
 *://*.realtradescapital.com/*
@@ -33466,6 +33911,7 @@
 *://*.rectifypro.net/*
 *://*.red-mall.shop/*
 *://*.red-mall.xyz/*
+*://*.redaplellz.vip/*
 *://*.redcoinexchanges.com/*
 *://*.redexdelivery.com/*
 *://*.redfinance.pro/*
@@ -33537,6 +33983,7 @@
 *://*.rely-asia.com/*
 *://*.remedytradescript.online/*
 *://*.remitano-tw.com/*
+*://*.remitano.com/*
 *://*.remunerative-trade.com/*
 *://*.remzofx.com/*
 *://*.renfxstrade.com/*
@@ -33556,6 +34003,7 @@
 *://*.residentialtradesfx.net/*
 *://*.resoblock.com/*
 *://*.resource-trades.com/*
+*://*.restoretw.com/*
 *://*.restques.top/*
 *://*.restytop.com/*
 *://*.retefxtrade.com/*
@@ -33565,11 +34013,13 @@
 *://*.retrocointrading.com/*
 *://*.retrofxprofits.com/*
 *://*.reuel.xyz/*
+*://*.reuiyrhfg.com/*
 *://*.reuterslcd.com/*
 *://*.reuterstrade.net/*
 *://*.reva6.com/*
 *://*.revanjer.site/*
 *://*.revenuegern.com/*
+*://*.revenuewod.com/*
 *://*.reversal-trade.online/*
 *://*.revolutdex.com/*
 *://*.revolutiontrading.net/*
@@ -33599,6 +34049,7 @@
 *://*.rfvcn.online/*
 *://*.rfvcn.xyz/*
 *://*.rfvok.live/*
+*://*.rfvok.site/*
 *://*.rfxau.com/*
 *://*.rg888.org/*
 *://*.rggo168.com/*
@@ -33630,6 +34081,7 @@
 *://*.richcoinfx.net/*
 *://*.richcontracting12.buzz/*
 *://*.richcontracting29.buzz/*
+*://*.richcontracting33.buzz/*
 *://*.richemintpa.com/*
 *://*.richenatets.com/*
 *://*.richenkrents.com/*
@@ -33713,6 +34165,7 @@
 *://*.rjyzl.top/*
 *://*.rk-twd.com/*
 *://*.rkhadui.top/*
+*://*.rkown.website/*
 *://*.rkvosl.com/*
 *://*.rkvyzd.top/*
 *://*.rkxiw.com/*
@@ -33740,6 +34193,7 @@
 *://*.ro034vs.cn/*
 *://*.roarsinvests.com/*
 *://*.roartradingandmarketing.com/*
+*://*.roavldatinvdb.com/*
 *://*.roayldatindiv.com/*
 *://*.roayldatinhd.com/*
 *://*.robaldex.com/*
@@ -33773,6 +34227,7 @@
 *://*.rocket-poolf.com/*
 *://*.rocket-poolg.com/*
 *://*.rocket-poolj.com/*
+*://*.rocketminning.com/*
 *://*.rockettrades.world/*
 *://*.rockfort-markets.com/*
 *://*.rockfortcrypto.com/*
@@ -33791,6 +34246,7 @@
 *://*.roifxtrade.uk/*
 *://*.roitronix.com/*
 *://*.rokingltd.com/*
+*://*.rokubit.top/*
 *://*.rolecoinfx.com/*
 *://*.rolex888.cc/*
 *://*.rollbit-casino.net/*
@@ -33956,6 +34412,7 @@
 *://*.ruibidowns.com/*
 *://*.ruibihtml1.com/*
 *://*.ruibiline.com/*
+*://*.ruijieyouxuan.com/*
 *://*.ruilichuju.com/*
 *://*.ruilong-markets.com/*
 *://*.ruilongforex.com/*
@@ -33982,6 +34439,7 @@
 *://*.runwinsters.com/*
 *://*.ruoipi.com/*
 *://*.ruonhi.xyz/*
+*://*.ruown.website/*
 *://*.ruoyi.space/*
 *://*.rupvup.com/*
 *://*.rurusuzu.buzz/*
@@ -34006,6 +34464,7 @@
 *://*.rvjok.online/*
 *://*.rvjok.xyz/*
 *://*.rvxrtv.top/*
+*://*.rwdqk.xyz/*
 *://*.rwlke.com/*
 *://*.rwocn.website/*
 *://*.rxeasyonlinetrading.com/*
@@ -34020,6 +34479,7 @@
 *://*.ryderinternationalshopping.com/*
 *://*.rydermall.net/*
 *://*.rydervip.net/*
+*://*.rydqk.rest/*
 *://*.ryeasytrade.com/*
 *://*.ryeusgdcfcsefl2.com/*
 *://*.rynoexpressservice.com/*
@@ -34078,8 +34538,10 @@
 *://*.safe-trades.com/*
 *://*.safe-tradeuk.net/*
 *://*.safe-trading-hkg.ltd/*
+*://*.safeassets.trade/*
 *://*.safebadgecoin.com/*
 *://*.safeblockcoin.com/*
+*://*.safecap.io/*
 *://*.safecapinvest.com/*
 *://*.safecapinvest.pro/*
 *://*.safecoinal.com/*
@@ -34131,6 +34593,7 @@
 *://*.saima-groups.com/*
 *://*.saintrich666.com/*
 *://*.saintrich888.com/*
+*://*.sajshuty.com/*
 *://*.sakuyacoin.com/*
 *://*.sal-mining.tools/*
 *://*.salcidocointradersltd.com/*
@@ -34151,6 +34614,7 @@
 *://*.samscsvip.com/*
 *://*.samscvip.com/*
 *://*.samscvvip.com/*
+*://*.samstarcapital.com/*
 *://*.samtradefx.com/*
 *://*.samucostco.com/*
 *://*.sandboxbit.com/*
@@ -34262,6 +34726,7 @@
 *://*.sbxzvvh124.xyz/*
 *://*.sc-thb.com/*
 *://*.sc-vnd.com/*
+*://*.sc88dny.cc/*
 *://*.scalingwithtrading.com/*
 *://*.scalpertrade.com/*
 *://*.scalpingfxoptions.com/*
@@ -34323,6 +34788,7 @@
 *://*.sctopm.com/*
 *://*.scybit-trade.ltd/*
 *://*.scyllaexchange.com/*
+*://*.scymaxs.com/*
 *://*.scythm.com/*
 *://*.sd-ag-ex.com/*
 *://*.sd-vt.com/*
@@ -34442,9 +34908,11 @@
 *://*.seenerindex.com/*
 *://*.seethemonkey.com/*
 *://*.seeyona.cc/*
+*://*.segmentcapllp.com/*
 *://*.sehk-pro.com/*
 *://*.sehkex.net/*
 *://*.sehkpra.xyz/*
+*://*.seijpe.com/*
 *://*.seinapexltd.com/*
 *://*.seiprq.com/*
 *://*.seiprt.com/*
@@ -34508,6 +34976,7 @@
 *://*.sfcinvest.vip/*
 *://*.sfcoinvest.com/*
 *://*.sfddgf.com/*
+*://*.sfejs08.xyz/*
 *://*.sfex156.com/*
 *://*.sfexpress-shipment.website/*
 *://*.sfgj668.top/*
@@ -34548,6 +35017,7 @@
 *://*.sftimoinv.com/*
 *://*.sftimop.com/*
 *://*.sftimot.com/*
+*://*.sftmgp.top/*
 *://*.sftxxe.com/*
 *://*.sfuasdu.com/*
 *://*.sfundasia.com/*
@@ -34578,6 +35048,7 @@
 *://*.sgphomess.com/*
 *://*.sgpwlm.com/*
 *://*.sgpwlm.vip/*
+*://*.sgrgro.com/*
 *://*.sgrq.xyz/*
 *://*.sgsfdgrupro2022.com/*
 *://*.sgusme.cn/*
@@ -34633,11 +35104,13 @@
 *://*.sheeldmarket1.com/*
 *://*.sheer-pro.com/*
 *://*.sheer-pro.net/*
+*://*.sheeveinvestment.com/*
 *://*.shehsl.com/*
 *://*.shejlo.com/*
 *://*.shellminingpro.com/*
 *://*.shenct33.com/*
 *://*.shengda3399.com/*
+*://*.shengdeguoji3.vip/*
 *://*.shengdin88.com/*
 *://*.shengdinggjjys.com/*
 *://*.shenghongcn.com/*
@@ -34715,6 +35188,7 @@
 *://*.shopconch8.com/*
 *://*.shopdang.com/*
 *://*.shopee-avail.life/*
+*://*.shopee-official.top/*
 *://*.shopee-shop.club/*
 *://*.shopee-shop.shop/*
 *://*.shopee-vip15.xyz/*
@@ -34723,6 +35197,7 @@
 *://*.shopeecq.com/*
 *://*.shopeeix.com/*
 *://*.shopeekx.com/*
+*://*.shopeeofficial.top/*
 *://*.shopeeorder.shop/*
 *://*.shopeepro.xyz/*
 *://*.shopees.cc/*
@@ -34843,6 +35318,7 @@
 *://*.shoropr.com/*
 *://*.short-termtrading.com/*
 *://*.short-termtrading.xyz/*
+*://*.short2tradingnow.shop/*
 *://*.shorttermtradings.com/*
 *://*.shouhuo076.com/*
 *://*.shouio.com/*
@@ -34941,6 +35417,7 @@
 *://*.sigma-token-exchange.online/*
 *://*.sigma-trade.net/*
 *://*.sigma-tradeit.com/*
+*://*.sigmabrokers.pro/*
 *://*.sigmacoin.wtf/*
 *://*.sigmahop-finance.com/*
 *://*.sign233.com/*
@@ -35098,6 +35575,7 @@
 *://*.sketoo.com/*
 *://*.skggkgk.com/*
 *://*.skipefastinvestmentfinancegroup.com/*
+*://*.skipjiqs.com/*
 *://*.skitemall.com/*
 *://*.skjhjfijdwk.com/*
 *://*.sklbank.com/*
@@ -35198,6 +35676,7 @@
 *://*.smart-shopping.life/*
 *://*.smartaccessfx.online/*
 *://*.smartarbitrager.com/*
+*://*.smartbalance.pro/*
 *://*.smartbaseinvestltd.com/*
 *://*.smartbinaryfx.net/*
 *://*.smartbinaryfx.org/*
@@ -35286,6 +35765,7 @@
 *://*.smcitycn.vip/*
 *://*.smcxvkg.com/*
 *://*.smetimes.xyz/*
+*://*.smg0.com/*
 *://*.smikee.global/*
 *://*.smjsht581.top/*
 *://*.smjsuamg.top/*
@@ -35322,6 +35802,7 @@
 *://*.sntgpro.vip/*
 *://*.sntimbs.com/*
 *://*.sntrelor.com/*
+*://*.sntretur.com/*
 *://*.sntrex.com/*
 *://*.sntrexcmi.com/*
 *://*.sntrexco.com/*
@@ -35378,8 +35859,11 @@
 *://*.soengir.top/*
 *://*.soferfinance.com/*
 *://*.sofieht.top/*
+*://*.sofiiwe.com/*
 *://*.sofiofd.com/*
 *://*.sofitwifv.com/*
+*://*.sofitwirf.com/*
+*://*.sofitwyre.com/*
 *://*.sofiufc.com/*
 *://*.softbank666.com/*
 *://*.softcoin.live/*
@@ -35440,6 +35924,7 @@
 *://*.sonhoo.top/*
 *://*.sonhoo.work/*
 *://*.soniccloud.tech/*
+*://*.sonjung3c.com/*
 *://*.sonnein.com/*
 *://*.sophiecap.tw/*
 *://*.sophietrading.com/*
@@ -35455,6 +35940,7 @@
 *://*.sotwex.com/*
 *://*.souhu85.com/*
 *://*.souhu86.com/*
+*://*.soulmatee.com/*
 *://*.soultrade72.com/*
 *://*.soultradings.com/*
 *://*.souqshopp.com/*
@@ -35503,6 +35989,7 @@
 *://*.spdbo.com/*
 *://*.spe29.com/*
 *://*.speadmining.trade/*
+*://*.spear-technologies.com/*
 *://*.spebitcoin.com/*
 *://*.spebitcoinus1.com/*
 *://*.special-light.com/*
@@ -35521,6 +36008,7 @@
 *://*.speedfr.com/*
 *://*.speedfvf.com/*
 *://*.speedfxwin.com/*
+*://*.speedhaperns.com/*
 *://*.speediiv.com/*
 *://*.speediu.com/*
 *://*.speedlaner.com/*
@@ -35554,6 +36042,7 @@
 *://*.spidexpresslogis.com/*
 *://*.spidrex.com/*
 *://*.spinbit.com/*
+*://*.spiral-td.pro/*
 *://*.spiralytics.live/*
 *://*.spirextrade.com/*
 *://*.spizex.com/*
@@ -35619,6 +36108,7 @@
 *://*.spxivb.com/*
 *://*.spxudn.com/*
 *://*.spxuvd.com/*
+*://*.spxuvm.com/*
 *://*.spybitcasino.com/*
 *://*.spydocoin.com/*
 *://*.spytradez.com/*
@@ -35767,11 +36257,13 @@
 *://*.starbotsfx.com/*
 *://*.starbuckscashbacking.com/*
 *://*.starbuckscashbacknow.com/*
+*://*.starbucksspreadbonusmoneyback.com/*
 *://*.starbucksvipcashback.com/*
 *://*.starbucksvipmoneyaward.com/*
 *://*.starbucksvipspreadbonusmoney.com/*
 *://*.starbucksvvippmoneyawardmoney.com/*
 *://*.starcryptotrade.com/*
+*://*.stardaymall.com/*
 *://*.starekco.com/*
 *://*.starelitetrade.com/*
 *://*.starexcer.com/*
@@ -35838,6 +36330,7 @@
 *://*.startrader2.tw/*
 *://*.startrader3.tw/*
 *://*.startrader5.tw/*
+*://*.startrader6.tw/*
 *://*.startradershub.com/*
 *://*.startrading3.net/*
 *://*.startvvm.com/*
@@ -35861,7 +36354,9 @@
 *://*.steambid.co/*
 *://*.steampoweredagency.com/*
 *://*.steglobalct.com/*
+*://*.steglobalthv.com/*
 *://*.steglobalvf.com/*
+*://*.steglobalwgv.com/*
 *://*.stellar-finance.com/*
 *://*.stellaracb.com/*
 *://*.stellaracd.com/*
@@ -35904,6 +36399,7 @@
 *://*.sterntrades.com/*
 *://*.stex.top/*
 *://*.stexcap.net/*
+*://*.stexchmin.net/*
 *://*.stfxcapital.com/*
 *://*.stfxmarkets.com/*
 *://*.stgamem.com/*
@@ -35934,6 +36430,7 @@
 *://*.stockcoin247.com/*
 *://*.stockcoinexchange.net/*
 *://*.stockcoinfxtrade.com/*
+*://*.stockcryptomarkets.com/*
 *://*.stockcryptotrading247.com/*
 *://*.stockdeskfx.com/*
 *://*.stockdigitaltrade.com/*
@@ -35941,6 +36438,7 @@
 *://*.stockexchanges.info/*
 *://*.stockexpertrade.com/*
 *://*.stockextrade.com/*
+*://*.stockfinance.online/*
 *://*.stockfx-market.com/*
 *://*.stockfx.finance/*
 *://*.stockfxmate.com/*
@@ -35953,6 +36451,7 @@
 *://*.stockhamexp.online/*
 *://*.stockhuttradesupg.com/*
 *://*.stockminers.net/*
+*://*.stockminersinvestment.com/*
 *://*.stocknforex.com/*
 *://*.stockprimefx.com/*
 *://*.stockquicktrading.com/*
@@ -36029,6 +36528,7 @@
 *://*.stxfilms.co/*
 *://*.stzz118.com/*
 *://*.suannitrade.com/*
+*://*.sub-xchange.com/*
 *://*.subceadh.com/*
 *://*.subceaer.com/*
 *://*.subceahj.com/*
@@ -36044,6 +36544,7 @@
 *://*.successfultrader.online/*
 *://*.successtradernow.com/*
 *://*.successtraders.xyz/*
+*://*.successvests.com/*
 *://*.succpuragtrad.com/*
 *://*.sucdenvsb.com/*
 *://*.sui.vin/*
@@ -36116,6 +36617,7 @@
 *://*.sunonyex.com/*
 *://*.sunrayforex.com/*
 *://*.sunrisebit.com/*
+*://*.sunrisesmithcapital.com/*
 *://*.sunrisetrade.ltd/*
 *://*.sunshinecoinex.com/*
 *://*.sunshinefarm.vip/*
@@ -36237,6 +36739,7 @@
 *://*.suretrustinvestment.com/*
 *://*.surf-finance.net/*
 *://*.surgefin.trade/*
+*://*.surgehub.uk/*
 *://*.surgetraders.net/*
 *://*.surigae-fx.com/*
 *://*.surlars-pro.com/*
@@ -36252,7 +36755,9 @@
 *://*.sushidexfi.com/*
 *://*.sushieng.com/*
 *://*.sushilimited.com/*
+*://*.sushippa.com/*
 *://*.sushippd.com/*
+*://*.sushippf.com/*
 *://*.sutterinvestment.com/*
 *://*.suw8au.buzz/*
 *://*.svabdb.cn/*
@@ -36293,6 +36798,8 @@
 *://*.swaggame.online/*
 *://*.swanax.com/*
 *://*.swanax12.com/*
+*://*.swanax666.com/*
+*://*.swanaxai.com/*
 *://*.swanbits.com/*
 *://*.swanfinanceltd.com/*
 *://*.swaninvestix.com/*
@@ -36340,6 +36847,7 @@
 *://*.swiftcoinminers.com/*
 *://*.swiftcoinminers.net/*
 *://*.swiftcoinprofit.com/*
+*://*.swiftcointrades.com/*
 *://*.swiftcoinvest.com/*
 *://*.swiftcoretrading.com/*
 *://*.swiftcourierexpress.com/*
@@ -36385,6 +36893,7 @@
 *://*.swipecointd.live/*
 *://*.swiptrade.com/*
 *://*.swireglobal.com/*
+*://*.swiss-birg.cc/*
 *://*.swiss29.com/*
 *://*.swissalgotrading.com/*
 *://*.swissborgex.cc/*
@@ -36392,6 +36901,7 @@
 *://*.swissborgmax.cc/*
 *://*.swissborgxx.com/*
 *://*.swisscoininvest.com/*
+*://*.swisscoininvests.com/*
 *://*.swisscotrades.com/*
 *://*.swissfxbank.live/*
 *://*.swissgoldtrading.com/*
@@ -36404,6 +36914,7 @@
 *://*.swopdrj.com/*
 *://*.swsmarkets.com/*
 *://*.swstmarkets.com/*
+*://*.swtetup.com/*
 *://*.swtmarkets.com/*
 *://*.swuex.com/*
 *://*.swx1.com/*
@@ -36475,6 +36986,7 @@
 *://*.szfxst.com/*
 *://*.szhbmh.com/*
 *://*.szlm66.com/*
+*://*.szofy.com/*
 *://*.sztehao.com/*
 *://*.szwinfund.com/*
 *://*.szzc77.com/*
@@ -36524,6 +37036,7 @@
 *://*.taifuex5.tw/*
 *://*.taifuweb.top/*
 *://*.taihetz.tw/*
+*://*.taihkded.top/*
 *://*.taihuajk.com/*
 *://*.taijinxitou.com/*
 *://*.taikocrypto.com/*
@@ -36584,6 +37097,7 @@
 *://*.taogg.store/*
 *://*.taogg.xyz/*
 *://*.taojiji.shop/*
+*://*.taoobo.com/*
 *://*.taoshopeei.com/*
 *://*.tapbit.com/*
 *://*.tapbitex.com/*
@@ -36629,6 +37143,7 @@
 *://*.tbankpro.vip/*
 *://*.tbcccoin.com/*
 *://*.tbcccoin.life/*
+*://*.tbcccoin.xyz/*
 *://*.tbg.tw/*
 *://*.tbgx.tw/*
 *://*.tbhjascb.com/*
@@ -36643,6 +37158,7 @@
 *://*.tbw918.com/*
 *://*.tbwwpm.top/*
 *://*.tbwwpw.top/*
+*://*.tbyz5.cn/*
 *://*.tc88.net/*
 *://*.tcacce.com/*
 *://*.tcadgreats.com/*
@@ -36671,11 +37187,13 @@
 *://*.tcryptex.com/*
 *://*.tctradingfx.com/*
 *://*.tcu378.com/*
+*://*.tcvof.xyz/*
 *://*.tcwyvh.com/*
 *://*.tcxjte.top/*
 *://*.tcxqt.top/*
 *://*.td55.net/*
 *://*.td8889.net/*
+*://*.tdaex.cyou/*
 *://*.tdame.cyou/*
 *://*.tdameritradecom.com/*
 *://*.tdamr.com/*
@@ -36698,7 +37216,9 @@
 *://*.tdqvril.com/*
 *://*.tdrk1.com/*
 *://*.tdrsavings.com/*
+*://*.tdsrex.com/*
 *://*.tdsrexchangeit.com/*
+*://*.tdsrexchangepro.com/*
 *://*.tdsrexit.com/*
 *://*.tdsrexpro.com/*
 *://*.tdtrade.center/*
@@ -36706,8 +37226,10 @@
 *://*.te-rra.cyou/*
 *://*.tea-pin.com/*
 *://*.teabuyandsell.com/*
+*://*.teachable.com/*
 *://*.teachersfx.com/*
 *://*.teacupsbuy.com/*
+*://*.teacupsbuys.com/*
 *://*.teamalltea.com/*
 *://*.teamasterer.com/*
 *://*.teamasterss.com/*
@@ -36756,6 +37278,7 @@
 *://*.telfor.top/*
 *://*.telfor2.shop/*
 *://*.telfor3.shop/*
+*://*.telfor4.shop/*
 *://*.telformall.shop/*
 *://*.telformall.top/*
 *://*.telforshop.top/*
@@ -36868,6 +37391,7 @@
 *://*.tethusdt.shop/*
 *://*.tethusdt.top/*
 *://*.tethusdt.xyz/*
+*://*.tetraxsolutionslimited.com/*
 *://*.tetrostrades.com/*
 *://*.tettacoin.com/*
 *://*.tevx.xyz/*
@@ -36886,6 +37410,7 @@
 *://*.tezos-trade.org/*
 *://*.tezosceo.com/*
 *://*.tezoskdr.com/*
+*://*.tezosmarketslc.com/*
 *://*.tezosose.com/*
 *://*.tezospre.com/*
 *://*.tezosrgf.com/*
@@ -36915,6 +37440,7 @@
 *://*.tfhfinsera.com/*
 *://*.tfhfinssra.com/*
 *://*.tfim.xyz/*
+*://*.tfnux.com/*
 *://*.tfonx.xyz/*
 *://*.tfshop.shop/*
 *://*.tfx.market/*
@@ -37107,6 +37633,7 @@
 *://*.thigmv.xyz/*
 *://*.thiguio.com/*
 *://*.thigus.com/*
+*://*.thincen.xyz/*
 *://*.thingus.xyz/*
 *://*.thingvx.com/*
 *://*.thinkmarkets-forex.com/*
@@ -37251,6 +37778,7 @@
 *://*.tiktokxmm.cn/*
 *://*.tiktokymall.com/*
 *://*.tiktokysmall.shop/*
+*://*.tiktoshop.shop/*
 *://*.tikxas.com/*
 *://*.tilda.ws/*
 *://*.tilepm.com/*
@@ -37305,6 +37833,7 @@
 *://*.titecoin.pro/*
 *://*.titk-shop.org/*
 *://*.titokcarter.com/*
+*://*.titoker-shopmall.com/*
 *://*.titokshopcart.com/*
 *://*.titul-trade.com/*
 *://*.tivcm.com/*
@@ -37330,6 +37859,7 @@
 *://*.tk6.shop/*
 *://*.tk66.shop/*
 *://*.tk99.shop/*
+*://*.tkbcc.com/*
 *://*.tkbtc1.com/*
 *://*.tkcb1.com/*
 *://*.tkdyln.com/*
@@ -37356,6 +37886,7 @@
 *://*.tligjllo.com/*
 *://*.tlknm.top/*
 *://*.tloisv.com/*
+*://*.tloosie.com/*
 *://*.tlpod.top/*
 *://*.tlxgvt.top/*
 *://*.tm-group-inc.com/*
@@ -37370,9 +37901,12 @@
 *://*.tmallle.com/*
 *://*.tmallsh.com/*
 *://*.tmallshtw.com/*
+*://*.tmalltwinstall.com/*
 *://*.tmao121.xyz/*
 *://*.tmao219.xyz/*
 *://*.tmao818.xyz/*
+*://*.tmao9450.xyz/*
+*://*.tmao9466.xyz/*
 *://*.tmao9847.xyz/*
 *://*.tmaxji.com/*
 *://*.tmaxky.com/*
@@ -37448,6 +37982,7 @@
 *://*.tobuyerspc24.com/*
 *://*.tobywu.xyz/*
 *://*.tockt.com/*
+*://*.tocoinget.com/*
 *://*.tocoinmax.com/*
 *://*.tocom.com.tw/*
 *://*.tocryptom.com/*
@@ -37481,6 +38016,7 @@
 *://*.tokenko.me/*
 *://*.tokenlon.club/*
 *://*.tokenlon.com/*
+*://*.tokenlon.info/*
 *://*.tokenlonp.com/*
 *://*.tokenmdt.buzz/*
 *://*.tokenmdt.com/*
@@ -37511,6 +38047,7 @@
 *://*.tokpieus.xyz/*
 *://*.tokshop68.com/*
 *://*.tokshop82.com/*
+*://*.tokxex.com/*
 *://*.tolikeweb.com/*
 *://*.tolodex.com/*
 *://*.tomaha-markets.com/*
@@ -37539,6 +38076,7 @@
 *://*.toobitep.com/*
 *://*.toobits.me/*
 *://*.toobitvip.com/*
+*://*.tooolove.com/*
 *://*.top-fulfill.com/*
 *://*.top-notchinvestment.org/*
 *://*.top-supermall.top/*
@@ -37888,6 +38426,7 @@
 *://*.tradefxcoin.com/*
 *://*.tradefxexpress.com/*
 *://*.tradefxsolution.org/*
+*://*.tradegalactica.com/*
 *://*.tradeglobalassets.com/*
 *://*.tradeglobalmarkets.net/*
 *://*.tradeglobfx.com/*
@@ -37914,6 +38453,7 @@
 *://*.tradeindex.center/*
 *://*.tradeinfy.com/*
 *://*.tradeingpro.site/*
+*://*.tradeinitiate.com/*
 *://*.tradeinn.tech/*
 *://*.tradeintellect.biz/*
 *://*.tradeinvechcorporationltd.com/*
@@ -38051,6 +38591,7 @@
 *://*.traderjet.online/*
 *://*.tradermoneyboss.app/*
 *://*.traderportfx.com/*
+*://*.traders-book.co/*
 *://*.traders-equities.net/*
 *://*.traders-financing.com/*
 *://*.tradersangle.com/*
@@ -38143,6 +38684,7 @@
 *://*.tradeview-profits.com/*
 *://*.tradeville.online/*
 *://*.tradevio.live/*
+*://*.tradevision365.com/*
 *://*.tradevolute.com/*
 *://*.tradevoults.com/*
 *://*.tradewarriorsbahamas.com/*
@@ -38308,6 +38850,7 @@
 *://*.trastpad-pancakeswap.com/*
 *://*.tratontrade.com/*
 *://*.travcointernationalshipping.com/*
+*://*.travelex-ltd.com/*
 *://*.travelexforex.net/*
 *://*.travelexpresscargo.com/*
 *://*.traverbit.com/*
@@ -38405,6 +38948,7 @@
 *://*.trixbit.com/*
 *://*.trkilo.top/*
 *://*.trofi.win/*
+*://*.trolleys.cc/*
 *://*.trolleysapp.top/*
 *://*.tron-app.in/*
 *://*.tron-bit.space/*
@@ -38495,6 +39039,7 @@
 *://*.truspad-bit.com/*
 *://*.truspad-idex.com/*
 *://*.truspad-pancakeswap.com/*
+*://*.trust-amm.top/*
 *://*.trust-amm.vip/*
 *://*.trust-bitearning.ltd/*
 *://*.trust-bitearnings.ltd/*
@@ -38670,6 +39215,7 @@
 *://*.tstset.com/*
 *://*.tsugd.xyz/*
 *://*.tsvcrod.com/*
+*://*.tsvdf.xyz/*
 *://*.tswsphlo.com/*
 *://*.tsxpor.net/*
 *://*.ttaaa.me/*
@@ -38811,6 +39357,7 @@
 *://*.twfdsyh.com/*
 *://*.twfxcm.com/*
 *://*.twgdggf.com/*
+*://*.twglk.xyz/*
 *://*.twgoshopme.com/*
 *://*.twgouquanqiugou.com.tw/*
 *://*.twgtai.xyz/*
@@ -38824,6 +39371,7 @@
 *://*.twittcoin.net/*
 *://*.twittercoin.space/*
 *://*.twitterfollow.net/*
+*://*.twjeeror.com/*
 *://*.twjinkong.com/*
 *://*.twjumper.net/*
 *://*.twkucoin.com/*
@@ -38872,6 +39420,7 @@
 *://*.twzhenhan.com/*
 *://*.twzhenhanziban.com/*
 *://*.twzhenhanziben.com/*
+*://*.twzhirong.com/*
 *://*.tx131.net/*
 *://*.tx5588.net/*
 *://*.tx77777.com/*
@@ -38918,12 +39467,14 @@
 *://*.tyvdf.xyz/*
 *://*.tyvx8.com/*
 *://*.tywrtgsg.com/*
+*://*.tyysl.com/*
 *://*.tz168168.com/*
 *://*.tzbets88.net/*
 *://*.tzdtkm.top/*
 *://*.tzhuitw.com/*
 *://*.tznnhf.cn/*
 *://*.tzvdf.xyz/*
+*://*.tzwohua.com/*
 *://*.tzwwz.top/*
 *://*.tzydf.world/*
 *://*.u-dapp.com/*
@@ -39056,6 +39607,7 @@
 *://*.ueexpro.com/*
 *://*.ueexpro.online/*
 *://*.ueextopvip.com/*
+*://*.ueglobalex.com/*
 *://*.ueight.vip/*
 *://*.ueightl.vip/*
 *://*.ueighty.vip/*
@@ -39142,7 +39694,10 @@
 *://*.ukibacostco.com/*
 *://*.uklmp.top/*
 *://*.ukoss.com/*
+*://*.ukpn-sustainability.co.uk/*
 *://*.uksfcd-scale.com/*
+*://*.ukucoin.com/*
+*://*.ukvc.co/*
 *://*.ulei-max.com/*
 *://*.ulei-pro.com/*
 *://*.uleiproex.com/*
@@ -39161,12 +39716,14 @@
 *://*.ultimatecoinstrade.com/*
 *://*.ultimatecryptoexchange.vip/*
 *://*.ultimatecryptofx1.online/*
+*://*.ultimateedw.com/*
 *://*.ultimatefx.live/*
 *://*.ultimatefxoption.com/*
 *://*.ultimateminingexperttrade.com/*
 *://*.ultimateminingsltd.com/*
 *://*.ultimateoptionglobaltrade.com/*
 *://*.ultimateoptionstrades.com/*
+*://*.ultimateovu.com/*
 *://*.ultimateprimeminingexchange.live/*
 *://*.ultimateprofitfx.com/*
 *://*.ultimatetraders.xyz/*
@@ -39363,10 +39920,12 @@
 *://*.uniten-ex.com/*
 *://*.unitetrustedcredit.com/*
 *://*.unitoken.xyz/*
+*://*.unitrademarket.com/*
 *://*.unitrademax.com/*
 *://*.unitradepromax.com/*
 *://*.unity-funds.com/*
 *://*.unityassetspro.com/*
+*://*.unitybank.online/*
 *://*.unityinvestment.ltd/*
 *://*.unitytrades.ltd/*
 *://*.uniunebay.com/*
@@ -39506,6 +40065,7 @@
 *://*.uptradeg.com/*
 *://*.uptrading.pro/*
 *://*.uptradxx.online/*
+*://*.uptrustcommunity.com/*
 *://*.upurchasing.com/*
 *://*.upwave-grow.com/*
 *://*.uqlqg.top/*
@@ -39518,6 +40078,7 @@
 *://*.urltiny.ru/*
 *://*.urnvkeo.top/*
 *://*.ursowrong.com/*
+*://*.uryyngn.com/*
 *://*.us-bitmex.com/*
 *://*.us-nyse-crypto.com/*
 *://*.us-trade.net/*
@@ -39906,6 +40467,7 @@
 *://*.uswglobals.com/*
 *://*.uswinbit.com/*
 *://*.uswlimited.com/*
+*://*.uszeif.top/*
 *://*.utdvip001.com/*
 *://*.utexbit.com/*
 *://*.utgx.xyz/*
@@ -39961,6 +40523,7 @@
 *://*.uvexcoin.com/*
 *://*.uvs123.com/*
 *://*.uvxlf.com/*
+*://*.uweyyh.xyz/*
 *://*.uwsdh.top/*
 *://*.uwuyfe.com/*
 *://*.uwybbf.com/*
@@ -40002,6 +40565,7 @@
 *://*.valrdex.club/*
 *://*.valtrade-fx.com/*
 *://*.valuefxcapital.com/*
+*://*.valuegain.uk/*
 *://*.valueinvestingcollective.com/*
 *://*.valuetrade.live/*
 *://*.valuetrademark.com/*
@@ -40013,6 +40577,7 @@
 *://*.valvecoin.org/*
 *://*.vamcoin.com/*
 *://*.vamostrader.com/*
+*://*.vanbit.io/*
 *://*.vancetrade.com/*
 *://*.vanebit.com/*
 *://*.vanecks.vip/*
@@ -40087,12 +40652,14 @@
 *://*.vcex.io/*
 *://*.vcgrouptrade.com/*
 *://*.vcitt.com/*
+*://*.vcspectra.io/*
 *://*.vcvfqf.top/*
 *://*.vcyxqf.top/*
 *://*.vdbzbnzz.xyz/*
 *://*.vdfsjk.com/*
 *://*.vdlglobal.tech/*
 *://*.vdoge.net/*
+*://*.vdokbcoin.com/*
 *://*.vdsdbag.com/*
 *://*.vecentservice.com/*
 *://*.vecentservicei.com/*
@@ -40230,6 +40797,7 @@
 *://*.victtok.com/*
 *://*.victvip.com/*
 *://*.vidalfx.com/*
+*://*.videshivyaapaar.com/*
 *://*.vien666.com/*
 *://*.vien777.com/*
 *://*.vien888.com/*
@@ -40306,6 +40874,8 @@
 *://*.vipfxtrading.net/*
 *://*.vipgtrade.net/*
 *://*.vipgtrader.com/*
+*://*.viphaitaosx.com/*
+*://*.viphaitaous.com/*
 *://*.viphotcoin.com/*
 *://*.viphtrade.net/*
 *://*.viphtu.com/*
@@ -40362,6 +40932,7 @@
 *://*.virgo-eth.vip/*
 *://*.virgo.vip/*
 *://*.virgocx.ca/*
+*://*.virgouox.vip/*
 *://*.virgox.club/*
 *://*.virnvkrf.com/*
 *://*.virominers.top/*
@@ -40391,6 +40962,8 @@
 *://*.vista-trade.click/*
 *://*.vistacoinevp.com/*
 *://*.vistacoingvp.com/*
+*://*.vistacoinhvp.com/*
+*://*.vistacoinivp.com/*
 *://*.vistacointvp.com/*
 *://*.vistafxpro.com/*
 *://*.vistatrade.click/*
@@ -40644,6 +41217,7 @@
 *://*.w1sds.top/*
 *://*.w3aaldotw.com/*
 *://*.w89voll.com/*
+*://*.w8h.org/*
 *://*.wa578.com/*
 *://*.waacad.cyou/*
 *://*.wadgzh.com/*
@@ -40662,6 +41236,7 @@
 *://*.wallet-usdt-eth-erc20.com/*
 *://*.wallet.com/*
 *://*.walletaaa.com/*
+*://*.walletaab.com/*
 *://*.walletaac.com/*
 *://*.walletcoines.com/*
 *://*.walletcoinss.com/*
@@ -40736,6 +41311,7 @@
 *://*.wang.moe/*
 *://*.wangyi-mart.com/*
 *://*.wangyi-shop.com/*
+*://*.wanhaoyuele188.com/*
 *://*.wanhong321.com/*
 *://*.wanhuiss.com/*
 *://*.wanhuitrc.com/*
@@ -40789,6 +41365,7 @@
 *://*.way-fair.vip/*
 *://*.waybitcoin.com/*
 *://*.waycryptos.com/*
+*://*.wayfair.top/*
 *://*.waylonexpressco.online/*
 *://*.wayteccs.com/*
 *://*.waytecics.com/*
@@ -40842,6 +41419,7 @@
 *://*.wdpcoin.com/*
 *://*.wdre3ly.xyz/*
 *://*.wdtforextw.com/*
+*://*.wdtfoun.com/*
 *://*.wdy66.com/*
 *://*.we16888.net/*
 *://*.we3qx0.cn/*
@@ -40875,6 +41453,7 @@
 *://*.wealthfrontexchange.com/*
 *://*.wealthfrontintl.com/*
 *://*.wealthfrontts.com/*
+*://*.wealthful.org/*
 *://*.wealthfx.ltd/*
 *://*.wealthgroupvip.com/*
 *://*.wealthgrowthtrade.net/*
@@ -40892,6 +41471,7 @@
 *://*.wealthsignalfx.net/*
 *://*.wealthtrade.top/*
 *://*.wealthtrd.com/*
+*://*.wealthwayzhub.com/*
 *://*.wealthworldtraders.com/*
 *://*.wealthy888.net/*
 *://*.wealthygrowth-finance.com/*
@@ -41186,6 +41766,7 @@
 *://*.winnerminer.com/*
 *://*.winnerscoin.ltd/*
 *://*.winnftusdt.com/*
+*://*.winnieex.com/*
 *://*.winning92.xyz/*
 *://*.winntrades.com/*
 *://*.winotetrade.com/*
@@ -41208,6 +41789,8 @@
 *://*.wintersfx.com/*
 *://*.wintersnowfx.com/*
 *://*.winterwd.com/*
+*://*.wintoninvestment.com/*
+*://*.wintoninvestment.net/*
 *://*.wintorex.com/*
 *://*.wintrader.pro/*
 *://*.wintradex.com/*
@@ -41223,6 +41806,7 @@
 *://*.wioqtuih.com/*
 *://*.wioryueii.com/*
 *://*.wiqic.top/*
+*://*.wirvqi.top/*
 *://*.wisconsinpresscorporation.us/*
 *://*.wisecoinfx.com/*
 *://*.wisecoinsblast.com/*
@@ -41248,6 +41832,7 @@
 *://*.witsfin.online/*
 *://*.wiuehfjjc.xyz/*
 *://*.wiueo.com/*
+*://*.wiwode.top/*
 *://*.wixcoc.com/*
 *://*.wixcocm.com/*
 *://*.wixsite.com/*
@@ -41272,7 +41857,9 @@
 *://*.wll3467.com/*
 *://*.wllexo.com/*
 *://*.wlmpro.com/*
+*://*.wlmstore.com/*
 *://*.wlnactu.top/*
+*://*.wltguarantee.com/*
 *://*.wlvqc.cc/*
 *://*.wlygid.com/*
 *://*.wmbql.com/*
@@ -41326,6 +41913,7 @@
 *://*.woaisayu.xyz/*
 *://*.wobcoins.com/*
 *://*.wocoinpro.com/*
+*://*.wocomfx.com/*
 *://*.wocrdr.top/*
 *://*.woermashopxs.com/*
 *://*.wofx.net/*
@@ -41354,6 +41942,7 @@
 *://*.workucoin.top/*
 *://*.workucoin.work/*
 *://*.workusdt.com/*
+*://*.world-deluxeinvest.net/*
 *://*.world-miner.com/*
 *://*.world-trade.biz/*
 *://*.worldbestinvest.org/*
@@ -41407,6 +41996,7 @@
 *://*.worldinveststation.com/*
 *://*.worldjuhe.com/*
 *://*.worldmineinsured.com/*
+*://*.worldnav.cn/*
 *://*.worldpremiumfx.online/*
 *://*.worldprimetrade.net/*
 *://*.worldstarmining.com/*
@@ -41461,6 +42051,7 @@
 *://*.wruyudh.com/*
 *://*.wrxst-global.com/*
 *://*.wrxstfx.com/*
+*://*.ws556614.cn/*
 *://*.wsappapi.com/*
 *://*.wsaxc.com/*
 *://*.wscd.xyz/*
@@ -41470,6 +42061,7 @@
 *://*.wsfulzdj.com/*
 *://*.wsgame168.com/*
 *://*.wshop-asia.com/*
+*://*.wshops-tw.com/*
 *://*.wshops8848.com/*
 *://*.wshoptw.com/*
 *://*.wsijwqwh.com/*
@@ -41547,6 +42139,7 @@
 *://*.wyatt-forex.com/*
 *://*.wyfcoins.com/*
 *://*.wyhdkb.cn/*
+*://*.wyn777.cc/*
 *://*.wyney88.cc/*
 *://*.wyney88.vip/*
 *://*.wynnexe.com/*
@@ -41573,6 +42166,7 @@
 *://*.x2btcs.com/*
 *://*.x2coinbase.org/*
 *://*.x4x07i3.com/*
+*://*.x8o9.com/*
 *://*.xa852.com/*
 *://*.xabatex-coin.ltd/*
 *://*.xafexbit.com/*
@@ -41595,6 +42189,7 @@
 *://*.xbcfux.top/*
 *://*.xbcoinstock.online/*
 *://*.xbgtsdc.com/*
+*://*.xbifx.top/*
 *://*.xbingox.com/*
 *://*.xbitcapital.com/*
 *://*.xbitcoin-ai.com/*
@@ -41614,14 +42209,17 @@
 *://*.xbtglobal.trade/*
 *://*.xbvhjgfg.com/*
 *://*.xbvncmjdu.com/*
+*://*.xbvnfh.com/*
 *://*.xbzjkfua.com/*
 *://*.xbzujie.com/*
+*://*.xcakj.xyz/*
 *://*.xcdabsvx.buzz/*
 *://*.xce898.com/*
 *://*.xcegc88.com/*
 *://*.xcessfxmarket.live/*
 *://*.xckej.org/*
 *://*.xclbank.com/*
+*://*.xclojgfh.com/*
 *://*.xclusivetrade.com/*
 *://*.xcmud.top/*
 *://*.xcnivfg.com/*
@@ -41680,6 +42278,7 @@
 *://*.xexsas.vip/*
 *://*.xexvspr.vip/*
 *://*.xfcbg.website/*
+*://*.xfcopr.com/*
 *://*.xfdfx.online/*
 *://*.xfeiqt.top/*
 *://*.xfgj1288.com/*
@@ -41791,6 +42390,7 @@
 *://*.xiunjmi.com/*
 *://*.xjbcbvjvv.com/*
 *://*.xjcuakwjeq.com/*
+*://*.xjhekj.com/*
 *://*.xjnchgbc.buzz/*
 *://*.xjpj3h.xyz/*
 *://*.xjplc03.net/*
@@ -41832,6 +42432,7 @@
 *://*.xmbrokerfxfx.com/*
 *://*.xmbtc.vip/*
 *://*.xmdefi.top/*
+*://*.xmdefiltd.cc/*
 *://*.xmeafxtrading.com/*
 *://*.xmextensive.com/*
 *://*.xmforexweb.com/*
@@ -41841,6 +42442,8 @@
 *://*.xmglobalvip.com/*
 *://*.xmldfjkjg.xyz/*
 *://*.xmltdfx.com/*
+*://*.xmmalsop.com/*
+*://*.xmmarketlimited.com/*
 *://*.xmndugf.com/*
 *://*.xmonbit.com/*
 *://*.xmonetatrading.com/*
@@ -41957,8 +42560,10 @@
 *://*.xspeedfx.com/*
 *://*.xspeedtrading.com/*
 *://*.xsssoop.com/*
+*://*.xstarex.com/*
 *://*.xsuineipepperstone.com/*
 *://*.xt-exchange.com/*
+*://*.xtb.com/*
 *://*.xtbbmv.com/*
 *://*.xtbcdi.com/*
 *://*.xtbcva.com/*
@@ -41994,6 +42599,7 @@
 *://*.xtradedworldx.top/*
 *://*.xtradingmx.com/*
 *://*.xtradingx.com/*
+*://*.xtreamingtoken.club/*
 *://*.xtreme-bit.com/*
 *://*.xtreminers.com/*
 *://*.xts.group/*
@@ -42046,6 +42652,7 @@
 *://*.xxhzyz.com/*
 *://*.xxtradingxx.top/*
 *://*.xxzypcy.vip/*
+*://*.xyafzuv.icu/*
 *://*.xybeud.tw/*
 *://*.xybsgdh.com/*
 *://*.xycsionhop.com/*
@@ -42085,6 +42692,8 @@
 *://*.yacrypto.org/*
 *://*.yafitexchange.com/*
 *://*.yahbic.com/*
+*://*.yaheuk.com/*
+*://*.yahibr.com/*
 *://*.yahigk.com/*
 *://*.yahiie.com/*
 *://*.yahiivk.com/*
@@ -42160,11 +42769,13 @@
 *://*.ycnbjdfa.com/*
 *://*.ycoin-couk.com/*
 *://*.ycoinlex.com/*
+*://*.ycoinpto.com/*
 *://*.ycoiny.com/*
 *://*.yctffnf.top/*
 *://*.yd-mall.shop/*
 *://*.yd-shop.tw/*
 *://*.yd887.top/*
+*://*.ydacw.sbs/*
 *://*.ydaiqing.com/*
 *://*.ydbtc.top/*
 *://*.ydfforextw.com/*
@@ -42309,6 +42920,7 @@
 *://*.yiofg.com/*
 *://*.yiook.com/*
 *://*.yiopqmu.com/*
+*://*.yiospe.com/*
 *://*.yiowss.com/*
 *://*.yisdh.com/*
 *://*.yisdjd.com/*
@@ -42397,6 +43009,8 @@
 *://*.yomanidctc.space/*
 *://*.yomat.buzz/*
 *://*.yomexbit.com/*
+*://*.yomoxshop.com/*
+*://*.yomoxshops.com/*
 *://*.yonasty.com/*
 *://*.yongfengdk.xyz/*
 *://*.yongfengs.com/*
@@ -42412,6 +43026,7 @@
 *://*.yookjpmark.com/*
 *://*.yopessf.com/*
 *://*.yopiep.com/*
+*://*.yopwis.com/*
 *://*.yoqayb.top/*
 *://*.yorahsbtc.com/*
 *://*.yorkmarkets42.com/*
@@ -42462,7 +43077,9 @@
 *://*.yshxword.com/*
 *://*.ysihk.com/*
 *://*.yskcfhk.com/*
+*://*.ysligo.com/*
 *://*.yslmfx.com/*
+*://*.ysloos.com/*
 *://*.yslosz.com/*
 *://*.ysrws.buzz/*
 *://*.ysunhg.com/*
@@ -42482,15 +43099,20 @@
 *://*.ytqmtfx.net/*
 *://*.ytrwvw.live/*
 *://*.ytubcorp.com/*
+*://*.ytubcoskjs.com/*
+*://*.ytubnow.com/*
 *://*.ytyetrfjhdgc.xyz/*
 *://*.yuanchih.info/*
 *://*.yuandatw.vip/*
 *://*.yuandazq.top/*
+*://*.yuandbd.com/*
 *://*.yuangxin.cc/*
 *://*.yuangxin.me/*
 *://*.yuangxin.xyz/*
 *://*.yuanpayteam.com/*
+*://*.yuanta.icu/*
 *://*.yuantai.sk/*
+*://*.yuantavip.icu/*
 *://*.yuanzhivip.life/*
 *://*.yubfx6.com/*
 *://*.yubo.com.hk/*
@@ -42598,6 +43220,7 @@
 *://*.zalando-net.top/*
 *://*.zalando-vip.top/*
 *://*.zalando-web.top/*
+*://*.zalando9.top/*
 *://*.zalandoshops.cc/*
 *://*.zalandoshops.com/*
 *://*.zalora-shop.com.tw/*
@@ -42666,6 +43289,7 @@
 *://*.zbzbks.cc/*
 *://*.zbzbnas.vip/*
 *://*.zbzbss.com/*
+*://*.zbzbuqc.vip/*
 *://*.zbzbuqx.vip/*
 *://*.zbzuitt.vip/*
 *://*.zcc999.com/*
@@ -42685,6 +43309,7 @@
 *://*.zdsyy.com/*
 *://*.zdtot.website/*
 *://*.ze28s.com/*
+*://*.zealasset.ltd/*
 *://*.zealcapitalfx.com/*
 *://*.zealcapitalfx.vip/*
 *://*.zealglobalcoin.com/*
@@ -42797,6 +43422,7 @@
 *://*.zghk5999ex.com/*
 *://*.zghk6669ex.com/*
 *://*.zghk7779ex.com/*
+*://*.zghk8886ex.com/*
 *://*.zglxb.com/*
 *://*.zh-holding.com/*
 *://*.zh10.vip/*
@@ -42901,6 +43527,7 @@
 *://*.zkuok.com/*
 *://*.zl6.co/*
 *://*.zlankamaadm.com/*
+*://*.zlaskfojk.com/*
 *://*.zlc.name/*
 *://*.zldfjkn.com/*
 *://*.zldjgiyhg.com/*
@@ -42911,6 +43538,7 @@
 *://*.zlgcdn.online/*
 *://*.zliaoe.com/*
 *://*.zliofli.com/*
+*://*.zlooee.com/*
 *://*.zltbt.site/*
 *://*.zltet.fyi/*
 *://*.zltht.xyz/*
@@ -42949,6 +43577,7 @@
 *://*.zollarfxc.com/*
 *://*.zolocoinbase.com/*
 *://*.zombiethebot88.com/*
+*://*.zondacrypto.com/*
 *://*.zone10multitrade.com/*
 *://*.zonsc.com/*
 *://*.zonscoin.com/*
@@ -43034,6 +43663,7 @@
 *://*.zwtet.store/*
 *://*.zwtqt.online/*
 *://*.zwtxt.store/*
+*://*.zx.cn/*
 *://*.zx118588.com/*
 *://*.zxbit1.com/*
 *://*.zxcbnfh.com/*
