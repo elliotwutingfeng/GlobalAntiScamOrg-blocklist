@@ -3486,6 +3486,7 @@
 *://*.avexol.com/*
 *://*.avextrades.com/*
 *://*.avgvcoi.com/*
+*://*.aviacryptos.com/*
 *://*.aviate.finance/*
 *://*.aviatorbit.com/*
 *://*.avideainvest.com/*
@@ -11984,6 +11985,7 @@
 *://*.coinmakriswest.com/*
 *://*.coinmall.vip/*
 *://*.coinmama.com/*
+*://*.coinmamabtcmama.com/*
 *://*.coinmamacoin.com/*
 *://*.coinmamaglb.com/*
 *://*.coinmamagolden.com/*
@@ -19682,6 +19684,7 @@
 *://*.fgokjdf.com/*
 *://*.fgsarnsh.shop/*
 *://*.fgweb68.com/*
+*://*.fgxex.com/*
 *://*.fh05.bet/*
 *://*.fh17888.com/*
 *://*.fh267.com/*
@@ -22774,6 +22777,7 @@
 *://*.globalvinetrade.com/*
 *://*.globalwealth-miners.com/*
 *://*.globalwealthasset.ltd/*
+*://*.globalweb.vip/*
 *://*.globalwinbit.org/*
 *://*.globalworldcoinflutter.com/*
 *://*.globalworldtrade.net/*
@@ -28366,6 +28370,7 @@
 *://*.luwanginvestment.com/*
 *://*.luwcoin.com/*
 *://*.luwtrad.com/*
+*://*.luxedomconstructions.com/*
 *://*.luxeforgecryptoproz.net/*
 *://*.luxkey.net/*
 *://*.luxury-income.ltd/*
@@ -28397,6 +28402,7 @@
 *://*.lycanretrieve.com/*
 *://*.lyhvr.top/*
 *://*.lykaswap.com/*
+*://*.lyonchasee.com/*
 *://*.lyova-ltd.com/*
 *://*.lyrxtzcvi.com/*
 *://*.lyty615.com/*
@@ -31837,6 +31843,7 @@
 *://*.optimumminners.com/*
 *://*.optimumprimeinvestment.net/*
 *://*.optimumtrade.ltd/*
+*://*.optimumtrade.net/*
 *://*.optimusmining.net/*
 *://*.optimuxcrypto.com/*
 *://*.option-btc.com/*
@@ -37285,6 +37292,7 @@
 *://*.telosbit.com/*
 *://*.telp.top/*
 *://*.telthoncrypt.com/*
+*://*.temakets.com/*
 *://*.templepremium-trade.net/*
 *://*.temu-us.cc/*
 *://*.temujp.com/*
@@ -37871,6 +37879,7 @@
 *://*.tkocryptocurrency.plus/*
 *://*.tkocryptocurrency.pro/*
 *://*.tkshop0.com/*
+*://*.tktkapp.com/*
 *://*.tkwl75marll.cc/*
 *://*.tkzamshop.com/*
 *://*.tkzbmshop.com/*
@@ -38530,6 +38539,7 @@
 *://*.tradeoptioninvestmet.ltd/*
 *://*.tradeoptionx.com/*
 *://*.tradeoversight.com/*
+*://*.tradepacefx.com/*
 *://*.tradepal.live/*
 *://*.tradepayfinancial.com/*
 *://*.tradepeacegroup.com/*
@@ -40852,6 +40862,7 @@
 *://*.vip9453.com/*
 *://*.vipafx.com/*
 *://*.vipaitechstock.com/*
+*://*.vipbest888.com/*
 *://*.vipbfx.com/*
 *://*.vipcfx.com/*
 *://*.vipchange-dbex.com/*
@@ -41937,6 +41948,7 @@
 *://*.workcoin.ltd/*
 *://*.workdaybvb.com/*
 *://*.workeasy.tech/*
+*://*.workguoup-03.com/*
 *://*.workingcrazy.com/*
 *://*.workucoin.life/*
 *://*.workucoin.top/*

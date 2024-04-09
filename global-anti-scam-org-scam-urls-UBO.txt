@@ -4040,6 +4040,7 @@
 ||avexol.com^$all
 ||avextrades.com^$all
 ||avgvcoi.com^$all
+||aviacryptos.com^$all
 ||aviate.finance^$all
 ||aviatorbit.com^$all
 ||avideainvest.com^$all
@@ -12126,6 +12127,7 @@
 ||coinmakriswest.com^$all
 ||coinmall.vip^$all
 ||coinmama.com^$all
+||coinmamabtcmama.com^$all
 ||coinmamaglb.com^$all
 ||coinmamagolden.com^$all
 ||coinmamamabtcusd.com^$all
@@ -19530,6 +19532,7 @@
 ||famainvestment.com^$all
 ||fameex.exchangecorp.net^$all
 ||fameex.exchangestw.com^$all
+||fameex.vipbest888.com^$all
 ||fameex.wordpressboost.com^$all
 ||fameexbre.com^$all
 ||fameexcoin.com^$all
@@ -19882,6 +19885,7 @@
 ||fgsarnsh.shop^$all
 ||fgsw.gfweu.shop^$all
 ||fgweb68.com^$all
+||fgxex.com^$all
 ||fh02.dxecg.com^$all
 ||fh05.bet^$all
 ||fh267.com^$all
@@ -22771,6 +22775,7 @@
 ||globalvinetrade.com^$all
 ||globalwealth-miners.com^$all
 ||globalwealthasset.ltd^$all
+||globalweb.vip^$all
 ||globalwinbit.org^$all
 ||globalworldcoinflutter.com^$all
 ||globalworldtrade.net^$all
@@ -28144,6 +28149,7 @@
 ||lutonfxtrade.net^$all
 ||luwanginvestment.com^$all
 ||luwcoin.com^$all
+||luxedomconstructions.com^$all
 ||luxeforgecryptoproz.net^$all
 ||luxkey.net^$all
 ||luxuryglobal-invest.org^$all
@@ -28172,6 +28178,7 @@
 ||lyakrl.com^$all
 ||lycanretrieve.com^$all
 ||lykaswap.com^$all
+||lyonchasee.com^$all
 ||lyova-ltd.com^$all
 ||lyrxtzcvi.com^$all
 ||lyty615.com^$all
@@ -32171,6 +32178,7 @@
 ||optimumminners.com^$all
 ||optimumprimeinvestment.net^$all
 ||optimumtrade.ltd^$all
+||optimumtrade.net^$all
 ||optimusmining.net^$all
 ||optimuxcrypto.com^$all
 ||option-btc.com^$all
@@ -37252,6 +37260,7 @@
 ||telforshop.top^$all
 ||telosbit.com^$all
 ||telthoncrypt.com^$all
+||temakets.com^$all
 ||temp-chat.mstatik.com^$all
 ||templepremium-trade.net^$all
 ||temu-us.cc^$all
@@ -37780,6 +37789,7 @@
 ||tkocryptocurrency.plus^$all
 ||tkocryptocurrency.pro^$all
 ||tkshop0.com^$all
+||tktkapp.com^$all
 ||tkwl75marll.cc^$all
 ||tkzamshop.com^$all
 ||tkzbmshop.com^$all
@@ -38392,6 +38402,7 @@
 ||tradeoptioninvestmet.ltd^$all
 ||tradeoptionx.com^$all
 ||tradeoversight.com^$all
+||tradepacefx.com^$all
 ||tradepal.live^$all
 ||tradepayfinancial.com^$all
 ||tradepeacegroup.com^$all
@@ -42072,6 +42083,7 @@
 ||workcoin.ltd^$all
 ||workdaybvb.com^$all
 ||workeasy.tech^$all
+||workguoup-03.com^$all
 ||working.gbayshop.website^$all
 ||workingcrazy.com^$all
 ||workucoin.life^$all
