@@ -19986,6 +19986,7 @@
 *://*.firechain.info/*
 *://*.fireflybonus.com/*
 *://*.firemining.space/*
+*://*.firephoenix.cc/*
 *://*.firephoenixfx.com/*
 *://*.firestonprofx.live/*
 *://*.firewallmo.com/*
@@ -27352,6 +27353,7 @@
 *://*.kwaivips.com/*
 *://*.kwaizon.com/*
 *://*.kwakol-trade.com/*
+*://*.kwealth.vip/*
 *://*.kwealthinvestments.com/*
 *://*.kwin168.net/*
 *://*.kwkk.vip/*
@@ -27893,6 +27895,7 @@
 *://*.lin777.top/*
 *://*.linargogroup.com/*
 *://*.lincoin.biz/*
+*://*.line-mnk3.xyz/*
 *://*.line01.vip/*
 *://*.linesea.me/*
 *://*.linesea.site/*
@@ -29144,6 +29147,7 @@
 *://*.metaetherpro.xyz/*
 *://*.metaex.bet/*
 *://*.metaexs.com/*
+*://*.metafieldmt5.com/*
 *://*.metafinancefxmarket.live/*
 *://*.metafortunecoin.club/*
 *://*.metafx.live/*
@@ -32392,6 +32396,7 @@
 *://*.pemzbit.com/*
 *://*.pen-zo.com/*
 *://*.penaker.com/*
+*://*.pennycovefinance.com/*
 *://*.pennyupfx.com/*
 *://*.pentycoon.com/*
 *://*.penumbras.cc/*
@@ -34881,6 +34886,7 @@
 *://*.secommonft88.com/*
 *://*.secondarymarket.top/*
 *://*.secsilver.com/*
+*://*.secufex.com/*
 *://*.secufexu.com/*
 *://*.securecryptocube.com/*
 *://*.securecryptofinance.net/*
@@ -39907,6 +39913,7 @@
 *://*.uniswaplp.icu/*
 *://*.uniswapmks.cyou/*
 *://*.uniswapn4.cyou/*
+*://*.uniswapoptions.top/*
 *://*.uniswapsv3.top/*
 *://*.uniswapusdt.com/*
 *://*.uniswapv3-defi.com/*
@@ -42508,6 +42515,7 @@
 *://*.xopsf.com/*
 *://*.xorbitpro.com/*
 *://*.xos999.xyz/*
+*://*.xoslie.com/*
 *://*.xoswlpi.com/*
 *://*.xouesso.com/*
 *://*.xoxvip.com/*
