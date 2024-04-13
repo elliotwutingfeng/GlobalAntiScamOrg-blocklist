@@ -2158,6 +2158,7 @@
 *://*.amazonyms.com/*
 *://*.amb-ss.com/*
 *://*.amb267.com/*
+*://*.ambercreative.live/*
 *://*.ambiguouslove.com/*
 *://*.ambiguousone.com/*
 *://*.ambitfiance.com/*
@@ -32423,6 +32424,7 @@
 *://*.peregrine-fx.com/*
 *://*.perennialtrades.com/*
 *://*.perfect-vt.com/*
+*://*.perfect365.live/*
 *://*.perfectbullstradingacademy.com/*
 *://*.perfectcoininvest.ltd/*
 *://*.perfectcryptominers.ltd/*
@@ -37119,6 +37121,7 @@
 *://*.tapcourierjet.com/*
 *://*.tapgc.com/*
 *://*.taptop.net/*
+*://*.tapwebmarketing.com/*
 *://*.tarakava.com/*
 *://*.tarasglobaltrade.com/*
 *://*.target-financialfx.com/*

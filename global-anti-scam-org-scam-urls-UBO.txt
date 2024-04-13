@@ -2116,6 +2116,7 @@
 ||amber.anygaladay.com^$all
 ||amber.bxanys.com^$all
 ||amber.txanys.com^$all
+||ambercreative.live^$all
 ||ambiguouslove.com^$all
 ||ambiguousone.com^$all
 ||ambitfiance.com^$all
@@ -32749,6 +32750,7 @@
 ||peregrine-fx.com^$all
 ||perennialtrades.com^$all
 ||perfect-vt.com^$all
+||perfect365.live^$all
 ||perfectbullstradingacademy.com^$all
 ||perfectcoininvest.ltd^$all
 ||perfectcryptominers.ltd^$all
@@ -37104,6 +37106,7 @@
 ||tapcoin.info^$all
 ||tapcourierjet.com^$all
 ||taptop.net^$all
+||tapwebmarketing.com^$all
 ||tarakava.com^$all
 ||tarasglobaltrade.com^$all
 ||target-financialfx.com^$all
