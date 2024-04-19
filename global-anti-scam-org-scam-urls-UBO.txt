@@ -2667,6 +2667,7 @@
 ||app.bitforexmarket.com^$all
 ||app.bitglobl-ex.com^$all
 ||app.bitsypay.com^$all
+||app.bitwiner1.com^$all
 ||app.bjdjsidd.com^$all
 ||app.bkgnxjneknwq.com^$all
 ||app.blackrock.host^$all
@@ -3266,6 +3267,7 @@
 ||app.zxjk.vip^$all
 ||app.zxmvkfmnqnl.com^$all
 ||app.zzeie.cn^$all
+||app1_1.shop-vip6.com^$all
 ||app2.einvest.vip^$all
 ||app4world.com^$all
 ||app623.net^$all
@@ -4541,6 +4543,7 @@
 ||bcpwin.com^$all
 ||bcr-market.com^$all
 ||bcr1688.com^$all
+||bcrfx.com^$all
 ||bcrmarket.com^$all
 ||bcryptoglobal.com^$all
 ||bcshopcool.com^$all
@@ -4817,6 +4820,7 @@
 ||bexcapitaltradeltd.com^$all
 ||bexfinance.ltd^$all
 ||bexicapitalltd.com^$all
+||bexsocx.vip^$all
 ||beybit.com^$all
 ||beyeasy.com^$all
 ||beyond.fudingking.com^$all
@@ -9735,6 +9739,7 @@
 ||by7655.com^$all
 ||by7866.com^$all
 ||byapueqb.buzz^$all
+||byardncu.com^$all
 ||bybdefiex.vip^$all
 ||bybit-crypto.store^$all
 ||bybit-exchange.pro^$all
@@ -23342,6 +23347,7 @@
 ||grantbeyond.net^$all
 ||granti-miners.ltd^$all
 ||grapevinecovidtesting.com^$all
+||graviexcrt.com^$all
 ||gravity-fxtrade.ltd^$all
 ||gravity-miners.ltd^$all
 ||gravityventure.net^$all
@@ -27460,6 +27466,7 @@
 ||laza-dasg.com^$all
 ||lazada-tw.com^$all
 ||lazada.dnysc.vip^$all
+||lazada.hnscyyz.com^$all
 ||lazada.sc88dny.cc^$all
 ||lazada58.com^$all
 ||lazada80.com^$all

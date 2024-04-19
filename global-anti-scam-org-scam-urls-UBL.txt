@@ -3995,6 +3995,7 @@
 *://*.bcpwin.com/*
 *://*.bcr-market.com/*
 *://*.bcr1688.com/*
+*://*.bcrfx.com/*
 *://*.bcrmarket.com/*
 *://*.bcryptoglobal.com/*
 *://*.bcshopcool.com/*
@@ -4302,6 +4303,7 @@
 *://*.bexcapitaltradeltd.com/*
 *://*.bexfinance.ltd/*
 *://*.bexicapitalltd.com/*
+*://*.bexsocx.vip/*
 *://*.beybit.com/*
 *://*.beyeasy.com/*
 *://*.beyzagold.com/*
@@ -7715,6 +7717,7 @@
 *://*.bitwhale.tech/*
 *://*.bitwin.ws/*
 *://*.bitwincoin.top/*
+*://*.bitwiner1.com/*
 *://*.bitwinlife.com/*
 *://*.bitwinner.pro/*
 *://*.bitwise-assets.com/*
@@ -9460,6 +9463,7 @@
 *://*.by7655.com/*
 *://*.by7866.com/*
 *://*.byapueqb.buzz/*
+*://*.byardncu.com/*
 *://*.bybdefiex.vip/*
 *://*.bybit-crypto.store/*
 *://*.bybit-exchange.pro/*
@@ -23396,6 +23400,7 @@
 *://*.grantbeyond.net/*
 *://*.granti-miners.ltd/*
 *://*.grapevinecovidtesting.com/*
+*://*.graviexcrt.com/*
 *://*.gravity-fxtrade.ltd/*
 *://*.gravity-miners.ltd/*
 *://*.gravityventure.net/*
@@ -24454,6 +24459,7 @@
 *://*.hnmkf.live/*
 *://*.hnnlrs.cn/*
 *://*.hnr1c8t.cn/*
+*://*.hnscyyz.com/*
 *://*.hnsgjr.top/*
 *://*.hntbest.xyz/*
 *://*.hntcoin.club/*
@@ -35322,6 +35328,7 @@
 *://*.shop-aa.vip/*
 *://*.shop-ego.com/*
 *://*.shop-tian-xia.com/*
+*://*.shop-vip6.com/*
 *://*.shop-wish.pro/*
 *://*.shop1128.com/*
 *://*.shop168.fun/*
