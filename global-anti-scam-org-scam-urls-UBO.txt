@@ -4669,6 +4669,7 @@
 ||bep8888.com^$all
 ||bepbits.com^$all
 ||bepumarkets.com^$all
+||bequant.me^$all
 ||bequence.com^$all
 ||berat-fx.com^$all
 ||berayd.xyz^$all
@@ -15793,6 +15794,7 @@
 ||decarbitrage.com^$all
 ||decentcr.xyz^$all
 ||decentfx.com^$all
+||decentra-masters.com^$all
 ||decentraland-mana.vip^$all
 ||decentralizedfinanceserver.com^$all
 ||decentralizedmasters.com^$all
@@ -17402,6 +17404,7 @@
 ||ecgvlog.com^$all
 ||echelontradenetwork.net^$all
 ||echofxllp.com^$all
+||eclipsemacro.com^$all
 ||ecnpro-trade.online^$all
 ||eco-mining1.com^$all
 ||ecobitex.com^$all
@@ -17472,6 +17475,7 @@
 ||edxmarkets.top^$all
 ||edycoin.com^$all
 ||ee.7892109.com^$all
+||ee5577.net^$all
 ||ee9pool.com^$all
 ||eecoins.top^$all
 ||eecoins.vip^$all
@@ -21943,6 +21947,7 @@
 ||gacllo.com^$all
 ||gadrysbgv.com^$all
 ||gaeex.com^$all
+||gaeoeow.com^$all
 ||gagarininvest.org^$all
 ||gaifouy.com^$all
 ||gaifuna.com^$all
@@ -33052,6 +33057,8 @@
 ||pipsbullmarket.com^$all
 ||pipscaptrade.com^$all
 ||pipsfxspace.live^$all
+||pipspool.com^$all
+||pipspool.net^$all
 ||pipsprotrade.com^$all
 ||pipstakersfx.com^$all
 ||piq99.molica.buzz^$all
@@ -36649,6 +36656,7 @@
 ||stockprimefx.com^$all
 ||stockquicktrading.com^$all
 ||stockritesllc.com^$all
+||stocks-cnpc.com^$all
 ||stocks247crypto.com^$all
 ||stocks247profits.com^$all
 ||stocksandcoins.com^$all
