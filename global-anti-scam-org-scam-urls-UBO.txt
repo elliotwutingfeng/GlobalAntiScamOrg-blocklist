@@ -1457,6 +1457,7 @@
 ||adzxz.fafubu.mobi^$all
 ||ae888.rlaza.com^$all
 ||aecbet.fun^$all
+||aeconstructionpoint.com^$all
 ||aed.genesryktae.com^$all
 ||aediu.com^$all
 ||aegeansean.com^$all
@@ -2467,6 +2468,7 @@
 ||antrush.com.br^$all
 ||antrushfx.com^$all
 ||antsforextw.com^$all
+||antuj.com^$all
 ||antusdt.com^$all
 ||anuztrading.com^$all
 ||anvextrade.com^$all
@@ -3206,6 +3208,7 @@
 ||app.rtwifjh.com^$all
 ||app.ruoipi.com^$all
 ||app.rvxrtv.top^$all
+||app.ryfgbnc.icu^$all
 ||app.rzryok.top^$all
 ||app.sa-platform.com^$all
 ||app.sagyugf.com^$all
@@ -4659,6 +4662,7 @@
 ||batonexeyb.com^$all
 ||batonextvu.com^$all
 ||batonexuid.com^$all
+||batsedgx.com^$all
 ||battistradingcompany.com^$all
 ||battle1688.com^$all
 ||batwosecion.xyz^$all
@@ -11380,6 +11384,7 @@
 ||claim-hex.com^$all
 ||claim-mplx-metaplex.net^$all
 ||claim.aavepool.info^$all
+||claimbackassets.com^$all
 ||claims-paraswap.com^$all
 ||clap-arbitrate.click^$all
 ||clarified-mining.online^$all
@@ -16850,6 +16855,7 @@
 ||dex-coin.org^$all
 ||dex-crypto.com^$all
 ||dex-d.org^$all
+||dex-dappai.com^$all
 ||dex-dodo.com^$all
 ||dex-dt.com^$all
 ||dex-dydx.net^$all
@@ -16867,6 +16873,7 @@
 ||dex-tx.com^$all
 ||dex-tz.com^$all
 ||dex-u.org^$all
+||dex-uu.top^$all
 ||dex-vip.com^$all
 ||dex.bible^$all
 ||dex.dew168.top^$all
@@ -19854,6 +19861,7 @@
 ||eurotradeinvest.com^$all
 ||eurotradeinvestments.com^$all
 ||euroxbit.com^$all
+||eurqs.net^$all
 ||eurtwoxt.site^$all
 ||eurtwoxt.store^$all
 ||eurtwoxt.xyz^$all
@@ -21336,6 +21344,7 @@
 ||fljr-tw.com^$all
 ||fljzdb.com^$all
 ||flllkart7.xyz^$all
+||flngf.top^$all
 ||floioc.com^$all
 ||flokifx.net^$all
 ||floppy.trade^$all
@@ -22114,6 +22123,7 @@
 ||futubase.shop^$all
 ||futuo-fx.info^$all
 ||futuo-fx.net^$all
+||futuo.store^$all
 ||futuohk.com^$all
 ||futuoiu.com^$all
 ||futuojituan-global.com^$all
@@ -24523,6 +24533,7 @@
 ||grueryghqwq.com^$all
 ||grvfx.com^$all
 ||gs-mining.com^$all
+||gs-shops-global.com^$all
 ||gs-xautrade.com^$all
 ||gs.16888gs.com^$all
 ||gs.app.bjhongpa.com^$all
@@ -24555,6 +24566,7 @@
 ||gspsexpress.com^$all
 ||gsras.com^$all
 ||gssdfc.com^$all
+||gsshop-stores.com^$all
 ||gsshop-tw.com^$all
 ||gsshoponlines.com^$all
 ||gsshoptw.com^$all
@@ -29804,6 +29816,7 @@
 ||m.amxjj.top^$all
 ||m.anfio.top^$all
 ||m.anixh.top^$all
+||m.antbusiness-web3.com^$all
 ||m.aomahjs.com^$all
 ||m.aomanjs.com^$all
 ||m.aompj588.com^$all
@@ -33502,6 +33515,7 @@
 ||oceanexq.com^$all
 ||oceanexw.comoceanexproe.com^$all
 ||oceanfx.cc^$all
+||oceanfx.live^$all
 ||oceanhub.cc^$all
 ||oceanic-mining.com^$all
 ||oceanicfinance.org^$all
@@ -43862,6 +43876,7 @@
 ||walmartwebs.com^$all
 ||walmert.top^$all
 ||walmert.xyz^$all
+||walmshop.com^$all
 ||walnant.com^$all
 ||walnant.live^$all
 ||walnant.net^$all
@@ -44944,6 +44959,13 @@
 ||www-poloniex.com^$all
 ||www-vip.oklink.fit^$all
 ||www-ysb.com^$all
+||www.btcxsc.com^$all
+||www.fyndiqs.com^$all
+||www.orangttz.vip^$all
+||www.sushikao.com^$all
+||www.sushippj.com^$all
+||www.wessio.com^$all
+||www.zone-buyer.com^$all
 ||www0.avastm.com^$all
 ||www0.avastmes.com^$all
 ||www0.avastomes.com^$all

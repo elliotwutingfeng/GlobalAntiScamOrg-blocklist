@@ -1403,6 +1403,7 @@
 *://*.adxnbit.com/*
 *://*.aecbet.fun/*
 *://*.aecmu.xyz/*
+*://*.aeconstructionpoint.com/*
 *://*.aediu.com/*
 *://*.aegeansean.com/*
 *://*.aegis-capital.co/*
@@ -2478,6 +2479,7 @@
 *://*.antaysecurities.com/*
 *://*.antaystock.com/*
 *://*.antbitminer.com/*
+*://*.antbusiness-web3.com/*
 *://*.antcoinacc.com/*
 *://*.antcoinank.com/*
 *://*.antcoinant.com/*
@@ -2520,6 +2522,7 @@
 *://*.antsex.com/*
 *://*.antsforextw.com/*
 *://*.antstech.com/*
+*://*.antuj.com/*
 *://*.antusdt.com/*
 *://*.anuztrading.com/*
 *://*.anvextrade.com/*
@@ -3976,6 +3979,7 @@
 *://*.batonexeyb.com/*
 *://*.batonextvu.com/*
 *://*.batonexuid.com/*
+*://*.batsedgx.com/*
 *://*.battistradingcompany.com/*
 *://*.battle1688.com/*
 *://*.batwosecion.xyz/*
@@ -9382,6 +9386,7 @@
 *://*.btcworld.live/*
 *://*.btcworldmining.com/*
 *://*.btcwpd.com/*
+*://*.btcxsc.com/*
 *://*.btcyitoin.com/*
 *://*.btczkk.com/*
 *://*.btdefi.shop/*
@@ -10971,6 +10976,7 @@
 *://*.ckvfkqjwuje.com/*
 *://*.claim-hex.com/*
 *://*.claim-mplx-metaplex.net/*
+*://*.claimbackassets.com/*
 *://*.claims-paraswap.com/*
 *://*.clap-arbitrate.click/*
 *://*.clarified-mining.online/*
@@ -16379,6 +16385,7 @@
 *://*.dex-coin.org/*
 *://*.dex-crypto.com/*
 *://*.dex-d.org/*
+*://*.dex-dappai.com/*
 *://*.dex-dodo.com/*
 *://*.dex-dt.com/*
 *://*.dex-dydx.net/*
@@ -16397,6 +16404,7 @@
 *://*.dex-tx.com/*
 *://*.dex-tz.com/*
 *://*.dex-u.org/*
+*://*.dex-uu.top/*
 *://*.dex-vip.com/*
 *://*.dex.bible/*
 *://*.dex222.top/*
@@ -19362,6 +19370,7 @@
 *://*.eurotradeinvestments.com/*
 *://*.euroxbit.com/*
 *://*.euroyal.org/*
+*://*.eurqs.net/*
 *://*.eurtwoxt.site/*
 *://*.eurtwoxt.store/*
 *://*.eurtwoxt.xyz/*
@@ -20860,6 +20869,7 @@
 *://*.fljzdb.com/*
 *://*.flkliu.top/*
 *://*.flllkart7.xyz/*
+*://*.flngf.top/*
 *://*.floioc.com/*
 *://*.flokifx.net/*
 *://*.flolpi.top/*
@@ -21714,6 +21724,7 @@
 *://*.futultd.xyz/*
 *://*.futuo-fx.info/*
 *://*.futuo-fx.net/*
+*://*.futuo.store/*
 *://*.futuoeh.com/*
 *://*.futuohk.com/*
 *://*.futuoiu.com/*
@@ -22500,6 +22511,7 @@
 *://*.fycurt.com/*
 *://*.fydhsk.com/*
 *://*.fylmza.top/*
+*://*.fyndiqs.com/*
 *://*.fyunz.com/*
 *://*.fzangon.cyou/*
 *://*.fzangon.site/*
@@ -24274,6 +24286,7 @@
 *://*.grueryghqwq.com/*
 *://*.grvfx.com/*
 *://*.gs-mining.com/*
+*://*.gs-shops-global.com/*
 *://*.gs-xautrade.com/*
 *://*.gs1391.cc/*
 *://*.gs1568.com/*
@@ -24311,6 +24324,7 @@
 *://*.gspsexpress.com/*
 *://*.gsras.com/*
 *://*.gssdfc.com/*
+*://*.gsshop-stores.com/*
 *://*.gsshop-tw.com/*
 *://*.gsshoponlines.com/*
 *://*.gsshoptw.com/*
@@ -32627,6 +32641,7 @@
 *://*.oceanexproe.com/*
 *://*.oceanexq.com/*
 *://*.oceanfx.cc/*
+*://*.oceanfx.live/*
 *://*.oceanhub.cc/*
 *://*.oceanic-mining.com/*
 *://*.oceanicfinance.org/*
@@ -33214,6 +33229,7 @@
 *://*.orangexu.com/*
 *://*.orangexx.cc/*
 *://*.orangexx.com/*
+*://*.orangttz.vip/*
 *://*.oraofinance.online/*
 *://*.orbit-asetz.com/*
 *://*.orbit.rest/*
@@ -35973,6 +35989,7 @@
 *://*.rydqk.rest/*
 *://*.ryeasytrade.com/*
 *://*.ryeusgdcfcsefl2.com/*
+*://*.ryfgbnc.icu/*
 *://*.ryhwk.asia/*
 *://*.rymdkk.top/*
 *://*.rynoexpressservice.com/*
@@ -38383,11 +38400,13 @@
 *://*.sushidefimex.com/*
 *://*.sushidexfi.com/*
 *://*.sushieng.com/*
+*://*.sushikao.com/*
 *://*.sushilimited.com/*
 *://*.sushippa.com/*
 *://*.sushippd.com/*
 *://*.sushippe.com/*
 *://*.sushippf.com/*
+*://*.sushippj.com/*
 *://*.sutterinvestment.com/*
 *://*.suw8au.buzz/*
 *://*.sv56.com/*
@@ -43186,6 +43205,7 @@
 *://*.walmartwebs.com/*
 *://*.walmert.top/*
 *://*.walmert.xyz/*
+*://*.walmshop.com/*
 *://*.walnant.com/*
 *://*.walnant.live/*
 *://*.walnant.net/*
@@ -43554,6 +43574,7 @@
 *://*.weshinetw.com/*
 *://*.weshop666.com/*
 *://*.weshop886.com/*
+*://*.wessio.com/*
 *://*.westernfxmargin.com/*
 *://*.westerng.com/*
 *://*.westernv.com/*
@@ -45660,6 +45681,7 @@
 *://*.zombiethebot88.com/*
 *://*.zondacrypto.com/*
 *://*.zone-buy.com/*
+*://*.zone-buyer.com/*
 *://*.zone-market.com/*
 *://*.zone-newshop.com/*
 *://*.zone10multitrade.com/*
