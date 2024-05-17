@@ -8647,6 +8647,7 @@
 ||bkeiabcd.vip^$all
 ||bkejgvl.cn^$all
 ||bkex.cloud^$all
+||bkex.zendesk.com^$all
 ||bkexajn.com^$all
 ||bkexb2c.com^$all
 ||bkexcen.com^$all
@@ -23928,6 +23929,7 @@
 ||glow-trade.com^$all
 ||glsoies.com^$all
 ||glxuxl.top^$all
+||gm-investmentsllc.com^$all
 ||gm.gmo-click.xyz^$all
 ||gm.le4v55hluu.online^$all
 ||gm1888.net^$all
@@ -24927,6 +24929,7 @@
 ||h5.huilitrad.com^$all
 ||h5.hxl-exchange.com^$all
 ||h5.icehuv.com^$all
+||h5.ichcoin.top^$all
 ||h5.ifeshfcpl.com^$all
 ||h5.imtoeknstw.com^$all
 ||h5.internationalue.com^$all
@@ -43246,6 +43249,7 @@
 ||veritastrades.com^$all
 ||veritastradingpro.com^$all
 ||veritexfrost.com^$all
+||verlaxtrade.com^$all
 ||verloxtrade.com^$all
 ||vernasijewelry.com^$all
 ||versatiletraders.net^$all

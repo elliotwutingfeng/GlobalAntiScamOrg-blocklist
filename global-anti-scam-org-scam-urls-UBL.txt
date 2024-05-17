@@ -23622,6 +23622,7 @@
 *://*.glsoies.com/*
 *://*.glxuxl.top/*
 *://*.glzb.xyz/*
+*://*.gm-investmentsllc.com/*
 *://*.gm1688.net/*
 *://*.gm1788.net/*
 *://*.gm1888.net/*
@@ -25969,6 +25970,7 @@
 *://*.icexax.live/*
 *://*.icgcoin.tech/*
 *://*.ichats.vip/*
+*://*.ichcoin.top/*
 *://*.iclick.club/*
 *://*.iclick.team/*
 *://*.icljy.top/*
@@ -42585,6 +42587,7 @@
 *://*.veritastrades.com/*
 *://*.veritastradingpro.com/*
 *://*.veritexfrost.com/*
+*://*.verlaxtrade.com/*
 *://*.verloxtrade.com/*
 *://*.vernasijewelry.com/*
 *://*.versatiletraders.net/*
