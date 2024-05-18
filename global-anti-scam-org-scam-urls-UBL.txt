@@ -42969,6 +42969,7 @@
 *://*.vnulouis.com/*
 *://*.vnusaierugf.com/*
 *://*.voaex.cc/*
+*://*.voforexlimited.com/*
 *://*.voipminer.com/*
 *://*.voisws.com/*
 *://*.volacwagenfx.com/*

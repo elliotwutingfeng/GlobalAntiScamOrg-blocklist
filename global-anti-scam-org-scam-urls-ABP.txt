@@ -40857,6 +40857,7 @@
 ||trader.oreanafx.com^
 ||trader.synquotestrader.com^
 ||trader.tradenationxm.com^
+||trader.voforexlimited.com^
 ||trader.winotetrade.com^
 ||trader.x-novox.com^
 ||trader.xm-jp.com^
