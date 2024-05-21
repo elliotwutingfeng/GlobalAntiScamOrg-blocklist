@@ -7589,6 +7589,7 @@
 *://*.bitstamp-usdt.com/*
 *://*.bitstamp.agency/*
 *://*.bitstamp.asia/*
+*://*.bitstamp.buzz/*
 *://*.bitstamp.zone/*
 *://*.bitstampassets.com/*
 *://*.bitstampcoinwins.com/*
@@ -12135,6 +12136,7 @@
 *://*.coinexmax.com/*
 *://*.coinexmining.com/*
 *://*.coinexmining.net/*
+*://*.coinexorg.com/*
 *://*.coinexos.vip/*
 *://*.coinexpa.com/*
 *://*.coinexpertpro.online/*
@@ -37236,6 +37238,7 @@
 *://*.simuliadcweb.com/*
 *://*.simuliadcws.com/*
 *://*.sinance.net/*
+*://*.sincexw.com/*
 *://*.sindlj.com/*
 *://*.sinegytrade.com/*
 *://*.sinfutw.com/*
@@ -38962,6 +38965,7 @@
 *://*.tapbit.com/*
 *://*.tapbitex.com/*
 *://*.tapbitkorea.net/*
+*://*.tapbitt.com/*
 *://*.tapcoin.info/*
 *://*.tapcourierjet.com/*
 *://*.tapgc.com/*

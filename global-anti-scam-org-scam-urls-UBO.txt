@@ -8169,6 +8169,7 @@
 ||bitstamp-btc.com^$all
 ||bitstamp-trade.ltd^$all
 ||bitstamp-usdt.com^$all
+||bitstamp.buzz^$all
 ||bitstampassets.com^$all
 ||bitstampcoinwins.com^$all
 ||bitstampcryptotrade.com^$all
@@ -30047,6 +30048,7 @@
 ||m.coinexen.vip^$all
 ||m.coinexeu.online^$all
 ||m.coinexeu.xyz^$all
+||m.coinexorg.com^$all
 ||m.coinfinel.link^$all
 ||m.coinfinel.org^$all
 ||m.coinlies.com^$all
@@ -43606,6 +43608,7 @@
 ||vip.rdrkred.vip^$all
 ||vip.rokuvip.top^$all
 ||vip.shjys86.com^$all
+||vip.tapbitt.com^$all
 ||vip.toobits.me^$all
 ||vip.ubseth-117.com^$all
 ||vip.xinaocl.xyz^$all
@@ -45183,8 +45186,10 @@
 ||www.btcxsc.com^$all
 ||www.fyndiqs.com^$all
 ||www.orangttz.vip^$all
+||www.sincexw.com^$all
 ||www.sushikao.com^$all
 ||www.sushippj.com^$all
+||www.tapbitt.com^$all
 ||www.wessio.com^$all
 ||www.zone-buyer.com^$all
 ||www0.avastm.com^$all
