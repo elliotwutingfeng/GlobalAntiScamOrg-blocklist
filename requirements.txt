@@ -3,7 +3,7 @@ black==24.4.2
 mypy==1.10.0
 mypy-extensions==1.0.0
 pylint==3.2.2
-requests==2.32.1
+requests==2.32.2
 selenium==4.21.0
 tldextract==5.1.2
 typing-extensions==4.11.0
