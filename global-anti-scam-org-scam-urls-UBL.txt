@@ -6733,6 +6733,7 @@
 *://*.bitmaro.com/*
 *://*.bitmars.pro/*
 *://*.bitmarspro.com/*
+*://*.bitmart-ex.com/*
 *://*.bitmart-pro.com/*
 *://*.bitmart-trust.com/*
 *://*.bitmart.shop/*
@@ -8711,6 +8712,7 @@
 *://*.borsaint.com/*
 *://*.bortnetcryptoltd.com/*
 *://*.borton-ackerman.com/*
+*://*.borviewcapitals.com/*
 *://*.bosidin.shop/*
 *://*.bosijl.com/*
 *://*.bosirvn.com/*
@@ -9589,6 +9591,7 @@
 *://*.bullinvestzones.com/*
 *://*.bullionfimt.com/*
 *://*.bullionfzyn.com/*
+*://*.bullioninde.com/*
 *://*.bullish-dot.co/*
 *://*.bullishautotrade.com/*
 *://*.bullishb.com/*
@@ -9829,6 +9832,7 @@
 *://*.bycoin.biz/*
 *://*.bycoin.shop/*
 *://*.bycoin.us/*
+*://*.bycoinapp.com/*
 *://*.bycp23.com/*
 *://*.bycp26.com/*
 *://*.bycp27.com/*
@@ -10555,6 +10559,7 @@
 *://*.cemexfundsfx-miners.com/*
 *://*.cen-tiger.com/*
 *://*.cen.tw/*
+*://*.cenciaplus.com/*
 *://*.cendken.com/*
 *://*.cendley.com/*
 *://*.cenfxmarkets.com/*
@@ -17784,6 +17789,7 @@
 *://*.edx.exchange/*
 *://*.edxm.cc/*
 *://*.edxmarkertrade.top/*
+*://*.edxmarkets-1.com/*
 *://*.edxmarkets.top/*
 *://*.edxtrade.top/*
 *://*.edxtredemarkets.top/*
@@ -29495,6 +29501,7 @@
 *://*.lovesweiilie.com/*
 *://*.lovetea.shop/*
 *://*.lovetobuyshop.com/*
+*://*.loveuaw.com/*
 *://*.lovewith.vip/*
 *://*.lowescoins.com/*
 *://*.lowfeebtc.com/*
@@ -31551,6 +31558,7 @@
 *://*.mt8-vvmt8.com/*
 *://*.mt8-vvr.com/*
 *://*.mt88e.cn/*
+*://*.mt9w.com/*
 *://*.mtamk.com/*
 *://*.mtas68.com/*
 *://*.mtbtcapp.com/*
@@ -45195,6 +45203,7 @@
 *://*.yituodg.com/*
 *://*.yiwubbs.cn/*
 *://*.yixbit.com/*
+*://*.yixbitmal.com/*
 *://*.yizikaijzen.xyz/*
 *://*.yjemdz.top/*
 *://*.yjsues.com/*

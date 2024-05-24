@@ -9249,6 +9249,7 @@
 ||borsaint.com^$all
 ||bortnetcryptoltd.com^$all
 ||borton-ackerman.com^$all
+||borviewcapitals.com^$all
 ||bosidin.shop^$all
 ||bosijl.com^$all
 ||bosirvn.com^$all
@@ -10073,6 +10074,7 @@
 ||bullinvestzones.com^$all
 ||bullionfimt.com^$all
 ||bullionfzyn.com^$all
+||bullioninde.com^$all
 ||bullish-dot.co^$all
 ||bullishautotrade.com^$all
 ||bullishb.com^$all
@@ -10299,6 +10301,7 @@
 ||bycoin.biz^$all
 ||bycoin.shop^$all
 ||bycoin.us^$all
+||bycoinapp.com^$all
 ||bycryptodex.com^$all
 ||bydefiex.com^$all
 ||bydfi.club^$all
@@ -10989,6 +10992,7 @@
 ||cen-tiger.com^$all
 ||cen.strades.tw^$all
 ||cen.tw^$all
+||cenciaplus.com^$all
 ||cendken.com^$all
 ||cendley.com^$all
 ||cenfxmarkets.com^$all
@@ -24857,6 +24861,7 @@
 ||h5.bitercoin.net^$all
 ||h5.bitget.com^$all
 ||h5.bitget.win^$all
+||h5.bitmart-ex.com^$all
 ||h5.bitstamp.zone^$all
 ||h5.bittrexpro.co^$all
 ||h5.biyap-ex.cc^$all
@@ -29704,6 +29709,7 @@
 ||lovesweiilie.com^$all
 ||lovetea.shop^$all
 ||lovetobuyshop.com^$all
+||loveuaw.com^$all
 ||lowescoins.com^$all
 ||lowfeebtc.com^$all
 ||lowvisionva.com^$all
@@ -32480,6 +32486,7 @@
 ||mt8-vvmt8.com^$all
 ||mt8-vvr.com^$all
 ||mt88e.cn^$all
+||mt9w.com^$all
 ||mtamk.com^$all
 ||mtas68.com^$all
 ||mtbtcapp.com^$all
@@ -45184,6 +45191,7 @@
 ||www-vip.oklink.fit^$all
 ||www-ysb.com^$all
 ||www.btcxsc.com^$all
+||www.edxmarkets-1.com^$all
 ||www.fyndiqs.com^$all
 ||www.orangttz.vip^$all
 ||www.sincexw.com^$all
@@ -45963,6 +45971,7 @@
 ||yisdjd.com^$all
 ||yituodg.com^$all
 ||yixbit.com^$all
+||yixbitmal.com^$all
 ||yizikaijzen.xyz^$all
 ||yjemdz.top^$all
 ||yjsues.com^$all
