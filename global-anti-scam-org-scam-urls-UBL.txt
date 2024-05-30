@@ -16282,6 +16282,7 @@
 *://*.defi-coin.cc/*
 *://*.defi-coinbaseex.net/*
 *://*.defi-crypto.best/*
+*://*.defi-cryptox.xyz/*
 *://*.defi-ctcs.com/*
 *://*.defi-don.com/*
 *://*.defi-ecology.link/*
@@ -43126,6 +43127,7 @@
 *://*.vaticapitales.com/*
 *://*.vaticapitsah.com/*
 *://*.vaticapitxze.com/*
+*://*.vaultbitpro.com/*
 *://*.vaultcoinfx.net/*
 *://*.vaultexchangetrading.com/*
 *://*.vaultfxs.com/*
