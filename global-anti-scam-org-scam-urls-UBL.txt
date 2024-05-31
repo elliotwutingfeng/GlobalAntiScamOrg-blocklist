@@ -103,6 +103,7 @@
 *://*.1766077.com/*
 *://*.1766516.com/*
 *://*.1776363.com/*
+*://*.1778game.com/*
 *://*.17collaborate.xyz/*
 *://*.17gamming.com/*
 *://*.17joke.com/*
@@ -4766,6 +4767,7 @@
 *://*.bigotrade.online/*
 *://*.bigpipfunding.com/*
 *://*.bigpumpbitc.com/*
+*://*.bigtcoins.com/*
 *://*.bigtechfx.com/*
 *://*.bigtiny.com.my/*
 *://*.bigtrade168.com/*
@@ -20481,6 +20483,7 @@
 *://*.febok.top/*
 *://*.fecundcityinvests.com/*
 *://*.fedbitoptions.com/*
+*://*.fedc996.com/*
 *://*.federalfinancial35697.info/*
 *://*.federalfinancialtea.com/*
 *://*.federalstockstrade.com/*
@@ -26543,6 +26546,7 @@
 *://*.imcoinbasere.com/*
 *://*.imcoinshop.com/*
 *://*.imctrade.vip/*
+*://*.imctradingapp1s.com/*
 *://*.imcyp.com/*
 *://*.imegcoin.com/*
 *://*.imerrtw.com/*
@@ -29811,6 +29815,7 @@
 *://*.ltcrra.com/*
 *://*.ltcrrd.com/*
 *://*.ltcrrg.com/*
+*://*.ltcrrh.com/*
 *://*.ltddir.com/*
 *://*.ltdexit.com/*
 *://*.ltex.info/*

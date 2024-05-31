@@ -93,6 +93,7 @@
 ||17-play55.com^$all
 ||1708-cloudmining.net^$all
 ||17381738.com^$all
+||1778game.com^$all
 ||1782.htn1788.net^$all
 ||17collaborate.xyz^$all
 ||17f84.jssiuhr.com^$all
@@ -45658,9 +45659,13 @@
 ||www-poloniex.com^$all
 ||www-vip.oklink.fit^$all
 ||www-ysb.com^$all
+||www.bigtcoins.com^$all
 ||www.btcxsc.com^$all
 ||www.edxmarkets-1.com^$all
+||www.fedc996.com^$all
 ||www.fyndiqs.com^$all
+||www.imctradingapp1s.com^$all
+||www.ltcrrh.com^$all
 ||www.orangttz.vip^$all
 ||www.sincexw.com^$all
 ||www.sushikao.com^$all
