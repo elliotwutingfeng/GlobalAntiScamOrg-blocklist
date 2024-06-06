@@ -2798,6 +2798,7 @@
 ||app.aurora-quantitativefun.com^$all
 ||app.axkjgfbd.com^$all
 ||app.aycdzu.top^$all
+||app.bbex-chain.top^$all
 ||app.bbsab.top^$all
 ||app.bbxotc.org^$all
 ||app.bdbtcglobal.com^$all
@@ -33488,6 +33489,7 @@
 ||neonexustrades.net^$all
 ||neostockoptions.com^$all
 ||neptuneblock.com^$all
+||neptunex.co^$all
 ||neptunexchange.com^$all
 ||neptuntoken.com^$all
 ||neptuntrading.com^$all
@@ -45903,6 +45905,7 @@
 ||www.bigtcoins.com^$all
 ||www.btcxsc.com^$all
 ||www.coinmatecrytodfk9.top^$all
+||www.cy-berage.eth.link^$all
 ||www.edxmarkets-1.com^$all
 ||www.fedc996.com^$all
 ||www.fyndiqs.com^$all
