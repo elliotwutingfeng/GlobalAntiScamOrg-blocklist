@@ -22567,6 +22567,7 @@
 *://*.fxopen.com/*
 *://*.fxopengt.com/*
 *://*.fxopentw.com/*
+*://*.fxopenuve.top/*
 *://*.fxoproxx.com/*
 *://*.fxoptionspro.trade/*
 *://*.fxopxofx.com/*
@@ -26571,6 +26572,7 @@
 *://*.iggtrad.com/*
 *://*.ighhi.top/*
 *://*.igikl.com/*
+*://*.iglobaltopexx.com/*
 *://*.igmarke.com/*
 *://*.igmcoinex.com/*
 *://*.igmexchange.com/*
@@ -30466,6 +30468,7 @@
 *://*.maxbitlivetrading.net/*
 *://*.maxbitpay.com/*
 *://*.maxbitsignals.online/*
+*://*.maxbreadinx.com/*
 *://*.maxc2018.com/*
 *://*.maxcapital-trade.ltd/*
 *://*.maxcoin.club/*
