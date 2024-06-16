@@ -5167,6 +5167,7 @@
 ||bestinvestwithme.com^$all
 ||bestlifecryptotrade.com^$all
 ||bestlifecryptotrading.com^$all
+||bestm.net^$all
 ||bestmarkettrades.com^$all
 ||bestmaticexchange.com^$all
 ||bestmine.cc^$all
