@@ -2043,6 +2043,7 @@
 ||allwin.sandwindfx.com^$all
 ||allwin008.com^$all
 ||allwinbit.com^$all
+||allxkx.com^$all
 ||allycoinfleetcircles.com^$all
 ||allyquestrading.com^$all
 ||almaredfx.club^$all
@@ -5599,6 +5600,7 @@
 ||bijingtt.com^$all
 ||bik888.xyz^$all
 ||bikachain.top^$all
+||bikaglobalaeg.com^$all
 ||bikaglobalwer.com^$all
 ||bikami.vip^$all
 ||bikan.net.cn^$all
@@ -29214,6 +29216,7 @@
 ||kitcoa.cyou^$all
 ||kitcoasia.ink^$all
 ||kitcoasiametalo.com^$all
+||kitcofx.com^$all
 ||kitcomo.pw^$all
 ||kittycoin.online^$all
 ||kiusyhfbgbs368.com^$all
@@ -35709,6 +35712,7 @@
 ||pc24vip.com^$all
 ||pc24win.com^$all
 ||pc24wks.com^$all
+||pc_apax.art-best.com^$all
 ||pcashdwo.com^$all
 ||pcashedu.com^$all
 ||pcasheif.com^$all
@@ -38333,6 +38337,7 @@
 ||sdjsfgyu.com^$all
 ||sdkgjnb.com^$all
 ||sdkng.top^$all
+||sdlccorponline.com^$all
 ||sdnap.shop^$all
 ||sdncshop.com^$all
 ||sdncshop.vip^$all
@@ -41816,6 +41821,7 @@
 ||topcoininvestment.net^$all
 ||topcoinjuis.com^$all
 ||topcoinoptions.com^$all
+||topcoinviju.com^$all
 ||topconfinancefx.com^$all
 ||topcoretrades.com^$all
 ||topcotrade.com^$all
@@ -44919,6 +44925,7 @@
 ||vip.gaifunq.com^$all
 ||vip.gaifuny.com^$all
 ||vip.geegroup.click^$all
+||vip.geminime.top^$all
 ||vip.haitaovutw.com^$all
 ||vip.hanqzl.com^$all
 ||vip.hobito.top^$all
@@ -45031,6 +45038,7 @@
 ||virtualfarmmining.com^$all
 ||virtualtrader.cash^$all
 ||virtue-finance.ltd^$all
+||virtuemart.works^$all
 ||visafxl.com^$all
 ||visainvesting.com^$all
 ||visco-trademining.com^$all
@@ -46580,7 +46588,9 @@
 ||www.campione.me^$all
 ||www.coinmatecrytodfk9.top^$all
 ||www.coinwin-defi.net^$all
+||www.costco-xvc.cc^$all
 ||www.cy-berage.eth.link^$all
+||www.dengage-work-sg.com^$all
 ||www.edxmarkets-1.com^$all
 ||www.fedc996.com^$all
 ||www.fxopenuve.top^$all

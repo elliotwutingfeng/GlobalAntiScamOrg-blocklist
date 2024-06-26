@@ -2068,6 +2068,7 @@
 *://*.alltrust-defi.com/*
 *://*.allwin008.com/*
 *://*.allwinbit.com/*
+*://*.allxkx.com/*
 *://*.allycoinfleetcircles.com/*
 *://*.allyquestrading.com/*
 *://*.almaredfx.club/*
@@ -3082,6 +3083,7 @@
 *://*.arrbitragge.com/*
 *://*.arrudinvest.com/*
 *://*.arsaneljc.com/*
+*://*.art-best.com/*
 *://*.art-charger.info/*
 *://*.art-charger.pro/*
 *://*.art-schooltrade.com/*
@@ -4898,6 +4900,7 @@
 *://*.bik888.com/*
 *://*.bik888.xyz/*
 *://*.bikachain.top/*
+*://*.bikaglobalaeg.com/*
 *://*.bikaglobalwer.com/*
 *://*.bikami.vip/*
 *://*.bikan.net.cn/*
@@ -13866,6 +13869,7 @@
 *://*.cossdex.com/*
 *://*.cossmoss.xyz/*
 *://*.costco-sxo.net/*
+*://*.costco-xvc.cc/*
 *://*.costcoalan.com/*
 *://*.costcoamry.com/*
 *://*.costcoclock.com/*
@@ -16665,6 +16669,7 @@
 *://*.demexpy.com/*
 *://*.deminvestincome.com/*
 *://*.denederlandschetrustcorp.com/*
+*://*.dengage-work-sg.com/*
 *://*.denglu12.com/*
 *://*.dengzimei.top/*
 *://*.denominatorebj.com/*
@@ -23474,6 +23479,7 @@
 *://*.geminiinvest.website/*
 *://*.geminiinvestments.co.uk/*
 *://*.geminiirj.com/*
+*://*.geminime.top/*
 *://*.geminipro.org/*
 *://*.geminisusuen-sde.top/*
 *://*.geminitai.com/*
@@ -28882,6 +28888,7 @@
 *://*.kitcoa.cyou/*
 *://*.kitcoasia.ink/*
 *://*.kitcoasiametalo.com/*
+*://*.kitcofx.com/*
 *://*.kitcomo.pw/*
 *://*.kittycoin.online/*
 *://*.kiusyhfbgbs368.com/*
@@ -37640,6 +37647,7 @@
 *://*.sdjsfgyu.com/*
 *://*.sdkgjnb.com/*
 *://*.sdkng.top/*
+*://*.sdlccorponline.com/*
 *://*.sdnap.shop/*
 *://*.sdncshop.com/*
 *://*.sdncshop.vip/*
@@ -41330,6 +41338,7 @@
 *://*.topcoininvestment.net/*
 *://*.topcoinjuis.com/*
 *://*.topcoinoptions.com/*
+*://*.topcoinviju.com/*
 *://*.topconfinancefx.com/*
 *://*.topcoretrades.com/*
 *://*.topcotrade.com/*
@@ -44400,6 +44409,7 @@
 *://*.virtualtrader.cash/*
 *://*.virtuap.vip/*
 *://*.virtue-finance.ltd/*
+*://*.virtuemart.works/*
 *://*.visafxl.com/*
 *://*.visainvesting.com/*
 *://*.visco-trademining.com/*
