@@ -2002,6 +2002,7 @@
 *://*.aliexpresst.com/*
 *://*.aliexpresswhole.com/*
 *://*.aliexpresswholept.com/*
+*://*.aliexpresswholes.com/*
 *://*.aliexpresswholesa.com/*
 *://*.aliexprestw.com/*
 *://*.aliexprestwo.vip/*
@@ -10744,6 +10745,7 @@
 *://*.cbxp.vip/*
 *://*.cbxsc.vip/*
 *://*.cbyaskf.com/*
+*://*.cbyyl.com/*
 *://*.cbzxcoin.com/*
 *://*.cc7xiqjf.top/*
 *://*.cc99801.com/*
@@ -25727,6 +25729,7 @@
 *://*.hhtz589.com/*
 *://*.hhtz589.com.cn/*
 *://*.hhunwux.cn/*
+*://*.hhwyds.com/*
 *://*.hhyeb.com/*
 *://*.hi-tech-vm.top/*
 *://*.hi.com/*
@@ -26818,6 +26821,7 @@
 *://*.iceuki.com/*
 *://*.icexax.live/*
 *://*.icgcoin.tech/*
+*://*.ichatlink.net/*
 *://*.ichats.vip/*
 *://*.ichcoin.top/*
 *://*.iclick.club/*
@@ -28267,6 +28271,7 @@
 *://*.jpx-909.club/*
 *://*.jpx-coin.com/*
 *://*.jpxtrad05.com/*
+*://*.jpxtrad47.com/*
 *://*.jpxtrademax.com/*
 *://*.jpzymetal.com/*
 *://*.jqq5.com/*
@@ -29159,6 +29164,7 @@
 *://*.kogege.xyz/*
 *://*.kohlecapfx.com/*
 *://*.kohletop.com/*
+*://*.kohvtuc.com/*
 *://*.koicpl.vip/*
 *://*.koidfbit.buzz/*
 *://*.koimallshop.com/*
@@ -30849,6 +30855,7 @@
 *://*.maoyigu.com/*
 *://*.mapcoinfxtrades.com/*
 *://*.mapfx.world/*
+*://*.maple-flow.com/*
 *://*.maquette.amsterdam/*
 *://*.marathondigitalsmining.com/*
 *://*.marathondigitaltradllc.com/*
@@ -30887,6 +30894,7 @@
 *://*.marketdkv.com/*
 *://*.marketdui.com/*
 *://*.marketerprofitnet.com/*
+*://*.marketertravelokabusiness.com/*
 *://*.marketfxvalue.com/*
 *://*.marketicl.com/*
 *://*.marketindex-exchange.com/*
@@ -32332,6 +32340,7 @@
 *://*.momowell.com/*
 *://*.monacoin11.com/*
 *://*.monafund.pro/*
+*://*.monarchlibertygroup.cc/*
 *://*.monat-investment.com/*
 *://*.monday1.org/*
 *://*.mondialinvestmentsltd.vip/*
@@ -32565,6 +32574,7 @@
 *://*.mrtaiwanloan.com/*
 *://*.mrts.vip/*
 *://*.mrxbit.com/*
+*://*.ms-brokerfbs.com/*
 *://*.ms-gobit.com/*
 *://*.ms-ms.site/*
 *://*.ms-tobit.com/*
@@ -36472,6 +36482,7 @@
 *://*.quantitativebot.me/*
 *://*.quantitativedata.xyz/*
 *://*.quantitativetw.net/*
+*://*.quantomcapitals.com/*
 *://*.quantruecrypt.org/*
 *://*.quantum-usdt.info/*
 *://*.quantum-usdt.life/*
@@ -40927,6 +40938,7 @@
 *://*.thedrtrading.bond/*
 *://*.thefinancesquirrel.com/*
 *://*.thefinsras.com/*
+*://*.theflourishingcompany.com/*
 *://*.theflowstockexchange.com/*
 *://*.theforeignexpress.com/*
 *://*.thefundgenie.com/*
@@ -42253,6 +42265,7 @@
 *://*.tradingpls.com/*
 *://*.tradingplugins.com/*
 *://*.tradingprollc.net/*
+*://*.tradingroom84-18.com/*
 *://*.tradingsharesfx.com/*
 *://*.tradingsolutioncompany.com/*
 *://*.tradingsolutionsfx.com/*
@@ -43682,6 +43695,7 @@
 *://*.uqlqg.top/*
 *://*.uranu.site/*
 *://*.uranus-mining.com/*
+*://*.uranusa.site/*
 *://*.uranuswap.finance/*
 *://*.urbancointrade.com/*
 *://*.urbandotshipping.us/*
@@ -46042,6 +46056,7 @@
 *://*.x2bitcoins.net/*
 *://*.x2btcs.com/*
 *://*.x2coinbase.org/*
+*://*.x4x07i3.com/*
 *://*.x8o9.com/*
 *://*.xa852.com/*
 *://*.xa886.com/*

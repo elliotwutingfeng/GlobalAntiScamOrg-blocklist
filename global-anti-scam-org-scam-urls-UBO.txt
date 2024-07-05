@@ -1987,6 +1987,7 @@
 ||aliexpresst.com^$all
 ||aliexpresswhole.com^$all
 ||aliexpresswholept.com^$all
+||aliexpresswholes.com^$all
 ||aliexpresswholesa.com^$all
 ||aliexprestw.com^$all
 ||aliexprestwo.vip^$all
@@ -11205,6 +11206,7 @@
 ||cbxex.com^$all
 ||cbxp.vip^$all
 ||cbxsc.vip^$all
+||cbyyl.com^$all
 ||cbzxcoin.com^$all
 ||cc-bpb.u2ubs.com^$all
 ||cc.22233346.com^$all
@@ -11429,6 +11431,7 @@
 ||cfcmy.com^$all
 ||cfd.fx-protrading.com^$all
 ||cfd.nibcrypto.com^$all
+||cfd.tradingroom84-18.com^$all
 ||cfdadmiralmarkets.com^$all
 ||cfdglobalfx.pro^$all
 ||cfds1.chnthebcr.center^$all
@@ -11570,6 +11573,7 @@
 ||chat.5dtcf.com^$all
 ||chat.7-eleveniuk.co^$all
 ||chat.coinjpex.club^$all
+||chat.ichatlink.net^$all
 ||chat.ichats.vip^$all
 ||chatany.world^$all
 ||chatbotsoft.com^$all
@@ -28738,6 +28742,7 @@
 ||jpx-909.club^$all
 ||jpx-coin.com^$all
 ||jpxtrad05.com^$all
+||jpxtrad47.com^$all
 ||jpxtrademax.com^$all
 ||jpzymetal.com^$all
 ||jqq5.com^$all
@@ -29469,6 +29474,7 @@
 ||kogege.xyz^$all
 ||kohlecapfx.com^$all
 ||kohletop.com^$all
+||kohvtuc.com^$all
 ||koicpl.vip^$all
 ||koidfbit.buzz^$all
 ||koimallshop.com^$all
@@ -31560,6 +31566,7 @@
 ||m.wyney88.cc^$all
 ||m.wyney88.vip^$all
 ||m.wzgolds.com^$all
+||m.x4x07i3.com^$all
 ||m.xbcap.top^$all
 ||m.xc1388.com^$all
 ||m.xcakj.xyz^$all
@@ -31788,6 +31795,7 @@
 ||maodadan.com^$all
 ||mapcoinfxtrades.com^$all
 ||mapfx.world^$all
+||maple-flow.com^$all
 ||marathondigitalsmining.com^$all
 ||marathondigitaltradllc.com^$all
 ||marathoninvestmentplatform.com^$all
@@ -31821,6 +31829,7 @@
 ||marketcoinfx.com^$all
 ||marketcoinsa.com^$all
 ||marketerprofitnet.com^$all
+||marketertravelokabusiness.com^$all
 ||marketfxvalue.com^$all
 ||marketindex-exchange.com^$all
 ||marketingstockexchange.net^$all
@@ -33495,6 +33504,7 @@
 ||mrtaiwanloan.com^$all
 ||mrts.vip^$all
 ||mrxbit.com^$all
+||ms-brokerfbs.com^$all
 ||ms-gobit.com^$all
 ||ms-ms.site^$all
 ||ms-tobit.com^$all
@@ -34043,6 +34053,7 @@
 ||ncct.dfwq.shop^$all
 ||ncct.ntertoday.shop^$all
 ||ncct.uranu.site^$all
+||ncct.uranusa.site^$all
 ||ncgforex.com^$all
 ||ncgken.com^$all
 ||ncgpna.com^$all
@@ -35869,6 +35880,7 @@
 ||pc.igglobalhq.com^$all
 ||pc.megaequityfx.com^$all
 ||pc.mgm138.cc^$all
+||pc.monarchlibertygroup.cc^$all
 ||pc.oandaltd.cc^$all
 ||pc.s-markets.cc^$all
 ||pc.serc-capital.com^$all
@@ -37050,6 +37062,7 @@
 ||q-mechengex.com^$all
 ||q.bestbuyshopmall.com^$all
 ||q.conyyd.com^$all
+||q.hhwyds.com^$all
 ||q.weijiao112.xyz^$all
 ||q005.8legend.vip^$all
 ||q9c0.xyz^$all
@@ -37251,6 +37264,7 @@
 ||quantitativebot.me^$all
 ||quantitativedata.xyz^$all
 ||quantitativetw.net^$all
+||quantomcapitals.com^$all
 ||quantruecrypt.org^$all
 ||quantum-usdt.info^$all
 ||quantum-usdt.life^$all
@@ -46906,6 +46920,7 @@
 ||www.sushikao.com^$all
 ||www.sushippj.com^$all
 ||www.tapbitt.com^$all
+||www.theflourishingcompany.com^$all
 ||www.wessio.com^$all
 ||www.zbncsq.vip^$all
 ||www.zone-buyer.com^$all
