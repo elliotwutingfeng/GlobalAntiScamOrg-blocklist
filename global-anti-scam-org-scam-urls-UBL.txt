@@ -27907,6 +27907,7 @@
 *://*.izver.top/*
 *://*.j-onetrader.ltd/*
 *://*.j-pex.com/*
+*://*.j3k5.xyz/*
 *://*.j6r3fc.com/*
 *://*.j9333.com/*
 *://*.j9482k.xyz/*
@@ -28835,6 +28836,7 @@
 *://*.kcbtex.com/*
 *://*.kcchat.net/*
 *://*.kcckzf.top/*
+*://*.kcexaeg.com/*
 *://*.kcklqwkeir.com/*
 *://*.kcmprime.com/*
 *://*.kcmtradeinc.com/*
@@ -33194,6 +33196,7 @@
 *://*.nasdaqcoinex.com/*
 *://*.nasdaqcrypt.com/*
 *://*.nasdaqes.com/*
+*://*.nasdaqkm.com/*
 *://*.nasdaqmine.com/*
 *://*.nasdaqserver.com/*
 *://*.nasdaqspot.com/*
@@ -34250,6 +34253,7 @@
 *://*.okbipro.com/*
 *://*.okbitb.com/*
 *://*.okbitco.com/*
+*://*.okbiten.com/*
 *://*.okbitex.site/*
 *://*.okbits.site/*
 *://*.okbitx.com/*
@@ -40241,6 +40245,7 @@
 *://*.svipcoins.com/*
 *://*.svipershop.com/*
 *://*.svipnosw888.cn/*
+*://*.svitvsourcehk.com/*
 *://*.svj-568.com/*
 *://*.svj889.com/*
 *://*.svji188.com/*
