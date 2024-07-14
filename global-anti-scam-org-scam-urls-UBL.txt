@@ -4248,6 +4248,7 @@
 *://*.bcbdinexsx.buzz/*
 *://*.bcbexonline.com/*
 *://*.bcbmining.com/*
+*://*.bcc-munich.com/*
 *://*.bccoin.top/*
 *://*.bcdtraders.com/*
 *://*.bcdtyang.com/*

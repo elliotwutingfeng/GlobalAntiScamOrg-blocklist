@@ -5023,6 +5023,7 @@
 ||bcbexonline.com^$all
 ||bcbmining.com^$all
 ||bcbweb.blsyg.top^$all
+||bcc-munich.com^$all
 ||bccoin.top^$all
 ||bcdtraders.com^$all
 ||bcdtyang.com^$all
