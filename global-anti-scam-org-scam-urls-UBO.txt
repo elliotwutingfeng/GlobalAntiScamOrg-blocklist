@@ -17343,6 +17343,7 @@
 ||deminvestincome.com^$all
 ||demo.locusmarketsintltd.com^$all
 ||denederlandschetrustcorp.com^$all
+||dengage.com^$all
 ||dengzimei.top^$all
 ||denominatorebj.com^$all
 ||denosetrades.com^$all
@@ -29461,6 +29462,7 @@
 ||kinginfo.cc^$all
 ||kinginfos.top^$all
 ||kingscoinmarket.com^$all
+||kingsoptiontrade.com^$all
 ||kingspool.org^$all
 ||kingst.cc^$all
 ||kingstraders.net^$all
@@ -39249,6 +39251,7 @@
 ||shoppxmousi.shop^$all
 ||shopsmovie.com^$all
 ||shopspheretw.com^$all
+||shopsreviews.vip^$all
 ||shopsupre.com^$all
 ||shoptianxia.com^$all
 ||shoptwe.com^$all
@@ -47086,6 +47089,7 @@
 ||www-ysb.com^$all
 ||www.acryptot.com^$all
 ||www.aomexzp.com^$all
+||www.bestbitex.com^$all
 ||www.bigtcoins.com^$all
 ||www.btcxsc.com^$all
 ||www.campione.me^$all
