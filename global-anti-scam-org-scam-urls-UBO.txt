@@ -995,6 +995,7 @@
 ||a1scaleprofx.online^$all
 ||a2bcoins.com^$all
 ||a2bfxsl.com^$all
+||a2eefb1f.pro^$all
 ||a2zcoin-global.com^$all
 ||a3gamesbar.net^$all
 ||a3v5bae4b-9a.44thw8.com^$all
@@ -1682,6 +1683,7 @@
 ||ai-data.top^$all
 ||ai-datarobot.me^$all
 ||ai-datarobot.org^$all
+||ai-defi.pro^$all
 ||ai-finance.top^$all
 ||ai-internationald.com^$all
 ||ai-internationale.com^$all
@@ -10730,6 +10732,7 @@
 ||c1kex.ru^$all
 ||c2pinfo.com^$all
 ||c365defi.com^$all
+||c4740946.pro^$all
 ||c4ucapital.com^$all
 ||c8aa34382.com^$all
 ||c8pgw.icu^$all
@@ -38898,6 +38901,7 @@
 ||setbf.com^$all
 ||setngj.com^$all
 ||setsai.com^$all
+||settlemenplio.com^$all
 ||settlementiou.com^$all
 ||settlementjuis.com^$all
 ||seu2036518.com^$all
@@ -47104,6 +47108,7 @@
 ||www.fyndiqs.com^$all
 ||www.iglobaltopexx.com^$all
 ||www.imctradingapp1s.com^$all
+||www.inefex.pro^$all
 ||www.kakaue.com^$all
 ||www.kakauea.com^$all
 ||www.kakaueae.com^$all
@@ -48807,6 +48812,7 @@
 ||zykausdt.com^$all
 ||zylotrade.com^$all
 ||zylotradedigital.com^$all
+||zymomer.cc^$all
 ||zynecoins.net^$all
 ||zystrainvest.net^$all
 ||zyzdapp1.com^$all

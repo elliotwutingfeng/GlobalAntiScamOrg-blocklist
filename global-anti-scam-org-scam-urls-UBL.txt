@@ -954,6 +954,7 @@
 *://*.a1scaleprofx.online/*
 *://*.a2bcoins.com/*
 *://*.a2bfxsl.com/*
+*://*.a2eefb1f.pro/*
 *://*.a2zcoin-global.com/*
 *://*.a3gamesbar.net/*
 *://*.a4bfgh.link/*
@@ -1652,6 +1653,7 @@
 *://*.ai-data.top/*
 *://*.ai-datarobot.me/*
 *://*.ai-datarobot.org/*
+*://*.ai-defi.pro/*
 *://*.ai-finance.top/*
 *://*.ai-internationald.com/*
 *://*.ai-internationale.com/*
@@ -10204,6 +10206,7 @@
 *://*.c1kex.ru/*
 *://*.c2pinfo.com/*
 *://*.c365defi.com/*
+*://*.c4740946.pro/*
 *://*.c4ucapital.com/*
 *://*.c8aa34382.com/*
 *://*.c8pgw.icu/*
@@ -27344,6 +27347,7 @@
 *://*.indusgold.com/*
 *://*.indusgold.ltd/*
 *://*.indusgoldfx.com/*
+*://*.inefex.pro/*
 *://*.inergie.io/*
 *://*.inertiafinance.com/*
 *://*.inestcrypto.online/*
@@ -38200,6 +38204,7 @@
 *://*.setbf.com/*
 *://*.setngj.com/*
 *://*.setsai.com/*
+*://*.settlemenplio.com/*
 *://*.settlementiou.com/*
 *://*.settlementjuis.com/*
 *://*.seu2036518.com/*
@@ -48097,6 +48102,7 @@
 *://*.zykausdt.com/*
 *://*.zylotrade.com/*
 *://*.zylotradedigital.com/*
+*://*.zymomer.cc/*
 *://*.zynecoins.net/*
 *://*.zyomxn.top/*
 *://*.zysgshop.com/*
