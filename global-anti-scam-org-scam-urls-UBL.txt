@@ -8854,6 +8854,7 @@
 *://*.bluestonefundinggroup.com/*
 *://*.bluestones-miningtrade.com/*
 *://*.bluesuntradeltd.com/*
+*://*.bluetarp.cc/*
 *://*.bluetechtrader.com/*
 *://*.bluetha.com/*
 *://*.bluetinvestinc.com/*
@@ -20325,6 +20326,7 @@
 *://*.ethminpool.vip/*
 *://*.ethmkl.com/*
 *://*.ethmz.com/*
+*://*.ethnano.com/*
 *://*.ethnls.com/*
 *://*.ethnqd.com/*
 *://*.ethnrq.com/*
@@ -21349,6 +21351,7 @@
 *://*.fatebit.com/*
 *://*.fathomtradeltd.com/*
 *://*.fatimacoin.com/*
+*://*.fatsnz.shop/*
 *://*.fatt188.com/*
 *://*.faucetbtcclaim.com/*
 *://*.faucetusdt.com/*
@@ -29129,6 +29132,7 @@
 *://*.jorssx.com/*
 *://*.joybit.io/*
 *://*.joybit.vip/*
+*://*.joybitast.com/*
 *://*.joybvt.vip/*
 *://*.joybvtsl.vip/*
 *://*.jp-ex.io/*
@@ -37291,6 +37295,7 @@
 *://*.proglobalexchange.com/*
 *://*.proglobalrisefx.com/*
 *://*.progmat-btc.online/*
+*://*.progmat-btc.shop/*
 *://*.progyens.com/*
 *://*.progynn.com/*
 *://*.progyy.com/*
@@ -48580,6 +48585,7 @@
 *://*.yahoks.com/*
 *://*.yahoofficial.com/*
 *://*.yahoopt.shop/*
+*://*.yahootesco.com/*
 *://*.yahsar.com/*
 *://*.yahsct.com/*
 *://*.yahsom.com/*

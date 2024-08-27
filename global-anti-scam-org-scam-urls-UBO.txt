@@ -6127,6 +6127,7 @@
 ||bingx-ex.net^$all
 ||bingx-top.net^$all
 ||bingx.com^$all
+||bingx.fatsnz.shop^$all
 ||bingxcoins.com^$all
 ||bingxcopytrade.com^$all
 ||bingxextop.com^$all
@@ -20993,6 +20994,7 @@
 ||ethminpool.vip^$all
 ||ethmkl.com^$all
 ||ethmz.com^$all
+||ethnano.com^$all
 ||ethnls.com^$all
 ||ethnqd.com^$all
 ||ethnrq.com^$all
@@ -29693,6 +29695,7 @@
 ||jorssx.com^$all
 ||joybit.io^$all
 ||joybit.vip^$all
+||joybitast.com^$all
 ||joybvt.vip^$all
 ||joybvtsl.vip^$all
 ||jp-ex.io^$all
@@ -38239,6 +38242,7 @@
 ||proglobalexchange.com^$all
 ||proglobalrisefx.com^$all
 ||progmat-btc.online^$all
+||progmat-btc.shop^$all
 ||progyens.com^$all
 ||progynn.com^$all
 ||prohedgetrade.com^$all
@@ -48785,6 +48789,7 @@
 ||www.aomexzp.com^$all
 ||www.bestbitex.com^$all
 ||www.bigtcoins.com^$all
+||www.bluetarp.cc^$all
 ||www.btcxsc.com^$all
 ||www.campione.me^$all
 ||www.coinmatecrytodfk9.top^$all
@@ -49532,6 +49537,7 @@
 ||yahoo.qhxhjw1hvt.xyz^$all
 ||yahoofficial.com^$all
 ||yahoopt.shop^$all
+||yahootesco.com^$all
 ||yahsct.com^$all
 ||yahsom.com^$all
 ||yahuifinancefx.com^$all
