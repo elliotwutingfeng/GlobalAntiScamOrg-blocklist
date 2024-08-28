@@ -6714,6 +6714,7 @@
 ||bitcionex.com^$all
 ||bitcipher.net^$all
 ||bitcirclestrade.com^$all
+||bitckl.com^$all
 ||bitcleaptrade.com^$all
 ||bitcloak.org^$all
 ||bitclog-jp.s3.amazonaws.com^$all
@@ -12278,6 +12279,8 @@
 ||clickdown.sztehao.com^$all
 ||clickerzcoin.com^$all
 ||clickmoney.club^$all
+||clicksquad.com.au^$all
+||clicksquadopt.com^$all
 ||clicktrades.com^$all
 ||client.buybargains.buzz^$all
 ||client.collart.co^$all
@@ -48808,6 +48811,7 @@
 ||www.iglobaltopexx.com^$all
 ||www.imctradingapp1s.com^$all
 ||www.inefex.pro^$all
+||www.jumiasshop.com^$all
 ||www.kakaue.com^$all
 ||www.kakauea.com^$all
 ||www.kakaueae.com^$all
@@ -48872,6 +48876,7 @@
 ||www.sushippj.com^$all
 ||www.tapbitt.com^$all
 ||www.theflourishingcompany.com^$all
+||www.themoviesproduction.com^$all
 ||www.torus-pro.com^$all
 ||www.wanshatb.vip^$all
 ||www.wessio.com^$all
@@ -49258,6 +49263,7 @@
 ||xmglobalvip.com^$all
 ||xmldfjkjg.xyz^$all
 ||xmltdfx.com^$all
+||xmmall.net^$all
 ||xmmalsop.com^$all
 ||xmmarketlimited.com^$all
 ||xmndugf.com^$all

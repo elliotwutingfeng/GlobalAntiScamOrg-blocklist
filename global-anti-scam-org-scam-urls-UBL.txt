@@ -5902,6 +5902,7 @@
 *://*.bitcionpro.com/*
 *://*.bitcipher.net/*
 *://*.bitcirclestrade.com/*
+*://*.bitckl.com/*
 *://*.bitcleaptrade.com/*
 *://*.bitcloak.org/*
 *://*.bitclog.co/*
@@ -11719,6 +11720,8 @@
 *://*.clickconsultshop.com/*
 *://*.clickerzcoin.com/*
 *://*.clickmoney.club/*
+*://*.clicksquad.com.au/*
+*://*.clicksquadopt.com/*
 *://*.clicktrades.com/*
 *://*.cliffordtrading.org/*
 *://*.cliffstocktrading.com/*
@@ -29328,6 +29331,7 @@
 *://*.jumbo-market.blog/*
 *://*.jumei479hui.xyz/*
 *://*.jumeishequ.com/*
+*://*.jumiasshop.com/*
 *://*.jumpasn.com/*
 *://*.jumpcryptostart.com/*
 *://*.jumperax.com/*
@@ -42553,6 +42557,7 @@
 *://*.themagicfx.com/*
 *://*.themeramexcooperative.com/*
 *://*.theminingstate.com/*
+*://*.themoviesproduction.com/*
 *://*.theoverlords.xyz/*
 *://*.thepioneiroo.com/*
 *://*.theprogressivecoin.com/*
@@ -48263,6 +48268,7 @@
 *://*.xmglobalvip.com/*
 *://*.xmldfjkjg.xyz/*
 *://*.xmltdfx.com/*
+*://*.xmmall.net/*
 *://*.xmmalsop.com/*
 *://*.xmmarketlimited.com/*
 *://*.xmndugf.com/*
