@@ -12279,7 +12279,6 @@
 ||clickdown.sztehao.com^$all
 ||clickerzcoin.com^$all
 ||clickmoney.club^$all
-||clicksquad.com.au^$all
 ||clicksquadopt.com^$all
 ||clicktrades.com^$all
 ||client.buybargains.buzz^$all
@@ -17133,6 +17132,7 @@
 ||d.zrmub.top^$all
 ||d10miners.com^$all
 ||d1pnj1i306wkf6.cloudfront.net^$all
+||d1vaa7x6qvxv0x.cloudfront.net^$all
 ||d2-trade.com^$all
 ||d2.seatop.life^$all
 ||d2022.xyz^$all
@@ -17703,6 +17703,7 @@
 ||defi.wallet-usdt-eth-erc20.com^$all
 ||defi.wasmetgeq20.com^$all
 ||defi.wasmice.com^$all
+||defi.wasmtoe.com^$all
 ||defi.wasmtradc.com^$all
 ||defi.yby-etoro.com^$all
 ||defi2.ai^$all
@@ -35503,6 +35504,7 @@
 ||newshonicecol.com^$all
 ||newsparkex.com^$all
 ||newsroom2009.top^$all
+||newsworldglobe.com^$all
 ||newteawoo.com^$all
 ||newtonexs.com^$all
 ||newtonheathtradingllc.com^$all
@@ -46659,6 +46661,7 @@
 ||v7.amm-crypto.store^$all
 ||v7.bxcswap.cc^$all
 ||v8.aicontract.info^$all
+||v8.smartblockai.com^$all
 ||v9.aicontract.info^$all
 ||v9.smartblockai.com^$all
 ||v9.webteeswap.com^$all

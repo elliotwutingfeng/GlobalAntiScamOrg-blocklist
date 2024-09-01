@@ -11720,7 +11720,6 @@
 *://*.clickconsultshop.com/*
 *://*.clickerzcoin.com/*
 *://*.clickmoney.club/*
-*://*.clicksquad.com.au/*
 *://*.clicksquadopt.com/*
 *://*.clicktrades.com/*
 *://*.cliffordtrading.org/*
@@ -34461,6 +34460,7 @@
 *://*.newshonicecol.com/*
 *://*.newsparkex.com/*
 *://*.newsroom2009.top/*
+*://*.newsworldglobe.com/*
 *://*.newteawoo.com/*
 *://*.newtonexs.com/*
 *://*.newtonheathtradingllc.com/*
@@ -46924,6 +46924,7 @@
 *://*.was00.xyz/*
 *://*.wasmetgeq20.com/*
 *://*.wasmice.com/*
+*://*.wasmtoe.com/*
 *://*.wasmtradc.com/*
 *://*.waspboss.com/*
 *://*.wass1.cn/*
