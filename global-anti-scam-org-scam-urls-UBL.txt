@@ -36781,7 +36781,6 @@
 *://*.pioneerfx.co/*
 *://*.pioneerfx365.com/*
 *://*.pioneerswap.com/*
-*://*.pionex.com/*
 *://*.pionexbest.com/*
 *://*.pionexbtn.com/*
 *://*.pionexbtno.com/*
