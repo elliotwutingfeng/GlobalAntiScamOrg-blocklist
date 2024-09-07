@@ -8048,6 +8048,7 @@
 *://*.bitstampassets.com/*
 *://*.bitstampcoinwins.com/*
 *://*.bitstampcryptotrade.com/*
+*://*.bitstampd.com/*
 *://*.bitstampfks.com/*
 *://*.bitstampkh.top/*
 *://*.bitstampkoh.com/*
@@ -8542,6 +8543,7 @@
 *://*.bixamgrqd.top/*
 *://*.bixinvest.com/*
 *://*.bixtcoin.net/*
+*://*.bixtstamp.cc/*
 *://*.bixzlines.com/*
 *://*.biyap-ex.cc/*
 *://*.biyap.top/*
@@ -17672,6 +17674,7 @@
 *://*.digicoinz.net/*
 *://*.digiezy.com/*
 *://*.digificex.com/*
+*://*.digifinex.com/*
 *://*.digifinex1.com/*
 *://*.digifinexbtc.com/*
 *://*.digifxtrader.com/*
@@ -21965,6 +21968,7 @@
 *://*.fintechtradesdefi.com/*
 *://*.fintex.asia/*
 *://*.fintexaurum.com/*
+*://*.fintocd.com/*
 *://*.fintoch.com/*
 *://*.fintrack.org/*
 *://*.fintrade.me/*
@@ -22105,6 +22109,7 @@
 *://*.fkczi.top/*
 *://*.fkexbb.vip/*
 *://*.fkforextw.com/*
+*://*.fkhkfc.top/*
 *://*.fkkjbuhihwnkb.com/*
 *://*.fklosyi.com/*
 *://*.fklsoe.com/*
@@ -27353,6 +27358,7 @@
 *://*.huaqiangbei.site/*
 *://*.huaqiangw.shop/*
 *://*.huarunkijxsef.top/*
+*://*.huat88.xyz/*
 *://*.huatai168.com/*
 *://*.huataii.com/*
 *://*.huataioa.com/*
@@ -30435,6 +30441,7 @@
 *://*.krychs.com/*
 *://*.kryptocarts.com/*
 *://*.kryptoglobal.finance/*
+*://*.krypton.so/*
 *://*.kryptonaryfx.online/*
 *://*.kryptondesk.com/*
 *://*.kryptoprofitfx.live/*
@@ -32443,6 +32450,7 @@
 *://*.mcsdic.com/*
 *://*.mcsdiu.com/*
 *://*.mcssonec.vip/*
+*://*.mct98.com/*
 *://*.mcus.me/*
 *://*.mcveytraders.com/*
 *://*.mdbfbvs.vip/*
@@ -33030,6 +33038,8 @@
 *://*.micecoin.app/*
 *://*.micex.buzz/*
 *://*.micex.top/*
+*://*.micmarkfx.cc/*
+*://*.micmarkfx.com/*
 *://*.microchainfx.org/*
 *://*.microcrypto-miner.online/*
 *://*.microlightstrade.com/*
@@ -40785,6 +40795,7 @@
 *://*.soultrade72.com/*
 *://*.soultradings.com/*
 *://*.souqshopp.com/*
+*://*.sourcecoinexchanges.com/*
 *://*.sourcemo.store/*
 *://*.souringinvestments.com/*
 *://*.southnan.com/*
@@ -42844,6 +42855,7 @@
 *://*.tickmil.buzz/*
 *://*.tickmillcs.xyz/*
 *://*.tickmillex.com/*
+*://*.tickmillnets.com/*
 *://*.tickmillprotrade.com/*
 *://*.tickmilltml.xyz/*
 *://*.tickmilltrading.com/*
@@ -42935,6 +42947,7 @@
 *://*.tiktok-wholesales.com/*
 *://*.tiktok2018.com/*
 *://*.tiktok2020.com/*
+*://*.tiktok758.com/*
 *://*.tiktokapp.bond/*
 *://*.tiktokbq.com/*
 *://*.tiktokclick.cc/*
@@ -47156,6 +47169,7 @@
 *://*.was00.xyz/*
 *://*.wasmetgeq20.com/*
 *://*.wasmice.com/*
+*://*.wasmoquw.com/*
 *://*.wasmtoe.com/*
 *://*.wasmtradc.com/*
 *://*.waspboss.com/*

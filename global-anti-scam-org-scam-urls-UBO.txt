@@ -8797,6 +8797,7 @@
 ||bitstampassets.com^$all
 ||bitstampcoinwins.com^$all
 ||bitstampcryptotrade.com^$all
+||bitstampd.com^$all
 ||bitstampfks.com^$all
 ||bitstampkoh.com^$all
 ||bitstampktx.com^$all
@@ -9272,6 +9273,7 @@
 ||bixamgrqd.top^$all
 ||bixinvest.com^$all
 ||bixtcoin.net^$all
+||bixtstamp.cc^$all
 ||bixzlines.com^$all
 ||biyap.top^$all
 ||biydstmex.top^$all
@@ -17766,6 +17768,7 @@
 ||defi.wallet-usdt-eth-erc20.com^$all
 ||defi.wasmetgeq20.com^$all
 ||defi.wasmice.com^$all
+||defi.wasmoquw.com^$all
 ||defi.wasmtoe.com^$all
 ||defi.wasmtradc.com^$all
 ||defi.yby-etoro.com^$all
@@ -22751,6 +22754,7 @@
 ||fk168.heii.com^$all
 ||fkexbb.vip^$all
 ||fkforextw.com^$all
+||fkhkfc.top^$all
 ||fklosyi.com^$all
 ||fkmzjz.shop^$all
 ||fkosls.com^$all
@@ -26832,6 +26836,7 @@
 ||h5.slnqoef.top^$all
 ||h5.sogotrader.com^$all
 ||h5.sothebysinc.world^$all
+||h5.sourcecoinexchanges.com^$all
 ||h5.sqg.life^$all
 ||h5.square99.xyz^$all
 ||h5.square999.net^$all
@@ -28142,6 +28147,7 @@
 ||huaqiangbei.site^$all
 ||huaqiangw.shop^$all
 ||huarunkijxsef.top^$all
+||huat88.xyz^$all
 ||huatai168.com^$all
 ||huatruer.com^$all
 ||huawei.sttfe.com^$all
@@ -30803,6 +30809,7 @@
 ||krptosdxonline.buzz^$all
 ||kryptocarts.com^$all
 ||kryptoglobal.finance^$all
+||krypton.so^$all
 ||kryptonaryfx.online^$all
 ||kryptondesk.com^$all
 ||kryptoprofitfx.live^$all
@@ -33464,6 +33471,7 @@
 ||mcsdic.com^$all
 ||mcsdiu.com^$all
 ||mcssonec.vip^$all
+||mct98.com^$all
 ||mctu.coingcx.com^$all
 ||mcus.me^$all
 ||mcveytraders.com^$all
@@ -37424,6 +37432,7 @@
 ||pc.lbmalimited.cc^$all
 ||pc.megaequityfx.com^$all
 ||pc.mgm138.cc^$all
+||pc.micmarkfx.cc^$all
 ||pc.monarchlibertygroup.cc^$all
 ||pc.oandaltd.cc^$all
 ||pc.s-markets.cc^$all
@@ -43473,6 +43482,7 @@
 ||tickmil.buzz^$all
 ||tickmillcs.xyz^$all
 ||tickmillex.com^$all
+||tickmillnets.com^$all
 ||tickmillprotrade.com^$all
 ||tickmilltml.xyz^$all
 ||tickmilltrading.com^$all
@@ -49054,11 +49064,13 @@
 ||www.cy-berage.eth.link^$all
 ||www.defiscloud.com^$all
 ||www.dengage-work-sg.com^$all
+||www.digifinex.com^$all
 ||www.dining-room.cc^$all
 ||www.easycryptousx.com^$all
 ||www.edxmarkets-1.com^$all
 ||www.exchanges1.cc^$all
 ||www.fedc996.com^$all
+||www.fintocd.com^$all
 ||www.fxopenuve.top^$all
 ||www.fyndiqs.com^$all
 ||www.iglobaltopexx.com^$all
@@ -49121,6 +49133,7 @@
 ||www.m.kakauesr.com^$all
 ||www.maxbreadinx.com^$all
 ||www.melco-pblgaming.com^$all
+||www.micmarkfx.com^$all
 ||www.okbiten.com^$all
 ||www.orangttz.vip^$all
 ||www.oslvip.com^$all
@@ -49130,6 +49143,7 @@
 ||www.tapbitt.com^$all
 ||www.theflourishingcompany.com^$all
 ||www.themoviesproduction.com^$all
+||www.tiktok758.com^$all
 ||www.torus-pro.com^$all
 ||www.wanshatb.vip^$all
 ||www.wessio.com^$all
