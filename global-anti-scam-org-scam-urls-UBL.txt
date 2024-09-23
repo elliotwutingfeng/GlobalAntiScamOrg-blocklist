@@ -1231,6 +1231,7 @@
 *://*.accessivw.com/*
 *://*.accessjdn.com/*
 *://*.accessmaxtrade.com/*
+*://*.accessprimefin.com/*
 *://*.accessprotrade.com/*
 *://*.accesstradings.net/*
 *://*.accinvestmentalliance.com/*
@@ -1742,6 +1743,7 @@
 *://*.ai52888.com/*
 *://*.ai666.win/*
 *://*.aiaffiliatetrade.com/*
+*://*.aibassetinvlimited.com/*
 *://*.aibchk.com/*
 *://*.aibcu.com/*
 *://*.aibitrader.com/*
@@ -10184,6 +10186,7 @@
 *://*.bubble-world.cc/*
 *://*.bubmining.com/*
 *://*.bubu68.com/*
+*://*.bubye.vip/*
 *://*.budagloge.com/*
 *://*.budgetfundinvestment.com/*
 *://*.budimaxpro.com/*
@@ -10425,6 +10428,7 @@
 *://*.bwcryptos.com/*
 *://*.bwerc.com/*
 *://*.bwfx-capitaltrades.online/*
+*://*.bwfxcrt.com/*
 *://*.bwin188.net/*
 *://*.bwin5888.cc/*
 *://*.bwin688.net/*
@@ -11414,6 +11418,7 @@
 *://*.cfint.net/*
 *://*.cfixtrades.com/*
 *://*.cflaas.com/*
+*://*.cflexpro.com/*
 *://*.cfminingbot.info/*
 *://*.cfnmine.com/*
 *://*.cfreserve.com/*
@@ -12739,6 +12744,7 @@
 *://*.coincasso-btc.com/*
 *://*.coincasso-ex.com/*
 *://*.coincasso-met.com/*
+*://*.coincbx.com/*
 *://*.coincc-maxprodefi.com/*
 *://*.coincc-prodefi.com/*
 *://*.coincc-promaxdefi.com/*
@@ -13257,6 +13263,7 @@
 *://*.coinlifee.vip/*
 *://*.coinlim.net/*
 *://*.coinlimed.top/*
+*://*.coinlink-t.com/*
 *://*.coinlion.fun/*
 *://*.coinlion.online/*
 *://*.coinlionali.com/*
@@ -13410,6 +13417,7 @@
 *://*.coinmetro.top/*
 *://*.coinmetrodwq.top/*
 *://*.coinmetropale.org/*
+*://*.coinmetrowallet.com/*
 *://*.coinmex.trade/*
 *://*.coinmexs-conecsts.shop/*
 *://*.coinmextrades.com/*
@@ -14335,6 +14343,7 @@
 *://*.confluxltd.com/*
 *://*.congratulationsex.com/*
 *://*.conibaseminingcrypto.com/*
+*://*.conichek.cc/*
 *://*.coninvestholdingsltd.com/*
 *://*.connaughtfx.com/*
 *://*.connect-ethereum.com/*
@@ -17333,6 +17342,7 @@
 *://*.defiyield-eth.net/*
 *://*.defiyieldinvests.com/*
 *://*.defiyieldmining.com/*
+*://*.defyapp.site/*
 *://*.defyapp.world/*
 *://*.degbtcap.com/*
 *://*.degtradebtc.com/*
@@ -19754,6 +19764,7 @@
 *://*.etaspro.com/*
 *://*.etastop.com/*
 *://*.etasvip.com/*
+*://*.etasvvip.com/*
 *://*.etausdc.com/*
 *://*.etay.com/*
 *://*.etb.org.cn/*
@@ -20435,6 +20446,7 @@
 *://*.ethereumwing.com/*
 *://*.ethereumwoo.com/*
 *://*.etherfaqs.com/*
+*://*.etherfaqs.net/*
 *://*.etherguar.shop/*
 *://*.etherlava.com/*
 *://*.etherlemon.com/*
@@ -26351,6 +26363,7 @@
 *://*.haitaoptus.com/*
 *://*.haitaoptus.vip/*
 *://*.haitaorky.cc/*
+*://*.haitaorky.com/*
 *://*.haitaosutw.com/*
 *://*.haitaovet.com/*
 *://*.haitaovkz.com/*
@@ -27038,6 +27051,7 @@
 *://*.hkdcoines.com/*
 *://*.hkdexwealth.com/*
 *://*.hkdmzpq.top/*
+*://*.hkdprc.com/*
 *://*.hkdsttd.network/*
 *://*.hkdsttd.vip/*
 *://*.hkdszjyw.com/*
@@ -29479,6 +29493,7 @@
 *://*.joybit.io/*
 *://*.joybit.vip/*
 *://*.joybitast.com/*
+*://*.joybitex.com/*
 *://*.joybvt.vip/*
 *://*.joybvtsl.vip/*
 *://*.jp-ex.io/*
@@ -35497,6 +35512,7 @@
 *://*.oanda15.org/*
 *://*.oanda16.com/*
 *://*.oandadrf.com/*
+*://*.oandaer.com/*
 *://*.oandaex.com/*
 *://*.oandafxinvest.com/*
 *://*.oandagjaadd.com/*
@@ -36142,6 +36158,7 @@
 *://*.opnxweb.com/*
 *://*.opofinance.com/*
 *://*.opofx.com/*
+*://*.opool21.xyz/*
 *://*.opplhjunb.com/*
 *://*.oppxing.com/*
 *://*.opqersw.net/*
@@ -37239,6 +37256,7 @@
 *://*.ploesiw.store/*
 *://*.ploesiw.xyz/*
 *://*.ploexiw.com/*
+*://*.plolonieu.com/*
 *://*.plomtradeltd.com/*
 *://*.ploocoin.com/*
 *://*.plosir.com/*
@@ -41969,6 +41987,7 @@
 *://*.suningshop.net/*
 *://*.suningtw.com/*
 *://*.suninxamlowu.top/*
+*://*.sunmall.link/*
 *://*.sunnicrypto.com/*
 *://*.sunnyforex.com/*
 *://*.sunnyfortunehk.com/*
@@ -44863,6 +44882,7 @@
 *://*.trust-bitearnings.ltd/*
 *://*.trust-cn.net/*
 *://*.trust-coins.com/*
+*://*.trust-metatrading-pro.com/*
 *://*.trust-miner.org/*
 *://*.trust-nft.net/*
 *://*.trust-otc.com/*
@@ -46026,6 +46046,7 @@
 *://*.upbitcoin.today/*
 *://*.upbitcx.com/*
 *://*.upbitensured.org/*
+*://*.upbitep.com/*
 *://*.upbitev.com/*
 *://*.upbitex.net/*
 *://*.upbitextd.com/*

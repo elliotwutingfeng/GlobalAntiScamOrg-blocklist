@@ -1268,6 +1268,7 @@
 ||accessivw.com^$all
 ||accessjdn.com^$all
 ||accessmaxtrade.com^$all
+||accessprimefin.com^$all
 ||accessprotrade.com^$all
 ||accesstradings.net^$all
 ||accinvestmentalliance.com^$all
@@ -1505,6 +1506,7 @@
 ||admfx-vip.com^$all
 ||admimanbike.com^$all
 ||admin.amendaex.vip^$all
+||admin.coincbx.com^$all
 ||admin.joom.zone^$all
 ||admin.supersign99.com^$all
 ||admin.trofi.win^$all
@@ -1760,6 +1762,7 @@
 ||ai52888.com^$all
 ||ai666.win^$all
 ||aiaffiliatetrade.com^$all
+||aibassetinvlimited.com^$all
 ||aibchk.com^$all
 ||aibcu.com^$all
 ||aibitrader.com^$all
@@ -3318,6 +3321,7 @@
 ||app.hk8deep.cn^$all
 ||app.hkcp75.cc^$all
 ||app.hkcpma.top^$all
+||app.hkdprc.com^$all
 ||app.hkslut.com^$all
 ||app.hlqrfu.top^$all
 ||app.hmwkea.top^$all
@@ -10859,6 +10863,7 @@
 ||bubble-world.cc^$all
 ||bubmining.com^$all
 ||bubu68.com^$all
+||bubye.vip^$all
 ||budagloge.com^$all
 ||budgetfundinvestment.com^$all
 ||budimaxpro.com^$all
@@ -11088,6 +11093,7 @@
 ||bwcryptos.com^$all
 ||bwerc.com^$all
 ||bwfx-capitaltrades.online^$all
+||bwfxcrt.com^$all
 ||bwin188.net^$all
 ||bwin5888.cc^$all
 ||bwin688.net^$all
@@ -12036,6 +12042,7 @@
 ||cfint.net^$all
 ||cfixtrades.com^$all
 ||cflaas.com^$all
+||cflexpro.com^$all
 ||cfminingbot.info^$all
 ||cfnmine.com^$all
 ||cfr.dpifxetc.cc^$all
@@ -13786,6 +13793,7 @@
 ||coinlifee.vip^$all
 ||coinlim.net^$all
 ||coinlimed.top^$all
+||coinlink-t.com^$all
 ||coinlion.fun^$all
 ||coinlion.online^$all
 ||coinlionali.com^$all
@@ -13939,6 +13947,7 @@
 ||coinmetro.biz^$all
 ||coinmetro.top^$all
 ||coinmetropale.org^$all
+||coinmetrowallet.com^$all
 ||coinmex.trade^$all
 ||coinmexs-conecsts.shop^$all
 ||coinmextrades.com^$all
@@ -14802,6 +14811,7 @@
 ||confluxivn.com^$all
 ||congratulationsex.com^$all
 ||conibaseminingcrypto.com^$all
+||conichek.cc^$all
 ||coninvestholdingsltd.com^$all
 ||connaughtfx.com^$all
 ||connect-ethereum.com^$all
@@ -17985,6 +17995,7 @@
 ||defiyield-eth.net^$all
 ||defiyieldinvests.com^$all
 ||defiyieldmining.com^$all
+||defyapp.site^$all
 ||defyapp.world^$all
 ||degbtcap.com^$all
 ||degtradebtc.com^$all
@@ -26797,6 +26808,7 @@
 ||h5.coinbaseprose.com^$all
 ||h5.coinbuck.vip^$all
 ||h5.coincapsex.com^$all
+||h5.coincbx.com^$all
 ||h5.coindealcd.com^$all
 ||h5.coindealkop.com^$all
 ||h5.coindealst.com^$all
@@ -27635,6 +27647,7 @@
 ||hhtz589.com.cn^$all
 ||hi-tech-vm.top^$all
 ||hi.com^$all
+||hi5.coincbx.com^$all
 ||hi689.net^$all
 ||hibar-ex.com^$all
 ||hicoin.ubs-exchange.xyz^$all
@@ -37142,6 +37155,7 @@
 ||opnxweb.com^$all
 ||opofinance.com^$all
 ||opofx.com^$all
+||opool21.xyz^$all
 ||opplhjunb.com^$all
 ||opsahsc.com^$all
 ||opsakue.com^$all
@@ -38224,6 +38238,7 @@
 ||plglobal.co^$all
 ||plglobals.com^$all
 ||plocmarket.com^$all
+||plolonieu.com^$all
 ||plomtradeltd.com^$all
 ||ploocoin.com^$all
 ||plosir.com^$all
@@ -42681,6 +42696,7 @@
 ||suningshop.net^$all
 ||suningtw.com^$all
 ||suninxamlowu.top^$all
+||sunmall.link^$all
 ||sunnicrypto.com^$all
 ||sunnyforex.com^$all
 ||sunnyfortunehk.com^$all
@@ -45446,6 +45462,7 @@
 ||trust-bitearnings.ltd^$all
 ||trust-cn.net^$all
 ||trust-coins.com^$all
+||trust-metatrading-pro.com^$all
 ||trust-miner.org^$all
 ||trust-nft.net^$all
 ||trust-otc.com^$all
@@ -46680,6 +46697,7 @@
 ||upbitcoin.today^$all
 ||upbitcx.com^$all
 ||upbitensured.org^$all
+||upbitep.com^$all
 ||upbitev.com^$all
 ||upbitex.net^$all
 ||upbitextd.com^$all
@@ -49490,6 +49508,7 @@
 ||ww1.elitetrading.co^$all
 ||ww1.imipfshero.com^$all
 ||ww1.mystrickingly.com^$all
+||ww1.ttwvstock.com^$all
 ||ww1.tunnel-nn.com^$all
 ||ww2.rsttw8989.com^$all
 ||ww25.bitfinance.me^$all
@@ -49547,14 +49566,18 @@
 ||www.dining-room.cc^$all
 ||www.easycryptousx.com^$all
 ||www.edxmarkets-1.com^$all
+||www.etasvvip.com^$all
+||www.etherfaqs.net^$all
 ||www.exchanges1.cc^$all
 ||www.fedc996.com^$all
 ||www.fintocd.com^$all
 ||www.fxopenuve.top^$all
 ||www.fyndiqs.com^$all
+||www.haitaorky.com^$all
 ||www.iglobaltopexx.com^$all
 ||www.imctradingapp1s.com^$all
 ||www.inefex.pro^$all
+||www.joybitex.com^$all
 ||www.jumiasshop.com^$all
 ||www.kakaue.com^$all
 ||www.kakauea.com^$all
@@ -49613,6 +49636,7 @@
 ||www.maxbreadinx.com^$all
 ||www.melco-pblgaming.com^$all
 ||www.micmarkfx.com^$all
+||www.oandaer.com^$all
 ||www.okbiten.com^$all
 ||www.orangttz.vip^$all
 ||www.oslvip.com^$all
