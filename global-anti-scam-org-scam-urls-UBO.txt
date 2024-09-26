@@ -599,6 +599,7 @@
 ||6.yescok.com^$all
 ||6000govtw.com^$all
 ||602285.com^$all
+||60yg.com^$all
 ||613transmit.xyz^$all
 ||615x.com^$all
 ||6258839.com^$all
@@ -21341,6 +21342,7 @@
 ||ethprofits.com^$all
 ||ethprorun.com^$all
 ||ethq.github.io^$all
+||ethqgn.top^$all
 ||ethrb.top^$all
 ||ethrefund.com^$all
 ||ethrefund.xyz^$all
@@ -37866,6 +37868,7 @@
 ||payarrowcoins.com^$all
 ||payback-ltd.com^$all
 ||paybackexperts.com^$all
+||paybis.live^$all
 ||paybis.thegoodd.com^$all
 ||paybiscoin.com^$all
 ||paybitfx.online^$all

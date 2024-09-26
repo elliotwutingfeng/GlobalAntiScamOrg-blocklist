@@ -621,6 +621,7 @@
 *://*.6023221.com/*
 *://*.602607.com/*
 *://*.608mbrc49yi8c0.xyz/*
+*://*.60yg.com/*
 *://*.613transmit.xyz/*
 *://*.6152262.com/*
 *://*.615x.com/*
@@ -20628,6 +20629,7 @@
 *://*.ethpools365.net/*
 *://*.ethprofits.com/*
 *://*.ethprorun.com/*
+*://*.ethqgn.top/*
 *://*.ethrb.top/*
 *://*.ethrefund.com/*
 *://*.ethrefund.xyz/*
@@ -36904,6 +36906,7 @@
 *://*.payarrowcoins.com/*
 *://*.payback-ltd.com/*
 *://*.paybackexperts.com/*
+*://*.paybis.live/*
 *://*.paybiscoin.com/*
 *://*.paybitfx.online/*
 *://*.paybitinvest.com/*
