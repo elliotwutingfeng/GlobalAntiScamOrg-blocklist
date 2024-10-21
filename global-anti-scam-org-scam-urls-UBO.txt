@@ -7941,6 +7941,7 @@
 ||bitiger-kr.com^$all
 ||bitimnv.com^$all
 ||bitimperial.com^$all
+||bitin.cc^$all
 ||bitincinvest.com^$all
 ||bitindexai-official.com^$all
 ||bitindexaica.org^$all
@@ -19434,6 +19435,7 @@
 ||dtkblackchain.com^$all
 ||dtkcrypto.com^$all
 ||dtkdbd.com^$all
+||dtkxi401nysj2.cloudfront.net^$all
 ||dtlcnetwork.com^$all
 ||dtnet3650.com^$all
 ||dtradeschool.com^$all
@@ -27367,6 +27369,7 @@
 ||h5.nycexchain.com^$all
 ||h5.nyseuronextspro.com^$all
 ||h5.officialcbid1766.com^$all
+||h5.okxbit.store^$all
 ||h5.onlinetrip.info^$all
 ||h5.opaycoin.com^$all
 ||h5.opticaobo.top^$all
@@ -44348,6 +44351,7 @@
 ||texcoin.info^$all
 ||texfasionsa.com^$all
 ||texhaninvestments.com^$all
+||texiway.top^$all
 ||teyycy.tw^$all
 ||tezos-trade.org^$all
 ||tezosceo.com^$all

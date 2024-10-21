@@ -7054,6 +7054,7 @@
 *://*.bitiger-kr.com/*
 *://*.bitimnv.com/*
 *://*.bitimperial.com/*
+*://*.bitin.cc/*
 *://*.bitincinvest.com/*
 *://*.bitindexai-official.com/*
 *://*.bitindexaica.org/*
@@ -36431,6 +36432,7 @@
 *://*.okx58.vip/*
 *://*.okxaba.com/*
 *://*.okxaex.com/*
+*://*.okxbit.store/*
 *://*.okxbit8.com/*
 *://*.okxbit9.com/*
 *://*.okxbiz.com/*
@@ -43672,6 +43674,7 @@
 *://*.texcoin.info/*
 *://*.texfasionsa.com/*
 *://*.texhaninvestments.com/*
+*://*.texiway.top/*
 *://*.teyycy.tw/*
 *://*.tezos-trade.org/*
 *://*.tezosceo.com/*
