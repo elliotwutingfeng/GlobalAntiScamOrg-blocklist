@@ -32406,7 +32406,6 @@
 *://*.longbridge-shop1.buzz/*
 *://*.longchen18.com/*
 *://*.longdaec.com/*
-*://*.longlaitanji.com/*
 *://*.longwangguoji.com/*
 *://*.longzhi160.com/*
 *://*.lonshiex.com/*

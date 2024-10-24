@@ -32698,7 +32698,6 @@
 ||longbridge-shop1.buzz^$all
 ||longchen18.com^$all
 ||longdaec.com^$all
-||longlaitanji.com^$all
 ||lonshiex.com^$all
 ||lonyady.com^$all
 ||loofmeet.com^$all
