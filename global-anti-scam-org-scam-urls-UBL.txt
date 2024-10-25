@@ -21162,6 +21162,7 @@
 *://*.ex-cryptos.com/*
 *://*.ex-nft.com/*
 *://*.ex-options.vip/*
+*://*.ex-web3.pro/*
 *://*.exabtc.com/*
 *://*.exabytecapitals.com/*
 *://*.exactgoldtrading.com/*
