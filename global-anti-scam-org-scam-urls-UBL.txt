@@ -4714,6 +4714,7 @@
 *://*.belcherinvestment.com/*
 *://*.belebey.com/*
 *://*.belgemgiaes.com/*
+*://*.belkin669.com/*
 *://*.bell-micros.com/*
 *://*.bella-defipromax.xyz/*
 *://*.bellaex.site/*
@@ -9171,6 +9172,7 @@
 *://*.bmt-seo7.com/*
 *://*.bmt-seo8.top/*
 *://*.bmtint.com/*
+*://*.bmttopss.vip/*
 *://*.bmuaub.vip/*
 *://*.bmusdt.com/*
 *://*.bmvforex.com/*
@@ -9438,6 +9440,7 @@
 *://*.boostfinanceltd.com/*
 *://*.boostingaming.net/*
 *://*.boostupfastconfirmtraders.com/*
+*://*.bootcdn.net/*
 *://*.bop-exchange.com/*
 *://*.bop01-eth.com/*
 *://*.bop01-eth.net/*
@@ -12884,6 +12887,7 @@
 *://*.coinbexx.com/*
 *://*.coinbexxgroup.com/*
 *://*.coinbforex.com/*
+*://*.coinbget.cc/*
 *://*.coinbhtml.com/*
 *://*.coinbian.com/*
 *://*.coinbigone.com/*
@@ -26940,7 +26944,6 @@
 *://*.hbitex.com/*
 *://*.hbkbrokerage.com/*
 *://*.hbknz.com/*
-*://*.hbnufu.md.ci/*
 *://*.hbrvlap.top/*
 *://*.hbsnyy.com/*
 *://*.hbtczone.com/*
@@ -27462,6 +27465,7 @@
 *://*.hk821.com/*
 *://*.hk8556.com/*
 *://*.hk8deep.cn/*
+*://*.hkahp.com/*
 *://*.hkaisfx.com/*
 *://*.hkbite.com/*
 *://*.hkbizzan.com/*
@@ -31146,7 +31150,6 @@
 *://*.kptxx.com/*
 *://*.kpyr.pro/*
 *://*.kpyt9b.top/*
-*://*.kqfiln.md.ci/*
 *://*.kqger.top/*
 *://*.kqxs0099.xyz/*
 *://*.kqxs323.xyz/*
@@ -33342,6 +33345,7 @@
 *://*.mct98.com/*
 *://*.mcus.me/*
 *://*.mcveytraders.com/*
+*://*.md.ci/*
 *://*.mdbfbvs.vip/*
 *://*.mdbfis.vip/*
 *://*.mdbfnp.cc/*
@@ -44081,6 +44085,7 @@
 *://*.theprogressivecoin.com/*
 *://*.therealmarkettrades.com/*
 *://*.therealworldglobal.com/*
+*://*.therealworldsystem.com/*
 *://*.thereiswathday.shop/*
 *://*.therisefx.com/*
 *://*.thermoinvest.live/*
@@ -44424,6 +44429,7 @@
 *://*.tjnsgf.xyz/*
 *://*.tjxvgnkbtchjxkrg.com/*
 *://*.tjyun.xyz/*
+*://*.tk-mall.tv/*
 *://*.tk-shop.homes/*
 *://*.tk-shop.online/*
 *://*.tk-shopstore.shop/*

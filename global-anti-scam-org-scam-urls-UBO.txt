@@ -3801,6 +3801,7 @@
 ||app.tgmldd.top^$all
 ||app.thclhn.top^$all
 ||app.themicrosoftai.com^$all
+||app.therealworldsystem.com^$all
 ||app.tikdes.com^$all
 ||app.tikloso.com^$all
 ||app.tiktokmall.tw^$all
@@ -12112,6 +12113,7 @@
 ||cdipnbip.com^$all
 ||cdmqcy.site^$all
 ||cdn-coinpionex.coinbox-ws.com^$all
+||cdn.bootcdn.net^$all
 ||cdnjsie.com^$all
 ||cdpa.vip^$all
 ||cdpmps.com^$all
@@ -13514,6 +13516,7 @@
 ||coinbexx.com^$all
 ||coinbexxgroup.com^$all
 ||coinbforex.com^$all
+||coinbget.cc^$all
 ||coinbhtml.com^$all
 ||coinbian.com^$all
 ||coinbigone.com^$all
@@ -28280,6 +28283,7 @@
 ||hk686879ex.com^$all
 ||hk821.com^$all
 ||hk8556.com^$all
+||hkahp.com^$all
 ||hkaisfx.com^$all
 ||hkbite.com^$all
 ||hkbizzan.com^$all
@@ -31191,6 +31195,7 @@
 ||keytrademart.com^$all
 ||keytradeoptions.com^$all
 ||keytrending.com^$all
+||kf.hkahp.com^$all
 ||kf24trade.com^$all
 ||kfcfhk.com^$all
 ||kfcrypt.com^$all
@@ -38510,6 +38515,7 @@
 ||pc.acfmar.com^$all
 ||pc.alltrust-defi.com^$all
 ||pc.bakktfx.cc^$all
+||pc.belkin669.com^$all
 ||pc.bieaot.com^$all
 ||pc.bietoac.com^$all
 ||pc.bit-contract.com^$all
@@ -50627,6 +50633,7 @@
 ||www.bigtcoins.com^$all
 ||www.bitgrandit.com^$all
 ||www.bluetarp.cc^$all
+||www.bmttopss.vip^$all
 ||www.btcxsc.com^$all
 ||www.campione.me^$all
 ||www.coinmatecrytodfk9.top^$all
@@ -50726,6 +50733,7 @@
 ||www.theflourishingcompany.com^$all
 ||www.themoviesproduction.com^$all
 ||www.tiktok758.com^$all
+||www.tk-mall.tv^$all
 ||www.torus-pro.com^$all
 ||www.wanshatb.vip^$all
 ||www.wessio.com^$all
