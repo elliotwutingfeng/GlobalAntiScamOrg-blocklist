@@ -4,6 +4,6 @@ mypy==1.13.0
 mypy-extensions==1.0.0
 pylint==3.3.1
 requests==2.32.3
-selenium==4.26.0
+selenium==4.26.1
 tldextract==5.1.2
 typing-extensions
