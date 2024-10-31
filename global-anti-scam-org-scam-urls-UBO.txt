@@ -23311,6 +23311,7 @@
 ||firshop.com^$all
 ||first-coins.com^$all
 ||first-optimal.com^$all
+||first-time-biz.com^$all
 ||first-trade.live^$all
 ||first-trade.ltd^$all
 ||first.awdcx.com^$all
@@ -33727,6 +33728,7 @@
 ||m.qseoiy.top^$all
 ||m.qsfingold.com^$all
 ||m.quadcodeexchange.com^$all
+||m.qubitscube.com^$all
 ||m.qucmal.top^$all
 ||m.rakuten-pro.com^$all
 ||m.rakutenplus.com^$all
@@ -35028,6 +35030,7 @@
 ||mexc.dpgx.xyz^$all
 ||mexc.yfws.live^$all
 ||mexc.zx.cn^$all
+||mexc888.top^$all
 ||mexc889.com^$all
 ||mexcajans.com^$all
 ||mexcbase.com^$all
@@ -35055,6 +35058,7 @@
 ||mexcuzo.com^$all
 ||mexcvip-coin.com^$all
 ||mexcvip01.com^$all
+||mexcweb5.top^$all
 ||mexcz.icu^$all
 ||mexczx.cn^$all
 ||mexczx.co^$all
@@ -38218,6 +38222,7 @@
 ||orbixok.com^$all
 ||orbixox.com^$all
 ||orca-capitalinvestment.ltd^$all
+||orca-tech.com^$all
 ||orcasvip.com^$all
 ||orcaxfx.com^$all
 ||orchidtraders.net^$all
@@ -47407,6 +47412,7 @@
 ||u88c.xyz^$all
 ||u8wa.vip^$all
 ||uahnfgbc.com^$all
+||uaho.work^$all
 ||uasxgnfy.buzz^$all
 ||uayelr.top^$all
 ||ub-ctc2.com^$all
@@ -50878,6 +50884,7 @@
 ||www-ysb.com^$all
 ||www.acryptot.com^$all
 ||www.aomexzp.com^$all
+||www.bakkt-cc.com^$all
 ||www.bestbitex.com^$all
 ||www.bigtcoins.com^$all
 ||www.bitgrandit.com^$all
@@ -50975,17 +50982,21 @@
 ||www.okbiten.com^$all
 ||www.orangttz.vip^$all
 ||www.oslvip.com^$all
+||www.sghongleonggroupptp.com^$all
 ||www.sincexw.com^$all
 ||www.sushikao.com^$all
 ||www.sushippj.com^$all
 ||www.tapbitt.com^$all
+||www.tayck.com^$all
 ||www.theflourishingcompany.com^$all
 ||www.themoviesproduction.com^$all
 ||www.tiktok758.com^$all
 ||www.tk-mall.tv^$all
+||www.tofgoly.com^$all
 ||www.torus-pro.com^$all
 ||www.wanshatb.vip^$all
 ||www.wessio.com^$all
+||www.wish2002.com^$all
 ||www.zbncsq.vip^$all
 ||www.zone-buyer.com^$all
 ||www0.avastm.com^$all

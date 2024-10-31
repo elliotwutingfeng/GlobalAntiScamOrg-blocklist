@@ -4319,6 +4319,7 @@
 *://*.bakfkt.top/*
 *://*.bakin-vip.com/*
 *://*.bakin68.com/*
+*://*.bakkt-cc.com/*
 *://*.bakkt123.com/*
 *://*.bakktep.com/*
 *://*.bakktfx.cc/*
@@ -22594,6 +22595,7 @@
 *://*.firshop.com/*
 *://*.first-coins.com/*
 *://*.first-optimal.com/*
+*://*.first-time-biz.com/*
 *://*.first-trade.live/*
 *://*.first-trade.ltd/*
 *://*.firstasiafinance-hk.com/*
@@ -33942,6 +33944,7 @@
 *://*.mexc.club/*
 *://*.mexc191.com/*
 *://*.mexc666.com/*
+*://*.mexc888.top/*
 *://*.mexc889.com/*
 *://*.mexc998.com/*
 *://*.mexcajans.com/*
@@ -33972,6 +33975,7 @@
 *://*.mexcuzo.com/*
 *://*.mexcvip-coin.com/*
 *://*.mexcvip01.com/*
+*://*.mexcweb5.top/*
 *://*.mexcz.icu/*
 *://*.mexczx.cn/*
 *://*.mexczx.co/*
@@ -37189,6 +37193,7 @@
 *://*.orbixok.com/*
 *://*.orbixox.com/*
 *://*.orca-capitalinvestment.ltd/*
+*://*.orca-tech.com/*
 *://*.orcas8.vip/*
 *://*.orcasvip.com/*
 *://*.orcaxfx.com/*
@@ -39334,6 +39339,7 @@
 *://*.quatex.online/*
 *://*.quatumminers.com/*
 *://*.qub.fit/*
+*://*.qubitscube.com/*
 *://*.qucmal.top/*
 *://*.quedex-io.com/*
 *://*.queenbetcrypto.com/*
@@ -41103,6 +41109,7 @@
 *://*.sgexc.com/*
 *://*.sgg.life/*
 *://*.sggderg.com/*
+*://*.sghongleonggroupptp.com/*
 *://*.sgjpn.top/*
 *://*.sgjsuo.top/*
 *://*.sgkahvw.vip/*
@@ -43720,6 +43727,7 @@
 *://*.taverdaxinvest.com/*
 *://*.taxbita.com/*
 *://*.taxbitb.com/*
+*://*.tayck.com/*
 *://*.taymde.top/*
 *://*.tb008.buzz/*
 *://*.tb56526.xyz/*
@@ -44862,6 +44870,7 @@
 *://*.toecrypt.com/*
 *://*.toff01.com/*
 *://*.toffee.vip/*
+*://*.tofgoly.com/*
 *://*.tofun24pc.com/*
 *://*.together-loan.com/*
 *://*.toginfors1997.com/*
@@ -46669,6 +46678,7 @@
 *://*.u88c.xyz/*
 *://*.u8wa.vip/*
 *://*.uahnfgbc.com/*
+*://*.uaho.work/*
 *://*.uainfbja.com/*
 *://*.uappdown.com/*
 *://*.uasxgnfy.buzz/*
@@ -49488,6 +49498,7 @@
 *://*.wisewingstrade.com/*
 *://*.wisewinr.com/*
 *://*.wish-market.store/*
+*://*.wish2002.com/*
 *://*.wishebs.com/*
 *://*.wishluck.sale/*
 *://*.wishmaller.com/*
