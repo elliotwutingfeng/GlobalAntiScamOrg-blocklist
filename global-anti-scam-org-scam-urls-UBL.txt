@@ -5207,6 +5207,7 @@
 *://*.big-uk.com/*
 *://*.big-uncle.co/*
 *://*.big-uncle.online/*
+*://*.big.one/*
 *://*.bigasiatrade.com/*
 *://*.bigasiatrading.com/*
 *://*.bigbich5.xyz/*
@@ -9894,6 +9895,8 @@
 *://*.btc-clublv.com/*
 *://*.btc-coinmarketcap.com/*
 *://*.btc-contract.com/*
+*://*.btc-contract.top/*
+*://*.btc-contract.vip/*
 *://*.btc-doubler.world/*
 *://*.btc-earningzone.com/*
 *://*.btc-eo.vip/*

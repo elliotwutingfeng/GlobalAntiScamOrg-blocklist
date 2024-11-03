@@ -6162,6 +6162,7 @@
 ||big-uk.com^$all
 ||big-uncle.co^$all
 ||big-uncle.online^$all
+||big.one^$all
 ||bigasiatrade.com^$all
 ||bigasiatrading.com^$all
 ||bigbich5.xyz^$all
@@ -10666,6 +10667,8 @@
 ||btc-clublv.com^$all
 ||btc-coinmarketcap.com^$all
 ||btc-contract.com^$all
+||btc-contract.top^$all
+||btc-contract.vip^$all
 ||btc-doubler.world^$all
 ||btc-earningzone.com^$all
 ||btc-eo.vip^$all
