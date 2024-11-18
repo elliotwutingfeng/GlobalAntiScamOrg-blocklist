@@ -3727,6 +3727,7 @@
 ||app.ooethyr.com^$all
 ||app.oppxing.com^$all
 ||app.opuiehg.com^$all
+||app.orstedion.com^$all
 ||app.owxejk.top^$all
 ||app.oxabhr.top^$all
 ||app.paodayi.com^$all
@@ -15516,6 +15517,7 @@
 ||cptrading.online^$all
 ||cptsmkt.com^$all
 ||cptstocks.com^$all
+||cpttglobal.com^$all
 ||cpxdt.com^$all
 ||cpyieldtrades.com^$all
 ||cq0002.com^$all
@@ -17382,6 +17384,7 @@
 ||cs.hnsgjr.top^$all
 ||cs.kdzrcg.top^$all
 ||cs.msndgj.sbs^$all
+||cs.neuralnetwork.vip^$all
 ||cs.syahsk.com^$all
 ||cs.tahark.top^$all
 ||cs.tahjkf.icu^$all
@@ -19537,6 +19540,7 @@
 ||download.dexin.life^$all
 ||download.dm9588.com^$all
 ||download.dobealla.com^$all
+||download.earthderty.top^$all
 ||download.enborder.com^$all
 ||download.exbitget.top^$all
 ||download.ezdanex.org^$all
@@ -20590,6 +20594,7 @@
 ||emcoresy.vip^$all
 ||emeem.vip^$all
 ||emeralddex.com^$all
+||emexaeg.com^$all
 ||emexap.vip^$all
 ||emexspro.com^$all
 ||emftrades.online^$all
@@ -21924,6 +21929,7 @@
 ||etradest.xyz^$all
 ||etranstws.com^$all
 ||etrgster.com^$all
+||etro.oeykw.com^$all
 ||etrust-financial.com^$all
 ||etrvew.com^$all
 ||etrvicz.com^$all
@@ -33825,6 +33831,7 @@
 ||m.kexni.com^$all
 ||m.kfdhvg.top^$all
 ||m.kgyatu.top^$all
+||m.khedival.cc^$all
 ||m.kin569.com^$all
 ||m.kiwicoinex.com^$all
 ||m.kiwicoinsex.com^$all
@@ -34255,6 +34262,7 @@
 ||m.ycbsf.com^$all
 ||m.ydxf13.com^$all
 ||m.yesstyle6.com^$all
+||m.yex-web.com^$all
 ||m.yfiwn.top^$all
 ||m.yfktp.top^$all
 ||m.yfnvkr.top^$all
@@ -38772,6 +38780,7 @@
 ||oxtradehub.com^$all
 ||oxvlvkccirf.com^$all
 ||oyfx.net^$all
+||oyjtii.trxvip08cn.vip^$all
 ||oyo666666.com^$all
 ||oyo888888.com^$all
 ||oyp3atia.com^$all
@@ -41857,6 +41866,7 @@
 ||santoshy.vip^$all
 ||sanyum.com^$all
 ||saodisof.com^$all
+||saofficial-globaltrade.com^$all
 ||saopebear.buzz^$all
 ||saopena.buzz^$all
 ||saopeour.buzz^$all
@@ -43890,6 +43900,7 @@
 ||std.esengp.com^$all
 ||stdcryptinvest.com^$all
 ||stdso.anshuofinance.com^$all
+||steadfastadvisorys.com^$all
 ||steady168.com^$all
 ||steady3650.com^$all
 ||steambid.co^$all
@@ -51349,11 +51360,14 @@
 ||www-poloniex.com^$all
 ||www-vip.oklink.fit^$all
 ||www-ysb.com^$all
+||www.762598792.shop^$all
 ||www.acryptot.com^$all
 ||www.aomexzp.com^$all
 ||www.bakkt-cc.com^$all
 ||www.bestbitex.com^$all
+||www.bicoyin.com^$all
 ||www.bigtcoins.com^$all
+||www.bitdbd.com^$all
 ||www.bitgrandit.com^$all
 ||www.bluetarp.cc^$all
 ||www.bmttopss.vip^$all
@@ -51370,6 +51384,7 @@
 ||www.easycryptousx.com^$all
 ||www.ebayx.top^$all
 ||www.edxmarkets-1.com^$all
+||www.en-tiktok.live^$all
 ||www.etasvvip.com^$all
 ||www.etherfaqs.net^$all
 ||www.ex-web3.pro^$all
@@ -51381,6 +51396,7 @@
 ||www.fyndiqs.com^$all
 ||www.global-gaagency.com^$all
 ||www.haitaorky.com^$all
+||www.hw138.cn^$all
 ||www.iglobaltopexx.com^$all
 ||www.imctradingapp1s.com^$all
 ||www.inefex.pro^$all
@@ -51438,6 +51454,7 @@
 ||www.kakauex.com^$all
 ||www.kakauey.com^$all
 ||www.kakauez.com^$all
+||www.lirunexltd.com^$all
 ||www.ltcrrh.com^$all
 ||www.m.kakauesr.com^$all
 ||www.maxbreadinx.com^$all
@@ -51449,6 +51466,8 @@
 ||www.okbiten.com^$all
 ||www.orangttz.vip^$all
 ||www.oslvip.com^$all
+||www.ptzpky.shop^$all
+||www.rariblelia.com^$all
 ||www.sghongleonggroupptp.com^$all
 ||www.sincexw.com^$all
 ||www.sushikao.com^$all
@@ -51462,9 +51481,11 @@
 ||www.tofgoly.com^$all
 ||www.torus-pro.com^$all
 ||www.wanshatb.vip^$all
+||www.webseatl.cc^$all
 ||www.wessio.com^$all
 ||www.wish2002.com^$all
 ||www.zbncsq.vip^$all
+||www.zkeris.vip^$all
 ||www.zone-buyer.com^$all
 ||www0.avastm.com^$all
 ||www0.avastmes.com^$all
@@ -52014,6 +52035,7 @@
 ||xtc-token.com^$all
 ||xtcoiwap.com^$all
 ||xtd-trade.com^$all
+||xtexchange.top^$all
 ||xtexchangepro.com^$all
 ||xtgcoin.com^$all
 ||xtgcoin.vip^$all
@@ -52384,6 +52406,7 @@
 ||yilinkcoin.com^$all
 ||yingfashionshop.com^$all
 ||yingfu.cablemn.com^$all
+||yingleinvestment.com^$all
 ||yingshinfa.net^$all
 ||yinhe.buzz^$all
 ||yinhe.ltd^$all

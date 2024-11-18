@@ -734,6 +734,7 @@
 *://*.756835.com/*
 *://*.758563.top/*
 *://*.7587758.com/*
+*://*.762598792.shop/*
 *://*.76475238.com/*
 *://*.765889.com/*
 *://*.7682337.vip/*
@@ -5203,6 +5204,7 @@
 *://*.bicontpro.com/*
 *://*.biconui.vip/*
 *://*.biconzt.vip/*
+*://*.bicoyin.com/*
 *://*.bicr.me/*
 *://*.bicryptex.com/*
 *://*.bicrypto.online/*
@@ -14998,6 +15000,7 @@
 *://*.cptrading.online/*
 *://*.cptsmkt.com/*
 *://*.cptstocks.com/*
+*://*.cpttglobal.com/*
 *://*.cpttly.com/*
 *://*.cpvmerj.top/*
 *://*.cpxdt.com/*
@@ -19166,6 +19169,7 @@
 *://*.earnwise.trade/*
 *://*.eartbitcoin.com/*
 *://*.earth-shoreinvest.com/*
+*://*.earthderty.top/*
 *://*.earthexchangecoin.com/*
 *://*.eartholeumvest.com/*
 *://*.earthpooirb.com/*
@@ -19799,6 +19803,7 @@
 *://*.emcoresy.vip/*
 *://*.emeem.vip/*
 *://*.emeralddex.com/*
+*://*.emexaeg.com/*
 *://*.emexap.vip/*
 *://*.emexspro.com/*
 *://*.emftrades.online/*
@@ -19909,6 +19914,7 @@
 *://*.emwz.xyz/*
 *://*.emzem.xyz/*
 *://*.en-border.com/*
+*://*.en-tiktok.live/*
 *://*.enamrs.com/*
 *://*.enborder.com/*
 *://*.enbordersa.com/*
@@ -28501,6 +28507,7 @@
 *://*.hvgsn.top/*
 *://*.hvndme.cn/*
 *://*.hw-legou.vip/*
+*://*.hw138.cn/*
 *://*.hw16555.net/*
 *://*.hw18888.com/*
 *://*.hw6666.net/*
@@ -31097,6 +31104,7 @@
 *://*.kh-tradeonline.com/*
 *://*.khaliforex.com/*
 *://*.khcxzinrtmshizf.com/*
+*://*.khedival.cc/*
 *://*.khfinances.com/*
 *://*.khgcapital.com/*
 *://*.khgiofh.com/*
@@ -32506,6 +32514,7 @@
 *://*.lirunetyro.com/*
 *://*.lirunex.me/*
 *://*.lirunexfx.com/*
+*://*.lirunexltd.com/*
 *://*.lirunexprimemkt.com/*
 *://*.lirunexpro.com/*
 *://*.lirungsase.com/*
@@ -35963,6 +35972,7 @@
 *://*.neuirlg.tw/*
 *://*.neuralaicoin.com/*
 *://*.neuralaicoin.network/*
+*://*.neuralnetwork.vip/*
 *://*.neurofx.io/*
 *://*.neurofxworldltd.com/*
 *://*.neurtrade.com/*
@@ -36862,6 +36872,7 @@
 *://*.oexoeup.vip/*
 *://*.oexoeus.vip/*
 *://*.oexybit.com/*
+*://*.oeykw.com/*
 *://*.ofa77.net/*
 *://*.ofa7777.com/*
 *://*.ofa999.net/*
@@ -39293,6 +39304,7 @@
 *://*.ptyshopmy.top/*
 *://*.ptytlhz-my.com/*
 *://*.ptyxzhmy.com/*
+*://*.ptzpky.shop/*
 *://*.pu77.net/*
 *://*.pucvmv.top/*
 *://*.puebv.com/*
@@ -39870,6 +39882,7 @@
 *://*.raregeteth.com/*
 *://*.rareloveing.com/*
 *://*.raribblecraft.com/*
+*://*.rariblelia.com/*
 *://*.rascocoin.com/*
 *://*.rastcot.com/*
 *://*.ratcrq.com/*
@@ -40969,6 +40982,7 @@
 *://*.sanyum.com/*
 *://*.saoalzz.buzz/*
 *://*.saodisof.com/*
+*://*.saofficial-globaltrade.com/*
 *://*.saopebear.buzz/*
 *://*.saopena.buzz/*
 *://*.saopeour.buzz/*
@@ -43129,6 +43143,7 @@
 *://*.stcxxt.top/*
 *://*.stdcryptinvest.com/*
 *://*.stdeck.com/*
+*://*.steadfastadvisorys.com/*
 *://*.steady168.com/*
 *://*.steady3650.com/*
 *://*.steambid.co/*
@@ -46602,6 +46617,7 @@
 *://*.trxuminingcoin.com/*
 *://*.trxusd.xyz/*
 *://*.trxusdt.cloud/*
+*://*.trxvip08cn.vip/*
 *://*.trxwk78.org/*
 *://*.tryopr.com/*
 *://*.ts5555.net/*
@@ -50942,6 +50958,7 @@
 *://*.xtcoiwap.com/*
 *://*.xtcrypto.vip/*
 *://*.xtd-trade.com/*
+*://*.xtexchange.top/*
 *://*.xtexchangepro.com/*
 *://*.xtgcoin.com/*
 *://*.xtgcoin.vip/*
@@ -51275,6 +51292,7 @@
 *://*.yeuwst.com/*
 *://*.yewjua066.xyz/*
 *://*.yewuqt.com/*
+*://*.yex-web.com/*
 *://*.yexbe28.com/*
 *://*.yexbe68.com/*
 *://*.yexbe86.com/*
@@ -51382,6 +51400,7 @@
 *://*.yilimt5fx.com/*
 *://*.yilinkcoin.com/*
 *://*.yingfashionshop.com/*
+*://*.yingleinvestment.com/*
 *://*.yingshinfa.net/*
 *://*.yinhe.buzz/*
 *://*.yinhe.ltd/*
@@ -52243,6 +52262,7 @@
 *://*.zke-ieo.com/*
 *://*.zkerap.vip/*
 *://*.zkerip.vip/*
+*://*.zkeris.vip/*
 *://*.zkisoo.xyz/*
 *://*.zklsjidh.xyz/*
 *://*.zkmt4.com/*
