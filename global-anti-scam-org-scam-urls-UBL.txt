@@ -10801,6 +10801,7 @@
 *://*.by7655.com/*
 *://*.by7866.com/*
 *://*.byaiap.vip/*
+*://*.byaicp.vip/*
 *://*.byapueqb.buzz/*
 *://*.byavsv.com/*
 *://*.bybcoin.cc/*
@@ -22608,6 +22609,7 @@
 *://*.finaceirotrader.com/*
 *://*.finacialaffliatetrade.com/*
 *://*.finacoins.online/*
+*://*.finalfrontier.cc/*
 *://*.finalplus.net/*
 *://*.finalplusax.com/*
 *://*.finaltoltd.com/*
@@ -35990,6 +35992,7 @@
 *://*.ncbbdh.com/*
 *://*.ncbcc.xyz/*
 *://*.ncccoin.xyz/*
+*://*.ncfgef.com/*
 *://*.ncgforex.com/*
 *://*.ncgken.com/*
 *://*.ncgpna.com/*
@@ -46639,6 +46642,7 @@
 *://*.true-forex.online/*
 *://*.trueaxioms.com/*
 *://*.truecoins.uk/*
+*://*.truecommerce.live/*
 *://*.truefimining.com/*
 *://*.truefipob.com/*
 *://*.truefippp.com/*
@@ -50044,6 +50048,7 @@
 *://*.whitextremeservices.com/*
 *://*.whizfx.com/*
 *://*.whnfq.top/*
+*://*.wholesalelightbulb.com/*
 *://*.wholesaler-mall.com/*
 *://*.whooshops.com/*
 *://*.whososystem.com/*
