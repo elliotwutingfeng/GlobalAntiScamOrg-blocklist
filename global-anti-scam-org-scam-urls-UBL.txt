@@ -18547,6 +18547,7 @@
 *://*.discreteglobaltrade.com/*
 *://*.disen-cex.com/*
 *://*.distribution3c.com/*
+*://*.dists.pro/*
 *://*.ditdu.online/*
 *://*.diut.top/*
 *://*.diva-funds.com/*
