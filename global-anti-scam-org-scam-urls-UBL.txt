@@ -9243,6 +9243,7 @@
 *://*.blttrex.me/*
 *://*.blucointrader.com/*
 *://*.blucontract.net/*
+*://*.blue798798.com/*
 *://*.blueberrypro.co/*
 *://*.blueberrypro.net/*
 *://*.bluebird-mining.art/*
@@ -12455,6 +12456,7 @@
 *://*.clsastock.com/*
 *://*.clsatrade.com/*
 *://*.clsieiv.com/*
+*://*.clsiimk.com/*
 *://*.clskie.com/*
 *://*.clsoie.com/*
 *://*.clsoiey.com/*
@@ -17250,6 +17252,7 @@
 *://*.cynardinvestment.com/*
 *://*.cynexes.com/*
 *://*.cyntc.com/*
+*://*.cyntexx.com/*
 *://*.cyouclout.com/*
 *://*.cyouclout.xyz/*
 *://*.cyoute.vip/*
@@ -21434,6 +21437,7 @@
 *://*.euhzn.top/*
 *://*.euibt.com/*
 *://*.euignrg.top/*
+*://*.eulerbmg.com/*
 *://*.eulertrades.com/*
 *://*.eumaxs.com/*
 *://*.eunex.co/*
@@ -29599,6 +29603,7 @@
 *://*.inpurchase.life/*
 *://*.inpurchase.top/*
 *://*.inpusdt.com/*
+*://*.inriver.site/*
 *://*.inseef.com/*
 *://*.insparrowex.com/*
 *://*.inst-global.com/*
@@ -30773,6 +30778,7 @@
 *://*.jsael.net/*
 *://*.jsafl.wiki/*
 *://*.jsanrhs.com/*
+*://*.jsbzsw.com/*
 *://*.jsccrosc.com/*
 *://*.jsccrosr.com/*
 *://*.jsccryh.com/*
@@ -36176,6 +36182,7 @@
 *://*.nanomedy.com/*
 *://*.nanotrade.online/*
 *://*.nanovest.io/*
+*://*.nanyangcircle.com/*
 *://*.nanyangforex.com/*
 *://*.napmine.com/*
 *://*.narbytrade.com/*
@@ -36388,6 +36395,7 @@
 *://*.netcomworld.net/*
 *://*.netcryptofx.net/*
 *://*.netdcx.com/*
+*://*.netdigitaltrade.com/*
 *://*.netease-shopping.com/*
 *://*.netforexmarketsfxtm.com/*
 *://*.netfxminin.com/*
@@ -41800,6 +41808,7 @@
 *://*.sebet.net/*
 *://*.sebftx.com/*
 *://*.sechcn.com/*
+*://*.secmarket.asia/*
 *://*.secmsb.com/*
 *://*.secommonft88.com/*
 *://*.secondarymarket.top/*
@@ -42564,6 +42573,7 @@
 *://*.silverliontrade.com/*
 *://*.silverliontrades.com/*
 *://*.silverprosolution.com/*
+*://*.silverstone-capital.org/*
 *://*.silversuncrypto.com/*
 *://*.silvertradefxltd.com/*
 *://*.silverwellsinvestmentltd.com/*
@@ -44480,6 +44490,7 @@
 *://*.sztehao.com/*
 *://*.szumps.com/*
 *://*.szwinfund.com/*
+*://*.szybit.com/*
 *://*.szzc77.com/*
 *://*.szzkgby.com/*
 *://*.t--cat.com/*
@@ -46637,6 +46648,7 @@
 *://*.tradeutopia.net/*
 *://*.tradeversal.com/*
 *://*.tradevesinvestments.com/*
+*://*.tradevest.co.uk/*
 *://*.tradevesta.net/*
 *://*.tradevexinvestments.com/*
 *://*.tradevidal.com/*
@@ -47593,6 +47605,7 @@
 *://*.twweshang.top/*
 *://*.twxhsmall.com/*
 *://*.twxm.fun/*
+*://*.twyaen.com/*
 *://*.twyccinter.top/*
 *://*.twyceworld.com/*
 *://*.twycinter.com/*
@@ -50190,6 +50203,7 @@
 *://*.web-layer2.org/*
 *://*.web-ma.com/*
 *://*.web-tradeplus.com/*
+*://*.web-traderpro.com/*
 *://*.web.app/*
 *://*.web1001.xyz/*
 *://*.web3-btc-defi.vip/*
@@ -52337,6 +52351,7 @@
 *://*.yryxbitvknt.com/*
 *://*.yrz3535.com/*
 *://*.ys588.net/*
+*://*.ysafei.vip/*
 *://*.ysclsrm.com/*
 *://*.yscs909.vip/*
 *://*.yseubnk.top/*
@@ -53102,6 +53117,7 @@
 *://*.zoomexpro.xyz/*
 *://*.zoomfinds.app/*
 *://*.zoomfinds.bond/*
+*://*.zoomfinds.buzz/*
 *://*.zoomfinds.cc/*
 *://*.zoomfinds.click/*
 *://*.zoomfinds.net/*

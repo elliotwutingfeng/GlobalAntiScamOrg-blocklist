@@ -10121,6 +10121,7 @@
 ||blttrex.me^$all
 ||blucointrader.com^$all
 ||blucontract.net^$all
+||blue798798.com^$all
 ||blueberrypro.co^$all
 ||blueberrypro.net^$all
 ||bluebird-mining.art^$all
@@ -30380,6 +30381,7 @@
 ||inpurchase.life^$all
 ||inpurchase.top^$all
 ||inpusdt.com^$all
+||inriver.site^$all
 ||ins.dongyins.com^$all
 ||insaat.gminvestinsaat.com^$all
 ||inseef.com^$all
@@ -32740,6 +32742,7 @@
 ||lazada-tw.com^$all
 ||lazada.dnysc.vip^$all
 ||lazada.hnscyyz.com^$all
+||lazada.jsbzsw.com^$all
 ||lazada.sc88dny.cc^$all
 ||lazada.ydgp998.com^$all
 ||lazada58.com^$all
@@ -37554,6 +37557,7 @@
 ||netcomworld.net^$all
 ||netcryptofx.net^$all
 ||netdcx.com^$all
+||netdigitaltrade.com^$all
 ||netease-shopping.com^$all
 ||netforexmarketsfxtm.com^$all
 ||netfxminin.com^$all
@@ -38726,6 +38730,7 @@
 ||onboeusdt.top^$all
 ||onbuy-dealer.com^$all
 ||onbuy-dealer.shop^$all
+||onbuy.secmarket.asia^$all
 ||oncbas.com^$all
 ||oncenight.com^$all
 ||ondersongroup.com^$all
@@ -43385,6 +43390,7 @@
 ||silverliontrade.com^$all
 ||silverliontrades.com^$all
 ||silverprosolution.com^$all
+||silverstone-capital.org^$all
 ||silversuncrypto.com^$all
 ||silvertradefxltd.com^$all
 ||silverwellsinvestmentltd.com^$all
@@ -45238,6 +45244,7 @@
 ||szosk.lk70pskr.com^$all
 ||szumps.com^$all
 ||szwinfund.com^$all
+||szybit.com^$all
 ||szzkgby.com^$all
 ||t--cat.com^$all
 ||t-bit.org^$all
@@ -51096,6 +51103,7 @@
 ||web-layer2.org^$all
 ||web-ma.com^$all
 ||web-tradeplus.com^$all
+||web-traderpro.com^$all
 ||web.0066666.co^$all
 ||web.0088888.co^$all
 ||web.78877.net^$all
@@ -52093,10 +52101,12 @@
 ||www.btcxsc.com^$all
 ||www.byaicp.vip^$all
 ||www.campione.me^$all
+||www.clsiimk.com^$all
 ||www.coinmatecrytodfk9.top^$all
 ||www.coinwin-defi.net^$all
 ||www.costco-xvc.cc^$all
 ||www.cy-berage.eth.link^$all
+||www.cyntexx.com^$all
 ||www.defiscloud.com^$all
 ||www.dengage-work-sg.com^$all
 ||www.digifinex.com^$all
@@ -52108,6 +52118,7 @@
 ||www.en-tiktok.live^$all
 ||www.etasvvip.com^$all
 ||www.etherfaqs.net^$all
+||www.eulerbmg.com^$all
 ||www.ex-web3.pro^$all
 ||www.exchanges1.cc^$all
 ||www.fedc996.com^$all
@@ -52182,6 +52193,7 @@
 ||www.mbity.net^$all
 ||www.melco-pblgaming.com^$all
 ||www.micmarkfx.com^$all
+||www.nanyangcircle.com^$all
 ||www.nextleft-working.com^$all
 ||www.oandaer.com^$all
 ||www.okbiten.com^$all
@@ -52201,6 +52213,8 @@
 ||www.tk-mall.tv^$all
 ||www.tofgoly.com^$all
 ||www.torus-pro.com^$all
+||www.tradevest.co.uk^$all
+||www.twyaen.com^$all
 ||www.wanshatb.vip^$all
 ||www.webseatl.cc^$all
 ||www.wessio.com^$all
@@ -52209,6 +52223,7 @@
 ||www.zbncsq.vip^$all
 ||www.zkeris.vip^$all
 ||www.zone-buyer.com^$all
+||www.zoomfinds.buzz^$all
 ||www0.avastm.com^$all
 ||www0.avastmes.com^$all
 ||www0.avastomes.com^$all
@@ -53334,6 +53349,7 @@
 ||yrvtd.top^$all
 ||yryxbitvknt.com^$all
 ||yrz3535.com^$all
+||ysafei.vip^$all
 ||ysclsrm.com^$all
 ||yscs909.vip^$all
 ||yseubnk.top^$all
