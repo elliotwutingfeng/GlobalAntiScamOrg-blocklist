@@ -2824,6 +2824,7 @@
 *://*.ang-exchange.com/*
 *://*.angel0857.net/*
 *://*.angelcapitalpro.com/*
+*://*.angeldreamer.com/*
 *://*.angeltrader.uk/*
 *://*.angeltradeworld.live/*
 *://*.angelwealth.net/*
@@ -18685,6 +18686,7 @@
 *://*.djiitw.com/*
 *://*.djjduhbsk.com/*
 *://*.djjhgryhn.com/*
+*://*.djjpla.xyz/*
 *://*.djjsuuj.com/*
 *://*.djkful.com/*
 *://*.djkgopsj.com/*
@@ -19309,6 +19311,7 @@
 *://*.dyplusyrj.com/*
 *://*.dytroe.com/*
 *://*.dz57.com.tw/*
+*://*.dz86558.vip/*
 *://*.dzdaqi.com/*
 *://*.dzdocz.cn/*
 *://*.dzfwe.top/*
@@ -21476,6 +21479,7 @@
 *://*.etxixt.club/*
 *://*.etxusa.com/*
 *://*.etycoin.xyz/*
+*://*.etyio.top/*
 *://*.etyopp.top/*
 *://*.eu-investing.live/*
 *://*.eu.com/*
@@ -25548,6 +25552,7 @@
 *://*.geminitaw.com/*
 *://*.geminitop.cyou/*
 *://*.geminitradingoptions.org/*
+*://*.geminiua.com/*
 *://*.geminiup-vrfs.top/*
 *://*.geminived.com/*
 *://*.geminone.com/*
@@ -28034,6 +28039,7 @@
 *://*.hingx.site/*
 *://*.hingx.store/*
 *://*.hingxx.com/*
+*://*.hinpr.top/*
 *://*.hintstrademarket.com/*
 *://*.hinwork.xyz/*
 *://*.hinxcrypto.com/*
@@ -30449,6 +30455,7 @@
 *://*.jetswof.com/*
 *://*.jetswol.com/*
 *://*.jettd.cn/*
+*://*.jeuabf.com/*
 *://*.jewelercoin.org/*
 *://*.jewelruibf.com/*
 *://*.jewelryddv.com/*
@@ -39981,6 +39988,7 @@
 *://*.pufxmarkets.com/*
 *://*.puhui65.com/*
 *://*.pulleynod.com/*
+*://*.pulsematrixcharts.com/*
 *://*.pulsepanel.info/*
 *://*.pulsexba.cyou/*
 *://*.pulsexe.cyou/*
@@ -40937,6 +40945,7 @@
 *://*.rhvatoatin.com/*
 *://*.riact.vip/*
 *://*.riactweb.vip/*
+*://*.ribbonm.top/*
 *://*.ribitexchange.com/*
 *://*.rich-game.com/*
 *://*.rich-industry-investment.com/*
@@ -41687,6 +41696,7 @@
 *://*.saopeour.buzz/*
 *://*.saopeyour.buzz/*
 *://*.sapere.uk/*
+*://*.sapien.io/*
 *://*.saplycoin.com/*
 *://*.sapphiretradinggroup.com/*
 *://*.sarbytrade.com/*
@@ -46118,6 +46128,7 @@
 *://*.token-dc.com/*
 *://*.token-tesla.com/*
 *://*.token.im/*
+*://*.tokenchain-evm-selfcustody.net/*
 *://*.tokencow.com.tw/*
 *://*.tokencs.net/*
 *://*.tokendigit.cc/*
@@ -49767,6 +49778,7 @@
 *://*.vivkvodex.com/*
 *://*.vivocitytw.com/*
 *://*.vivocityyfc.com/*
+*://*.vixcapital-limited.com/*
 *://*.vizlnnv.com/*
 *://*.vizotrade.com/*
 *://*.vjdsew.xyz/*

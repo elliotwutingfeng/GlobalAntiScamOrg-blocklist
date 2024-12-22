@@ -2764,6 +2764,7 @@
 ||ang-exchange.com^$all
 ||angel0857.net^$all
 ||angelcapitalpro.com^$all
+||angeldreamer.com^$all
 ||angeltrader.uk^$all
 ||angeltradeworld.live^$all
 ||angelwealth.net^$all
@@ -20205,6 +20206,7 @@
 ||dyplusttr.com^$all
 ||dyplusyrj.com^$all
 ||dz57.com.tw^$all
+||dz86558.vip^$all
 ||dzdaqi.com^$all
 ||dzlinvestment.com^$all
 ||e-bayasia.com^$all
@@ -22296,6 +22298,7 @@
 ||etxixt.club^$all
 ||etxusa.com^$all
 ||etycoin.xyz^$all
+||etyio.top^$all
 ||etzv.bfsaqpro.xyz^$all
 ||eu-investing.live^$all
 ||eu.excentral.com^$all
@@ -25817,6 +25820,7 @@
 ||game.lomni.co^$all
 ||game.mftcomme.com^$all
 ||game.oomi.co^$all
+||game.sapien.io^$all
 ||game.taiyangcheng.shop^$all
 ||gamefi.org^$all
 ||gamefi.planetworld.io^$all
@@ -28932,6 +28936,7 @@
 ||himcoin.top^$all
 ||himpro.store^$all
 ||hinbex.com^$all
+||hinpr.top^$all
 ||hintstrademarket.com^$all
 ||hinwork.xyz^$all
 ||hinxcrypto.com^$all
@@ -38741,6 +38746,7 @@
 ||oktodex.com^$all
 ||okucoin.club^$all
 ||okusdt.vip^$all
+||okwin.jeuabf.com^$all
 ||okx-aba.cc^$all
 ||okx-abc.cc^$all
 ||okx-coin.life^$all
@@ -39473,6 +39479,7 @@
 ||p-inv.trade^$all
 ||p-ox.com^$all
 ||p.7usd.fun^$all
+||p.djjpla.xyz^$all
 ||p.oupeideiif.com^$all
 ||p.t9live3.vip^$all
 ||p.tx131.net^$all
@@ -41061,6 +41068,7 @@
 ||pufxmarkets.com^$all
 ||puhui65.com^$all
 ||pulleynod.com^$all
+||pulsematrixcharts.com^$all
 ||pulsepanel.info^$all
 ||pulsexba.cyou^$all
 ||pulsexe.cyou^$all
@@ -41916,6 +41924,7 @@
 ||rhvatoatin.com^$all
 ||riact.vip^$all
 ||riactweb.vip^$all
+||ribbonm.top^$all
 ||ribitexchange.com^$all
 ||rich-game.com^$all
 ||rich-industry-investment.com^$all
@@ -46787,6 +46796,7 @@
 ||token-tesla.com^$all
 ||token.enshop.club^$all
 ||token.im^$all
+||tokenchain-evm-selfcustody.net^$all
 ||tokencow.com.tw^$all
 ||tokencs.net^$all
 ||tokendigit.cc^$all
@@ -52352,6 +52362,7 @@
 ||www.fintocd.com^$all
 ||www.fxopenuve.top^$all
 ||www.fyndiqs.com^$all
+||www.geminiua.com^$all
 ||www.global-gaagency.com^$all
 ||www.haitaorky.com^$all
 ||www.hw138.cn^$all
@@ -52441,6 +52452,7 @@
 ||www.torus-pro.com^$all
 ||www.tradevest.co.uk^$all
 ||www.twyaen.com^$all
+||www.vixcapital-limited.com^$all
 ||www.wanshatb.vip^$all
 ||www.webseatl.cc^$all
 ||www.wessio.com^$all
