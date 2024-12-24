@@ -3235,6 +3235,7 @@
 *://*.applettwts.com/*
 *://*.applyforunvacation.org/*
 *://*.appmtbtc.com/*
+*://*.appoctaprime.com/*
 *://*.apppgem.com/*
 *://*.appraisaldigitalmining.com/*
 *://*.approcketpool.club/*
@@ -27414,6 +27415,7 @@
 *://*.gtiglobalfxmkt.com/*
 *://*.gtiglobalpty.com/*
 *://*.gtimarkets.com/*
+*://*.gtja158.app/*
 *://*.gtjiz.shop/*
 *://*.gtjiz.xyz/*
 *://*.gtjlz.fyi/*
@@ -38502,6 +38504,7 @@
 *://*.ortraxinvestment.com/*
 *://*.orvgpro.com/*
 *://*.oryxglobaltraders.com/*
+*://*.orzenge.com/*
 *://*.os-bitsky.com/*
 *://*.os-juyi.com/*
 *://*.osgrdy.top/*
@@ -47794,6 +47797,7 @@
 *://*.trustsbalance.com/*
 *://*.trustshubminingfx.com/*
 *://*.trustsinvestment.org/*
+*://*.trustswap.top/*
 *://*.trusttokenco.com/*
 *://*.trusttokenex.fun/*
 *://*.trusttokenex.site/*
@@ -47864,6 +47868,7 @@
 *://*.trxvip08cn.vip/*
 *://*.trxwk78.org/*
 *://*.tryopr.com/*
+*://*.trztjt.com/*
 *://*.ts5555.net/*
 *://*.ts775.com/*
 *://*.tsa1688.com/*
