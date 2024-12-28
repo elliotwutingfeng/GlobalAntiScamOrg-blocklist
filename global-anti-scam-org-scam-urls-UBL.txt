@@ -13208,6 +13208,7 @@
 *://*.coinbasemaxprodefi.com/*
 *://*.coinbasemi.com/*
 *://*.coinbasemz.com/*
+*://*.coinbasen.top/*
 *://*.coinbasena.com/*
 *://*.coinbasenews.com/*
 *://*.coinbasenft.ai/*
