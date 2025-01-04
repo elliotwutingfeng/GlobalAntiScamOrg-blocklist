@@ -4920,6 +4920,7 @@
 ||atcplus.top^$all
 ||atcwzrv.xyz^$all
 ||ateck-fx.com^$all
+||aterethaim.com^$all
 ||atexkis.vip^$all
 ||atexns.cc^$all
 ||atfc.regafun.com^$all
@@ -15590,6 +15591,7 @@
 ||com.coinokx.ltd^$all
 ||com.occoin.club^$all
 ||com.shopcc.club^$all
+||comcast-profit.com^$all
 ||comcomcomcom.org^$all
 ||comebit.net^$all
 ||comecbit.com^$all
@@ -26840,6 +26842,7 @@
 ||globalcompang.xyz^$all
 ||globalcoristrade.com^$all
 ||globalcosmx.com^$all
+||globalcounterfraud.org^$all
 ||globalcrescentexpress.com^$all
 ||globalcryptex.net^$all
 ||globalcrypto-prime.com^$all
@@ -27512,6 +27515,7 @@
 ||gomecntw.com^$all
 ||gominerx.com^$all
 ||gomining.biz^$all
+||gomining.com^$all
 ||gomkinvest.com^$all
 ||gomkinvest.online^$all
 ||gomkinvest.site^$all
@@ -48757,6 +48761,7 @@
 ||tw.bailm.cc^$all
 ||tw.bailm.co^$all
 ||tw.beirock.top^$all
+||tw.bouncemall.store^$all
 ||tw.carousellselfhelp936.com^$all
 ||tw.carousellselfhelp939.com^$all
 ||tw.carousellselfhelp951.com^$all
@@ -52799,8 +52804,11 @@
 ||www.bestbitex.com^$all
 ||www.bicoyin.com^$all
 ||www.bigtcoins.com^$all
+||www.bis-termpited.top^$all
 ||www.bitdbd.com^$all
 ||www.bitgrandit.com^$all
+||www.bitstaker.app^$all
+||www.bittang.cc^$all
 ||www.bluetarp.cc^$all
 ||www.bmttopss.vip^$all
 ||www.btcxsc.com^$all
@@ -52918,6 +52926,7 @@
 ||www.themoviesproduction.com^$all
 ||www.tiktok758.com^$all
 ||www.tk-mall.tv^$all
+||www.tmallbusiness.store^$all
 ||www.tofgoly.com^$all
 ||www.torus-pro.com^$all
 ||www.tradevest.co.uk^$all
@@ -53497,6 +53506,7 @@
 ||xt-exchange.com^$all
 ||xt.xvminc.buzz^$all
 ||xt6b6u1xz.com^$all
+||xtames.com^$all
 ||xtb.com^$all
 ||xtbbmv.com^$all
 ||xtbcdi.com^$all

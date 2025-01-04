@@ -3769,6 +3769,7 @@
 *://*.atcqt.com/*
 *://*.atcwzrv.xyz/*
 *://*.ateck-fx.com/*
+*://*.aterethaim.com/*
 *://*.atexkis.vip/*
 *://*.atexns.cc/*
 *://*.atfker.com/*
@@ -5782,6 +5783,7 @@
 *://*.biruibo.vip/*
 *://*.biruibp.vip/*
 *://*.biruibs.vip/*
+*://*.bis-termpited.top/*
 *://*.bisa8.com/*
 *://*.bisampnktj.com/*
 *://*.bisampyghj.top/*
@@ -8483,6 +8485,7 @@
 *://*.bitsstamps.com/*
 *://*.bitsswap.online/*
 *://*.bitsswifttechnology.com/*
+*://*.bitstaker.app/*
 *://*.bitstaker.io/*
 *://*.bitstaky.com/*
 *://*.bitstamapacc.com/*
@@ -8592,6 +8595,7 @@
 *://*.bitt-rexearn.gold/*
 *://*.bitt.tech/*
 *://*.bitt90.click/*
+*://*.bittang.cc/*
 *://*.bittaxup.com/*
 *://*.bittbnss.com/*
 *://*.bittby.cyou/*
@@ -9798,6 +9802,7 @@
 *://*.bottlenosewhale.com/*
 *://*.bottradehoon.com/*
 *://*.boumbit.com/*
+*://*.bouncemall.store/*
 *://*.bountifulgrowthfinance.com/*
 *://*.bourfxtrade.net/*
 *://*.boursobrgd.cc/*
@@ -14949,6 +14954,7 @@
 *://*.comWVC4.app/*
 *://*.comaCiE.app/*
 *://*.comaqEZ.app/*
+*://*.comcast-profit.com/*
 *://*.comcoinbasemaxpro-defi.com/*
 *://*.comcomcomcom.org/*
 *://*.come6Xe.app/*
@@ -26250,6 +26256,7 @@
 *://*.globalcompang.xyz/*
 *://*.globalcoristrade.com/*
 *://*.globalcosmx.com/*
+*://*.globalcounterfraud.org/*
 *://*.globalcrescentexpress.com/*
 *://*.globalcryptex.net/*
 *://*.globalcrypto-prime.com/*
@@ -26958,6 +26965,7 @@
 *://*.gomecntw.com/*
 *://*.gominerx.com/*
 *://*.gomining.biz/*
+*://*.gomining.com/*
 *://*.gomkinvest.com/*
 *://*.gomkinvest.online/*
 *://*.gomkinvest.site/*
@@ -52353,6 +52361,7 @@
 *://*.xsymp.com/*
 *://*.xt-exchange.com/*
 *://*.xt6b6u1xz.com/*
+*://*.xtames.com/*
 *://*.xtb.com/*
 *://*.xtbbmv.com/*
 *://*.xtbcdi.com/*
