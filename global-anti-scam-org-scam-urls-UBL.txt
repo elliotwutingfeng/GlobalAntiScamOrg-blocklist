@@ -276,6 +276,7 @@
 *://*.2023-ht.com/*
 *://*.2024515236.com/*
 *://*.208btc.com/*
+*://*.20thcenturystudios-vip.com/*
 *://*.210624.cn/*
 *://*.216cryptopool.com/*
 *://*.216liveoption.com/*
@@ -3149,6 +3150,7 @@
 *://*.aplicativominespro.com/*
 *://*.aplicativominespro.online/*
 *://*.aplicativominespro.store/*
+*://*.apmjdh.com/*
 *://*.apmtrads.com/*
 *://*.apnx1.com/*
 *://*.apocalypse.vip/*
@@ -12085,6 +12087,7 @@
 *://*.changimb.com/*
 *://*.changying.pw/*
 *://*.changyiqiche.com/*
+*://*.changzhenghk.com/*
 *://*.chantrades.com/*
 *://*.chaohaodai.xyz/*
 *://*.chaohuanfe.com/*
@@ -21562,6 +21565,7 @@
 *://*.etoror.live/*
 *://*.etorord.net/*
 *://*.etororf.cc/*
+*://*.etoros.xyz/*
 *://*.etorotes.com/*
 *://*.etorotwo.com/*
 *://*.etorov2.com/*
@@ -32547,6 +32551,7 @@
 *://*.kxhj.online/*
 *://*.kxive.xyz/*
 *://*.kxjmlqhw.com/*
+*://*.kxlex.xyz/*
 *://*.kxn2022.com/*
 *://*.kxnn1knej1kn.com/*
 *://*.kxsw1266.com/*
@@ -40829,6 +40834,7 @@
 *://*.rabnex.com/*
 *://*.raca-ex.com/*
 *://*.racaise.buzz/*
+*://*.raccoonmall.com/*
 *://*.racebitcinvestment.com/*
 *://*.racebtcinvests.com/*
 *://*.racex.top/*
@@ -49457,6 +49463,7 @@
 *://*.ushantip.top/*
 *://*.ushiuks.com/*
 *://*.usjdhcufxk.com/*
+*://*.uslasry.com/*
 *://*.usmarketex.com/*
 *://*.usmininggroup.com/*
 *://*.usndjdf.com/*
@@ -52348,6 +52355,7 @@
 *://*.xrwyds.net/*
 *://*.xs888.xyz/*
 *://*.xsbwencl.com/*
+*://*.xscoins.net/*
 *://*.xscsov.com/*
 *://*.xshgnb.com/*
 *://*.xshiwu.com/*

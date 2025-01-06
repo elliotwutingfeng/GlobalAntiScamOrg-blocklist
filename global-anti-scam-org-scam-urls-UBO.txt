@@ -281,6 +281,7 @@
 ||2042.1988330.com^$all
 ||208.winn6668.com^$all
 ||208btc.com^$all
+||20thcenturystudios-vip.com^$all
 ||210624.cn^$all
 ||21384145-cy.amg-8.com^$all
 ||216cryptopool.com^$all
@@ -12873,6 +12874,7 @@
 ||changeusdt.net^$all
 ||changeusdt.xyz^$all
 ||changying.pw^$all
+||changzhenghk.com^$all
 ||chantrades.com^$all
 ||chaohaodai.xyz^$all
 ||chaohuanfe.com^$all
@@ -41860,6 +41862,7 @@
 ||rabnex.com^$all
 ||raca-ex.com^$all
 ||racaise.buzz^$all
+||raccoonmall.com^$all
 ||race.gaworkonline.com^$all
 ||racebitcinvestment.com^$all
 ||racebtcinvests.com^$all
@@ -50267,6 +50270,7 @@
 ||ushantip.top^$all
 ||ushiuks.com^$all
 ||usjdhcufxk.com^$all
+||uslasry.com^$all
 ||usmininggroup.com^$all
 ||usorrir.com^$all
 ||uspayc.com^$all
@@ -52800,6 +52804,7 @@
 ||www.762598792.shop^$all
 ||www.acryptot.com^$all
 ||www.aomexzp.com^$all
+||www.apmjdh.com^$all
 ||www.bakkt-cc.com^$all
 ||www.bestbitex.com^$all
 ||www.bicoyin.com^$all
@@ -52832,6 +52837,7 @@
 ||www.en-tiktok.live^$all
 ||www.etasvvip.com^$all
 ||www.etherfaqs.net^$all
+||www.etoros.xyz^$all
 ||www.eulerbmg.com^$all
 ||www.ex-web3.pro^$all
 ||www.exchanges1.cc^$all
@@ -52901,6 +52907,7 @@
 ||www.kakauex.com^$all
 ||www.kakauey.com^$all
 ||www.kakauez.com^$all
+||www.kxlex.xyz^$all
 ||www.lirunexltd.com^$all
 ||www.ltcrrh.com^$all
 ||www.m.kakauesr.com^$all
@@ -52938,6 +52945,7 @@
 ||www.wessio.com^$all
 ||www.wholesalelightbulb.com^$all
 ||www.wish2002.com^$all
+||www.xscoins.net^$all
 ||www.zbncsq.vip^$all
 ||www.zkeris.vip^$all
 ||www.zone-buyer.com^$all
