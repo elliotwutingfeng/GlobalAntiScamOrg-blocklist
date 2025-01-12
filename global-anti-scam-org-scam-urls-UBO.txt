@@ -18346,6 +18346,7 @@
 ||danexcoin.com^$all
 ||danexmegatrade.com^$all
 ||dangdangtw.com^$all
+||dangdangtwq.com^$all
 ||dantiexchange.com^$all
 ||dao.lotteryswap.finance^$all
 ||daocryptox.com^$all
@@ -33608,6 +33609,7 @@
 ||link.ofgrml.top^$all
 ||link.qddxu.top^$all
 ||link.tcxqt.top^$all
+||link3.to^$all
 ||linkaeci.vip^$all
 ||linkbuyshop.top^$all
 ||linkbuyshopping.top^$all
@@ -36969,6 +36971,7 @@
 ||mobile.bitpro-okex.com^$all
 ||mobile.bitwallet.finance^$all
 ||mobile.bkoex.finance^$all
+||mobile.btcoinus.org^$all
 ||mobile.btexcoinx.com^$all
 ||mobile.coinbasexs.com^$all
 ||mobile.coinbene.top^$all
@@ -52836,6 +52839,8 @@
 ||www.edxmarkets-1.com^$all
 ||www.en-tiktok.live^$all
 ||www.etasvvip.com^$all
+||www.eth-ido.net^$all
+||www.eth-ido.pro^$all
 ||www.etherfaqs.net^$all
 ||www.etoros.xyz^$all
 ||www.eulerbmg.com^$all
@@ -52925,6 +52930,7 @@
 ||www.rariblelia.com^$all
 ||www.sghongleonggroupptp.com^$all
 ||www.sincexw.com^$all
+||www.spielbankhrannover.com^$all
 ||www.sushikao.com^$all
 ||www.sushippj.com^$all
 ||www.tapbitt.com^$all
@@ -52941,6 +52947,7 @@
 ||www.twyaen.com^$all
 ||www.vixcapital-limited.com^$all
 ||www.wanshatb.vip^$all
+||www.web3-cinex-b.com^$all
 ||www.webseatl.cc^$all
 ||www.wessio.com^$all
 ||www.wholesalelightbulb.com^$all

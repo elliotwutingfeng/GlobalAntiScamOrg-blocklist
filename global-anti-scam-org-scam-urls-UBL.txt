@@ -10434,6 +10434,7 @@
 *://*.btcoinnn.com/*
 *://*.btcoinos.vip/*
 *://*.btcoinss.com/*
+*://*.btcoinus.org/*
 *://*.btcokmex.com/*
 *://*.btcokusdt.net/*
 *://*.btcomirex.com/*
@@ -17568,6 +17569,7 @@
 *://*.danexcoin.com/*
 *://*.danexmegatrade.com/*
 *://*.dangdangtw.com/*
+*://*.dangdangtwq.com/*
 *://*.dangdengtw.shop/*
 *://*.dangdengtwn.shop/*
 *://*.dannilu.com/*
@@ -20940,6 +20942,8 @@
 *://*.eth-greenmining.net/*
 *://*.eth-grt.com/*
 *://*.eth-hummingbot.com/*
+*://*.eth-ido.net/*
+*://*.eth-ido.pro/*
 *://*.eth-intelligentmining.com/*
 *://*.eth-kan.vip/*
 *://*.eth-layer2.net/*
@@ -33218,6 +33222,7 @@
 *://*.linfoxinvestment.org/*
 *://*.ling-hang.net/*
 *://*.link-dex.com/*
+*://*.link3.to/*
 *://*.linkaeci.vip/*
 *://*.linkbuyshop.top/*
 *://*.linkbuyshopping.top/*
@@ -43879,6 +43884,7 @@
 *://*.spicevoa.com/*
 *://*.spidexpresslogis.com/*
 *://*.spidrex.com/*
+*://*.spielbankhrannover.com/*
 *://*.spinbit.com/*
 *://*.spiral-td.com/*
 *://*.spiral-td.pro/*
@@ -50889,6 +50895,7 @@
 *://*.web.app/*
 *://*.web1001.xyz/*
 *://*.web3-btc-defi.vip/*
+*://*.web3-cinex-b.com/*
 *://*.web3-cointrade.net/*
 *://*.web3-cointrade.org/*
 *://*.web3-cryptohopper.com/*
