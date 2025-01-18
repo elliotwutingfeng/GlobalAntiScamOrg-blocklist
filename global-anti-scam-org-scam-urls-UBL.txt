@@ -1899,6 +1899,7 @@
 *://*.aigridpro.com/*
 *://*.aigridtop.com/*
 *://*.aigridw.com/*
+*://*.aihecrypto.online/*
 *://*.aiinvesttrade.com/*
 *://*.ailandcoin.shop/*
 *://*.ailanhua.cn/*
@@ -12887,6 +12888,7 @@
 *://*.cod.exchange/*
 *://*.coderex.co/*
 *://*.codexeromining.com/*
+*://*.codifymedia.club/*
 *://*.codolove.com/*
 *://*.codxhylvip8f.com/*
 *://*.codzbite.com/*
@@ -14922,6 +14924,7 @@
 *://*.coinwitty.com/*
 *://*.coinwix-capital.com/*
 *://*.coinwjda.com/*
+*://*.coinwjew.com/*
 *://*.coinwlink.com/*
 *://*.coinwmax-protrade.com/*
 *://*.coinwnet.live/*
@@ -26955,6 +26958,7 @@
 *://*.goldcoinlottery.com/*
 *://*.goldcontractmanscs.com/*
 *://*.goldcore-trade.net/*
+*://*.goldd.xyz/*
 *://*.golddesertcoin.club/*
 *://*.golddesertcoin.info/*
 *://*.golddoxferv.com/*
@@ -36996,6 +37000,7 @@
 *://*.nbcchain.com/*
 *://*.nbcusdt.com/*
 *://*.nbfidyuo.com/*
+*://*.nbgwo.com/*
 *://*.nbiaybiwos.top/*
 *://*.nbibox.com/*
 *://*.nbiko.com/*
@@ -40984,6 +40989,7 @@
 *://*.qsqbpoqaotdqxf.com/*
 *://*.qsqcics.vip/*
 *://*.qsqhgs.vip/*
+*://*.qssfe.com/*
 *://*.qsvprivatefunds.com/*
 *://*.qt7039.xyz/*
 *://*.qt7063.xyz/*
@@ -42042,6 +42048,7 @@
 *://*.rthrfxc.com/*
 *://*.rthrj.com/*
 *://*.rtmeu.top/*
+*://*.rtnc.mom/*
 *://*.rtorrents.com/*
 *://*.rtozn.website/*
 *://*.rtradem.com/*
@@ -45259,6 +45266,7 @@
 *://*.swapmillions.com/*
 *://*.swapnex.io/*
 *://*.swappeaktrade.com/*
+*://*.swapplus.top/*
 *://*.swaptocoin.com/*
 *://*.swaptradex.com/*
 *://*.swapuni.info/*
@@ -50963,6 +50971,7 @@
 *://*.vv6666.xyz/*
 *://*.vv881.com/*
 *://*.vvacdx.top/*
+*://*.vvbuy-a.vip/*
 *://*.vvgov.tw/*
 *://*.vviptw.com/*
 *://*.vvneusyu.com/*
@@ -52999,6 +53008,7 @@
 *://*.xygjtw.com/*
 *://*.xyhffgs.com/*
 *://*.xyijun.com/*
+*://*.xyk33.top/*
 *://*.xyl9388.top/*
 *://*.xylnsn.top/*
 *://*.xymm49.com/*
