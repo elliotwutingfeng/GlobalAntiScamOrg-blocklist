@@ -31631,6 +31631,7 @@
 ||itradeltd.online^$all
 ||itrading.cc^$all
 ||itredxv.com^$all
+||itrustcapital.site^$all
 ||itrustcaptalinvest.com^$all
 ||itrygroup.com^$all
 ||itsfxtm.xyz^$all
@@ -37231,6 +37232,7 @@
 ||miningpoolalliance.com^$all
 ||miningpoolking.vip^$all
 ||miningpoolltd.org^$all
+||miningpowertech.com^$all
 ||miningppo.com^$all
 ||miningpro.org^$all
 ||miningprofitpremier.com^$all
@@ -41542,6 +41544,7 @@
 ||premiumcryptollc.com^$all
 ||premiumcryptominers.com^$all
 ||premiumcryptotradings.com^$all
+||premiumepsilon.digital^$all
 ||premiumexchange.net^$all
 ||premiumexchange.org^$all
 ||premiumfx247.com^$all
@@ -45980,6 +45983,7 @@
 ||strcga.com^$all
 ||stream-wealth.ltd^$all
 ||streetsfx.com^$all
+||striketer.com^$all
 ||strimfxmarkets.com^$all
 ||stringcrypto.com^$all
 ||strofex.org^$all
@@ -50751,6 +50755,7 @@
 ||usdt-eth-top.com^$all
 ||usdt-eth.asia^$all
 ||usdt-eth.io^$all
+||usdt-eth7.club^$all
 ||usdt-ethdefi.vip^$all
 ||usdt-ether.bet^$all
 ||usdt-ether.cc^$all
@@ -53711,6 +53716,7 @@
 ||www.bakkt-cc.com^$all
 ||www.balzlf.com^$all
 ||www.bcnex.cc^$all
+||www.bdex.com^$all
 ||www.bespokeenie.com^$all
 ||www.bestbitex.com^$all
 ||www.beubuys.com^$all
@@ -53734,6 +53740,7 @@
 ||www.bofoi.xin^$all
 ||www.bofxi.online^$all
 ||www.bsvyqo.com^$all
+||www.btchtcp.com^$all
 ||www.btcxsc.com^$all
 ||www.buzzardhui.com^$all
 ||www.bxibites.com^$all
@@ -53741,6 +53748,7 @@
 ||www.cacaderdomzidomzi.com^$all
 ||www.campione.me^$all
 ||www.cht-tw.com^$all
+||www.cix3752i.com^$all
 ||www.clsiimk.com^$all
 ||www.coinbasen.top^$all
 ||www.coinex666.com^$all
@@ -54013,6 +54021,7 @@
 ||www.stellalks.com^$all
 ||www.stellalkt.com^$all
 ||www.supernodenen.com^$all
+||www.sushi.com^$all
 ||www.sushikao.com^$all
 ||www.sushippj.com^$all
 ||www.sviprakuten.com^$all

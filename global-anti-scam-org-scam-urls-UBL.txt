@@ -4887,6 +4887,7 @@
 *://*.bdeoisl.com/*
 *://*.bdeporting.com/*
 *://*.bdeportings.com/*
+*://*.bdex.com/*
 *://*.bdgvip.com/*
 *://*.bdhjfbvv.com/*
 *://*.bdhov.xyz/*
@@ -10549,6 +10550,7 @@
 *://*.btchmeg.com/*
 *://*.btchmhp.buzz/*
 *://*.btchox.com/*
+*://*.btchtcp.com/*
 *://*.btchye.vip/*
 *://*.btcicoin.com/*
 *://*.btcifx.com/*
@@ -30898,6 +30900,7 @@
 *://*.itradeltd.online/*
 *://*.itrading.cc/*
 *://*.itredxv.com/*
+*://*.itrustcapital.site/*
 *://*.itrustcaptalinvest.com/*
 *://*.itrygroup.com/*
 *://*.itsfxtm.xyz/*
@@ -36179,6 +36182,7 @@
 *://*.miningpoolalliance.com/*
 *://*.miningpoolking.vip/*
 *://*.miningpoolltd.org/*
+*://*.miningpowertech.com/*
 *://*.miningppo.com/*
 *://*.miningpro.org/*
 *://*.miningprofitpremier.com/*
@@ -40553,6 +40557,7 @@
 *://*.premiumcryptollc.com/*
 *://*.premiumcryptominers.com/*
 *://*.premiumcryptotradings.com/*
+*://*.premiumepsilon.digital/*
 *://*.premiumexchange.net/*
 *://*.premiumexchange.org/*
 *://*.premiumfx247.com/*
@@ -45363,6 +45368,7 @@
 *://*.strcga.com/*
 *://*.stream-wealth.ltd/*
 *://*.streetsfx.com/*
+*://*.striketer.com/*
 *://*.strimfxmarkets.com/*
 *://*.stringcrypto.com/*
 *://*.strofex.org/*
@@ -45689,6 +45695,7 @@
 *://*.susgat.com/*
 *://*.sushi-defi.com/*
 *://*.sushi-miningpool.com/*
+*://*.sushi.com/*
 *://*.sushidefimax.com/*
 *://*.sushidefimex.com/*
 *://*.sushidexfi.com/*
@@ -50229,6 +50236,7 @@
 *://*.usdt-eth-top.com/*
 *://*.usdt-eth.asia/*
 *://*.usdt-eth.io/*
+*://*.usdt-eth7.club/*
 *://*.usdt-ethdefi.vip/*
 *://*.usdt-ether.bet/*
 *://*.usdt-ether.cc/*
