@@ -6110,6 +6110,7 @@
 ||beonetrade.com^$all
 ||beoscoin.com^$all
 ||bep20alicecoinmigrate.live^$all
+||bep20defi.com^$all
 ||bep8888.com^$all
 ||bepbits.com^$all
 ||bepumarkets.com^$all
@@ -11083,6 +11084,7 @@
 ||bschh.com^$all
 ||bscntw.pro^$all
 ||bscoinvip.com^$all
+||bscscan.com^$all
 ||bscusdtp.com^$all
 ||bscyf.com^$all
 ||bsdsyey.com^$all
@@ -20214,6 +20216,7 @@
 ||downallweb.com^$all
 ||downbitforex.com^$all
 ||downlaod.longwangguoji.com^$all
+||downlazada.dsromorganizer.com^$all
 ||download-bit.top^$all
 ||download-bitpie.club^$all
 ||download-bitpie.group^$all
@@ -47103,6 +47106,7 @@
 ||tesseract666.top^$all
 ||test-big.com^$all
 ||test.ethmd.org^$all
+||test.lazada-jp.com^$all
 ||test.rwa-b.cc^$all
 ||test.tksmalls.com^$all
 ||test.wtobuy.shop^$all
@@ -50473,6 +50477,7 @@
 ||universalfxtservice.ltd^$all
 ||universalprimetraders.com^$all
 ||universalprobitvestment.com^$all
+||universalstudiosss.com^$all
 ||universaltrade.online^$all
 ||universaltradebnk.com^$all
 ||universaltrademall.com^$all

@@ -5027,6 +5027,7 @@
 *://*.beonetrade.com/*
 *://*.beoscoin.com/*
 *://*.bep20alicecoinmigrate.live/*
+*://*.bep20defi.com/*
 *://*.bep8888.com/*
 *://*.bepbits.com/*
 *://*.bepumarkets.com/*
@@ -10211,6 +10212,7 @@
 *://*.bschh.com/*
 *://*.bscntw.pro/*
 *://*.bscoinvip.com/*
+*://*.bscscan.com/*
 *://*.bscusdtp.com/*
 *://*.bscyf.com/*
 *://*.bsdjhbhjc.com/*
@@ -19494,6 +19496,7 @@
 *://*.dsndfbxsa.xyz/*
 *://*.dsngfhga.com/*
 *://*.dso-fx.com/*
+*://*.dsromorganizer.com/*
 *://*.dstwmy.online/*
 *://*.dsuret.com/*
 *://*.dsuyreitr.com/*
@@ -33225,6 +33228,7 @@
 *://*.laz-wholesale.com/*
 *://*.laza-dasg.cn/*
 *://*.laza-dasg.com/*
+*://*.lazada-jp.com/*
 *://*.lazada-tw.com/*
 *://*.lazada58.com/*
 *://*.lazada80.com/*
@@ -49958,6 +49962,7 @@
 *://*.universalfxtservice.ltd/*
 *://*.universalprimetraders.com/*
 *://*.universalprobitvestment.com/*
+*://*.universalstudiosss.com/*
 *://*.universaltrade.online/*
 *://*.universaltradebnk.com/*
 *://*.universaltrademall.com/*
