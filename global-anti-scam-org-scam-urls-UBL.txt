@@ -1738,6 +1738,7 @@
 *://*.agacoin.info/*
 *://*.agbarnse.com/*
 *://*.agbarnse.vip/*
+*://*.agbb1ywww.shop/*
 *://*.agbcoinnft.com/*
 *://*.agbcontractblockchain.com/*
 *://*.agbcrypto.com/*
@@ -2744,6 +2745,7 @@
 *://*.ammcoins.life/*
 *://*.ammcoins.xyz/*
 *://*.ammdefi.org/*
+*://*.ammeconia.top/*
 *://*.ammgm.xyz/*
 *://*.ammmdividend.com/*
 *://*.ammmine.org/*
@@ -9823,6 +9825,7 @@
 *://*.bomwinbit.vip/*
 *://*.bonanza.fit/*
 *://*.bonanza888.net/*
+*://*.bonanzastask.com/*
 *://*.bondicoinpty.com/*
 *://*.boneacmac.com/*
 *://*.boneacmix.com/*
@@ -14091,6 +14094,7 @@
 *://*.coinjarq.com/*
 *://*.coinjarr.com/*
 *://*.coinjety.com/*
+*://*.coinjhe.com/*
 *://*.coinjiaof.com/*
 *://*.coinjmdifi.top/*
 *://*.coinjpex.club/*
@@ -27857,6 +27861,8 @@
 *://*.gtrfox.com/*
 *://*.gts999666.com/*
 *://*.gtsaddlon.com/*
+*://*.gtsxs.cc/*
+*://*.gtsxs.vip/*
 *://*.gtugrkkc.sbs/*
 *://*.gtuhasjdhhq.com/*
 *://*.gtvcoin.com/*
@@ -29337,6 +29343,7 @@
 *://*.htfx-forexs.com/*
 *://*.htfx.co/*
 *://*.htfx.ltd/*
+*://*.htfxcryptoq.com/*
 *://*.htfxplus.com/*
 *://*.htfxsplus.com/*
 *://*.htfxstop.com/*
@@ -34268,6 +34275,7 @@
 *://*.lpsoev.com/*
 *://*.lpsooe.com/*
 *://*.lpxcdy.com/*
+*://*.lpygwd.top/*
 *://*.lq369.com/*
 *://*.lqipfo.top/*
 *://*.lqrer.com/*
@@ -35153,6 +35161,7 @@
 *://*.mbo68.com/*
 *://*.mbofx.com/*
 *://*.mbrhy.com/*
+*://*.mbsc18.club/*
 *://*.mbsc19.club/*
 *://*.mbscrypto.com/*
 *://*.mbsv30.cc/*
@@ -35920,6 +35929,7 @@
 *://*.mikean.com/*
 *://*.miketong.net/*
 *://*.mikewrubelcryptoira.com/*
+*://*.mileonglobals.com/*
 *://*.milestonesfx.org/*
 *://*.milininvesting.com/*
 *://*.milleniumtrades.com/*
@@ -37313,6 +37323,7 @@
 *://*.nas-financial.vip/*
 *://*.nas-vip.com/*
 *://*.nasapp1.com/*
+*://*.nasasdsweb.com/*
 *://*.nasdao.cc/*
 *://*.nasdaq-ex.one/*
 *://*.nasdaq-pro.com/*
@@ -43877,6 +43888,7 @@
 *://*.sia-invest.vip/*
 *://*.siactw.com/*
 *://*.siacvip.com/*
+*://*.sianappeni.com/*
 *://*.sibitlix.biz/*
 *://*.sibwa.top/*
 *://*.sichcapitalaa.com/*
