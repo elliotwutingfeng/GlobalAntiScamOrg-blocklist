@@ -35883,6 +35883,7 @@
 *://*.mhnuw.com/*
 *://*.mhrc.tw/*
 *://*.mhsfxl.com/*
+*://*.mhu3.top/*
 *://*.miaodai.lol/*
 *://*.miaxac.top/*
 *://*.mibrew.buzz/*
@@ -48590,6 +48591,7 @@
 *://*.triplercrypto.com/*
 *://*.triplytrade.com/*
 *://*.tripodexpress.net/*
+*://*.triptease.vip/*
 *://*.tristergroup.com/*
 *://*.tritokenfx.com/*
 *://*.tritoninvestex.com/*
@@ -52029,6 +52031,7 @@
 *://*.webdapps-connect.org/*
 *://*.webdft.com/*
 *://*.webebcbit.net/*
+*://*.weber-inc.pro/*
 *://*.webfin24.com/*
 *://*.webftexchange.com/*
 *://*.webhop.me/*
@@ -53015,6 +53018,7 @@
 *://*.xbzujie.com/*
 *://*.xc1388.com/*
 *://*.xcakj.xyz/*
+*://*.xcapitalltd.org/*
 *://*.xcbnhdf.com/*
 *://*.xcbnvmud.xyz/*
 *://*.xcbtuv.com/*
