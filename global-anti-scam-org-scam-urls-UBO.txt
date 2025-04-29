@@ -1126,6 +1126,7 @@
 ||aspropluss.cc^$all
 ||aspropluss.com^$all
 ||aspropluss.vip^$all
+||assetsholding.net^$all
 ||astars-network.cc^$all
 ||astars-network.vip^$all
 ||astartw.net^$all
@@ -6375,6 +6376,7 @@
 ||myship711.twkf.us^$all
 ||myshop.tiktshopsmall.top^$all
 ||myshopify.com^$all
+||mysteriousplants.net^$all
 ||mysteryboxtw.com^$all
 ||mythtwmagic.com^$all
 ||mythvipaj.com^$all
@@ -9982,6 +9984,7 @@
 ||www.buzzardhui.com^$all
 ||www.bxibites.com^$all
 ||www.byaicp.vip^$all
+||www.bydfirop.com^$all
 ||www.cacaderdomzidomzi.com^$all
 ||www.campione.me^$all
 ||www.cht-tw.com^$all

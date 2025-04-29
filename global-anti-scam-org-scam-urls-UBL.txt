@@ -625,6 +625,7 @@
 *://*.aspropluss.cc/*
 *://*.aspropluss.com/*
 *://*.aspropluss.vip/*
+*://*.assetsholding.net/*
 *://*.astars-network.cc/*
 *://*.astars-network.vip/*
 *://*.astartw.net/*
@@ -1613,6 +1614,7 @@
 *://*.bybiyice.top/*
 *://*.bybusdd.top/*
 *://*.bycoinapp.com/*
+*://*.bydfirop.com/*
 *://*.byexpro.top/*
 *://*.byhbd.top/*
 *://*.byin-pro.store/*
@@ -6219,6 +6221,7 @@
 *://*.myship-7-11csc-tw.cc/*
 *://*.myship7-11-com.site/*
 *://*.myshopify.com/*
+*://*.mysteriousplants.net/*
 *://*.mysteryboxtw.com/*
 *://*.mythtwgiant.com/*
 *://*.mythtwmagic.com/*
