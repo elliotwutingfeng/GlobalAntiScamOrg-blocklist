@@ -5892,6 +5892,7 @@
 ||mallbooks-ltd.com^$all
 ||mallshop-tk.me^$all
 ||malltiktok.top^$all
+||malorys.top^$all
 ||mamagz.com^$all
 ||mampjs.top^$all
 ||manauyv.com^$all
@@ -6964,6 +6965,7 @@
 ||pc.lbma-forex.com^$all
 ||pc.lbmalimited.cc^$all
 ||pc.megaequityfx.com^$all
+||pc.metorix.net^$all
 ||pc.micmarkfx.cc^$all
 ||pc.monarchlibertygroup.cc^$all
 ||pc.newsmarketsltd.cc^$all
@@ -10285,6 +10287,7 @@
 ||www.tartetcorporation.work^$all
 ||www.tayck.com^$all
 ||www.tdseut.com^$all
+||www.tebtopbit.com^$all
 ||www.theflourishingcompany.com^$all
 ||www.themoviesproduction.com^$all
 ||www.theplayshopping.com^$all
@@ -10856,6 +10859,7 @@
 ||zhuantwuser.com^$all
 ||zhurongtw.net^$all
 ||zhurongtw.top^$all
+||zhwlex.us^$all
 ||zhxiaoertw.com^$all
 ||zhxiaoertwapp.com^$all
 ||ziaowv.com^$all
