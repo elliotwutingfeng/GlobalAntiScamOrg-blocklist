@@ -873,6 +873,7 @@
 ||app.qgtnln.top^$all
 ||app.qianf179.top^$all
 ||app.qianx102.top^$all
+||app.qntcoin.com^$all
 ||app.qntvsl.top^$all
 ||app.qvxgg.top^$all
 ||app.razr-top.com^$all
@@ -2301,6 +2302,7 @@
 ||coinbte.com^$all
 ||coinbte.tw^$all
 ||coinbuik.com^$all
+||coincatch.top^$all
 ||coincce.org^$all
 ||coincce.tw^$all
 ||coincheckh5.com^$all
@@ -2487,6 +2489,7 @@
 ||cpsaleshub.com^$all
 ||cpslj.qjhqwvsl.com^$all
 ||cqqq6666.com^$all
+||cqzh6.com^$all
 ||crateis.vip^$all
 ||crazy-goshops.com^$all
 ||crazygo-stores.com^$all
@@ -3020,6 +3023,7 @@
 ||dsuret.com^$all
 ||dsytre.com^$all
 ||dt168.net^$all
+||dtcpay-pro.com^$all
 ||dtcpayfit.com^$all
 ||dtcpayliemi.com^$all
 ||dtcpayliemie.com^$all
@@ -3547,6 +3551,7 @@
 ||firstrade-shop.sbs^$all
 ||firstrade01.vip^$all
 ||firstradevip.sbs^$all
+||fishbatseo.com^$all
 ||fjdfhey.com^$all
 ||fjkbhjho.com^$all
 ||fkgret.com^$all
@@ -5886,6 +5891,7 @@
 ||mall-lwgshop.shop^$all
 ||mall-musiceasy.com^$all
 ||mall-online-books.com^$all
+||mall.safewayshop.xyz^$all
 ||mall.shopeyn.com^$all
 ||mall.shoppingttik.com^$all
 ||mallag.xyz^$all
@@ -7526,6 +7532,7 @@
 ||rocketpools.live^$all
 ||rocketpoolske.com^$all
 ||rocketpoolzlw.com^$all
+||rockoil-investco.com^$all
 ||rohaki.com^$all
 ||rolex-etf.store^$all
 ||rolex-etf.vip^$all
@@ -7836,6 +7843,7 @@
 ||shop.mallag.xyz^$all
 ||shop.myhtau.com^$all
 ||shop.nkios.online^$all
+||shop.safewayshop.xyz^$all
 ||shop.shopeevipn.site^$all
 ||shop.sxzaz.shop^$all
 ||shop.tiktokshoptk.com^$all
@@ -7933,6 +7941,7 @@
 ||sip-alibaba.co^$all
 ||sipc-exchange.com^$all
 ||sipcexchange.com^$all
+||site.bengaming.vip^$all
 ||site.singsrong.com^$all
 ||site.wind-coin.com^$all
 ||sivvm.top^$all
@@ -9966,6 +9975,7 @@
 ||www.bigonetwa.com^$all
 ||www.bigt.cc^$all
 ||www.bigtcoins.com^$all
+||www.bilaxyak.com^$all
 ||www.bit-manycoin.com^$all
 ||www.bitceigm.com^$all
 ||www.bitceigo.com^$all
@@ -10001,6 +10011,7 @@
 ||www.coinwin-defi.net^$all
 ||www.coinwjew.com^$all
 ||www.cosmedvipbonusbacks.com^$all
+||www.cubig.club^$all
 ||www.cy-berage.eth.link^$all
 ||www.cyntexx.com^$all
 ||www.datum-max.com^$all
@@ -10226,6 +10237,7 @@
 ||www.rariblelia.com^$all
 ||www.rcoinwbit.com^$all
 ||www.richviewny.com^$all
+||www.robswebhood.com^$all
 ||www.rolexetf.site^$all
 ||www.royal-ex.com^$all
 ||www.saksfifthavenueidn.vip^$all
@@ -10288,6 +10300,7 @@
 ||www.tayck.com^$all
 ||www.tdseut.com^$all
 ||www.tebtopbit.com^$all
+||www.telbtc.vip^$all
 ||www.theflourishingcompany.com^$all
 ||www.themoviesproduction.com^$all
 ||www.theplayshopping.com^$all
