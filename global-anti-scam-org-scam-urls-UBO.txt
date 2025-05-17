@@ -552,6 +552,7 @@
 ||app.bitget11.top^$all
 ||app.bitmcfx.cc^$all
 ||app.bitmocka.com^$all
+||app.bitpricing.com^$all
 ||app.bitprovip.com^$all
 ||app.bklsoie.com^$all
 ||app.bluenode.lat^$all
@@ -2657,6 +2658,7 @@
 ||daoxscrypto.com^$all
 ||dapp.cossmoss.xyz^$all
 ||dapp.scfchain.cc^$all
+||dapp.trxpool.xyz^$all
 ||dapp.westsite.top^$all
 ||darkcnrus.com^$all
 ||darwtejob.xyz^$all
@@ -9999,6 +10001,7 @@
 ||www.bydfirop.com^$all
 ||www.cacaderdomzidomzi.com^$all
 ||www.campione.me^$all
+||www.cceexp.com^$all
 ||www.cht-tw.com^$all
 ||www.cix3752i.com^$all
 ||www.clsiimk.com^$all
@@ -10352,6 +10355,7 @@
 ||www.wish2002.com^$all
 ||www.wmfoun04.com^$all
 ||www.xausgp.store^$all
+||www.xh-pro.net^$all
 ||www.xingmai99.cc^$all
 ||www.xingyikfcrm.com^$all
 ||www.xscoins.net^$all

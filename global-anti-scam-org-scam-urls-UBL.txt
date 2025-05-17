@@ -1207,6 +1207,7 @@
 *://*.bitowin.com/*
 *://*.bitowinb.com/*
 *://*.bitpie-ai.vip/*
+*://*.bitpricing.com/*
 *://*.bitpro-okex.com/*
 *://*.bitprocdr.com/*
 *://*.bitprodown.com/*
@@ -1722,6 +1723,7 @@
 *://*.cbxcoinse.com/*
 *://*.cbxntapm.com/*
 *://*.cccc.baby/*
+*://*.cceexp.com/*
 *://*.ccesince2018.app/*
 *://*.ccnn6660.com/*
 *://*.ccoinhub.com/*
@@ -8986,6 +8988,7 @@
 *://*.trustuhot.top/*
 *://*.trustwallet.com/*
 *://*.trxaicoin.info/*
+*://*.trxpool.xyz/*
 *://*.tryerd.com/*
 *://*.tryopr.com/*
 *://*.trztjt.com/*
@@ -10040,6 +10043,7 @@
 *://*.xformbitmax.com/*
 *://*.xgjkhfdsj.com/*
 *://*.xgtz.tw/*
+*://*.xh-pro.net/*
 *://*.xhby6952.com/*
 *://*.xhby9918.com/*
 *://*.xhs138.com/*
