@@ -833,6 +833,7 @@
 *://*.bcnex.cc/*
 *://*.bcnex.co/*
 *://*.bcnex.vip/*
+*://*.bcoinauroras.com/*
 *://*.bconomyap.vip/*
 *://*.bconomyas.vip/*
 *://*.bconomybs.vip/*
@@ -3789,6 +3790,7 @@
 *://*.global-tw01.store/*
 *://*.global-tw08.store/*
 *://*.global-versions.com/*
+*://*.globalanti.com/*
 *://*.globalasx.com/*
 *://*.globalcitizenbk.com/*
 *://*.globalcounterfraud.org/*

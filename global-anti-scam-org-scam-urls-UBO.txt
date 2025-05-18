@@ -1303,6 +1303,7 @@
 ||bcmkgu.com^$all
 ||bcnex.co^$all
 ||bcnex.vip^$all
+||bcoinauroras.com^$all
 ||bconomyap.vip^$all
 ||bconomyas.vip^$all
 ||bconomybs.vip^$all
@@ -10068,6 +10069,7 @@
 ||www.giabtoreatraect.com^$all
 ||www.glfodp.com^$all
 ||www.global-gaagency.com^$all
+||www.globalanti.com^$all
 ||www.glownodeenxe.com^$all
 ||www.gmovc.com^$all
 ||www.gridxdk.com^$all
