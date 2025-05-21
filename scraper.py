@@ -1,6 +1,7 @@
 """Extract scam URLs found at https://www.globalantiscam.org/scam-websites
 and write them to a .txt blocklist
 """
+
 from __future__ import annotations
 
 import datetime
@@ -176,8 +177,8 @@ if __name__ == "__main__":
         raise ValueError("Failed to scrape URLs")
     for url in urls:
         res = tldextract.extract(url)
-        registered_domain, domain, fqdn = (
-            res.registered_domain,
+        top_domain_under_public_suffix, domain, fqdn = (
+            res.top_domain_under_public_suffix,
             res.domain,
             res.fqdn,
         )
@@ -192,7 +193,7 @@ if __name__ == "__main__":
         elif fqdn:
             non_ips.add(url)
             fqdns.add(fqdn)
-            registered_domains.add(registered_domain)
+            registered_domains.add(top_domain_under_public_suffix)
 
     if not non_ips and not ips:
         logger.error("No content available for blocklists.")

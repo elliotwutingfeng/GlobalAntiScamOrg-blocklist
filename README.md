@@ -26,22 +26,15 @@ The URLs and IP Addresses in this blocklist are compiled by the **Global Anti Sc
 
 ## Requirements
 
-- Python 3.12+
+- Python 3.13+
+- [uv](https://docs.astral.sh/uv)
 
-## Setup instructions
+## Usage
 
 `git clone` and `cd` into the project directory, then run the following
 
 ```bash
-python3 -m venv venv
-venv/bin/python3 -m pip install --upgrade pip
-venv/bin/python3 -m pip install -r requirements.txt
-```
-
-## Usage
-
-```bash
-venv/bin/python3 scraper.py
+uv run python scraper.py
 ```
 
 ## Libraries/Frameworks used
