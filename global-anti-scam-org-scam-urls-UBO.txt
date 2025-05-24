@@ -2525,6 +2525,7 @@
 ||crypto-aave.vip^$all
 ||crypto-coinpro.click^$all
 ||crypto-nexus.cc^$all
+||crypto-ocean.com^$all
 ||crypto-trust.net^$all
 ||crypto-trusts.top^$all
 ||crypto-txs.life^$all
@@ -5369,6 +5370,7 @@
 ||lcjew.com^$all
 ||lckqs.com^$all
 ||ldxyis.top^$all
+||leadwaytrade.com^$all
 ||learningbooksmall.com^$all
 ||lebcdoss.com^$all
 ||lebmiccs.com^$all
@@ -6329,6 +6331,7 @@
 ||msscp05.com^$all
 ||mstr.gift^$all
 ||mt.cocuu.live^$all
+||mt10w.com.u30.store.cdn.cloudflare.net^$all
 ||mt9w.com^$all
 ||mtghrt.com^$all
 ||mtiost.com^$all
@@ -8316,6 +8319,7 @@
 ||t-cat.cmm-tw.pb2n.vip^$all
 ||t-cat.inq7.shop^$all
 ||t-cat.vip^$all
+||t-hf.com^$all
 ||t-promst.com^$all
 ||t-shop.vip^$all
 ||t-tradingpit.com^$all
@@ -8835,6 +8839,7 @@
 ||tradonditxrb.com^$all
 ||tradonditxri.com^$all
 ||tradonditxrm.com^$all
+||trakxoption.site^$all
 ||travelifys-compy.com^$all
 ||travelifys-forex.com^$all
 ||travelifys-party.com^$all

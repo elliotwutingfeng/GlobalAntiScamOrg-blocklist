@@ -2226,6 +2226,7 @@
 *://*.crypto-bitpro.com/*
 *://*.crypto-coinpro.click/*
 *://*.crypto-nexus.cc/*
+*://*.crypto-ocean.com/*
 *://*.crypto-trust.net/*
 *://*.crypto-trusts.top/*
 *://*.crypto-txs.life/*
@@ -5333,6 +5334,7 @@
 *://*.ldjri.com/*
 *://*.ldsnvr.com/*
 *://*.ldxyis.top/*
+*://*.leadwaytrade.com/*
 *://*.learningbooksmall.com/*
 *://*.lebcdoss.com/*
 *://*.lebinserts.com/*
@@ -8363,6 +8365,7 @@
 *://*.t-catrrw.sbs/*
 *://*.t-cats.sbs/*
 *://*.t-cat黑猫5.shop/*
+*://*.t-hf.com/*
 *://*.t-promst.com/*
 *://*.t-shop.vip/*
 *://*.t-tradingpit.com/*
@@ -8897,6 +8900,7 @@
 *://*.tradonditxrb.com/*
 *://*.tradonditxri.com/*
 *://*.tradonditxrm.com/*
+*://*.trakxoption.site/*
 *://*.transtajses.com/*
 *://*.transtara.com/*
 *://*.transtarass.com/*
