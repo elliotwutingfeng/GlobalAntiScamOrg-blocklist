@@ -586,6 +586,7 @@
 *://*.arborunitygridmarkets.com/*
 *://*.arborunitygridmarketsr.com/*
 *://*.arbxmo.com/*
+*://*.arcticinc.net/*
 *://*.aresgamsit.com/*
 *://*.aresknest.com/*
 *://*.aresknkjs.com/*
@@ -2385,6 +2386,7 @@
 *://*.dbsdaboshi.shop/*
 *://*.dbwydm.top/*
 *://*.dce1888.com/*
+*://*.dcgtriangle.com/*
 *://*.dcgwuzi.top/*
 *://*.dcobn.ltd/*
 *://*.dcobn.pro/*
@@ -2979,6 +2981,7 @@
 *://*.ethflow.net/*
 *://*.ethflow.top/*
 *://*.ethjinance.com/*
+*://*.ethnace.com/*
 *://*.ethnano.com/*
 *://*.ethnano.finance/*
 *://*.ethninancb.com/*
@@ -3412,6 +3415,7 @@
 *://*.foundry.pw/*
 *://*.fox-bitcoin.com/*
 *://*.foxtwd-usd.com/*
+*://*.foxypay.com/*
 *://*.fpgfortune.tw/*
 *://*.fpgfortune1.tw/*
 *://*.fpmarketcb.com/*
@@ -4679,6 +4683,7 @@
 *://*.jduca.top/*
 *://*.je17888.net/*
 *://*.je17999.net/*
+*://*.je90.com/*
 *://*.jece.xyz/*
 *://*.jedfym.top/*
 *://*.jeeerl.com/*
@@ -6765,6 +6770,7 @@
 *://*.otzo.com/*
 *://*.ou-msh.cc/*
 *://*.oufanpro.com/*
+*://*.ouhuajustice.com/*
 *://*.oupeidesrc.com/*
 *://*.oupeidesref.com/*
 *://*.oupeidesrf.com/*
@@ -7205,6 +7211,7 @@
 *://*.qeuckn.icu/*
 *://*.qfzvud.top/*
 *://*.qgorb.com/*
+*://*.qgqhbv.cc/*
 *://*.qgtnln.top/*
 *://*.qh2755.top/*
 *://*.qh27859.top/*
@@ -9258,6 +9265,7 @@
 *://*.ug686568.vip/*
 *://*.ugdsg.com/*
 *://*.ugeff.com/*
+*://*.uggames.xyz/*
 *://*.ugxywt.top/*
 *://*.ugyhvd.com/*
 *://*.uhgers.com/*
