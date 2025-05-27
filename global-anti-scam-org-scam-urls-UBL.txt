@@ -433,6 +433,8 @@
 *://*.all4richline.top/*
 *://*.allbd8567.com/*
 *://*.allegroyuxuan.com/*
+*://*.alleyspace.com/*
+*://*.alleystar.com/*
 *://*.allpgt.com/*
 *://*.allpurposejobguide.xyz/*
 *://*.allroundposition.xyz/*
@@ -1158,6 +1160,7 @@
 *://*.bitgets-usd.pro/*
 *://*.bitgets-zt.vip/*
 *://*.bitgetts.com/*
+*://*.bitgettw.com/*
 *://*.bitgin.blog/*
 *://*.bitgin.icu/*
 *://*.bitgin.top/*
@@ -4162,6 +4165,7 @@
 *://*.himpro.store/*
 *://*.hinwork.xyz/*
 *://*.hioiajob.xyz/*
+*://*.hitbtcn.com/*
 *://*.hiveshopcms.bond/*
 *://*.hiveshopcms.com/*
 *://*.hiveshopcms.shop/*
@@ -6523,6 +6527,7 @@
 *://*.ocs23.org/*
 *://*.octadate.top/*
 *://*.octaos.top/*
+*://*.octaprofitcap.live/*
 *://*.octmarketsvip.com/*
 *://*.ocuivkfj.com/*
 *://*.odhf1.top/*
@@ -10284,6 +10289,7 @@
 *://*.ygdoza.top/*
 *://*.ygfhgf.shop/*
 *://*.yggaming.net/*
+*://*.ygnynzgc.top/*
 *://*.ygvbhur.com/*
 *://*.ygvrevolu.com/*
 *://*.ygze2541.site/*

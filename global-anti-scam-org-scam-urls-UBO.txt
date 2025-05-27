@@ -418,6 +418,8 @@
 ||all4richline.cyou^$all
 ||all4richline.top^$all
 ||allegroyuxuan.com^$all
+||alleyspace.com^$all
+||alleystar.com^$all
 ||allpurposejobguide.xyz^$all
 ||allroundposition.xyz^$all
 ||allxkx.com^$all
@@ -4417,6 +4419,7 @@
 ||himpro.store^$all
 ||hinwork.xyz^$all
 ||hioiajob.xyz^$all
+||hitbtcn.com^$all
 ||hiveshopcms.bond^$all
 ||hiveshopcms.com^$all
 ||hiveshopcms.shop^$all
@@ -6639,6 +6642,7 @@
 ||ocs23.org^$all
 ||octadate.top^$all
 ||octaos.top^$all
+||octaprofitcap.live^$all
 ||ocuivkfj.com^$all
 ||odd.excellentw.com^$all
 ||odd.heexcellentt.online^$all
@@ -9995,6 +9999,7 @@
 ||www.bitceigo.com^$all
 ||www.bitcluec.com^$all
 ||www.bitdbd.com^$all
+||www.bitgettw.com^$all
 ||www.bitgrandit.com^$all
 ||www.bitstaker.app^$all
 ||www.bittang.cc^$all
@@ -10655,6 +10660,7 @@
 ||yfbbfs.com^$all
 ||yfgawem.com^$all
 ||ygfhgf.shop^$all
+||ygnynzgc.top^$all
 ||ygze2541.site^$all
 ||yh.txadbll.com^$all
 ||yh888.xyz^$all
