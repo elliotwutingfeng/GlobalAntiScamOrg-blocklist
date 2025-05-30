@@ -2538,6 +2538,7 @@
 *://*.digi-dexchange.plus/*
 *://*.digi-dexchange.pro/*
 *://*.digi-dexchange.xyz/*
+*://*.digiart-coin.com/*
 *://*.digibytecode.com/*
 *://*.digifinexit.online/*
 *://*.digifinexv.website/*
