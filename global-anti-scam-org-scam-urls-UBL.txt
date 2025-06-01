@@ -7284,6 +7284,7 @@
 *://*.rabbiapt.vip/*
 *://*.raccoonmall.com/*
 *://*.raerkwtq.top/*
+*://*.rain.com/*
 *://*.rakutencenters.com/*
 *://*.rakutenhi.com/*
 *://*.rakutenme.icu/*
