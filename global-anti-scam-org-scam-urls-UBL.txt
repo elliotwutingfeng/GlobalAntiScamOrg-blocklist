@@ -917,6 +917,7 @@
 *://*.bgeca.com/*
 *://*.bgetoken.pro/*
 *://*.bgfcg.com/*
+*://*.bghlo.com/*
 *://*.bgnni.com/*
 *://*.bgrcv.com/*
 *://*.bhdgo.com/*
@@ -9208,6 +9209,7 @@
 *://*.txscoins.help/*
 *://*.txscrtpto.xyz/*
 *://*.txskiio.com/*
+*://*.tyachh.cc/*
 *://*.tydcoin.pro/*
 *://*.tydkbl.com/*
 *://*.tyefg.com/*
@@ -9353,6 +9355,7 @@
 *://*.urn-trade.cyou/*
 *://*.urn-trade.world/*
 *://*.us-eth.pro/*
+*://*.us.com/*
 *://*.usa-ned.top/*
 *://*.usazjed.com/*
 *://*.usblockchainbank.com/*
