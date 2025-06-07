@@ -5354,6 +5354,7 @@
 *://*.ledgerx-epx.top/*
 *://*.ledoutw.com/*
 *://*.leemtw.top/*
+*://*.legalandgeneral.com/*
 *://*.legendanwy.com/*
 *://*.legendapex.com/*
 *://*.legendapexu.com/*
@@ -8328,6 +8329,7 @@
 *://*.swissbgc.cc/*
 *://*.swissbgex.cc/*
 *://*.swissborg88.cc/*
+*://*.swrzf.top/*
 *://*.swth.live/*
 *://*.sxdech.cn/*
 *://*.sxexacoltm.com/*
