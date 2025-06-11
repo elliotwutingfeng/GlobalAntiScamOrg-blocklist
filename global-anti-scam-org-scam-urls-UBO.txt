@@ -219,6 +219,7 @@
 ||acuwwh.com^$all
 ||acvd.world^$all
 ||adcloud.us^$all
+||adidas.band^$all
 ||adimmunerc.com^$all
 ||adimmunerk.com^$all
 ||admin.cfi99.top^$all
@@ -9754,6 +9755,7 @@
 ||web3.aeex.live^$all
 ||web3.coin-ido.me^$all
 ||web3.coinbgrp.com^$all
+||web3.infiniterail.xyz^$all
 ||web3.seweioxke.top^$all
 ||web3.ssebb.vip^$all
 ||web3.trust-pro.life^$all

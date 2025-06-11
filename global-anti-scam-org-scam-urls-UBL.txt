@@ -228,6 +228,7 @@
 *://*.acuwwh.com/*
 *://*.acvd.world/*
 *://*.adcloud.us/*
+*://*.adidas.band/*
 *://*.adimmunerc.com/*
 *://*.adimmunerk.com/*
 *://*.admincs.id.vn/*
@@ -4534,6 +4535,7 @@
 *://*.indodawjo.com/*
 *://*.indodawjv.com/*
 *://*.inefex.pro/*
+*://*.infiniterail.xyz/*
 *://*.info-okex.com/*
 *://*.inhomelabor.com/*
 *://*.inlanshops.com/*
