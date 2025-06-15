@@ -1640,6 +1640,7 @@
 *://*.c-at.icu/*
 *://*.c-goldeneagle.com/*
 *://*.c-p.sbs/*
+*://*.c-patexco.com/*
 *://*.c4740946.pro/*
 *://*.cacaderdomzidomzi.com/*
 *://*.cachimsotcangona.cyou/*
@@ -7708,6 +7709,7 @@
 *://*.seagensyer.com/*
 *://*.seamanfxltd.com/*
 *://*.searchjobsnow.com/*
+*://*.sebc-tocoin.com/*
 *://*.secon-vip.com/*
 *://*.securitymkz.com/*
 *://*.seeaa.top/*

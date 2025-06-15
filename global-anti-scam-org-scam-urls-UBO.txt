@@ -7748,6 +7748,7 @@
 ||sdnaos.com^$all
 ||sduwi15.com.cn^$all
 ||searchjobsnow.com^$all
+||sebc-tocoin.com^$all
 ||secon-vip.com^$all
 ||sedwone.realizeideala.live^$all
 ||sedwone.realizeidealp.shop^$all
@@ -10023,6 +10024,7 @@
 ||www.bxibites.com^$all
 ||www.byaicp.vip^$all
 ||www.bydfirop.com^$all
+||www.c-patexco.com^$all
 ||www.cacaderdomzidomzi.com^$all
 ||www.campione.me^$all
 ||www.cceexp.com^$all
