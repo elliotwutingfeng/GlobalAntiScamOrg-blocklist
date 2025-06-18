@@ -5,7 +5,7 @@ description = "Machine-readable .txt blocklist of scam URLs and IP Addresses fro
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-    "bandit==1.8.3",
+    "bandit==1.8.5",
     "black==25.1.0",
     "mypy==1.16.0",
     "mypy-extensions==1.1.0",
