@@ -4843,6 +4843,7 @@
 ||itk-ex.com^$all
 ||itochuhk.com^$all
 ||itredxv.com^$all
+||itreebit.com^$all
 ||itrustcapital.site^$all
 ||itw-aetos.cc^$all
 ||itw-aetos.com^$all
@@ -9306,6 +9307,7 @@
 ||usdt-eth7.club^$all
 ||usdt-flow.net^$all
 ||usdt-trading.com^$all
+||usdt.adult^$all
 ||user.booking-tw.vip^$all
 ||user.dkglobalfx.com^$all
 ||user.htfx.co^$all

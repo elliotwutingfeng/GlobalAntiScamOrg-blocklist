@@ -4632,6 +4632,7 @@
 *://*.itochuhk.com/*
 *://*.itokdxa.cn/*
 *://*.itredxv.com/*
+*://*.itreebit.com/*
 *://*.itrustcapital.site/*
 *://*.itw-aetos.cc/*
 *://*.itw-aetos.com/*
@@ -9394,6 +9395,7 @@
 *://*.usdt-eth7.club/*
 *://*.usdt-flow.net/*
 *://*.usdt-trading.com/*
+*://*.usdt.adult/*
 *://*.usgforex.com/*
 *://*.uslasry.com/*
 *://*.usokxa.com/*
