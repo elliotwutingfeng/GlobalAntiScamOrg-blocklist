@@ -2451,6 +2451,7 @@
 ||coinxaut.com^$all
 ||coinxaut.online^$all
 ||coinxaut.vip^$all
+||coinxio.com^$all
 ||coinyej.com^$all
 ||coinyek.com^$all
 ||coinypg.com^$all
@@ -5694,6 +5695,7 @@
 ||m.ccoinhub.com^$all
 ||m.cficoining.com^$all
 ||m.cficoinvvn.com^$all
+||m.cicyoo.com^$all
 ||m.cnx18.top^$all
 ||m.coinexorg.com^$all
 ||m.coinexrus.com^$all
@@ -10045,6 +10047,7 @@
 ||www.cubig.club^$all
 ||www.cy-berage.eth.link^$all
 ||www.cyntexx.com^$all
+||www.danwx.xyz^$all
 ||www.datum-max.com^$all
 ||www.datum-pro.com^$all
 ||www.defiscloud.com^$all

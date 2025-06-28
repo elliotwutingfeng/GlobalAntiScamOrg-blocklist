@@ -1808,6 +1808,7 @@
 *://*.ciccsvip.work/*
 *://*.cicomyu.com/*
 *://*.cictic.vip/*
+*://*.cicyoo.com/*
 *://*.cinex.org/*
 *://*.cinvenmarkets.com/*
 *://*.cinvenscrm.com/*
@@ -2147,6 +2148,7 @@
 *://*.coinxaut.com/*
 *://*.coinxaut.online/*
 *://*.coinxaut.vip/*
+*://*.coinxio.com/*
 *://*.coinyej.com/*
 *://*.coinyek.com/*
 *://*.coinypg.com/*
@@ -2352,6 +2354,7 @@
 *://*.dangdangtwq.com/*
 *://*.dangdangtws.com/*
 *://*.dannilu.com/*
+*://*.danwx.xyz/*
 *://*.daofuforextw.com/*
 *://*.daolsec.top/*
 *://*.daotongliuxue.com/*
