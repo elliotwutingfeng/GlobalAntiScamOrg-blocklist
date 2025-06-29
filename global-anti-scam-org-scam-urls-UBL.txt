@@ -657,6 +657,7 @@
 *://*.atfktch.com/*
 *://*.atfktcl.com/*
 *://*.atfktrf.com/*
+*://*.atfx-eo.com/*
 *://*.atfx-tw.vip/*
 *://*.atfxapp.com/*
 *://*.atfxh.com/*
@@ -1641,6 +1642,7 @@
 *://*.c-goldeneagle.com/*
 *://*.c-p.sbs/*
 *://*.c-patexco.com/*
+*://*.c3ai.com/*
 *://*.c4740946.pro/*
 *://*.cacaderdomzidomzi.com/*
 *://*.cachimsotcangona.cyou/*
@@ -6437,6 +6439,7 @@
 *://*.nombongongf.cyou/*
 *://*.nonkycvp.com/*
 *://*.nopebn.com/*
+*://*.nortenai.com/*
 *://*.noteexblackchain.com/*
 *://*.notexcoinft.com/*
 *://*.notion.site/*
@@ -6669,6 +6672,7 @@
 *://*.omf-markeettt.com/*
 *://*.omix-fix.com/*
 *://*.omix-fix.top/*
+*://*.omnios.cloud/*
 *://*.omsknfojm.com/*
 *://*.omygod.cc/*
 *://*.omygod.cyou/*
@@ -10143,6 +10147,7 @@
 *://*.xmkdfhi.com/*
 *://*.xmlbokg.xyz/*
 *://*.xmmall.net/*
+*://*.xmnw.com/*
 *://*.xmspots.com/*
 *://*.xn--2-ik6bn7t3ufenm.top/*
 *://*.xn--49sw73a0r1as3c7ym.shop/*

@@ -1997,6 +1997,7 @@
 ||c-goldeneagle.com^$all
 ||c-p.sbs^$all
 ||c.shoppingcenter-tw.site^$all
+||c3ai.com^$all
 ||c4740946.pro^$all
 ||cab.zfxs.vip^$all
 ||cachimsotcangona.cyou^$all
@@ -5858,6 +5859,7 @@
 ||m.x4x07i3.com^$all
 ||m.xbobo.xyz^$all
 ||m.xmfinltd.com^$all
+||m.xmnw.com^$all
 ||m.xrowu.xyz^$all
 ||m.yex-web.com^$all
 ||m.ylhg8818.vip^$all
@@ -6559,6 +6561,7 @@
 ||nombongongf.cyou^$all
 ||nonkycvp.com^$all
 ||nopebn.com^$all
+||nortenai.com^$all
 ||noteexblackchain.com^$all
 ||notexcoinft.com^$all
 ||novaex.cc^$all
@@ -9991,6 +9994,7 @@
 ||www.ashvgb.com^$all
 ||www.asnnds.com^$all
 ||www.atbmax.com^$all
+||www.atfx-eo.com^$all
 ||www.aurayqa.com^$all
 ||www.axiora.online^$all
 ||www.bakkt-cc.com^$all
@@ -10253,6 +10257,7 @@
 ||www.okbiten.com^$all
 ||www.om-fmarketsx.com^$all
 ||www.omegasupsupp.it.com^$all
+||www.omnios.cloud^$all
 ||www.onlineikeamall.com^$all
 ||www.orioncoin.co^$all
 ||www.ouhuajustice.com^$all
