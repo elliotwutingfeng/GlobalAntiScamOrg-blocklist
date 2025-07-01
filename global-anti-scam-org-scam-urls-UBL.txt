@@ -7454,6 +7454,7 @@
 *://*.rithmscapital.cam/*
 *://*.rithmscapital.com/*
 *://*.rivergloballtd.com/*
+*://*.riverstonetape.com/*
 *://*.rivertw.top/*
 *://*.rjyqub.com/*
 *://*.rktude.com/*
