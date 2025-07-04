@@ -5207,6 +5207,7 @@
 *://*.kreusd.com/*
 *://*.kreuts.com/*
 *://*.kreyde.com/*
+*://*.kriptians.com/*
 *://*.krirts.com/*
 *://*.kroytu.com/*
 *://*.krpov.com/*
