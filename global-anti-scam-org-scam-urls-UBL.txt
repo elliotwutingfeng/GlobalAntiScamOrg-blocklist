@@ -6118,6 +6118,7 @@
 *://*.modmountltd.online/*
 *://*.modmountltd.pro/*
 *://*.modo-mall.com/*
+*://*.modok25.com/*
 *://*.moeeqayexchange.com/*
 *://*.moex.bar/*
 *://*.moex.best/*
