@@ -13,5 +13,5 @@ dependencies = [
     "requests==2.32.4",
     "selenium==4.33.0",
     "tldextract==5.3.0",
-    "typing-extensions==4.13.2",
+    "typing-extensions==4.14.1",
 ]
