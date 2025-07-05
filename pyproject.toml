@@ -7,7 +7,7 @@ requires-python = ">=3.13"
 dependencies = [
     "bandit==1.8.3",
     "black==25.1.0",
-    "mypy==1.16.0",
+    "mypy==1.16.1",
     "mypy-extensions==1.1.0",
     "pylint==3.3.7",
     "requests==2.32.4",
