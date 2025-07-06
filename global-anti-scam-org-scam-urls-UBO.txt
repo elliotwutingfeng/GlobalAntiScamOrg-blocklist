@@ -6383,6 +6383,7 @@
 ||mvppff.com^$all
 ||mwfou001.com^$all
 ||mwfou002.com^$all
+||mwkrx.top^$all
 ||mx-cryptocurrency.com^$all
 ||mx.taotiktk.com^$all
 ||mxemxeis.vip^$all
@@ -7539,6 +7540,7 @@
 ||rivergloballtd.com^$all
 ||riverstonetape.com^$all
 ||rivertw.top^$all
+||rketpro.com^$all
 ||rlbvhts.shop^$all
 ||rlhkw.com^$all
 ||rmsygj.com^$all

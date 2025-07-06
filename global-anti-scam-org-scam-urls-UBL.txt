@@ -6238,6 +6238,7 @@
 *://*.mvppff.com/*
 *://*.mwfou001.com/*
 *://*.mwfou002.com/*
+*://*.mwkrx.top/*
 *://*.mx-cryptocurrency.com/*
 *://*.mxemxeip.vip/*
 *://*.mxemxeis.vip/*
@@ -7459,6 +7460,7 @@
 *://*.riverstonetape.com/*
 *://*.rivertw.top/*
 *://*.rjyqub.com/*
+*://*.rketpro.com/*
 *://*.rktude.com/*
 *://*.rlbvhts.shop/*
 *://*.rlhkw.com/*
