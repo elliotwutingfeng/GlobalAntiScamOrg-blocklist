@@ -5346,6 +5346,7 @@
 *://*.lbma-forex.com/*
 *://*.lbmalimited.cc/*
 *://*.lbmalimited.com/*
+*://*.lbxlsc.com/*
 *://*.lcggroup.top/*
 *://*.lcjew.com/*
 *://*.lckqs.com/*
