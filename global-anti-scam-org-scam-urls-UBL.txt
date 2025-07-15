@@ -6265,6 +6265,7 @@
 *://*.myshopify.com/*
 *://*.mysteriousplants.net/*
 *://*.mysteryboxtw.com/*
+*://*.myswapbhj.xyz/*
 *://*.mythtwgiant.com/*
 *://*.mythtwmagic.com/*
 *://*.mythvipaj.com/*
