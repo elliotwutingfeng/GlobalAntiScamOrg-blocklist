@@ -717,6 +717,7 @@
 *://*.awopbm.com/*
 *://*.awyuhf.com/*
 *://*.axalbb.com/*
+*://*.axeltradzv.com/*
 *://*.axfh.life/*
 *://*.axfoun.com/*
 *://*.axiora.fun/*
@@ -1035,6 +1036,7 @@
 *://*.bingxxmd.com/*
 *://*.bingzfb.com/*
 *://*.bingzop.com/*
+*://*.binhusdt.com/*
 *://*.binncejkh.com/*
 *://*.binncejko.com/*
 *://*.binter.shop/*
@@ -1982,6 +1984,7 @@
 *://*.coinbit6.me/*
 *://*.coinbit66.cc/*
 *://*.coinbitkt.com/*
+*://*.coinble.vip/*
 *://*.coinbose.shop/*
 *://*.coinbox-ws.com/*
 *://*.coinbtc9.buzz/*
@@ -2749,6 +2752,7 @@
 *://*.eagleinvest.online/*
 *://*.eamazonmall.shop/*
 *://*.eamgg.xyz/*
+*://*.earnshares.com/*
 *://*.earthderty.top/*
 *://*.earthpooirz.com/*
 *://*.eascorapp.com/*
@@ -3998,6 +4002,7 @@
 *://*.gsshop-store.com/*
 *://*.gsshops-store.com/*
 *://*.gsshopstore.com/*
+*://*.gtcffgfdgfdg.cc/*
 *://*.gtcfxc.com/*
 *://*.gtja158.app/*
 *://*.gtsxs.cc/*
@@ -6039,6 +6044,7 @@
 *://*.mingp.in/*
 *://*.miniloan.xyz/*
 *://*.miningpowertech.com/*
+*://*.ministakepool.top/*
 *://*.miomall.lat/*
 *://*.miomall.top/*
 *://*.mipsacs.com/*
@@ -6830,6 +6836,7 @@
 *://*.ovtbwccb.com/*
 *://*.owdvc.com/*
 *://*.owebn.com/*
+*://*.owfgx.top/*
 *://*.owxejk.top/*
 *://*.oxabhr.top/*
 *://*.oyp3atia.com/*

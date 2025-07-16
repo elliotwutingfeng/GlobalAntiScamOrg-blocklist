@@ -1475,6 +1475,7 @@
 ||bingxxmd.com^$all
 ||bingzfb.com^$all
 ||bingzop.com^$all
+||binhusdt.com^$all
 ||binncejkh.com^$all
 ||binncejko.com^$all
 ||binter.shop^$all
@@ -3093,6 +3094,7 @@
 ||eade.store^$all
 ||eagleinvest.online^$all
 ||eamazonmall.shop^$all
+||earnshares.com^$all
 ||earthpooirz.com^$all
 ||eascorapp.com^$all
 ||eastaimagic.com^$all
@@ -6186,6 +6188,7 @@
 ||mingp.in^$all
 ||miniloan.xyz^$all
 ||miningpowertech.com^$all
+||ministakepool.top^$all
 ||miomall.lat^$all
 ||miomall.top^$all
 ||mipsacs.com^$all
@@ -6936,6 +6939,7 @@
 ||overlordsapp.shop^$all
 ||owdvc.com^$all
 ||owebn.com^$all
+||owfgx.top^$all
 ||oyp3atia.com^$all
 ||ozonshop.co^$all
 ||ozonsp.com^$all
@@ -6982,6 +6986,7 @@
 ||pbyfe.smqylquo.com^$all
 ||pc.83786538.com^$all
 ||pc.acfmar.com^$all
+||pc.axeltradzv.com^$all
 ||pc.belkin669.com^$all
 ||pc.bieaot.com^$all
 ||pc.bietoac.com^$all
@@ -6994,6 +6999,7 @@
 ||pc.fcaageafx.com^$all
 ||pc.fxccmarketsltd.cc^$all
 ||pc.gamanlimited.com^$all
+||pc.gtcffgfdgfdg.cc^$all
 ||pc.hut8vip.com^$all
 ||pc.lbma-forex.com^$all
 ||pc.lbmalimited.cc^$all
@@ -10043,6 +10049,7 @@
 ||www.cix3752i.com^$all
 ||www.clsiimk.com^$all
 ||www.coinbasen.top^$all
+||www.coinble.vip^$all
 ||www.coinex666.com^$all
 ||www.coinex889.com^$all
 ||www.coinjhe.com^$all
