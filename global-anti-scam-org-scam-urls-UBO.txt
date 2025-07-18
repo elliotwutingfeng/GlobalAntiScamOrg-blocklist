@@ -4442,6 +4442,7 @@
 ||hkdfinanc.com^$all
 ||hkeusy.com^$all
 ||hkexxpro.net^$all
+||hkmnl.cc^$all
 ||hkmolanecrawford.tw^$all
 ||hkqiyue.com^$all
 ||hkrope.com^$all
@@ -10064,6 +10065,7 @@
 ||www.danwx.xyz^$all
 ||www.datum-max.com^$all
 ||www.datum-pro.com^$all
+||www.de-15plus.com^$all
 ||www.defiscloud.com^$all
 ||www.dengage-work-sg.com^$all
 ||www.detuds.com^$all
