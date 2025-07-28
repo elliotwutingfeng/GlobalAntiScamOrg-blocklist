@@ -1037,6 +1037,7 @@
 *://*.bingzfb.com/*
 *://*.bingzop.com/*
 *://*.binhusdt.com/*
+*://*.binlh.com/*
 *://*.binncejkh.com/*
 *://*.binncejko.com/*
 *://*.binter.shop/*
@@ -1626,6 +1627,7 @@
 *://*.bybithgx.top/*
 *://*.bybitpoi.top/*
 *://*.bybitpx.cc/*
+*://*.bybityy.com/*
 *://*.bybiyice.top/*
 *://*.bybusdd.top/*
 *://*.bycoinapp.com/*
@@ -2132,6 +2134,7 @@
 *://*.coinssckecs.com/*
 *://*.coinssdcweb.com/*
 *://*.coinstobank.com/*
+*://*.coinswapx.win/*
 *://*.coinsync.plus/*
 *://*.coinsync.pro/*
 *://*.coinszkehsi.com/*
@@ -2995,6 +2998,7 @@
 *://*.ethereh.cn/*
 *://*.etherfaqs.net/*
 *://*.ethermine.vip/*
+*://*.etherscan.io/*
 *://*.ethfinancn.com/*
 *://*.ethflow.me/*
 *://*.ethflow.net/*
@@ -4321,6 +4325,7 @@
 *://*.hsjpartnersjpx.com/*
 *://*.hslstt.com/*
 *://*.hsmdck.top/*
+*://*.hsnshop.blog/*
 *://*.hspot.top/*
 *://*.htcq8.top/*
 *://*.htechnext.com/*

@@ -706,6 +706,7 @@
 ||app.hritoe.com^$all
 ||app.hrtyde.com^$all
 ||app.hslstt.com^$all
+||app.hsnshop.blog^$all
 ||app.hueitu.com^$all
 ||app.huexst.com^$all
 ||app.huidsuic.com^$all
@@ -1476,6 +1477,7 @@
 ||bingzfb.com^$all
 ||bingzop.com^$all
 ||binhusdt.com^$all
+||binlh.com^$all
 ||binncejkh.com^$all
 ||binncejko.com^$all
 ||binter.shop^$all
@@ -1984,6 +1986,7 @@
 ||bybithgx.top^$all
 ||bybitpro.w2.app^$all
 ||bybitpx.cc^$all
+||bybityy.com^$all
 ||bybiyice.top^$all
 ||bybusdd.top^$all
 ||bycoinapp.com^$all
@@ -3320,6 +3323,7 @@
 ||ether-scans.com^$all
 ||etherbluebay.com^$all
 ||ethermine.vip^$all
+||etherscan.io^$all
 ||ethfinancn.com^$all
 ||ethflow.me^$all
 ||ethflow.net^$all
@@ -10056,6 +10060,7 @@
 ||www.coinjhe.com^$all
 ||www.coinmatecrytodfk9.top^$all
 ||www.coinsfd.com^$all
+||www.coinswapx.win^$all
 ||www.coinwin-defi.net^$all
 ||www.coinwjew.com^$all
 ||www.cosmedvipbonusbacks.com^$all
