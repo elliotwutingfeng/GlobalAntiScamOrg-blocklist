@@ -3077,6 +3077,7 @@
 ||dyhbn.com^$all
 ||dyjll.lcvmjava.com^$all
 ||dynamicrcdu.com^$all
+||dynexexchange.com^$all
 ||dz86558.vip^$all
 ||e-can-tw-zpt-tw.xyz^$all
 ||e-can-tw-zpttw.xyz^$all
@@ -7687,6 +7688,7 @@
 ||saks-shop.net^$all
 ||sale.quatmas.store^$all
 ||saltswap.io^$all
+||sam-1-qaqb.onrender.com^$all
 ||sam.temkv.com^$all
 ||samshoxfc.com^$all
 ||sand-ro.com^$all
@@ -10115,6 +10117,7 @@
 ||www.fyndiqs.com^$all
 ||www.ganeshasha.it.com^$all
 ||www.gateidjemjdkmcmla.com^$all
+||www.geminileds.com^$all
 ||www.ghpqw.com^$all
 ||www.ghyso.com^$all
 ||www.giabtorea.com^$all
@@ -10382,6 +10385,7 @@
 ||www.tmmclub.xyz^$all
 ||www.tmnsg.com^$all
 ||www.tofgoly.com^$all
+||www.toobit.com^$all
 ||www.topbiwin.com^$all
 ||www.torus-pro.com^$all
 ||www.tradevest.co.uk^$all
@@ -10866,6 +10870,7 @@
 ||zdrbangquciz.com^$all
 ||zds2024.xyz^$all
 ||zdsfvxb.com^$all
+||zemxik.com^$all
 ||zenex.bond^$all
 ||zenex.cyou^$all
 ||zenex.icu^$all

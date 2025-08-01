@@ -2732,6 +2732,7 @@
 *://*.dydxcc.com/*
 *://*.dyhbn.com/*
 *://*.dynamicrcdu.com/*
+*://*.dynexexchange.com/*
 *://*.dytroe.com/*
 *://*.dz86558.vip/*
 *://*.dzfwe.top/*
@@ -3712,6 +3713,7 @@
 *://*.gemini-inter.com/*
 *://*.gemini-internat-tw.com/*
 *://*.geminialo.pro/*
+*://*.geminileds.com/*
 *://*.geminime.top/*
 *://*.geminin.club/*
 *://*.geminisvip.cyou/*
@@ -6723,6 +6725,7 @@
 *://*.onlinestores.cc/*
 *://*.onoks.com/*
 *://*.onramp.money/*
+*://*.onrender.com/*
 *://*.oodiufyu.xyz/*
 *://*.oodnexto.com/*
 *://*.oomqoeg.xyz/*
@@ -8891,6 +8894,7 @@
 *://*.tongshengs.com/*
 *://*.tongshunmicc.com/*
 *://*.tonynwcong.xyz/*
+*://*.toobit.com/*
 *://*.toom-dex.top/*
 *://*.top-sales.xyz/*
 *://*.topbiwin.com/*
@@ -10533,6 +10537,7 @@
 *://*.zdrbangquciz.com/*
 *://*.zds2024.xyz/*
 *://*.zdsfvxb.com/*
+*://*.zemxik.com/*
 *://*.zenex.bond/*
 *://*.zenex.cyou/*
 *://*.zenex.icu/*
