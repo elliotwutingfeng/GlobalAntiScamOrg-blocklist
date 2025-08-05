@@ -622,6 +622,7 @@
 *://*.asiateamall.com/*
 *://*.asidox.com/*
 *://*.askforakiss.com/*
+*://*.askulvip.sbs/*
 *://*.asnnds.com/*
 *://*.asoalin.xyz/*
 *://*.asos1a.com/*
@@ -6218,6 +6219,7 @@
 *://*.msscp05.com/*
 *://*.mstr.gift/*
 *://*.mt9w.com/*
+*://*.mtecx.vip/*
 *://*.mtghrt.com/*
 *://*.mtiost.com/*
 *://*.mtita.com/*
@@ -7813,6 +7815,7 @@
 *://*.sgrgjyrrups.com/*
 *://*.sgrgjyrrupss.com/*
 *://*.sgx-crypto.cn/*
+*://*.sgxaex.com/*
 *://*.sgxexchange.cc/*
 *://*.sh-opvipmart.top/*
 *://*.shang-ri-la-hotel.top/*

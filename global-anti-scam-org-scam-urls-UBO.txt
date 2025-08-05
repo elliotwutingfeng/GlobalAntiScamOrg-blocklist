@@ -6360,6 +6360,7 @@
 ||mt.cocuu.live^$all
 ||mt10w.com.u30.store.cdn.cloudflare.net^$all
 ||mt9w.com^$all
+||mtecx.vip^$all
 ||mtghrt.com^$all
 ||mtiost.com^$all
 ||mtita.com^$all
@@ -7831,6 +7832,7 @@
 ||sgrc.work^$all
 ||sgrgjyrrupss.com^$all
 ||sgx-crypto.cn^$all
+||sgxaex.com^$all
 ||sgxexchange.cc^$all
 ||sgytc.pxezupfa.com^$all
 ||sh-opvipmart.top^$all
@@ -10008,6 +10010,7 @@
 ||www.app8uma.top^$all
 ||www.aptosconnecten.com^$all
 ||www.ashvgb.com^$all
+||www.askulvip.sbs^$all
 ||www.asnnds.com^$all
 ||www.atbmax.com^$all
 ||www.atfx-eo.com^$all
