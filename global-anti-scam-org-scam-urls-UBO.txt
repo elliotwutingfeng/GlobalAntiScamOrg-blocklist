@@ -1502,6 +1502,7 @@
 ||bit-xtra.com^$all
 ||bit-xtra.xyz^$all
 ||bit.cfteft.com^$all
+||bit.hepsibura.lat^$all
 ||bit.phau.it.com^$all
 ||bit.premiuni.com^$all
 ||bit.vitebit.net^$all
@@ -3298,6 +3299,7 @@
 ||esmall.top^$all
 ||esshopping.online^$all
 ||esshopping.xyz^$all
+||essty.store^$all
 ||esunebk.top^$all
 ||esyfsr.com^$all
 ||etasas.com^$all
@@ -3319,6 +3321,7 @@
 ||etf.premiuni.com^$all
 ||etfrobot.com^$all
 ||eth-ves.co^$all
+||ethada.top^$all
 ||ethbinanca.com^$all
 ||ethcoinatm.com^$all
 ||ether-scans.com^$all
@@ -9693,6 +9696,8 @@
 ||wbfzdefi.com^$all
 ||wbgnwcum.icu^$all
 ||wbkm578.com^$all
+||wcei-global.com^$all
+||wceishop.com^$all
 ||wdcfjr.com^$all
 ||wdnhq.smqylquo.com^$all
 ||wdrr.jimkinbs.store^$all
@@ -9781,6 +9786,7 @@
 ||web3.aeex.live^$all
 ||web3.coin-ido.me^$all
 ||web3.coinbgrp.com^$all
+||web3.e4ix.com^$all
 ||web3.infiniterail.xyz^$all
 ||web3.seweioxke.top^$all
 ||web3.ssebb.vip^$all
@@ -10102,6 +10108,7 @@
 ||www.eulerbmg.com^$all
 ||www.eulergqc.com^$all
 ||www.exchanges1.cc^$all
+||www.facebook.com^$all
 ||www.faxbadnexteriao.com^$all
 ||www.fbsbdd.com^$all
 ||www.fbsiu.com^$all
@@ -10304,6 +10311,7 @@
 ||www.pwnbrx.com^$all
 ||www.pwnvqh.com^$all
 ||www.qssfe.com^$all
+||www.quantumdexs.cc^$all
 ||www.rain.com^$all
 ||www.rakutenxs.com^$all
 ||www.rariblelia.com^$all
@@ -10417,12 +10425,17 @@
 ||www.vresut.com^$all
 ||www.walmaruea.vip^$all
 ||www.wanshatb.vip^$all
+||www.wcei-education.com^$all
+||www.wcei-investment.com^$all
+||www.wceiacademy.com^$all
+||www.wceigroup.com^$all
 ||www.wealthchangepro.com^$all
 ||www.web3-cinex-b.com^$all
 ||www.web3energy.work^$all
 ||www.webseatl.cc^$all
 ||www.wessio.com^$all
 ||www.wholesalelightbulb.com^$all
+||www.wi-berhad.com^$all
 ||www.wish2002.com^$all
 ||www.wmfoun04.com^$all
 ||www.xausgp.store^$all

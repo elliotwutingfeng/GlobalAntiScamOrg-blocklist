@@ -2748,6 +2748,7 @@
 *://*.e-digitsx.com/*
 *://*.e-wu-store.com/*
 *://*.e2e2p.top/*
+*://*.e4ix.com/*
 *://*.e5gecnnafj.cc/*
 *://*.e6500.com/*
 *://*.eaamjn.com/*
@@ -2972,6 +2973,7 @@
 *://*.esmall.top/*
 *://*.esshopping.online/*
 *://*.esshopping.xyz/*
+*://*.essty.store/*
 *://*.esunebk.top/*
 *://*.esyfsr.com/*
 *://*.etasas.com/*
@@ -2993,6 +2995,7 @@
 *://*.etfrobot.com/*
 *://*.eth-ves.co/*
 *://*.eth.link/*
+*://*.ethada.top/*
 *://*.ethbinanca.com/*
 *://*.ethcoinatm.com/*
 *://*.ether-scans.com/*
@@ -3133,6 +3136,7 @@
 *://*.f868bet.com/*
 *://*.f8936073.pro/*
 *://*.fKiebw.com/*
+*://*.facebook.com/*
 *://*.faces-markt.com/*
 *://*.faces-seller.com/*
 *://*.faces-vip.com/*
@@ -4145,6 +4149,7 @@
 *://*.hellpmintsa.bond/*
 *://*.hemusih.com/*
 *://*.henanmu.com/*
+*://*.hepsibura.lat/*
 *://*.hererd.com/*
 *://*.hertud.com/*
 *://*.herysr.com/*
@@ -7302,6 +7307,7 @@
 *://*.quantcast.website/*
 *://*.quantomcapitals.com/*
 *://*.quantstockpro.com/*
+*://*.quantumdexs.cc/*
 *://*.quantumquill.pro/*
 *://*.quatmas.store/*
 *://*.qubitscube.com/*
@@ -9782,6 +9788,12 @@
 *://*.wbkm578.com/*
 *://*.wbsea.su/*
 *://*.wbseax.su/*
+*://*.wcei-education.com/*
+*://*.wcei-global.com/*
+*://*.wcei-investment.com/*
+*://*.wceiacademy.com/*
+*://*.wceigroup.com/*
+*://*.wceishop.com/*
 *://*.wcnvjp.top/*
 *://*.wdcfjr.com/*
 *://*.wds1568.com/*
@@ -9891,6 +9903,7 @@
 *://*.wholesass.vip/*
 *://*.wholesattp.top/*
 *://*.whqtax.top/*
+*://*.wi-berhad.com/*
 *://*.wiahykfu.com/*
 *://*.wiakfhk.com/*
 *://*.wibpzx.com/*
