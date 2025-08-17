@@ -1654,6 +1654,7 @@
 *://*.caczwork.xyz/*
 *://*.caiscs.com/*
 *://*.caixing815.com/*
+*://*.cakelhu.com/*
 *://*.cali1122.net/*
 *://*.cali2233.net/*
 *://*.cali333.net/*
@@ -2182,6 +2183,7 @@
 *://*.consumerfeedbackhub.pro/*
 *://*.consumerfeedbackhub.xyz/*
 *://*.continuesystem.xyz/*
+*://*.contractpool114.com/*
 *://*.conyyd.com/*
 *://*.coobits.com/*
 *://*.coolblueshop.cc/*
@@ -2430,6 +2432,8 @@
 *://*.decorations.cc/*
 *://*.deepbook.tech/*
 *://*.deepcoined.com/*
+*://*.deepcoinpd.com/*
+*://*.deepcoinpt.com/*
 *://*.deepgtp-blue.top/*
 *://*.deepgtp-pv.top/*
 *://*.deeps.us/*
@@ -3631,6 +3635,7 @@
 *://*.ganeshure.com/*
 *://*.ganeshushu.com/*
 *://*.ganeshuu.com/*
+*://*.ganifs.top/*
 *://*.gaoei.com/*
 *://*.garciniaclean.com/*
 *://*.gasolaw.com/*
@@ -5985,6 +5990,7 @@
 *://*.metucause.com/*
 *://*.mex-o.pro/*
 *://*.mexc-asiaa.com/*
+*://*.mexc.com/*
 *://*.mexc191.com/*
 *://*.mexc666.com/*
 *://*.mexc777.top/*
@@ -6711,6 +6717,8 @@
 *://*.onbuy-dealer.shop/*
 *://*.oncbas.com/*
 *://*.oncenight.com/*
+*://*.onchaincodenni.com/*
+*://*.onchaincodevni.com/*
 *://*.onchainokdc.com/*
 *://*.ondodeai.com/*
 *://*.ondodefi.com/*
@@ -8392,6 +8400,7 @@
 *://*.sycexchange.com/*
 *://*.syekliqo.com/*
 *://*.syjedf.com/*
+*://*.symbiosis.finance/*
 *://*.symbisc.com/*
 *://*.synergyeight.online/*
 *://*.synergyfive.online/*
@@ -10281,6 +10290,7 @@
 *://*.xyousk.com/*
 *://*.xz1128.cn/*
 *://*.xzloep.com/*
+*://*.xzookx.com/*
 *://*.xzrcjs.com/*
 *://*.yahated.com/*
 *://*.yahcmo.com/*
@@ -10371,6 +10381,7 @@
 *://*.yiegbq.com/*
 *://*.yiehrt.com/*
 *://*.yiekios.com/*
+*://*.yieldboost.net/*
 *://*.yigerwangyainksn.com/*
 *://*.yihuoex.com/*
 *://*.yihuoex.pro/*

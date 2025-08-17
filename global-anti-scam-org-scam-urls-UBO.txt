@@ -2479,6 +2479,7 @@
 ||consumerfeedbackhub.pro^$all
 ||consumerfeedbackhub.xyz^$all
 ||continuesystem.xyz^$all
+||contractpool114.com^$all
 ||coolblueshop.cc^$all
 ||coolkisthop.top^$all
 ||copywritingfile.xyz^$all
@@ -2736,6 +2737,8 @@
 ||decorateikeamall.com^$all
 ||decorations.cc^$all
 ||deepcoined.com^$all
+||deepcoinpd.com^$all
+||deepcoinpt.com^$all
 ||deepgtp-blue.top^$all
 ||deepgtp-pv.top^$all
 ||deepspeedex.com^$all
@@ -6793,6 +6796,8 @@
 ||onbuy-dealer.shop^$all
 ||oncbas.com^$all
 ||oncenight.com^$all
+||onchaincodenni.com^$all
+||onchaincodevni.com^$all
 ||onchainokdc.com^$all
 ||ondo9ncc.ondodeai.com^$all
 ||ondol.ondodeai.com^$all
@@ -8344,6 +8349,7 @@
 ||sxzjd2411.xyz^$all
 ||sy.gusdhks8.cc^$all
 ||syjedf.com^$all
+||symbiosis.finance^$all
 ||sys-cloud.cc^$all
 ||systemdle.com^$all
 ||systemdlf.com^$all
@@ -9375,6 +9381,7 @@
 ||vapp.zonmshop.com^$all
 ||vapp.zonmstar.com^$all
 ||vaultbitpro.com^$all
+||vb.ganifs.top^$all
 ||vbdsd.com^$all
 ||vbihbd.com^$all
 ||vbihsd.com^$all
@@ -10059,6 +10066,7 @@
 ||www.bydfirop.com^$all
 ||www.c-patexco.com^$all
 ||www.cacaderdomzidomzi.com^$all
+||www.cakelhu.com^$all
 ||www.campione.me^$all
 ||www.cceexp.com^$all
 ||www.cht-tw.com^$all
@@ -10267,6 +10275,7 @@
 ||www.maxbreadinx.com^$all
 ||www.meetloved.com^$all
 ||www.mercadolibre-jp.xyz^$all
+||www.mexc.com^$all
 ||www.micmarkfx.com^$all
 ||www.mirastraexwee.com^$all
 ||www.mmgtw02.com^$all
@@ -10667,6 +10676,7 @@
 ||xz1128.cn^$all
 ||xzh.tuoxino.com^$all
 ||xzhi.tuoxine.com^$all
+||xzookx.com^$all
 ||xzrcjs.com^$all
 ||y.startlink.vip^$all
 ||y.yqc888.com^$all
@@ -10739,6 +10749,7 @@
 ||yiefdj.com^$all
 ||yiegbq.com^$all
 ||yiehrt.com^$all
+||yieldboost.net^$all
 ||yigerwangyainksn.com^$all
 ||yihuoex.com^$all
 ||yihuoex.pro^$all
