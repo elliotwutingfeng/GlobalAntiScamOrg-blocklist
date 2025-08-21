@@ -132,6 +132,7 @@
 ||BitMart-ce.com^$all
 ||Goloo.net^$all
 ||OMR.transtara.com^$all
+||Odeonmovies.top^$all
 ||Petvoting010.top^$all
 ||Sheibfkrbeiiso.com^$all
 ||Shootmm.com^$all
@@ -3273,6 +3274,7 @@
 ||eprice-buying.com^$all
 ||eprice-newone.com^$all
 ||eprice-one.com^$all
+||eprice-shopping.com^$all
 ||epricee.net^$all
 ||eqohf.com^$all
 ||equitradecf.com^$all
@@ -4480,6 +4482,7 @@
 ||hoddir.com^$all
 ||hoddirs.com^$all
 ||hoddirsx.com^$all
+||hoea-fx.com^$all
 ||hoeecoin.store^$all
 ||hofgpy.com^$all
 ||hohong.cyou^$all
@@ -7404,6 +7407,7 @@
 ||qrngb.umatoafi.com^$all
 ||qsfxdm.com^$all
 ||qsjnet.com^$all
+||qsjt26.com^$all
 ||qt7039.xyz^$all
 ||qtmdf.com^$all
 ||quantcast.website^$all
@@ -9633,6 +9637,7 @@
 ||walletoiy.com^$all
 ||walletoiz.com^$all
 ||wallettrad.com^$all
+||wallitiq.io^$all
 ||walmall.one^$all
 ||walmardkv.com^$all
 ||walmardkx.com^$all

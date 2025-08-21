@@ -154,6 +154,7 @@
 *://*.BitMart-ce.com/*
 *://*.CD07XQ.com/*
 *://*.Goloo.net/*
+*://*.Odeonmovies.top/*
 *://*.Petvoting010.top/*
 *://*.Sheibfkrbeiiso.com/*
 *://*.Shootmm.com/*
@@ -2951,6 +2952,7 @@
 *://*.eprice-buying.com/*
 *://*.eprice-newone.com/*
 *://*.eprice-one.com/*
+*://*.eprice-shopping.com/*
 *://*.epricee.net/*
 *://*.eqohf.com/*
 *://*.equitradecf.com/*
@@ -4259,6 +4261,7 @@
 *://*.hoddir.com/*
 *://*.hoddirs.com/*
 *://*.hoddirsx.com/*
+*://*.hoea-fx.com/*
 *://*.hoeecoin.store/*
 *://*.hofgpy.com/*
 *://*.hohemksy.com/*
@@ -7308,6 +7311,7 @@
 *://*.qrcqrc.com/*
 *://*.qsfxdm.com/*
 *://*.qsjnet.com/*
+*://*.qsjt26.com/*
 *://*.qssfe.com/*
 *://*.qt7039.xyz/*
 *://*.qtmdf.com/*
@@ -9749,6 +9753,7 @@
 *://*.walletoiy.com/*
 *://*.walletoiz.com/*
 *://*.wallettrad.com/*
+*://*.wallitiq.io/*
 *://*.walmall.one/*
 *://*.walmardkv.com/*
 *://*.walmardkx.com/*
