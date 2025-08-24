@@ -4896,6 +4896,7 @@
 *://*.jyw.tw/*
 *://*.jyyfczb.com/*
 *://*.jzncdnd.cn/*
+*://*.jztk88.com/*
 *://*.jzxkpvr.org/*
 *://*.jzzxgj.com/*
 *://*.k-depot-ec.com/*
@@ -5020,6 +5021,7 @@
 *://*.kcczai.com/*
 *://*.kcexaeg.com/*
 *://*.kcmtradeincfx.com/*
+*://*.kcmtraincxx.cc/*
 *://*.kcoinyba.com/*
 *://*.kcvpa.com/*
 *://*.kdftud.com/*
@@ -7470,6 +7472,7 @@
 *://*.revolutrie.vip/*
 *://*.revolutrii.vip/*
 *://*.revolutrpp.vip/*
+*://*.revolve-seller.com/*
 *://*.revsores.com/*
 *://*.rfbafs.shop/*
 *://*.rfbxn.com/*
@@ -8594,6 +8597,7 @@
 *://*.tdsrexpto.com/*
 *://*.tdsrextop.com/*
 *://*.tdtwsk.com/*
+*://*.tdwashingtonof.com/*
 *://*.teamworkeppa.com/*
 *://*.teamworkeppap.com/*
 *://*.teamworkeppm.com/*
