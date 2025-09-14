@@ -513,6 +513,7 @@
 ||aokoiot.com^$all
 ||aovbt.com^$all
 ||ap.jubiza.com^$all
+||apex-vault.net^$all
 ||apex5210.awados.com^$all
 ||apex5210.awaidas.com^$all
 ||apex5210.awaidos.com^$all
@@ -617,6 +618,7 @@
 ||app.erhudt.com^$all
 ||app.etmoz.top^$all
 ||app.ewrslo.com^$all
+||app.exchangestrade.com^$all
 ||app.fandnocc.com^$all
 ||app.fdhket.com^$all
 ||app.fdktie.com^$all
@@ -1094,6 +1096,7 @@
 ||arborunitygridmarkets.com^$all
 ||arborunitygridmarketsr.com^$all
 ||arbxmo.com^$all
+||arclaim.com^$all
 ||arcticinc.net^$all
 ||aresknest.com^$all
 ||aresknkjs.com^$all
@@ -1838,6 +1841,7 @@
 ||brewap.com^$all
 ||brezto.top^$all
 ||brezto.xyz^$all
+||brleysindexx.com^$all
 ||brokustf.com^$all
 ||brqtu.com^$all
 ||brweykwt.top^$all
@@ -1917,6 +1921,7 @@
 ||bullionqoge.com^$all
 ||bullionqwin.com^$all
 ||bullionwegp.com^$all
+||bulltradescapital.com^$all
 ||bunmk2539.icu^$all
 ||buno.tw^$all
 ||buno.world^$all
@@ -2070,6 +2075,8 @@
 ||caymanfinancex.net^$all
 ||caymanin.cc^$all
 ||cbauqi.com^$all
+||cbebit.com^$all
+||cbebitdf.com^$all
 ||cbs-dex.info^$all
 ||cbs-dex.ink^$all
 ||cbs-dexx.top^$all
@@ -3276,6 +3283,7 @@
 ||eprice-buying.com^$all
 ||eprice-newone.com^$all
 ||eprice-one.com^$all
+||eprice-shop.com^$all
 ||eprice-shopping.com^$all
 ||epricee.net^$all
 ||eqohf.com^$all
@@ -3847,6 +3855,7 @@
 ||g.citydreams.site^$all
 ||g.t9live4.vip^$all
 ||g5.kerryexpress.top^$all
+||g5p1r.bellwflalumni.com^$all
 ||g7buy-1.buzz^$all
 ||g7buy-4.shop^$all
 ||g7buy5.buzz^$all
@@ -4307,6 +4316,7 @@
 ||h5.marketbtc.vip^$all
 ||h5.mexc666.com^$all
 ||h5.mexc998.com^$all
+||h5.my-tiktok.cc^$all
 ||h5.nasdaq-pro.com^$all
 ||h5.nftcaonline.top^$all
 ||h5.nftvr.top^$all
@@ -5627,6 +5637,7 @@
 ||ltspromax.com^$all
 ||ltsprox.com^$all
 ||ltysre.com^$all
+||lucamarie.com^$all
 ||luck.pandabuy3c.shop^$all
 ||luck.shop3c.app^$all
 ||luck539.com^$all
@@ -6474,6 +6485,7 @@
 ||nbvsde720.com^$all
 ||nbxxxxxx.com^$all
 ||nbxxxxxxx.com^$all
+||ncasvip.com^$all
 ||ncbbdh.com^$all
 ||ncbkyt.top^$all
 ||ncct.uranu.site^$all
@@ -7149,6 +7161,7 @@
 ||phx.synergyii.online^$all
 ||phx.synergyiii.online^$all
 ||phx.urlopaker.buzz^$all
+||phyxtrade.com^$all
 ||pibamx.com^$all
 ||pibnvd.com^$all
 ||pickbit-co.com^$all
@@ -9721,6 +9734,7 @@
 ||wbfzdefi.com^$all
 ||wbgnwcum.icu^$all
 ||wbkm578.com^$all
+||wbo.center^$all
 ||wcei-global.com^$all
 ||wceishop.com^$all
 ||wdcfjr.com^$all
@@ -10038,6 +10052,7 @@
 ||www.acryptot.com^$all
 ||www.amarfitgne.com^$all
 ||www.aomexzp.com^$all
+||www.apexvault.co^$all
 ||www.app8uma.top^$all
 ||www.aptosconnecten.com^$all
 ||www.ashvgb.com^$all
@@ -10148,6 +10163,7 @@
 ||www.fomotolcuq.com^$all
 ||www.fortube2.com^$all
 ||www.frveepee-seller.com^$all
+||www.fxgoldex.com^$all
 ||www.fxnovus.co^$all
 ||www.fxopenuve.top^$all
 ||www.fyndiqs.com^$all
@@ -10174,6 +10190,10 @@
 ||www.heliusair.com^$all
 ||www.heybets.io^$all
 ||www.hhdsozxpp.top^$all
+||www.hk-shopee.cc^$all
+||www.hk-shopee.icu^$all
+||www.hk-shopee.top^$all
+||www.hk-shopee.xyz^$all
 ||www.hon-binary.com^$all
 ||www.hopfister.com^$all
 ||www.hrtyrr.com^$all
@@ -10191,6 +10211,7 @@
 ||www.impermaxmme.com^$all
 ||www.inefex.pro^$all
 ||www.itw-aetos.top^$all
+||www.jdstoreshops.com^$all
 ||www.je90.com^$all
 ||www.jiushuntw.com^$all
 ||www.jjdjazx.com^$all
@@ -10306,6 +10327,7 @@
 ||www.mythtwgiant.com^$all
 ||www.nanyangcircle.com^$all
 ||www.nasasdsweb.com^$all
+||www.nasdaqchain.com^$all
 ||www.nbgwo.com^$all
 ||www.netbusiness.store^$all
 ||www.new-territory.cc^$all
@@ -10354,6 +10376,7 @@
 ||www.sgfdfg.com^$all
 ||www.sghongleonggroupptp.com^$all
 ||www.sgpmxk.com^$all
+||www.shichengbbs.com^$all
 ||www.shopbacksop.com^$all
 ||www.shopcoupangs.com^$all
 ||www.sianappeni.com^$all

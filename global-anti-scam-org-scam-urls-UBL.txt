@@ -545,7 +545,9 @@
 *://*.apecinx.com/*
 *://*.apecinxd.com/*
 *://*.apecinxdr.com/*
+*://*.apex-vault.net/*
 *://*.apexcapitalwealth.com/*
+*://*.apexvault.co/*
 *://*.aphshop.com/*
 *://*.apkpure.com/*
 *://*.apl69363.com/*
@@ -591,6 +593,7 @@
 *://*.arborunitygridmarkets.com/*
 *://*.arborunitygridmarketsr.com/*
 *://*.arbxmo.com/*
+*://*.arclaim.com/*
 *://*.arcticinc.net/*
 *://*.aresgamsit.com/*
 *://*.aresknest.com/*
@@ -880,6 +883,7 @@
 *://*.belkin669.com/*
 *://*.belkin6699.com/*
 *://*.bellagio886.vip/*
+*://*.bellwflalumni.com/*
 *://*.bembot.online/*
 *://*.bengaming.vip/*
 *://*.beonbit.com/*
@@ -1466,6 +1470,7 @@
 *://*.brezto.top/*
 *://*.brezto.xyz/*
 *://*.brightkash.com/*
+*://*.brleysindexx.com/*
 *://*.brnkton.store/*
 *://*.broadreachtop.org/*
 *://*.brokustf.com/*
@@ -1553,6 +1558,7 @@
 *://*.bullionqwin.com/*
 *://*.bullionwegp.com/*
 *://*.bullishtw.top/*
+*://*.bulltradescapital.com/*
 *://*.bunmk2539.icu/*
 *://*.buno.tw/*
 *://*.buno.world/*
@@ -1721,6 +1727,8 @@
 *://*.caymanfinancex.net/*
 *://*.caymanin.cc/*
 *://*.cbauqi.com/*
+*://*.cbebit.com/*
+*://*.cbebitdf.com/*
 *://*.cbiivip.top/*
 *://*.cbs-dex.info/*
 *://*.cbs-dex.ink/*
@@ -2954,6 +2962,7 @@
 *://*.eprice-buying.com/*
 *://*.eprice-newone.com/*
 *://*.eprice-one.com/*
+*://*.eprice-shop.com/*
 *://*.eprice-shopping.com/*
 *://*.epricee.net/*
 *://*.eqohf.com/*
@@ -3105,6 +3114,7 @@
 *://*.exchange11.online/*
 *://*.exchanges.life/*
 *://*.exchanges1.cc/*
+*://*.exchangestrade.com/*
 *://*.exclbr.cc/*
 *://*.exclcasino.com/*
 *://*.exesstrading.app/*
@@ -3582,6 +3592,7 @@
 *://*.fxecapitans.com/*
 *://*.fxecapitar.com/*
 *://*.fxf-trading.com/*
+*://*.fxgoldex.com/*
 *://*.fxhh.xyz/*
 *://*.fxhud.com/*
 *://*.fxhup.com/*
@@ -4218,6 +4229,10 @@
 *://*.hjklut.com/*
 *://*.hjlgrd.com/*
 *://*.hk-aimei.com/*
+*://*.hk-shopee.cc/*
+*://*.hk-shopee.icu/*
+*://*.hk-shopee.top/*
+*://*.hk-shopee.xyz/*
 *://*.hk686879ex.com/*
 *://*.hkahp.com/*
 *://*.hkdfinanc.com/*
@@ -4728,6 +4743,7 @@
 *://*.jdoed.com/*
 *://*.jdshop.club/*
 *://*.jdstoreshop.com/*
+*://*.jdstoreshops.com/*
 *://*.jdtaiwanamk.com/*
 *://*.jdtaiwanm.com/*
 *://*.jduca.top/*
@@ -5666,6 +5682,7 @@
 *://*.ltspromax.com/*
 *://*.ltsprox.com/*
 *://*.ltysre.com/*
+*://*.lucamarie.com/*
 *://*.luck539.com/*
 *://*.lucky226.top/*
 *://*.lucky268.top/*
@@ -6285,6 +6302,7 @@
 *://*.mxiks7bdh2.top/*
 *://*.mxnvcl.com/*
 *://*.mxrafd.top/*
+*://*.my-tiktok.cc/*
 *://*.myberiberi.top/*
 *://*.myddns.me/*
 *://*.myetmalleven.com/*
@@ -6334,6 +6352,7 @@
 *://*.nasdaq-pro.com/*
 *://*.nasdaq-pro.vip/*
 *://*.nasdaq-suk.com/*
+*://*.nasdaqchain.com/*
 *://*.nasdaqkm.com/*
 *://*.natcoinb.com/*
 *://*.natetf.com/*
@@ -6354,6 +6373,7 @@
 *://*.nbvsde720.com/*
 *://*.nbxxxxxx.com/*
 *://*.nbxxxxxxx.com/*
+*://*.ncasvip.com/*
 *://*.ncbbdh.com/*
 *://*.ncbkyt.top/*
 *://*.ncfgef.com/*
@@ -7010,6 +7030,7 @@
 *://*.phoneixes.store/*
 *://*.phoneniuos.store/*
 *://*.phptf.com/*
+*://*.phyxtrade.com/*
 *://*.pibamx.com/*
 *://*.pibnvd.com/*
 *://*.pickbit-co.com/*
@@ -7869,6 +7890,7 @@
 *://*.shflks.com/*
 *://*.shgasf1.top/*
 *://*.shhj766.xyz/*
+*://*.shichengbbs.com/*
 *://*.ship-tw.top/*
 *://*.ship-tw1.cc/*
 *://*.ship7-11-tw.cc/*
@@ -9816,6 +9838,7 @@
 *://*.wbfzdefi.com/*
 *://*.wbgnwcum.icu/*
 *://*.wbkm578.com/*
+*://*.wbo.center/*
 *://*.wbsea.su/*
 *://*.wbseax.su/*
 *://*.wcei-education.com/*
