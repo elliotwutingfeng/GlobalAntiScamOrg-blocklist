@@ -505,6 +505,7 @@
 *://*.ammcoins.xyz/*
 *://*.ammeconia.top/*
 *://*.amoxl.com/*
+*://*.amvan0m.top/*
 *://*.amyh3316.com/*
 *://*.amz939.com/*
 *://*.analogxd.com/*
