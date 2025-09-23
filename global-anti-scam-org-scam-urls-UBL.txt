@@ -3481,6 +3481,7 @@
 *://*.fqszdm.top/*
 *://*.frbokgah.com/*
 *://*.frdset.com/*
+*://*.freeaiastar.top/*
 *://*.freebnb.me/*
 *://*.freeportaindonesia.com/*
 *://*.freeportoindonesia.com/*
@@ -7891,6 +7892,7 @@
 *://*.shflks.com/*
 *://*.shgasf1.top/*
 *://*.shhj766.xyz/*
+*://*.shibadino.xyz/*
 *://*.shichengbbs.com/*
 *://*.ship-tw.top/*
 *://*.ship-tw1.cc/*
