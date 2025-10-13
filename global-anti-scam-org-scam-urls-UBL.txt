@@ -841,6 +841,7 @@
 *://*.bcdcoinm.com/*
 *://*.bcdkcoin.com/*
 *://*.bcdscoin.com/*
+*://*.bcexus.com/*
 *://*.bcfoi.xin/*
 *://*.bcfoi.xyz/*
 *://*.bcmkgu.com/*
@@ -1471,6 +1472,7 @@
 *://*.brezto.top/*
 *://*.brezto.xyz/*
 *://*.brightkash.com/*
+*://*.brilliantfundinvestment.com/*
 *://*.brleysindexx.com/*
 *://*.brnkton.store/*
 *://*.broadreachtop.org/*
@@ -2265,6 +2267,7 @@
 *://*.crypto-txs.life/*
 *://*.crypto-txs.top/*
 *://*.crypto-web3.net/*
+*://*.crypto-web3.online/*
 *://*.cryptocoredex.com/*
 *://*.cryptocoredex.net/*
 *://*.cryptocoredex.pro/*
@@ -2475,6 +2478,7 @@
 *://*.defiscloud.com/*
 *://*.defissco.com/*
 *://*.defiswap.pro/*
+*://*.defitrontoken.com/*
 *://*.defitwgiant.com/*
 *://*.defiwsuper.com/*
 *://*.defyapp.site/*
@@ -2635,6 +2639,7 @@
 *://*.dnasnm.com/*
 *://*.dnrcfn.com/*
 *://*.dntdnt.com/*
+*://*.dntmoube.com/*
 *://*.dntuea.com/*
 *://*.dnubiaj.com/*
 *://*.dnyx.tw/*
@@ -4323,6 +4328,7 @@
 *://*.hoping-new.com/*
 *://*.hosjob.xyz/*
 *://*.hotelenhance.com/*
+*://*.hotelp9.com/*
 *://*.hotelsverygood.com/*
 *://*.hotteamall.com/*
 *://*.hotvitluocg.cyou/*
@@ -4410,6 +4416,7 @@
 *://*.hunter-malls.com/*
 *://*.hunter-mallsa.com/*
 *://*.huntermallsb.com/*
+*://*.huntershoot.com/*
 *://*.huoset.com/*
 *://*.huresv.com/*
 *://*.huridr.com/*
@@ -4695,6 +4702,7 @@
 *://*.iu-cuweb.com/*
 *://*.iucoinbase.com/*
 *://*.iudosd.com/*
+*://*.iuin6.shop/*
 *://*.iujtns.com/*
 *://*.iuoggx.top/*
 *://*.iuwjfvxn.com/*
@@ -5554,6 +5562,7 @@
 *://*.lnhaus.com/*
 *://*.lnstadsapp.com/*
 *://*.loadcona.buzz/*
+*://*.locanto.sg/*
 *://*.loerwa.com/*
 *://*.loeurd.com/*
 *://*.logbv.top/*
@@ -6920,6 +6929,7 @@
 *://*.p4oqa.top/*
 *://*.p8q55h.cc/*
 *://*.pa11888.xyz/*
+*://*.pages.dev/*
 *://*.paintingvote03.icu/*
 *://*.pamm.com.tw/*
 *://*.pandabuy3c.shop/*
@@ -7845,6 +7855,7 @@
 *://*.sgbgrowsix.com/*
 *://*.sgbgrowtwo.com/*
 *://*.sgdhfu.com/*
+*://*.sge-comex.net/*
 *://*.sgfdfg.com/*
 *://*.sggw.lat/*
 *://*.sggw.rest/*
@@ -8057,6 +8068,7 @@
 *://*.skipmid.com/*
 *://*.skiws.xyz/*
 *://*.skkskd.com/*
+*://*.skkyye.com/*
 *://*.sklao.xyz/*
 *://*.skliezx.com/*
 *://*.sklqms-dp3.top/*
@@ -8428,6 +8440,7 @@
 *://*.swissborg88.cc/*
 *://*.swrzf.top/*
 *://*.swth.live/*
+*://*.swytchx.top/*
 *://*.sxdech.cn/*
 *://*.sxexacoltm.com/*
 *://*.sxexchange.org/*
@@ -9804,6 +9817,7 @@
 *://*.walmarker.com/*
 *://*.walmarktz.com/*
 *://*.walmarku.com/*
+*://*.walmarmmk.com/*
 *://*.walmaromrs.com/*
 *://*.walmart-online.xyz/*
 *://*.walmartuso.com/*
@@ -9996,6 +10010,7 @@
 *://*.wisecoin-ag.com/*
 *://*.wisecoinaave.com/*
 *://*.wisewinr.com/*
+*://*.wish-global.world/*
 *://*.wish2002.com/*
 *://*.wishshopter.top/*
 *://*.wiwi165.com/*

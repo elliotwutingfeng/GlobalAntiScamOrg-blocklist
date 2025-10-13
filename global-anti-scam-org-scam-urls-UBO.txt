@@ -1310,6 +1310,7 @@
 ||bcd.gykqys.com^$all
 ||bcdcoin.net^$all
 ||bcdscoin.com^$all
+||bcexus.com^$all
 ||bcfoi.xin^$all
 ||bcfoi.xyz^$all
 ||bcmkgu.com^$all
@@ -1842,6 +1843,7 @@
 ||brewap.com^$all
 ||brezto.top^$all
 ||brezto.xyz^$all
+||brilliantfundinvestment.com^$all
 ||brleysindexx.com^$all
 ||brokustf.com^$all
 ||brqtu.com^$all
@@ -2743,6 +2745,7 @@
 ||decentralizatijjzsen.com^$all
 ||decentralizatvyquz.com^$all
 ||decentralizatzhjqb.com^$all
+||decentralizednet.pages.dev^$all
 ||decode-market.com^$all
 ||decorateikeamall.com^$all
 ||decorations.cc^$all
@@ -2760,6 +2763,7 @@
 ||defi-walxyz.com^$all
 ||defi-wanet.world^$all
 ||defi-wanet.xyz^$all
+||defi.dntmoube.com^$all
 ||defi.ethpool.life^$all
 ||defi.kentodfi.com^$all
 ||defi.kentodnfi.com^$all
@@ -2783,6 +2787,7 @@
 ||defimx.info^$all
 ||defiotcpro.com^$all
 ||defiswap.pro^$all
+||defitrontoken.com^$all
 ||defitwgiant.com^$all
 ||defiwsuper.com^$all
 ||defyapp.site^$all
@@ -4300,6 +4305,7 @@
 ||h5.himcoin.com^$all
 ||h5.himcoin.top^$all
 ||h5.hnlejiayi.com^$all
+||h5.huntershoot.com^$all
 ||h5.huuushop.com^$all
 ||h5.ibooshop.com^$all
 ||h5.ichcoin.top^$all
@@ -4530,6 +4536,7 @@
 ||hopeful-child.com^$all
 ||hosjob.xyz^$all
 ||hotelenhance.com^$all
+||hotelp9.com^$all
 ||hotelsverygood.com^$all
 ||hotteamall.com^$all
 ||hotvitluocg.cyou^$all
@@ -7857,6 +7864,7 @@
 ||sgbgrowsix.com^$all
 ||sgbgrowtwo.com^$all
 ||sgdhfu.com^$all
+||sge-comex.net^$all
 ||sgh.7yyp.com^$all
 ||sgpmxes.com^$all
 ||sgpwholesale.top^$all
@@ -8045,6 +8053,7 @@
 ||skiws.xyz^$all
 ||skjkjagasd.zhaosusdghsdh.com^$all
 ||skkskd.com^$all
+||skkyye.com^$all
 ||sklao.xyz^$all
 ||sklqms-dp3.top^$all
 ||skm.coinzoom.cc^$all
@@ -8370,6 +8379,7 @@
 ||swissbgex.cc^$all
 ||swissborg88.cc^$all
 ||swth.live^$all
+||swytchx.top^$all
 ||sxdech.cn^$all
 ||sxexacoltm.com^$all
 ||sxexchange.org^$all
@@ -9339,6 +9349,7 @@
 ||urn-trade.world^$all
 ||us-eth.pro^$all
 ||us.crypto-web3.net^$all
+||us.crypto-web3.online^$all
 ||usa-ned.top^$all
 ||usa.surfbit.top^$all
 ||usazjed.com^$all
@@ -9935,6 +9946,7 @@
 ||wisdomxkvc.com^$all
 ||wisecoinaave.com^$all
 ||wisewinr.com^$all
+||wish-global.world^$all
 ||wishshopter.top^$all
 ||wiwi165.com^$all
 ||wix-shopee.shop^$all
@@ -10214,6 +10226,7 @@
 ||www.impermaxmme.com^$all
 ||www.inefex.pro^$all
 ||www.itw-aetos.top^$all
+||www.iuin6.shop^$all
 ||www.jdstoreshops.com^$all
 ||www.je90.com^$all
 ||www.jiushuntw.com^$all
@@ -10290,6 +10303,7 @@
 ||www.lexiailtg.com^$all
 ||www.lgexchangi.com^$all
 ||www.lilybuy.xyz^$all
+||www.locanto.sg^$all
 ||www.louisacoffeemon.com^$all
 ||www.lpygwd.top^$all
 ||www.ltcrrh.com^$all
@@ -10479,6 +10493,7 @@
 ||www.vixcapital-limited.com^$all
 ||www.vjwux.com^$all
 ||www.vresut.com^$all
+||www.walmarmmk.com^$all
 ||www.walmaruea.vip^$all
 ||www.wanshatb.vip^$all
 ||www.wcei-education.com^$all
