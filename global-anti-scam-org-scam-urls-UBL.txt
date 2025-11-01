@@ -1770,6 +1770,7 @@
 *://*.ceeixdp.vip/*
 *://*.ceeixfp.vip/*
 *://*.ceexris.vip/*
+*://*.ceffckuk.vip/*
 *://*.celnydqe.icu/*
 *://*.cenciaplus.com/*
 *://*.cengxmicc.com/*
@@ -3907,6 +3908,7 @@
 *://*.godsosgbn.top/*
 *://*.goiwo.com/*
 *://*.goklpl.com/*
+*://*.gold.com.af/*
 *://*.goldault.com/*
 *://*.goldault.top/*
 *://*.goldaults.ink/*
@@ -5560,6 +5562,7 @@
 *://*.lmext.top/*
 *://*.lmnxexchange.com/*
 *://*.lnhaus.com/*
+*://*.lnrmall.com/*
 *://*.lnstadsapp.com/*
 *://*.loadcona.buzz/*
 *://*.locanto.sg/*
@@ -6811,6 +6814,7 @@
 *://*.oqpdy.cn/*
 *://*.oqpmn.com/*
 *://*.orakurudefe.com/*
+*://*.orangeq.cc/*
 *://*.orangexib.com/*
 *://*.orangexic.com/*
 *://*.orbitalcryptohub.com/*
@@ -9022,6 +9026,7 @@
 *://*.traderepublic2.com/*
 *://*.tradestation.tw/*
 *://*.tradestation03.com/*
+*://*.tradetaurexltd.com/*
 *://*.tradevest.co.uk/*
 *://*.trading-coin-edge.cyou/*
 *://*.trading-coin-edge.icu/*
@@ -9899,6 +9904,7 @@
 *://*.web30-tw.com/*
 *://*.web30defi.site/*
 *://*.web30sol.com/*
+*://*.web3bit.online/*
 *://*.web3damsy.vip/*
 *://*.web3dapper.com/*
 *://*.web3energy.work/*

@@ -4330,6 +4330,7 @@
 ||h5.okx-bit.shop^$all
 ||h5.okxbit.store^$all
 ||h5.okxbit.top^$all
+||h5.orangeq.cc^$all
 ||h5.orstedexc-coin.com^$all
 ||h5.predicts-exc.com^$all
 ||h5.quickloanez.com^$all
@@ -5528,6 +5529,7 @@
 ||lmnxexchange.com^$all
 ||ln.ttfjaui.cyou^$all
 ||lnhaus.com^$all
+||lnrmall.com^$all
 ||lnstadsapp.com^$all
 ||load.zo-nm.com^$all
 ||load.zonmco.com^$all
@@ -10116,6 +10118,7 @@
 ||www.cakelhu.com^$all
 ||www.campione.me^$all
 ||www.cceexp.com^$all
+||www.ceffckuk.vip^$all
 ||www.cht-tw.com^$all
 ||www.cix3752i.com^$all
 ||www.clsiimk.com^$all
@@ -10194,6 +10197,7 @@
 ||www.globalanti.com^$all
 ||www.glownodeenxe.com^$all
 ||www.gmovc.com^$all
+||www.gold.com.af^$all
 ||www.gridxdk.com^$all
 ||www.gusumall2015.club^$all
 ||www.gvdmarketsltd.com^$all
@@ -10469,6 +10473,7 @@
 ||www.toobit.com^$all
 ||www.topbiwin.com^$all
 ||www.torus-pro.com^$all
+||www.tradetaurexltd.com^$all
 ||www.tradevest.co.uk^$all
 ||www.trellixexchangepecmt.com^$all
 ||www.trust539.com^$all
@@ -10502,6 +10507,7 @@
 ||www.wceigroup.com^$all
 ||www.wealthchangepro.com^$all
 ||www.web3-cinex-b.com^$all
+||www.web3bit.online^$all
 ||www.web3energy.work^$all
 ||www.webseatl.cc^$all
 ||www.wessio.com^$all
