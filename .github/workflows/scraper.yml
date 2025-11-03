@@ -15,12 +15,8 @@ jobs:
             - name: Install uv
               uses: astral-sh/setup-uv@v7
 
-            - uses: actions/setup-python@v6
-              with:
-                  python-version-file: "pyproject.toml"
-
             - name: execute py script
-              run: uv run python scraper.py
+              run: uv run scraper.py
 
             - name: create adblocking lists
               run: |
