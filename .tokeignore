@@ -3,9 +3,10 @@ LICENSE
 README.md
 CODE_OF_CONDUCT.md
 renovate.json
-requirements.txt
 scraper.py
 global-anti-scam-org-scam-urls-ABP.txt
 global-anti-scam-org-scam-urls-UBO.txt
 global-anti-scam-org-scam-urls-UBL.txt
 global-anti-scam-org-scam-urls-pihole.txt
+pyproject.toml
+uv.lock
