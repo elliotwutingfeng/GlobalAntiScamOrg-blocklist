@@ -8064,6 +8064,7 @@
 *://*.sjmhy.hk/*
 *://*.sjmweb66s.com/*
 *://*.sjpgroupcn.top/*
+*://*.sk166.site/*
 *://*.skadhj.com/*
 *://*.skepchc.com/*
 *://*.skepcka.com/*
@@ -8445,6 +8446,7 @@
 *://*.swrzf.top/*
 *://*.swth.live/*
 *://*.swytchx.top/*
+*://*.sxczcs.com/*
 *://*.sxdech.cn/*
 *://*.sxexacoltm.com/*
 *://*.sxexchange.org/*
