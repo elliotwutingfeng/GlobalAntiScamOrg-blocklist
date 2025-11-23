@@ -2080,6 +2080,7 @@
 ||cbauqi.com^$all
 ||cbebit.com^$all
 ||cbebitdf.com^$all
+||cbebitex.com^$all
 ||cbs-dex.info^$all
 ||cbs-dex.ink^$all
 ||cbs-dexx.top^$all
@@ -10366,6 +10367,7 @@
 ||www.om-fmarketsx.com^$all
 ||www.omegasupsupp.it.com^$all
 ||www.omnios.cloud^$all
+||www.onerealtyglobal.com^$all
 ||www.onlineikeamall.com^$all
 ||www.orioncoin.co^$all
 ||www.ouhuajustice.com^$all

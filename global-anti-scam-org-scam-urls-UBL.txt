@@ -1732,6 +1732,7 @@
 *://*.cbauqi.com/*
 *://*.cbebit.com/*
 *://*.cbebitdf.com/*
+*://*.cbebitex.com/*
 *://*.cbiivip.top/*
 *://*.cbs-dex.info/*
 *://*.cbs-dex.ink/*
@@ -6774,6 +6775,7 @@
 *://*.onekey.buzz/*
 *://*.onekey1.buzz/*
 *://*.onekey2.buzz/*
+*://*.onerealtyglobal.com/*
 *://*.onetradek.com/*
 *://*.onetradez.com/*
 *://*.ongdf.com/*
