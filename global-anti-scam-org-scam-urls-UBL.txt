@@ -567,6 +567,7 @@
 *://*.applesbusinessib.com/*
 *://*.appoctaprime.com/*
 *://*.appstoredown.top/*
+*://*.appstorespy.com/*
 *://*.apptaiwan.cloud/*
 *://*.apptiktokshop.top/*
 *://*.appusd.top/*
@@ -2647,6 +2648,7 @@
 *://*.dnyx.tw/*
 *://*.doejnj.com/*
 *://*.doeqfe.top/*
+*://*.doexz.org/*
 *://*.dofei.shop/*
 *://*.dofei.top/*
 *://*.dofile.icu/*
@@ -2774,6 +2776,7 @@
 *://*.e4ix.com/*
 *://*.e5gecnnafj.cc/*
 *://*.e6500.com/*
+*://*.e9t4sh.xyz/*
 *://*.eaamjn.com/*
 *://*.eabyeol.com/*
 *://*.eabyol.com/*
@@ -3742,6 +3745,7 @@
 *://*.gdsgf.com/*
 *://*.gdweq.com/*
 *://*.gdxx.shop/*
+*://*.geckoterminal.com/*
 *://*.gee5g.xyz/*
 *://*.geenergy.vip/*
 *://*.gemini-exchange.com/*
@@ -4475,6 +4479,7 @@
 *://*.ibasib.com/*
 *://*.ibkrex02.com/*
 *://*.ibmaitop.com/*
+*://*.ibmbkb.com/*
 *://*.iboc-ex.com/*
 *://*.ibooshop.com/*
 *://*.ic-techelemui.com/*
@@ -5438,6 +5443,7 @@
 *://*.legendapexu.com/*
 *://*.legendfyut.com/*
 *://*.legendwdjl.com/*
+*://*.legesale.com/*
 *://*.lehoyu.com/*
 *://*.leiscv.com/*
 *://*.leiting8866.com/*
@@ -7353,6 +7359,7 @@
 *://*.qntvsl.top/*
 *://*.qoo10传媒簽約官方.top/*
 *://*.qpaksgih.xyz/*
+*://*.qphhg.top/*
 *://*.qq99hi.xyz/*
 *://*.qrcnft.com/*
 *://*.qrcqrc.com/*

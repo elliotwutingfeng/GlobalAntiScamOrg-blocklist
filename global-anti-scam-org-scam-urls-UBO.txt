@@ -1072,6 +1072,7 @@
 ||appoctaprime.com^$all
 ||apps.apple.com^$all
 ||appstoredown.top^$all
+||appstorespy.com^$all
 ||apptaiwan.cloud^$all
 ||appusd.top^$all
 ||aprd.work^$all
@@ -2944,6 +2945,7 @@
 ||dnyx.tw^$all
 ||do.dofile.icu^$all
 ||doeqfe.top^$all
+||doexz.org^$all
 ||dofei.shop^$all
 ||dofei.top^$all
 ||dogvm.top^$all
@@ -3113,6 +3115,7 @@
 ||e.pha.it.com^$all
 ||e.sinetw.shop^$all
 ||e.tinebit.com^$all
+||e9t4sh.xyz^$all
 ||eabyeol.com^$all
 ||eabyol.com^$all
 ||eade.club^$all
@@ -5437,6 +5440,7 @@
 ||legendanwy.com^$all
 ||legendfyut.com^$all
 ||legendwdjl.com^$all
+||legesale.com^$all
 ||leiting8866.com^$all
 ||lejj817.com^$all
 ||lekumall.com^$all
@@ -7432,6 +7436,7 @@
 ||qninod.com^$all
 ||qoo10传媒簽約官方.top^$all
 ||qpaksgih.xyz^$all
+||qphhg.top^$all
 ||qrcnft.com^$all
 ||qrcqrc.com^$all
 ||qrngb.umatoafi.com^$all
@@ -10190,6 +10195,7 @@
 ||www.fyndiqs.com^$all
 ||www.ganeshasha.it.com^$all
 ||www.gateidjemjdkmcmla.com^$all
+||www.geckoterminal.com^$all
 ||www.geminileds.com^$all
 ||www.ghpqw.com^$all
 ||www.ghyso.com^$all
@@ -10225,6 +10231,7 @@
 ||www.hw138.cn^$all
 ||www.hwhwe.com^$all
 ||www.hyxxal.xyz^$all
+||www.ibmbkb.com^$all
 ||www.ifcbit.com^$all
 ||www.ifceth.com^$all
 ||www.ifcnft.com^$all
