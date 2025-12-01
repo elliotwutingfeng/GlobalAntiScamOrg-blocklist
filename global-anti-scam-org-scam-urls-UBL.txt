@@ -1378,6 +1378,7 @@
 *://*.bnfkdg.com/*
 *://*.bnhcvcv.com/*
 *://*.bnjfiioh.xyz/*
+*://*.bnkjc.com/*
 *://*.bnkslo.com/*
 *://*.bnkvclhg.com/*
 *://*.bnldes.com/*
@@ -9258,6 +9259,7 @@
 *://*.twicpro.top/*
 *://*.twicpro.vip/*
 *://*.twincnpro.tw/*
+*://*.twistend.com/*
 *://*.twjobjeeror.xyz/*
 *://*.twjobmachine.xyz/*
 *://*.twkdru.com/*

@@ -9800,6 +9800,7 @@
 ||web.bkmhcc.com^$all
 ||web.bkmher.com^$all
 ||web.bmeccp.com^$all
+||web.bnkjc.com^$all
 ||web.boehringer-co.com^$all
 ||web.coinlisr-vp.com^$all
 ||web.coinssdcweb.com^$all
@@ -10872,6 +10873,7 @@
 ||yospoe.com^$all
 ||yostlmcrm.com^$all
 ||yostlmtw.com^$all
+||youdroop.twistend.com^$all
 ||youfanjingxuan.com^$all
 ||yougold.top^$all
 ||youmingefv.com^$all
