@@ -1302,6 +1302,7 @@
 *://*.bitypp.com/*
 *://*.bitypq.com/*
 *://*.bityta.com/*
+*://*.bitzoness.com/*
 *://*.biuyto.com/*
 *://*.biwinae.com/*
 *://*.biwincae.com/*

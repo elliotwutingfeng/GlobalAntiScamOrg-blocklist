@@ -10117,6 +10117,7 @@
 ||www.bitstaker.app^$all
 ||www.bittang.cc^$all
 ||www.bitypo.com^$all
+||www.bitzoness.com^$all
 ||www.bkmhpc.com^$all
 ||www.bluetarp.cc^$all
 ||www.bofoi.xin^$all
