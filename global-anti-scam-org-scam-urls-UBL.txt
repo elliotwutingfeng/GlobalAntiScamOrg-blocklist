@@ -5190,6 +5190,7 @@
 *://*.khjurd.com/*
 *://*.khmdxx.com/*
 *://*.khrude.com/*
+*://*.khrurtr.com/*
 *://*.khskei.com/*
 *://*.khtro.com/*
 *://*.kiactw.com/*
@@ -10097,6 +10098,7 @@
 *://*.work-tb.com/*
 *://*.workaholictw.com/*
 *://*.workaholictw.xyz/*
+*://*.workers.dev/*
 *://*.workjolo.xyz/*
 *://*.worklife.asia/*
 *://*.worklife.life/*
