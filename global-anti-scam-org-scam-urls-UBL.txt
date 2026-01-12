@@ -1223,6 +1223,7 @@
 *://*.bitom.pro/*
 *://*.bitomex.pro/*
 *://*.bitop-king.net/*
+*://*.bitop.com/*
 *://*.bitophdrt.top/*
 *://*.bitopone.com/*
 *://*.bitoproex.com/*
@@ -8113,6 +8114,7 @@
 *://*.smartalgox.ink/*
 *://*.smartalgox.top/*
 *://*.smartblockai.com/*
+*://*.smartenergypro.cc/*
 *://*.smartpool.top/*
 *://*.smartsyntax.org/*
 *://*.smartsyntax.plus/*
@@ -8216,6 +8218,7 @@
 *://*.spoaoshechipin.com.tw/*
 *://*.sports-xh.com/*
 *://*.sports-xh.one/*
+*://*.spotline888.com/*
 *://*.sptradec.com/*
 *://*.sptradek.com/*
 *://*.sptradeo.com/*
