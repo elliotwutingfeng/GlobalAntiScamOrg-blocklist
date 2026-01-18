@@ -9404,6 +9404,7 @@
 ||user.booking-tw.vip^$all
 ||user.dkglobalfx.com^$all
 ||user.htfx.co^$all
+||user.pxhyskz.com^$all
 ||usgforex.com^$all
 ||uslasry.com^$all
 ||ussdz.com^$all
