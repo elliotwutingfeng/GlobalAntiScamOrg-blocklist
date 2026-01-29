@@ -7,7 +7,7 @@ on:
 
 jobs:
     generate_list:
-        runs-on: ubuntu-slim
+        runs-on: ubuntu-latest
         steps:
             - name: checkout repo content
               uses: actions/checkout@v6
