@@ -1133,6 +1133,7 @@
 *://*.bitcoinetn.one/*
 *://*.bitcoinetn.online/*
 *://*.bitcoinetn.vip/*
+*://*.bitcoingroup-vip.com/*
 *://*.bitcoinonlineworld.com/*
 *://*.bitcoinsvplatform.com/*
 *://*.bitcointrust.top/*
@@ -3910,6 +3911,7 @@
 *://*.gmiabc.cyou/*
 *://*.gmjnr.com/*
 *://*.gmoda.cyou/*
+*://*.gmonewcoin.net/*
 *://*.gmotd.icu/*
 *://*.gmovc.com/*
 *://*.gmscgomarketsmu.com/*
@@ -4589,6 +4591,7 @@
 *://*.ikearetail.com/*
 *://*.ikieamx.com/*
 *://*.ikslers.com/*
+*://*.iktok-worldwide.com/*
 *://*.ilangmou.cyou/*
 *://*.ilcuoconero.com/*
 *://*.iliustriousvcz.xyz/*
@@ -5237,6 +5240,7 @@
 *://*.kldoss.com/*
 *://*.klghvc.com/*
 *://*.klhfgr.com/*
+*://*.klk2yw.top/*
 *://*.klkcryptonft.com/*
 *://*.kloeiz.com/*
 *://*.klooiq.online/*
@@ -5411,6 +5415,7 @@
 *://*.lasoe.fun/*
 *://*.lastore.xyz/*
 *://*.latokens.cc/*
+*://*.lavishlocs.com/*
 *://*.lawfgz.top/*
 *://*.layds.sbs/*
 *://*.laywf.com/*
@@ -7560,6 +7565,7 @@
 *://*.risedatatech.com/*
 *://*.risetechventure.com/*
 *://*.risevwop.com/*
+*://*.rising-trade.com/*
 *://*.risuny.top/*
 *://*.rithmscapital.cam/*
 *://*.rithmscapital.com/*
@@ -9501,6 +9507,7 @@
 *://*.urbanshopstqr.com/*
 *://*.urbanshopstur.com/*
 *://*.urbgbs.com/*
+*://*.urbnedweb.com/*
 *://*.urlopaker.buzz/*
 *://*.urn-trade.cyou/*
 *://*.urn-trade.world/*
@@ -9884,6 +9891,7 @@
 *://*.watelmarkets.cc/*
 *://*.watermelonwatte.com/*
 *://*.waton.shop/*
+*://*.watt-ai.com/*
 *://*.wauyuf.com/*
 *://*.wbfzdefi.com/*
 *://*.wbgnwcum.icu/*
