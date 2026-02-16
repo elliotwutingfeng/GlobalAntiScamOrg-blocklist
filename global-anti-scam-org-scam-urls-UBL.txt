@@ -3659,6 +3659,7 @@
 *://*.g7buy-1.buzz/*
 *://*.g7buy-4.shop/*
 *://*.g7buy5.buzz/*
+*://*.ga-fh.com/*
 *://*.gaedb.com/*
 *://*.gaincresabt.com/*
 *://*.galaxyfinancenews.com/*
@@ -3891,6 +3892,7 @@
 *://*.globaltiktoksp.com/*
 *://*.globaltrond.com/*
 *://*.globalzooms.com/*
+*://*.globenewswire.com/*
 *://*.globletea.com/*
 *://*.gloryairet.com/*
 *://*.gloryaiyt.com/*
@@ -8380,6 +8382,7 @@
 *://*.successfxpq.com/*
 *://*.successfxpw.com/*
 *://*.sugvg.com/*
+*://*.suiselect.com/*
 *://*.suiyga.com/*
 *://*.suiygg.com/*
 *://*.suiygj.com/*

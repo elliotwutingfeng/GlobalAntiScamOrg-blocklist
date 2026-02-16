@@ -8314,6 +8314,7 @@
 ||successfxpq.com^$all
 ||successfxpw.com^$all
 ||sugvg.com^$all
+||suiselect.com^$all
 ||suiyga.com^$all
 ||suiygg.com^$all
 ||suiygj.com^$all
@@ -10213,6 +10214,7 @@
 ||www.fxnovus.co^$all
 ||www.fxopenuve.top^$all
 ||www.fyndiqs.com^$all
+||www.ga-fh.com^$all
 ||www.ganeshasha.it.com^$all
 ||www.gateidjemjdkmcmla.com^$all
 ||www.geckoterminal.com^$all
@@ -10224,6 +10226,7 @@
 ||www.glfodp.com^$all
 ||www.global-gaagency.com^$all
 ||www.globalanti.com^$all
+||www.globenewswire.com^$all
 ||www.glownodeenxe.com^$all
 ||www.gmovc.com^$all
 ||www.gold.com.af^$all
