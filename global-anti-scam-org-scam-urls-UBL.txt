@@ -7213,6 +7213,7 @@
 *://*.presting.vip/*
 *://*.primaxdextrade.com/*
 *://*.primeart.org/*
+*://*.primeblock-trading.com/*
 *://*.primeshopping.top/*
 *://*.primesignalfinance.com/*
 *://*.princiii.com/*
